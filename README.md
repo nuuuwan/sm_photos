@@ -4,6 +4,22 @@
 
 ## 30 latest tweets
 
+2022-07-06 19:58:47 by [Mr___Pathum](https://twitter.com/Mr___Pathum/status/1544689824082186240)
+
+0 videos, 1 photos
+
+```
+
+බස්වල යන විදිහ අපි ස්තුති ස රටටම හැමින්නුවට 🖕😖
+
+#GoHomeGota # https://t.co/kt99JQIMg3
+
+```
+
+![image](https://pbs.twimg.com/media/FW_XNEdUcAIA0-j.jpg)
+
+---
+
 2022-07-06 19:57:14 by [ThyagiR](https://twitter.com/ThyagiR/status/1544689432254902273)
 
 0 videos, 2 photos
@@ -456,20 +472,5 @@ Srilanka protest against the government and president. Sri Lanka is 'bankrupt,' 
 ```
 
 ![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg)
-
----
-
-2022-07-06 16:33:59 by [ot7_ps](https://twitter.com/ot7_ps/status/1544638282922741762)
-
-0 videos, 1 photos
-
-```
-
-Come on. One more step to your dea*th. Wait few days f*cking Gota.
-#GoHomeGota https://t.co/uOL7AnFPhI
-
-```
-
-![image](https://pbs.twimg.com/media/FW-oUx7acAAK0_G.jpg)
 
 ---
