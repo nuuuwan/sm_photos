@@ -1,6 +1,6 @@
 import os
 
-from utils import File, Git, JSONFile, logx, www
+from utils import File, Git, JSONFile, logx, timex, www
 
 URL_GIT_REPO = 'https://github.com/nuuuwan/sm_photos'
 DIR_DATA = '/tmp/sm_photos.data'
@@ -11,7 +11,7 @@ log = logx.get_logger('sm_photos.filesys')
 
 def init():
     git = Git(URL_GIT_REPO)
-    git.clone(DIR_DATA, force=False)
+    git.clone(DIR_DATA, force=True)
     git.checkout('data')
 
     if not os.path.exists(DIR_TWTR_DATA):
@@ -69,13 +69,31 @@ def build_summary():
     log.info(f'Wrote {tweet_info_list_file}')
 
 
+def render_tweet_info(tweet_info):
+    id = tweet_info['id']
+    user = tweet_info['user']
+    text = tweet_info['text']
+    image_url = tweet_info['image_url']
+    time_str = timex.format_time(tweet_info['time_create_ut'])
+    tweet_url = f'https://twitter.com/{user}/status/{id}'
+    return [
+        f'## ["{text}" - @{user}]({tweet_url})',
+        time_str,
+        f'![image]({image_url})',
+    ]
+
+
 def build_readme():
+    N = 10
     tweet_info_list = load_tweet_info_list()
+    rendered_last_n_tweets = []
+    for tweet_info in tweet_info_list[:N]:
+        rendered_last_n_tweets += render_tweet_info(tweet_info)
 
     lines = [
         '# Social Media Photos',
         f'*{len(tweet_info_list)} tweets*',
-    ]
+    ] + rendered_last_n_tweets
     md_file = os.path.join(DIR_DATA, 'README.md')
     File(md_file).write('\n\n'.join(lines))
     log.info(f'Wrote {md_file}')
