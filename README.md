@@ -1,10 +1,75 @@
 # Social Media Photos
 
-*119 tweets as of 20220706-222838*
+*123 tweets as of 20220706-223952*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 22:34:41 by [nashan_mohamed](https://twitter.com/nashan_mohamed/status/1544729056783900672)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/erTSlwIxOy
+
+```
+
+![image](https://pbs.twimg.com/media/FW_64ZAWIAEWsBg.jpg)
+
+---
+
+2022-07-06 22:32:13 by [Towcett](https://twitter.com/Towcett/status/1544728437595992064)
+
+1 videos, 0 photos
+
+```
+
+That's what really we need from police.❤
+
+#SriLankaCrisis #GoHomeGota #SriLankaEconomicCrisis https://t.co/xCWMw3PzSr
+
+```
+
+
+
+---
+
+2022-07-06 22:31:39 by [TheekshanaVX](https://twitter.com/TheekshanaVX/status/1544728293643001856)
+
+0 videos, 1 photos
+
+```
+
+#EnoughIsEnough #SaveSriLanka #GoHomeGota https://t.co/W4CrjgvSI6
+
+```
+
+![image](https://pbs.twimg.com/media/FW_6LHUXkAMlknT.jpg)
+
+---
+
+2022-07-06 22:31:25 by [projectdemarco](https://twitter.com/projectdemarco/status/1544728236298362882)
+
+0 videos, 1 photos
+
+```
+
+Pearl of the indian ocean
+#gohomegota #struggle #ceylon 
+.
+.
+.
+.
+.
+#projectdemarco #marcoverse https://t.co/NukZliopqI
+
+```
+
+![image](https://pbs.twimg.com/media/FW_6I3-aIAE1CRL.jpg)
+
+---
 
 2022-07-06 22:26:37 by [ANOVNI1](https://twitter.com/ANOVNI1/status/1544727026413838337)
 
@@ -1528,71 +1593,5 @@ Wait.. Watch until the end😂😂😂😂
 ```
 
 
-
----
-
-2022-07-06 10:28:04 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544546198123466752)
-
-0 videos, 2 photos
-
-```
-
-Storm Colombo on July 9th is happening in Paris &amp; London As Well! 
-
-Aragalayata Jaya! ♥️✊🏻
-
-#GoHomeGota #GoHomeRanil https://t.co/dJ6D0wGZuY
-
-```
-
-![image](https://pbs.twimg.com/media/FW9Ukr8XgAAMlOI.jpg)
-
----
-
-2022-07-06 10:21:39 by [PandulaPallewa1](https://twitter.com/PandulaPallewa1/status/1544544584495411200)
-
-0 videos, 1 photos
-
-```
-
-Now this is becoming a necessity . Why we Suffering for their Sins?? Enough is enough 🤌🤌Go Home වසලයා #GoHomeRajapakshas #GoHomeGota #SriLankaEconomicCrisis #giveourmoneyback https://t.co/JhLefFr2ar
-
-```
-
-![image](https://pbs.twimg.com/media/FW9TG1daMAAxCG9.jpg)
-
----
-
-2022-07-06 10:14:05 by [the__oxytocin](https://twitter.com/the__oxytocin/status/1544542678146134017)
-
-0 videos, 1 photos
-
-```
-
-ඊයේ හවස බස් නැති නිසා පාර දිගේ පයින් එනකොට වැලි ටිපර් එකක් නවත්තලා ඇහුවා 
-"මල්ලි කොහෙටද?"
-"මාලඹේට යන්නේ අයියා"
-"රාජගිරියේ ඉඳන් පයින් යන්නද බන්. නැගපන් පුලුවන් විදියට අල්ලගනින්" 
-
-අපි අපිට පුලුවන් විදියට උදව් කරගමු. මනුශ්‍යත්වය අගයමු. #ThankYou #Respect 🫡 #GoHomeGota https://t.co/qP7twUlsTs
-
-```
-
-![image](https://pbs.twimg.com/media/FW9RX70aQAA6Lw-.jpg)
-
----
-
-2022-07-06 10:10:39 by [sanaka1994](https://twitter.com/sanaka1994/status/1544541816581550080)
-
-0 videos, 1 photos
-
-```
-
-What should we expect from rulers who do not understand the suffering of the people of a country?
-#GoHomeGota https://t.co/vnEc9M1kYV
-
-```
-
-![image](https://pbs.twimg.com/media/FW9QlU2XkAA7R1L.jpg)
 
 ---
