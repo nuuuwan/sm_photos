@@ -1,10 +1,58 @@
 # Social Media Photos
 
-*112 tweets as of 20220706-215009*
+*115 tweets as of 20220706-220815*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 22:04:33 by [NoahAmalan](https://twitter.com/NoahAmalan/status/1544721472295297024)
+
+0 videos, 1 photos
+
+```
+
+இந்த பிச்சைகாரன் தொல்லை தாங்கமுடியல. You begger!! You didn’t request for offer of credit support. You begged for money. போய் தட்டை ஏந்தி அந்த பக்கமா நில்லு பிச்சை வரும். #GoHomeGota https://t.co/O6c3IF6LPE
+
+```
+
+![image](https://pbs.twimg.com/media/FW_z_HDWYAAalS4.jpg)
+
+---
+
+2022-07-06 22:02:42 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544721007390232576)
+
+1 videos, 0 photos
+
+```
+
+During Today’s Forum organized by @aragalakaruwoSL , I ask Opposition Leader @sajithpremadasa 2 Questions Which I thought was Important. 
+
+You can Watch Youtube Video for the Answer : https://t.co/ougqahXEiQ 
+
+#GoHomeGota #GoHomeRanil #Srilanka @Jonathanajay https://t.co/cb5ZKSzgNn
+
+```
+
+
+
+---
+
+2022-07-06 21:54:41 by [nikisena](https://twitter.com/nikisena/status/1544718988567093248)
+
+0 videos, 2 photos
+
+```
+
+#GoHomeGota
+#GoHomeRanil
+#lka https://t.co/EGEmAJtTN5
+
+```
+
+![image](https://pbs.twimg.com/media/FW_xmIEWQAAq-q_.jpg)
+
+---
 
 2022-07-06 21:40:34 by [JayomiL](https://twitter.com/JayomiL/status/1544715435949625344)
 
@@ -1546,53 +1594,5 @@ There is nothing to say.
 ```
 
 ![image](https://pbs.twimg.com/media/FW9JA6HVUAAb4GZ.jpg)
-
----
-
-2022-07-06 09:19:08 by [CseJunkie](https://twitter.com/CseJunkie/status/1544528850448556033)
-
-0 videos, 1 photos
-
-```
-
-Show your unity to stand against #corruption, failed administration, and #unjust to the people of Sri Lanka.
-#GoHomeGota
-#SrilankanEconomicCrisis https://t.co/jUrqo3v1Yl
-
-```
-
-![image](https://pbs.twimg.com/media/FW9Ey1UXoAIXqoo.jpg)
-
----
-
-2022-07-06 09:14:13 by [pasindu_fer](https://twitter.com/pasindu_fer/status/1544527613909028864)
-
-0 videos, 1 photos
-
-```
-
-Pic on left : How people travel to work nowadays (Including me so I know how had it is)
-
-Pic on right : Our so called president &amp; PM chilling in the parliament yesterday (Two absolute clowns)
-
-What else can we expect? They just don’t care #GoHomeGota https://t.co/Dw0gHXOL6U
-
-```
-
-![image](https://pbs.twimg.com/media/FW9DrOTaAAARuAY.jpg)
-
----
-
-2022-07-06 09:14:08 by [thilinaviraj950](https://twitter.com/thilinaviraj950/status/1544527593809948674)
-
-0 videos, 1 photos
-
-```
-
-Now or Never #GoHomeGota #GoHomeGota2022 #GoHomeRanil #lka https://t.co/lVtmE3LMNS
-
-```
-
-![image](https://pbs.twimg.com/media/FW9DqQ0XwAATB4J.jpg)
 
 ---
