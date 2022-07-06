@@ -1,10 +1,41 @@
 # Social Media Photos
 
-*106 tweets*
+*108 tweets*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 20:58:33 by [Ranuka_Perera2](https://twitter.com/Ranuka_Perera2/status/1544704863547711489)
+
+0 videos, 1 photos
+
+```
+
+@siwura @GotabayaR #GoHomeGota https://t.co/bgF0vMzN08
+
+```
+
+![image](https://pbs.twimg.com/media/FW_k4WyX0AYNGAv.jpg)
+
+---
+
+2022-07-06 20:55:29 by [devondevesser_](https://twitter.com/devondevesser_/status/1544704090852458496)
+
+0 videos, 1 photos
+
+```
+
+Let's all get together to save our country from this devil "Gota" 🇱🇰🙏
+July 9th 🙌  #FinalChapter 
+
+#GoHomeGota2022 #GoHomeGota #lka #SriLanka #ProtestLK #SriLankaEconomicCrisis https://t.co/p14dZ7X3ZX
+
+```
+
+![image](https://pbs.twimg.com/media/FW_kLuZX0AQu_zO.jpg)
+
+---
 
 2022-07-06 20:52:26 by [mansoorlk](https://twitter.com/mansoorlk/status/1544703325727117312)
 
@@ -1562,33 +1593,5 @@ Creative 🖤🇱🇰
 ```
 
 ![image](https://pbs.twimg.com/media/FW84dJhWAAQAhzJ.jpg)
-
----
-
-2022-07-06 08:13:26 by [Abdulla84282612](https://twitter.com/Abdulla84282612/status/1544512314703253504)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota ✊ https://t.co/ULOMptqcjp
-
-```
-
-![image](https://pbs.twimg.com/media/FW81w3baUAArNPl.jpg)
-
----
-
-2022-07-06 08:08:36 by [naveenmadhawa](https://twitter.com/naveenmadhawa/status/1544511097805623297)
-
-0 videos, 1 photos
-
-```
-
-මෙහෙම දෙන්නෙක් එක්ක ලංකාව ගොඩ යන්නේ කොහොමද? #GoHomeGota #GoHomeRanil #lka https://t.co/cqv0ujhYNV
-
-```
-
-![image](https://pbs.twimg.com/media/FW80qIGaAAA0VJ2.jpg)
 
 ---
