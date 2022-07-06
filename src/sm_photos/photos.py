@@ -16,7 +16,7 @@ def get_photo_file_list():
         if ext not in ['png', 'jpg']:
             continue
         photo_file_list.append(os.path.join(DIR_TWTR_DATA, file_only))
-    photo_file_list = reversed(sorted(photo_file_list))
+    photo_file_list = list(reversed(list(sorted(photo_file_list))))
     return photo_file_list
 
 
