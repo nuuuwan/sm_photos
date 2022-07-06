@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*109 tweets*
+*110 tweets as of 20220706-212420*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 21:10:47 by [JBRBALA](https://twitter.com/JBRBALA/status/1544707941483180034)
+
+0 videos, 1 photos
+
+```
+
+Had the majority Sinhala people stood against the discriminatory acts of their leaders against the minorities, the country wouldn’t have come to this state today #GoHomeGota https://t.co/rTIv4h9GWB
+
+```
+
+![image](https://pbs.twimg.com/media/FW_nro5UUAE4gm-.jpg)
+
+---
 
 2022-07-06 21:02:44 by [BizColombo](https://twitter.com/BizColombo/status/1544705914883768327)
 
@@ -1579,21 +1593,5 @@ Cartoon by @RcSullan
 ```
 
 ![image](https://pbs.twimg.com/media/FW86JEUWAAEBvVY.jpg)
-
----
-
-2022-07-06 08:28:00 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544515981032112128)
-
-0 videos, 1 photos
-
-```
-
-#අරගලයටජය
-#GoHomeGota 
-#lka https://t.co/epZItnWYns
-
-```
-
-![image](https://pbs.twimg.com/media/FW85GT6WIAUm_xX.jpg)
 
 ---
