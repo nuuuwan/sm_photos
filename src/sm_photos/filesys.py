@@ -104,7 +104,7 @@ def render_tweet_info(tweet_info):
 
 
 def build_readme():
-    N = 10
+    N = 30
     tweet_info_list = load_tweet_info_list()
     rendered_last_n_tweets = []
     for tweet_info in tweet_info_list[:N]:
