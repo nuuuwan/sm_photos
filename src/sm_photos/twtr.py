@@ -2,7 +2,7 @@ import os
 import time
 
 import tweepy
-from utils import logx
+from utils import logx, timex
 
 log = logx.get_logger('sm_photos.twtr')
 
@@ -51,7 +51,8 @@ class TWTR:
                     user=user,
                     time_create_ut=(int)(
                         time.mktime(tweet.created_at.timetuple())
-                    ),
+                    )
+                    - timex.TIMEZONE_OFFSET_LK,
                     text=tweet.text,
                     image_url=image_url,
                 )

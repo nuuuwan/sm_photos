@@ -75,7 +75,10 @@ def render_tweet_info(tweet_info):
     text = tweet_info['text']
     image_url = tweet_info['image_url']
     tweet_url = tweet_info['tweet_url']
-    time_str = timex.format_time(tweet_info['time_create_ut'])
+    time_str = timex.format_time(
+        tweet_info['time_create_ut'],
+        timezone=timex.TIMEZONE_OFFSET_LK,
+    )
     return [
         f'## ["{text}" - @{user}]({tweet_url})',
         time_str,
