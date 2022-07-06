@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*149 tweets as of 20220707-004733*
+*150 tweets as of 20220707-005717*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 00:54:09 by [harshap](https://twitter.com/harshap/status/1544764155328184325)
+
+0 videos, 1 photos
+
+```
+
+I don’t care who comes next but #GoHomeGota #GoHomeGota2022 #lka #protestLK Location for IT pro’s to mobilize “Trace expert city Maradana Bus Stand” 9AM / 9th July. https://t.co/2xE7VsRHB2 https://t.co/bmTyPvqM9p
+
+```
+
+![image](https://pbs.twimg.com/media/FXAaz5NWYAIuBST.jpg)
+
+---
 
 2022-07-07 00:46:12 by [ABagthathi](https://twitter.com/ABagthathi/status/1544762154079113216)
 
@@ -1555,20 +1569,5 @@ Reality of නන්දි ගවයා
 ```
 
 ![image](https://pbs.twimg.com/media/FW-JUTKWIAg2r6-.jpg)
-
----
-
-2022-07-06 14:16:07 by [the__oxytocin](https://twitter.com/the__oxytocin/status/1544603590144053248)
-
-0 videos, 1 photos
-
-```
-
-බයියෝ vs ශ්‍රී ලාංකික ජනතාව 😌❤️🫡 
-#GoHomeGota #GoHomeRajapaksas #SriLankaEconomicCrisis #SriLanka https://t.co/K1gOzfiVcM
-
-```
-
-![image](https://pbs.twimg.com/media/FW-IxpNaIAAo22F.jpg)
 
 ---
