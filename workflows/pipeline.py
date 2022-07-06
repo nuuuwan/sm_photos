@@ -1,6 +1,6 @@
 import argparse
 
-from sm_photos import filesys, summary, photos
+from sm_photos import filesys, photos, summary
 from sm_photos.twtr import TWTR
 
 
