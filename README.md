@@ -1,10 +1,25 @@
 # Social Media Photos
 
-*133 tweets as of 20220706-230922*
+*134 tweets as of 20220706-231859*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 23:10:31 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1544738073715417088)
+
+0 videos, 2 photos
+
+```
+
+Just To Missed. Windows Felt By Crowd At Technical Junction
+#GotaGoGama #GoHomeGota https://t.co/pxE9tOFLnR
+
+```
+
+![image](https://pbs.twimg.com/media/FXADEXSUYAAsUqC.jpg)
+
+---
 
 2022-07-06 23:08:51 by [ashvincj](https://twitter.com/ashvincj/status/1544737653899214854)
 
@@ -1568,20 +1583,5 @@ Gun shots heard in fort ! Seeing smoke 💨 #teargas #gohomegota https://t.co/N8
 ```
 
 ![image](https://pbs.twimg.com/media/FW9sN7MWAAEj31u.jpg)
-
----
-
-2022-07-06 11:56:53 by [zshone93](https://twitter.com/zshone93/status/1544568548361523201)
-
-0 videos, 1 photos
-
-```
-
-I don't agree with her political party. But I love her attitude, gut feelings and her courage. I am standing with her to kick out this Ranil - Gota government.
-#GoHomeGota #GoHomeRanil https://t.co/jQmOov01PS
-
-```
-
-![image](https://pbs.twimg.com/media/FW9o6KQWQAIktRN.jpg)
 
 ---
