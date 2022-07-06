@@ -1,10 +1,69 @@
 # Social Media Photos
 
-*123 tweets as of 20220706-223952*
+*127 tweets as of 20220706-225415*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 22:51:58 by [Jeevanifdo](https://twitter.com/Jeevanifdo/status/1544733406080208896)
+
+0 videos, 1 photos
+
+```
+
+#aragalayatajaya
+#GoHomeGota https://t.co/SHYOZhN9ig
+
+```
+
+![image](https://pbs.twimg.com/media/FW_-iYBWQAInfZ7.png)
+
+---
+
+2022-07-06 22:50:17 by [vgyine](https://twitter.com/vgyine/status/1544732984590233600)
+
+1 videos, 0 photos
+
+```
+
+Maithri &amp; Gota ruling sessions explained #lka #SriLanka #SriLankaEconomicCrisis #GoHomeGota https://t.co/H6CX4mM4OQ
+
+```
+
+
+
+---
+
+2022-07-06 22:42:40 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1544731067038728195)
+
+0 videos, 1 photos
+
+```
+
+#lka
+#SriLankaCrisis #SriLankaEconomicCrisis
+#SriLankaProtests #SriLankaToday #GoHomeGota https://t.co/W0RWhbNl3Y
+
+```
+
+![image](https://pbs.twimg.com/media/FW_8szeacAAYkuV.jpg)
+
+---
+
+2022-07-06 22:41:38 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1544730806354345984)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #lka #SriLankaEconomicCrisis #SriLankaCrisis #SriLanka https://t.co/NccFKRosDf
+
+```
+
+![image](https://pbs.twimg.com/media/FW_8eZkaQAEI8Gy.jpg)
+
+---
 
 2022-07-06 22:34:41 by [nashan_mohamed](https://twitter.com/nashan_mohamed/status/1544729056783900672)
 
@@ -1523,72 +1582,6 @@ GTA ChiLanka Town #GTA6 #GoHomeGota #economiccrisissl https://t.co/ptW5pQFxom
 On July 9th.....
 
 #GoHomeGota #GoHomeGota2022 #SriLanka #SriLankaEconomicCrisis https://t.co/rZ5FrlczuF
-
-```
-
-
-
----
-
-2022-07-06 11:03:18 by [Mohammed_Aashsd](https://twitter.com/Mohammed_Aashsd/status/1544555065947611136)
-
-0 videos, 1 photos
-
-```
-
-What the hell??????
-Pathum Nissanka can't find a place in a LPL team. Seriously 😂😂😂😂
-
-#SriLanka #cricket #GoHomeGota https://t.co/EAsgPmKbmA
-
-```
-
-![image](https://pbs.twimg.com/media/FW9cosqWYAIUXlP.png)
-
----
-
-2022-07-06 10:51:28 by [LihiniFernando](https://twitter.com/LihiniFernando/status/1544552088474071041)
-
-1 videos, 0 photos
-
-```
-
-Hirunika @Hirunikaconnect strikes again 
-
-Bravo 👏 #GoHomeGota https://t.co/HrCcAZ4uvi
-
-```
-
-
-
----
-
-2022-07-06 10:47:35 by [dishanamindya](https://twitter.com/dishanamindya/status/1544551108453945345)
-
-0 videos, 1 photos
-
-```
-
-It’s the President and PM of a #Bankrupt nation laughing as if there’s nothing wrong 🤌🏻
-People are dying in queues @GotabayaR @RW_UNP and you haven’t been able to find a solution till now.
-Time for the clowns to step down!
-#EconomicCrisisLK #GoHomeGota #GoHomeRanil https://t.co/IfXf8fKeD3
-
-```
-
-![image](https://pbs.twimg.com/media/FW9ZCRmXwAAI8xa.jpg)
-
----
-
-2022-07-06 10:28:39 by [M_Jazath](https://twitter.com/M_Jazath/status/1544546342885801984)
-
-1 videos, 0 photos
-
-```
-
-Wait.. Watch until the end😂😂😂😂
-
-#GoHomeGota #GoHomeRanil #GoHomeRajapaksas #EconomicCrisis https://t.co/810aes7ysR
 
 ```
 
