@@ -98,7 +98,7 @@ def render_tweet_info(tweet_info):
         '```',
         text,
         '```',
-        f'![image]({media_url}=x100)',
+        f'![image]({media_url})',
         '---',
     ]
 
