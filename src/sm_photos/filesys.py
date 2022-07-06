@@ -97,6 +97,7 @@ def build_readme():
     lines = [
         '# Social Media Photos',
         f'*{len(tweet_info_list)} tweets*',
+        f'## {N} latest tweets',
     ] + rendered_last_n_tweets
     md_file = os.path.join(DIR_DATA, 'README.md')
     File(md_file).write('\n\n'.join(lines))
