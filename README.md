@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*111 tweets as of 20220706-213623*
+*112 tweets as of 20220706-215009*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 21:40:34 by [JayomiL](https://twitter.com/JayomiL/status/1544715435949625344)
+
+0 videos, 1 photos
+
+```
+
+We created innovation to contribute to our economy, created employment for 100s, paid our taxes and uplifted communities, and kept the business engine going despite the pandemic and economic hardships we had to face as entrepreneurs!  1/3 #GoHomeGota #FuelCrisisLK https://t.co/2am6JHE2E7
+
+```
+
+![image](https://pbs.twimg.com/media/FW_ufogXgAItkL5.jpg)
+
+---
 
 2022-07-06 21:32:18 by [SirajFiyaz](https://twitter.com/SirajFiyaz/status/1544713356480692224)
 
@@ -1580,19 +1594,5 @@ Now or Never #GoHomeGota #GoHomeGota2022 #GoHomeRanil #lka https://t.co/lVtmE3LM
 ```
 
 ![image](https://pbs.twimg.com/media/FW9DqQ0XwAATB4J.jpg)
-
----
-
-2022-07-06 09:02:34 by [khnadeesha](https://twitter.com/khnadeesha/status/1544524680832458752)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota22 #GoHomeGota https://t.co/GXXJTbSamA
-
-```
-
-![image](https://pbs.twimg.com/media/FW9BApFXkAEPrYp.jpg)
 
 ---
