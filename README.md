@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*156 tweets as of 20220707-050927*
+*157 tweets as of 20220707-051749*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 05:16:54 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544830276869804033)
+
+0 videos, 3 photos
+
+```
+
+London Paris Melbourne protests on  July 9 to ask President of #SriLanka to go home. #GoHomeGota 
+Entire #SriLanka will come to Colombo on July 9. Follow us! 
+#EnoughIsEnough #Wewantourcountryback 
+#GiveUsOurStolenMoneyBack https://t.co/y9MpnE4zjn
+
+```
+
+![image](https://pbs.twimg.com/media/FXBW8UqWYAIfysJ.jpg)
+
+---
 
 2022-07-07 03:53:46 by [SriLives](https://twitter.com/SriLives/status/1544809356503416833)
 
@@ -1579,22 +1596,5 @@ How one woman can make you get scared...
 ```
 
 ![image](https://pbs.twimg.com/media/FW-O8jZXkAAAO-M.jpg)
-
----
-
-2022-07-06 14:41:45 by [munza14](https://twitter.com/munza14/status/1544610041373679617)
-
-0 videos, 1 photos
-
-```
-
-Don't you just love this picture, @GotabayaR? 
-Hirunika is an absolute boss!
-Picture courtesy @TheMorningLK
-#LKA #SriLanka #GoHomeGota https://t.co/KcRu24OtVZ
-
-```
-
-![image](https://pbs.twimg.com/media/FW-OoSLXkAAUh7o.jpg)
 
 ---
