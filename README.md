@@ -1,8 +1,69 @@
 # Social Media Photos
 
-*100 tweets*
+*104 tweets*
 
 ## 30 latest tweets
+
+2022-07-06 20:27:31 by [THIMIRA_LAK](https://twitter.com/THIMIRA_LAK/status/1544697054899077122)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/cnWK5DIQ0Y
+
+```
+
+![image](https://pbs.twimg.com/media/FW_dxrqaIAA0zCr.jpg)
+
+---
+
+2022-07-06 20:22:56 by [KalpaniChandra3](https://twitter.com/KalpaniChandra3/status/1544695902388068355)
+
+0 videos, 1 photos
+
+```
+
+The enemy of my enemy is my friend .
+#GoHomeGota https://t.co/ieyf7NGQER
+
+```
+
+![image](https://pbs.twimg.com/media/FW_cvHkXwAIYOl3.jpg)
+
+---
+
+2022-07-06 20:19:35 by [lelum_sasmitha](https://twitter.com/lelum_sasmitha/status/1544695056640413696)
+
+1 videos, 0 photos
+
+```
+
+හොදටම කරල තියෙන්නේ.රටෙ දියුනුව පිරිලා ඉතිරෙනවා
+#හොදටමකරා
+#GoHomeGota 
+#gohome225 https://t.co/RuY46ayPwJ
+
+```
+
+![image](https://video.twimg.com/ext_tw_video/1544694997941125120/pu/vid/480x704/JB2nrKYMnWG3IeBP.mp4)
+
+---
+
+2022-07-06 20:17:06 by [kavindacena](https://twitter.com/kavindacena/status/1544694433555574786)
+
+0 videos, 1 photos
+
+```
+
+Let's make Golden July 9 with real System Change !
+#GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #GoHomeRajapaksas #EconomicCrisisLK #ProtestLK #අරගලයටජය #colombo #SriLanka #lka https://t.co/OVBkxaBpgQ
+
+```
+
+![image](https://pbs.twimg.com/media/FW_bZpHaMAAuaUx.jpg)
+
+---
 
 2022-07-06 19:58:47 by [Mr___Pathum](https://twitter.com/Mr___Pathum/status/1544689824082186240)
 
@@ -410,67 +471,5 @@ They waste tear gas to attack those who are already lost and starving!
 ```
 
 ![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4)
-
----
-
-2022-07-06 16:53:15 by [asitha__lk](https://twitter.com/asitha__lk/status/1544643134235111425)
-
-0 videos, 1 photos
-
-```
-
-මතකයි නේද දිනේ. July 9 රටම කොළඹට 
-#GotaGoHome #GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #GoHomeRanil #Aragalaya https://t.co/DMMfELFgmD
-
-```
-
-![image](https://pbs.twimg.com/media/FW-suu9XEAAiWtR.jpg)
-
----
-
-2022-07-06 16:51:39 by [Lasitha_B](https://twitter.com/Lasitha_B/status/1544642731523428352)
-
-0 videos, 1 photos
-
-```
-
-We have missed so many !!!
-
-#GoHomeGota https://t.co/5SbersdjYY
-
-```
-
-![image](https://pbs.twimg.com/media/FW-sO5YX0AAClQN.png)
-
----
-
-2022-07-06 16:50:30 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1544642441311096832)
-
-1 videos, 0 photos
-
-```
-
-Srilanka protest against the government and president. Sri Lanka is 'bankrupt,' Prime Minister says. https://t.co/ZQwNpySf9v #gohomegota #protest #srilanka #lk #economiccriss #slk #asia #bbc #cn #news #worldnews https://t.co/vB0gSKygAB
-
-```
-
-![image](https://video.twimg.com/ext_tw_video/1544642150855491585/pu/vid/524x270/j-CM_HjCFK70T8G5.mp4)
-
----
-
-2022-07-06 16:47:13 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544641613913153536)
-
-0 videos, 1 photos
-
-```
-
-පොල්ගහවෙල ⛽ IOC අසල ජනතා පණිවිඩය ... 
-
-#අරගලයටජය
-#GoHomeGota https://t.co/wr6mI4oEad
-
-```
-
-![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg)
 
 ---
