@@ -1,7 +1,8 @@
 # Social Media Photos
 
 *105 tweets*
-![collage.png](collage.png)
+
+![collage.png]()
 
 ## 100 latest tweets
 
