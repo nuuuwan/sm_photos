@@ -83,6 +83,7 @@ def render_tweet_info(tweet_info):
         f'>> {text}',
         f'At {time_str} by [{user}]({tweet_url})',
         f'![image]({image_url})',
+        '---',
     ]
 
 
