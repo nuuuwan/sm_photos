@@ -4,6 +4,20 @@
 
 ## 30 latest tweets
 
+2022-07-06 19:57:14 by [ThyagiR](https://twitter.com/ThyagiR/status/1544689432254902273)
+
+0 videos, 2 photos
+
+```
+
+Kitchen lament protest underway in Koswatta, Nawala. #gohomegota https://t.co/Bk1Y9oczJZ
+
+```
+
+![image](https://pbs.twimg.com/media/FW_W2L-aUAAg8g1.jpg)
+
+---
+
 2022-07-06 19:44:22 by [MeeNavo](https://twitter.com/MeeNavo/status/1544686196269645825)
 
 0 videos, 1 photos
@@ -457,22 +471,5 @@ Come on. One more step to your dea*th. Wait few days f*cking Gota.
 ```
 
 ![image](https://pbs.twimg.com/media/FW-oUx7acAAK0_G.jpg)
-
----
-
-2022-07-06 16:30:03 by [Abdulla84282612](https://twitter.com/Abdulla84282612/status/1544637294355042306)
-
-0 videos, 1 photos
-
-```
-
-This picture is worth a thousand words! 😓
-
-#EnoughIsEnough 
-#GoHomeGota https://t.co/pj8nYnKZBE
-
-```
-
-![image](https://pbs.twimg.com/media/FW-nbsvagAI8ozW.jpg)
 
 ---
