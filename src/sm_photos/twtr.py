@@ -40,9 +40,15 @@ class TWTR:
             media_keys = attachments['media_keys']
             if media[media_keys[0]].preview_image_url:
                 image_url = media[media_keys[0]].preview_image_url
+
+                id = tweet.id
+                user = users[tweet.author_id].username
+                tweet_url = f'https://twitter.com/{user}/status/{id}'
+
                 tweet_info = dict(
-                    id=tweet.id,
-                    user=users[tweet.author_id].username,
+                    tweet_url=tweet_url,
+                    id=id,
+                    user=user,
                     time_create_ut=(int)(
                         time.mktime(tweet.created_at.timetuple())
                     ),

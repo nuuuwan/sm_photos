@@ -70,12 +70,12 @@ def build_summary():
 
 
 def render_tweet_info(tweet_info):
-    id = tweet_info['id']
+    tweet_info['id']
     user = tweet_info['user']
     text = tweet_info['text']
     image_url = tweet_info['image_url']
+    tweet_url = tweet_info['tweet_url']
     time_str = timex.format_time(tweet_info['time_create_ut'])
-    tweet_url = f'https://twitter.com/{user}/status/{id}'
     return [
         f'## ["{text}" - @{user}]({tweet_url})',
         time_str,
