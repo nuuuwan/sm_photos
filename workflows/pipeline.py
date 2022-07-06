@@ -1,6 +1,6 @@
 import argparse
 
-from sm_photos import filesys, summary
+from sm_photos import filesys, summary, photos
 from sm_photos.twtr import TWTR
 
 
@@ -12,6 +12,7 @@ def main(hashtag):
         filesys.download_and_save(tweet_info)
     summary.build_summary()
     summary.build_readme()
+    photos.build_collage()
 
 
 def get_options():
