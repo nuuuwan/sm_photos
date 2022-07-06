@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*110 tweets as of 20220706-212420*
+*111 tweets as of 20220706-213623*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 21:32:18 by [SirajFiyaz](https://twitter.com/SirajFiyaz/status/1544713356480692224)
+
+1 videos, 0 photos
+
+```
+
+#PathalaPathala These lyrics are perfectly matching for Sri Lankan economy 👌😅 That’s why I edited this video 
+
+#VikramHitlist 
+#GoHomeGota https://t.co/py0tLrPKFC
+
+```
+
+
+
+---
 
 2022-07-06 21:10:47 by [JBRBALA](https://twitter.com/JBRBALA/status/1544707941483180034)
 
@@ -1577,21 +1594,5 @@ Now or Never #GoHomeGota #GoHomeGota2022 #GoHomeRanil #lka https://t.co/lVtmE3LM
 ```
 
 ![image](https://pbs.twimg.com/media/FW9BApFXkAEPrYp.jpg)
-
----
-
-2022-07-06 08:32:35 by [cartoonlka](https://twitter.com/cartoonlka/status/1544517133660573697)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @RcSullan 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #GoHomeRanil #ProtestLK https://t.co/xjzmr6EajV
-
-```
-
-![image](https://pbs.twimg.com/media/FW86JEUWAAEBvVY.jpg)
 
 ---
