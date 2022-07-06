@@ -14,7 +14,7 @@
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_T54LaMAEHm2u.jpg)
+![image](https://pbs.twimg.com/media/FW_T54LaMAEHm2u.jpg | height=100)
 
 ---
 
