@@ -3,7 +3,7 @@ import os
 
 from PIL import Image
 
-from sm_photos._constants import DIR_DATA
+from sm_photos._constants import DIR_DATA, DIR_TWTR_DATA
 from sm_photos._utils import log
 
 WIDTH, HEIGHT = 320, 180
