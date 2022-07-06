@@ -55,7 +55,8 @@ class TWTR:
                     variants = media.variants
                     for variant in variants:
                         if variant['content_type'] == 'video/mp4':
-                            video_url_list.append(variant['url'])
+                            video_url = variant['url'].replace("?tag=12", "")
+                            video_url_list.append(video_url)
                             break
 
             tweet_info = dict(
