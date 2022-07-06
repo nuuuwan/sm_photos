@@ -26,36 +26,50 @@ class TWTR:
         tweets = self.client.search_recent_tweets(
             query=query,
             tweet_fields=['context_annotations', 'created_at'],
-            media_fields=['preview_image_url'],
+            media_fields=['variants', 'url'],
             expansions='attachments.media_keys,author_id',
             max_results=100,
         )
 
-        media = {m["media_key"]: m for m in tweets.includes['media']}
-        users = {u["id"]: u for u in tweets.includes['users']}
+        media_idx = {m["media_key"]: m for m in tweets.includes['media']}
+        user_idx = {u["id"]: u for u in tweets.includes['users']}
 
         tweet_info_list = []
         for tweet in tweets.data:
+            id = tweet.id
+            user = user_idx[tweet.author_id].username
+            tweet_url = f'https://twitter.com/{user}/status/{id}'
+
             attachments = tweet.data['attachments']
             media_keys = attachments['media_keys']
-            if media[media_keys[0]].preview_image_url:
-                image_url = media[media_keys[0]].preview_image_url
 
-                id = tweet.id
-                user = users[tweet.author_id].username
-                tweet_url = f'https://twitter.com/{user}/status/{id}'
+            image_url_list = []
+            video_url_list = []
+            for media_key in media_keys:
+                media = media_idx[media_key]
+                media_type = media.type
+                if media_type == 'photo':
+                    image_url = media.url
+                    image_url_list.append(image_url)
+                elif media_type == 'video':
+                    variants = media.variants
+                    for variant in variants:
+                        if variant['content_type'] == 'video/mp4':
+                            video_url_list.append(variant['url'])
+                            break
 
-                tweet_info = dict(
-                    tweet_url=tweet_url,
-                    id=id,
-                    user=user,
-                    time_create_ut=(int)(
-                        time.mktime(tweet.created_at.timetuple())
-                    ),
-                    text=tweet.text,
-                    image_url=image_url,
-                )
-                tweet_info_list.append(tweet_info)
+            tweet_info = dict(
+                tweet_url=tweet_url,
+                id=id,
+                user=user,
+                time_create_ut=(int)(
+                    time.mktime(tweet.created_at.timetuple())
+                ),
+                text=tweet.text,
+                image_url_list=image_url_list,
+                video_url_list=video_url_list,
+            )
+            tweet_info_list.append(tweet_info)
 
         log.info(f'Found {len(tweet_info_list)} images')
         return tweet_info_list
