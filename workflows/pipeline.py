@@ -10,8 +10,8 @@ def main(hashtag):
     tweet_info_list = twtr.get_tweet_info_list(hashtag)
     for tweet_info in tweet_info_list:
         filesys.download_and_save(tweet_info)
-    filesys.build_readme()
     filesys.build_summary()
+    filesys.build_readme()
 
 
 def get_options():
