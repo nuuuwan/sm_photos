@@ -80,8 +80,8 @@ def render_tweet_info(tweet_info):
         timezone=timex.TIMEZONE_OFFSET_LK,
     )
     return [
-        f'## ["{text}" - @{user}]({tweet_url})',
-        time_str,
+        f'>> {text}',
+        f'At {time_str} by [{user}]({tweet_url})',
         f'![image]({image_url})',
     ]
 

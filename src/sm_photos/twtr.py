@@ -2,7 +2,7 @@ import os
 import time
 
 import tweepy
-from utils import logx, timex
+from utils import logx
 
 log = logx.get_logger('sm_photos.twtr')
 
