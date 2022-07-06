@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*147 tweets as of 20220707-002225*
+*148 tweets as of 20220707-003604*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 00:30:51 by [FerozKhanLanka](https://twitter.com/FerozKhanLanka/status/1544758292114595842)
+
+0 videos, 1 photos
+
+```
+
+#MoneyHeist #SriLanka version #ArrestRajapaksas #GoHomeGota @NewsfirstSL @NewsWireLK #SriLankaCrisis #SriLankaProtests #SriLankanpoliticalcrisis https://t.co/VZytV4kUUF
+
+```
+
+![image](https://pbs.twimg.com/media/FXAVeYeUIAEiObb.jpg)
+
+---
 
 2022-07-07 00:16:38 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544754713089871874)
 
@@ -1568,19 +1582,5 @@ I hope it improves soon 🙏
 ```
 
 
-
----
-
-2022-07-06 14:09:45 by [CJChathura](https://twitter.com/CJChathura/status/1544601988008386560)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeGota2022 #GoHomeRajapaksas #GoHomeRanil #Cowards https://t.co/2e3oEatC4R
-
-```
-
-![image](https://pbs.twimg.com/media/FW-HUV4XEAEspnP.jpg)
 
 ---
