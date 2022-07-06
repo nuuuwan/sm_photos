@@ -1,6 +1,6 @@
 # Social Media Photos
 
-*100 tweets*
+*104 tweets*
 
 ## 30 latest tweets
 
