@@ -1,10 +1,108 @@
 # Social Media Photos
 
-*134 tweets as of 20220706-233825*
+*141 tweets as of 20220706-235228*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 23:48:19 by [udeshan](https://twitter.com/udeshan/status/1544747588712247296)
+
+0 videos, 1 photos
+
+```
+
+@Dailymirror_SL #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/kqprdsRMkJ
+
+```
+
+![image](https://pbs.twimg.com/media/FXALvTsX0AEGteK.jpg)
+
+---
+
+2022-07-06 23:46:21 by [udeshan](https://twitter.com/udeshan/status/1544747091431305218)
+
+0 videos, 1 photos
+
+```
+
+@BasnayakeM #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/RWwZea9Xfl
+
+```
+
+![image](https://pbs.twimg.com/media/FXALSbxWAAAiKx9.jpg)
+
+---
+
+2022-07-06 23:46:08 by [udeshan](https://twitter.com/udeshan/status/1544747036137779200)
+
+0 videos, 1 photos
+
+```
+
+@NewsWireLK @nimalhperera #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/YdUb2rpL7h
+
+```
+
+![image](https://pbs.twimg.com/media/FXALPJyX0AAjvp8.jpg)
+
+---
+
+2022-07-06 23:45:55 by [udeshan](https://twitter.com/udeshan/status/1544746984388448256)
+
+0 videos, 1 photos
+
+```
+
+@nuzlyMN @chami9539 @Jonathanajay @nimashi_wi @IamVimukthi #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/kqgForWTBQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXALMLfWAAAGJdf.jpg)
+
+---
+
+2022-07-06 23:45:34 by [udeshan](https://twitter.com/udeshan/status/1544746893493673984)
+
+0 videos, 1 photos
+
+```
+
+@ThilinaKalu @munza14 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/GVtYqq4Oeq
+
+```
+
+![image](https://pbs.twimg.com/media/FXALG6EWIAEoaYS.jpg)
+
+---
+
+2022-07-06 23:44:20 by [udeshan](https://twitter.com/udeshan/status/1544746583899533312)
+
+0 videos, 1 photos
+
+```
+
+@Welikumbura #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/HJDFurUIDW
+
+```
+
+![image](https://pbs.twimg.com/media/FXAK05JX0AANv0W.jpg)
+
+---
+
+2022-07-06 23:42:10 by [udeshan](https://twitter.com/udeshan/status/1544746037851541504)
+
+0 videos, 1 photos
+
+```
+
+@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/cWBHotNp2v
+
+```
+
+![image](https://pbs.twimg.com/media/FXAKVFtWIAE67TO.jpg)
+
+---
 
 2022-07-06 23:10:31 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1544738073715417088)
 
@@ -1016,7 +1114,7 @@ Come on. One more step to your dea*th. Wait few days f*cking Gota.
 
 ---
 
-2022-07-06 16:30:03 by [Abdulla84282612](https://twitter.com/Abdulla84282612/status/1544637294355042306)
+2022-07-06 16:30:03 by [Abddd1999](https://twitter.com/Abddd1999/status/1544637294355042306)
 
 0 videos, 1 photos
 
@@ -1475,113 +1573,5 @@ Cartoon by
 ```
 
 
-
----
-
-2022-07-06 12:51:48 by [lahirusena](https://twitter.com/lahirusena/status/1544582371424419840)
-
-0 videos, 2 photos
-
-```
-
-Gun shots heard in fort ! Seeing smoke 💨 #teargas #gohomegota https://t.co/N8VjSaVFAy
-
-```
-
-![image](https://pbs.twimg.com/media/FW91eGYUUAEM6zn.jpg)
-
----
-
-2022-07-06 12:47:10 by [duliponline](https://twitter.com/duliponline/status/1544581204045086721)
-
-0 videos, 1 photos
-
-```
-
-විරෝධය දැක්වීම ප්‍රජාතාන්ත්‍රික අයිතියකි. අයිතිය ඉල්ලන පුරවැසියන්ට බයවීම ගුජුපසාජනක ගතියකි. විරෝධය දක්වන්නන්ව අත්අඩංගුවට ගැනීම බියගුලුකමකි.
-හිරුනිකාව අත්අඩංගුවට ගැනීම හෙලා දකිමු !
-#අරගලයටජය
-#lka
-#GoHomeGota 
-#EconomicCrisisLK 
-@Hirunikaconnect https://t.co/rlzgNuNTgF
-
-```
-
-![image](https://pbs.twimg.com/media/FW90a06acAUvLzD.jpg)
-
----
-
-2022-07-06 12:38:05 by [IamThilanka](https://twitter.com/IamThilanka/status/1544578918849859584)
-
-0 videos, 1 photos
-
-```
-
-හිරුණිකා කියන්නෙ ගෑණියෙක් නෙමෙයි, රටක තනි ව්පක්ෂයක්..❤
-#GoHomeGota https://t.co/rM4UGEjqpl
-
-```
-
-![image](https://pbs.twimg.com/media/FW9yVhsakAYOKdl.jpg)
-
----
-
-2022-07-06 12:21:12 by [_NayanatharaJ](https://twitter.com/_NayanatharaJ/status/1544574666685431808)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeRanil #GoHomeGota https://t.co/ddrOeMUIbO
-
-```
-
-
-
----
-
-2022-07-06 12:20:26 by [_NayanatharaJ](https://twitter.com/_NayanatharaJ/status/1544574476641255424)
-
-1 videos, 0 photos
-
-```
-
-පොහොර දියව්!!! #GoHomeRanil #GoHomeGota https://t.co/MtblNlSozl
-
-```
-
-
-
----
-
-2022-07-06 12:17:59 by [ShafarSham](https://twitter.com/ShafarSham/status/1544573860623826944)
-
-0 videos, 1 photos
-
-```
-
-ලැජ්ජයි @GotabayaR නන්දසේන!
-
-#GoHomeGota https://t.co/wJ5BaTrZGd
-
-```
-
-![image](https://pbs.twimg.com/media/FW9s5snX0AAYwGR.jpg)
-
----
-
-2022-07-06 12:11:20 by [kznxy7](https://twitter.com/kznxy7/status/1544572186890973184)
-
-0 videos, 1 photos
-
-```
-
-#FreeHirunika
-#GoHomeGota2022 #GoHomeGota https://t.co/9bpkC69Tx2
-
-```
-
-![image](https://pbs.twimg.com/media/FW9sN7MWAAEj31u.jpg)
 
 ---
