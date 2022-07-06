@@ -43,14 +43,14 @@ class TWTR:
             attachments = tweet.data['attachments']
             media_keys = attachments['media_keys']
 
-            image_url_list = []
+            photo_url_list = []
             video_url_list = []
             for media_key in media_keys:
                 media = media_idx[media_key]
                 media_type = media.type
                 if media_type == 'photo':
-                    image_url = media.url
-                    image_url_list.append(image_url)
+                    photo_url = media.url
+                    photo_url_list.append(photo_url)
                 elif media_type == 'video':
                     variants = media.variants
                     for variant in variants:
@@ -66,7 +66,7 @@ class TWTR:
                     time.mktime(tweet.created_at.timetuple())
                 ),
                 text=tweet.text,
-                image_url_list=image_url_list,
+                photo_url_list=photo_url_list,
                 video_url_list=video_url_list,
             )
             tweet_info_list.append(tweet_info)
