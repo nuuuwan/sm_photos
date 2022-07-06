@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*148 tweets as of 20220707-003604*
+*149 tweets as of 20220707-004733*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 00:46:12 by [ABagthathi](https://twitter.com/ABagthathi/status/1544762154079113216)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota #GoHomeGota2022 https://t.co/NIzmpTvFJg
+
+```
+
+
+
+---
 
 2022-07-07 00:30:51 by [FerozKhanLanka](https://twitter.com/FerozKhanLanka/status/1544758292114595842)
 
@@ -1556,31 +1570,5 @@ Reality of නන්දි ගවයා
 ```
 
 ![image](https://pbs.twimg.com/media/FW-IxpNaIAAo22F.jpg)
-
----
-
-2022-07-06 14:14:43 by [poets_delight](https://twitter.com/poets_delight/status/1544603235465445379)
-
-1 videos, 0 photos
-
-```
-
-The people of Sri Lanka are really struggling. 
-
-The economy has completely collapsed. 
-
-No fuel. 
-
-Food and medicine shortages. 
-
-It's heartbreaking. 
-
-I hope it improves soon 🙏
-
-#GoHomeGota #SriLankanpoliticalcrisis https://t.co/3eFCPyATqa
-
-```
-
-
 
 ---
