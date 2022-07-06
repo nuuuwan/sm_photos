@@ -2,7 +2,7 @@
 
 import setuptools
 
-DIST_NAME = 'gh_template_py'
+DIST_NAME = 'sm_photos'
 VERSION = '1.0.0'
 
 setuptools.setup(
@@ -26,10 +26,8 @@ setuptools.setup(
     packages=setuptools.find_packages(where='src'),
     python_requires='>=3.6',
     install_requires=[
-        'bs4',
         'pytest',
-        'selenium',
-        'tweepy==3.10.0',
+        'tweepy',
         'utils-nuuuwan',
     ],
 )

@@ -1,1 +1,1 @@
-# gh_template_py
+# sm_photos
