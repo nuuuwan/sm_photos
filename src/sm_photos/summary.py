@@ -18,28 +18,28 @@ def render_tweet_info(tweet_info):
     tweet_info['id']
     user = tweet_info['user']
     text = tweet_info['text']
-
-    media_url = None
-    video_url_list = tweet_info['video_url_list']
-    photo_url_list = tweet_info['photo_url_list']
-
-    if video_url_list:
-        media_url = video_url_list[0]
-    elif photo_url_list:
-        media_url = photo_url_list[0]
-
     tweet_url = tweet_info['tweet_url']
     time_str = timex.format_time(
         tweet_info['time_create_ut'],
         timezone=timex.TIMEZONE_OFFSET_LK,
     )
+
+    media_url = None
+    video_url_list = tweet_info['video_url_list']
+    photo_url_list = tweet_info['photo_url_list']
+
+    line_media = ''
+    if photo_url_list:
+        media_url = photo_url_list[0]
+        line_media = f'![image]({media_url})'
+
     return [
         f'{time_str} by [{user}]({tweet_url})',
         f'{len(video_url_list)} videos, {len(photo_url_list)} photos',
         '```',
         text,
         '```',
-        f'![image]({media_url})',
+        line_media,
         '---',
     ]
 
