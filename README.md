@@ -14,7 +14,7 @@
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_T54LaMAEHm2u.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_T54LaMAEHm2u.jpg)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_S8SfaIAAS4ns.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_S8SfaIAAS4ns.jpg)
 
 ---
 
@@ -45,7 +45,7 @@
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_Ro2DVQAAu2yd.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_Ro2DVQAAu2yd.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ People protesting against this bullshit government. But the only country still r
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_QrypaQAA1yv0.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_QrypaQAA1yv0.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ This is Matara to Kandy Train. Sri Lanka 🇱🇰 is very critical situation in 
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_QEqKXoAInXML.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_QEqKXoAInXML.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ Someone please 🔫🔫🔫🔫🔫🔫 these clowns 🤡 for the love of Sri La
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_NkBeaUAEzEUY.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_NkBeaUAEzEUY.jpg)
 
 ---
 
@@ -106,7 +106,7 @@ I will be joining the #SLprotest with other IT professionals to support the #GoH
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_K4xpXEAA9gey.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_K4xpXEAA9gey.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ All professionals and members of the public let's join on 9th to express our dis
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_MHQVWQAMabgd.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_MHQVWQAMabgd.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ Let's work together ✊
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_Ilv4XwAEDLWi.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_Ilv4XwAEDLWi.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ Let's work together ✊
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_HmgnaMAI6ZVq.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_HmgnaMAI6ZVq.jpg)
 
 ---
 
@@ -173,7 +173,7 @@ Let's work together ✊
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_HXvDaMAAYDUp.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_HXvDaMAAYDUp.jpg)
 
 ---
 
@@ -187,7 +187,7 @@ We don't need this beggar anymore...👎 #GoHomeGota https://t.co/ZGXN1HtDMO
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_HXBMakAIX00u.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_HXBMakAIX00u.jpg)
 
 ---
 
@@ -201,7 +201,7 @@ I don’t care who comes next but #GoHomeGota #GoHomeGota2022 #protestLk #lka ht
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_GoiGXwAEgFT_.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_GoiGXwAEgFT_.jpg)
 
 ---
 
@@ -218,7 +218,7 @@ Do they know how it feels being at a fuel que???
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_BlhXX0AASepK.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_BlhXX0AASepK.jpg)
 
 ---
 
@@ -234,7 +234,7 @@ If you are living in #Melbourne, join the protest for justice &amp; a system cha
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_A9ZxakAADTuo.jpg=x100)
+![image](https://pbs.twimg.com/media/FW_A9ZxakAADTuo.jpg)
 
 ---
 
@@ -256,7 +256,7 @@ She is the brave woman started protest in front of president’s house in miriha
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544574584086843399/pu/vid/248x426/5WzNIuLV6E3kYVsH.mp4?tag=12=x100)
+![image](https://video.twimg.com/ext_tw_video/1544574584086843399/pu/vid/248x426/5WzNIuLV6E3kYVsH.mp4?tag=12)
 
 ---
 
@@ -270,7 +270,7 @@ Document shared during the start of meeting between activists, unions, oppositio
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-7mFpWIAA4zob.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-7mFpWIAA4zob.jpg)
 
 ---
 
@@ -284,7 +284,7 @@ Document shared during the start of meeting between activists, unions, oppositio
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-3CRUVsAAlom5.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-3CRUVsAAlom5.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ Document shared during the start of meeting between activists, unions, oppositio
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544597236541075456/pu/vid/320x564/Qd4TRE3Ws2XYzYK-.mp4?tag=12=x100)
+![image](https://video.twimg.com/ext_tw_video/1544597236541075456/pu/vid/320x564/Qd4TRE3Ws2XYzYK-.mp4?tag=12)
 
 ---
 
@@ -315,7 +315,7 @@ RT @I_am_Thomi: පොල්ගහවෙල ⛽ IOC අසල ජනතා ප�
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg)
 
 ---
 
@@ -333,7 +333,7 @@ Happening Now.
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-x62WWQAAj9a6.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-x62WWQAAj9a6.jpg)
 
 ---
 
@@ -348,7 +348,7 @@ Happening Now.
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-wC6KXgAMSfyZ.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-wC6KXgAMSfyZ.jpg)
 
 ---
 
@@ -363,7 +363,7 @@ Happening Now.
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-v_FlWIAE34Et.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-v_FlWIAE34Et.jpg)
 
 ---
 
@@ -379,7 +379,7 @@ They waste tear gas to attack those who are already lost and starving!
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4?tag=12=x100)
+![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4?tag=12)
 
 ---
 
@@ -394,7 +394,7 @@ They waste tear gas to attack those who are already lost and starving!
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-suu9XEAAiWtR.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-suu9XEAAiWtR.jpg)
 
 ---
 
@@ -410,7 +410,7 @@ We have missed so many !!!
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-sO5YX0AAClQN.png=x100)
+![image](https://pbs.twimg.com/media/FW-sO5YX0AAClQN.png)
 
 ---
 
@@ -424,7 +424,7 @@ Srilanka protest against the government and president. Sri Lanka is 'bankrupt,' 
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544642150855491585/pu/vid/524x270/j-CM_HjCFK70T8G5.mp4?tag=12=x100)
+![image](https://video.twimg.com/ext_tw_video/1544642150855491585/pu/vid/524x270/j-CM_HjCFK70T8G5.mp4?tag=12)
 
 ---
 
@@ -441,7 +441,7 @@ Srilanka protest against the government and president. Sri Lanka is 'bankrupt,' 
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-rWnrWIAEy2vx.jpg)
 
 ---
 
@@ -456,7 +456,7 @@ Come on. One more step to your dea*th. Wait few days f*cking Gota.
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-oUx7acAAK0_G.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-oUx7acAAK0_G.jpg)
 
 ---
 
@@ -473,6 +473,6 @@ This picture is worth a thousand words! 😓
 
 ```
 
-![image](https://pbs.twimg.com/media/FW-nbsvagAI8ozW.jpg=x100)
+![image](https://pbs.twimg.com/media/FW-nbsvagAI8ozW.jpg)
 
 ---
