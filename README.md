@@ -1,8 +1,22 @@
 # Social Media Photos
 
-*104 tweets*
+*105 tweets*
 
 ## 30 latest tweets
+
+2022-07-06 20:32:52 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1544698399764516864)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota2022 #GoHomeRanil2022 #GoHomeGota #gohomerajapaksas #July9th #gotagogama #peoplepower #peoplefirst  #SriLankaCrisis https://t.co/IANY4zmnPE
+
+```
+
+![image](https://video.twimg.com/ext_tw_video/1544698354281500673/pu/vid/320x426/zuGTh1D4Eeme57Oj.mp4)
+
+---
 
 2022-07-06 20:27:31 by [THIMIRA_LAK](https://twitter.com/THIMIRA_LAK/status/1544697054899077122)
 
@@ -455,21 +469,5 @@ Happening Now.
 ```
 
 ![image](https://pbs.twimg.com/media/FW-v_FlWIAE34Et.jpg)
-
----
-
-2022-07-06 16:59:12 by [Thanseel98](https://twitter.com/Thanseel98/status/1544644629366456320)
-
-1 videos, 0 photos
-
-```
-
-They waste tear gas to attack those who are already lost and starving!
-@GotabayaR @RW_UNP
-#GoHomeGota #SriLankan #SriLankaEconomicCrisis #SriLankaProtests #SriLanka https://t.co/WxRzlYw4ss
-
-```
-
-![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4)
 
 ---
