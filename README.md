@@ -1,10 +1,69 @@
 # Social Media Photos
 
-*115 tweets as of 20220706-220815*
+*119 tweets as of 20220706-222838*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 22:26:37 by [ANOVNI1](https://twitter.com/ANOVNI1/status/1544727026413838337)
+
+0 videos, 1 photos
+
+```
+
+@YourAnonSpider @Pankow77 @AnonsquadS3c @KevinAnonsquad @GiovannaGiov @OpHackass @VENOM_IT_S3C @MilaDiamond @SpoogemanGhost @emaNoN_7384 there is still a lot to do #GoHomeGota #GoHomeRajapaksa #OpSriLanka https://t.co/PZXNdjmswa
+
+```
+
+![image](https://pbs.twimg.com/media/FW_5CldXgAEbHTr.jpg)
+
+---
+
+2022-07-06 22:21:29 by [ChalanaJD](https://twitter.com/ChalanaJD/status/1544725735407063040)
+
+0 videos, 1 photos
+
+```
+
+Crude oil falls below $100 a barrel for the first time in nearly two months.
+
+#GoHomeGota #SriLankaEconomicCrisis #EconomicCrisisLK #SriLanka #OilPrice #RussiaUkraineWar #inflation https://t.co/SmQb8NyVhS
+
+```
+
+![image](https://pbs.twimg.com/media/FW_3V3DWYAEP6NX.jpg)
+
+---
+
+2022-07-06 22:20:01 by [lukshayanmuthu](https://twitter.com/lukshayanmuthu/status/1544725367931383809)
+
+1 videos, 0 photos
+
+```
+
+@RehanJayawick  &amp; @Hirunikaconnect  reached to the president palace gates where Sa is hiding . Respect #slk #SriLankan  #GoHomeGota #gohomeranil https://t.co/gbTHvKZ0Yj
+
+```
+
+
+
+---
+
+2022-07-06 22:11:31 by [RiyashaTweets](https://twitter.com/RiyashaTweets/status/1544723225686740992)
+
+0 videos, 1 photos
+
+```
+
+Wow! This spinless president feared the brave lady who had an extra nerve to always speak bold! 👏 Shame on you 
+@GotabayaR #GoHomeGota #lka https://t.co/bhm21qUCHF
+
+```
+
+![image](https://pbs.twimg.com/media/FW_1ll9aAAElYQN.jpg)
+
+---
 
 2022-07-06 22:04:33 by [NoahAmalan](https://twitter.com/NoahAmalan/status/1544721472295297024)
 
@@ -1535,64 +1594,5 @@ What should we expect from rulers who do not understand the suffering of the peo
 ```
 
 ![image](https://pbs.twimg.com/media/FW9QlU2XkAA7R1L.jpg)
-
----
-
-2022-07-06 09:59:17 by [DanulaDilanga](https://twitter.com/DanulaDilanga/status/1544538953507913728)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLankaCrisis #SriLanka https://t.co/ttGMmNYgK9
-
-```
-
-![image](https://pbs.twimg.com/media/FW9N_VEXwAIuqAf.jpg)
-
----
-
-2022-07-06 09:52:32 by [Vimukthi_93](https://twitter.com/Vimukthi_93/status/1544537254647177217)
-
-1 videos, 0 photos
-
-```
-
-සිය මව සමග කරාපිටිය පිලිකා රෝහලට ආපු දැරියක් අමුත්තන් රැදී සිටින ස්ථානයෙ ඔන්ලයින් අධ්‍යාපනය ලබන අයුරු...😑💔
-
-#GoHomeGota #SriLankaEconomicCrisis https://t.co/okEld6cUZa
-
-```
-
-
-
----
-
-2022-07-06 09:37:57 by [asitha__lk](https://twitter.com/asitha__lk/status/1544533584828157952)
-
-0 videos, 1 photos
-
-```
-
-ශ්‍රී ලාංකීය ඉතිහාසයේ ශ්‍රේෂ්ඨතම මහජන පිබිදීමට තව දින 3යි !!! #GoHomeGota2022 #EndGame2022 #Aragalaya #crisislk #GoHomeGota https://t.co/JOHhz80r8S
-
-```
-
-![image](https://pbs.twimg.com/media/FW9JGqkX0AYiu4Q.jpg)
-
----
-
-2022-07-06 09:37:34 by [minindu_ddm](https://twitter.com/minindu_ddm/status/1544533490263212032)
-
-0 videos, 1 photos
-
-```
-
-There is nothing to say.
-#GoHomeGota https://t.co/21TRR99gBI
-
-```
-
-![image](https://pbs.twimg.com/media/FW9JA6HVUAAb4GZ.jpg)
 
 ---
