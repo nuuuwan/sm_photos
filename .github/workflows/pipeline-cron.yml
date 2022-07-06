@@ -1,10 +1,9 @@
 
 name: Pipeline (Cron)
 
-# on:
-#  schedule:
-#    - cron:  "0 11 * * *"
-on: workflow_dispatch
+on:
+ schedule:
+   - cron:  "*/10 * * * *"
 
 
 jobs:
