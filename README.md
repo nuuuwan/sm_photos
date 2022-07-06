@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*151 tweets as of 20220707-011423*
+*152 tweets as of 20220707-012429*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 01:18:15 by [ChirathPerera89](https://twitter.com/ChirathPerera89/status/1544770221654740993)
+
+0 videos, 1 photos
+
+```
+
+😱 Devil is here… 
+
+#SriLankaCrisis #SriLanka #SriLankaProtests #GotaGoHome2022 #GoHomeGota #imf https://t.co/nYXGqg20S1
+
+```
+
+![image](https://pbs.twimg.com/media/FXAgUw0XoAEMlhe.jpg)
+
+---
 
 2022-07-07 01:10:03 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544768157734227968)
 
@@ -1561,19 +1577,5 @@ Come out Nande! Enough is ENOUGH!
 ```
 
 ![image](https://pbs.twimg.com/media/FW-KVaMXwAEstjy.jpg)
-
----
-
-2022-07-06 14:19:51 by [NikRNanayakkara](https://twitter.com/NikRNanayakkara/status/1544604527969828864)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/HPpTik8RBx
-
-```
-
-![image](https://pbs.twimg.com/media/FW-JlmAacAAlF_I.jpg)
 
 ---
