@@ -12,7 +12,7 @@
 
 ```
 
-![image](https://pbs.twimg.com/media/FW_S8SfaIAAS4ns.jpg)
+![image](https://pbs.twimg.com/media/FW_S8SfaIAAS4ns.jpg=x100)
 
 ---
 
