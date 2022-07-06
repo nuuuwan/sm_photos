@@ -51,9 +51,10 @@ def build_readme():
     for tweet_info in tweet_info_list[:N]:
         rendered_last_n_tweets += render_tweet_info(tweet_info)
 
+    time_id = timex.get_time_id(timezone=timex.TIMEZONE_OFFSET_LK)    
     lines = [
         '# Social Media Photos',
-        f'*{len(tweet_info_list)} tweets*',
+        f'*{len(tweet_info_list)} tweets as of {time_id}*',
         '![collage.png](collage.png)',
         f'## {N} latest tweets',
     ] + rendered_last_n_tweets
