@@ -71,5 +71,5 @@ class TWTR:
             )
             tweet_info_list.append(tweet_info)
 
-        log.info(f'Found {len(tweet_info_list)} images')
+        log.info(f'Found {len(tweet_info_list)} tweets')
         return tweet_info_list
