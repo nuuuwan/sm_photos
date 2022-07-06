@@ -1,10 +1,44 @@
 # Social Media Photos
 
-*145 tweets as of 20220707-001041*
+*147 tweets as of 20220707-002225*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 00:16:38 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544754713089871874)
+
+0 videos, 1 photos
+
+```
+
+2 Days More! 
+
+Are you Ready? 
+
+#GoHomeGota #GoHomeRanil https://t.co/QqeZf7FOrr
+
+```
+
+![image](https://pbs.twimg.com/media/FXASOB5WIAEQjwE.jpg)
+
+---
+
+2022-07-07 00:12:13 by [M_Jazath](https://twitter.com/M_Jazath/status/1544753603537240066)
+
+0 videos, 1 photos
+
+```
+
+9th of July if you coming to colombo... please be prepared and come... eye goggles , mask, helmet.... and also emergency kit too.... we need to resolve this crisis because it our mother land 🥺🥺🥺 we are responsible to re create our mother.
+
+#GoHomeGota #EconomicCrisis https://t.co/QVhe7Nje78
+
+```
+
+![image](https://pbs.twimg.com/media/FXARNrvXEAE6sO2.jpg)
+
+---
 
 2022-07-06 23:59:55 by [razor_fade1](https://twitter.com/razor_fade1/status/1544750506739806208)
 
@@ -1548,35 +1582,5 @@ I hope it improves soon 🙏
 ```
 
 ![image](https://pbs.twimg.com/media/FW-HUV4XEAEspnP.jpg)
-
----
-
-2022-07-06 14:02:54 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544600262060363782)
-
-0 videos, 1 photos
-
-```
-
-Why are we in Two sides Fighting against each other? Come this side &amp; Lets fight against the common Enemy!!
-
-#GoHomeGota #PoliceBrutality https://t.co/DRhPKErGMX
-
-```
-
-![image](https://pbs.twimg.com/media/FW-FvnaWYAAxLK-.jpg)
-
----
-
-2022-07-06 13:49:38 by [IsharaMadhu](https://twitter.com/IsharaMadhu/status/1544596924145102848)
-
-0 videos, 1 photos
-
-```
-
-A Common Action Plan was presented to the public by the Galle Face protestors yesterday (July 5th) based of this, we have also issued an open call to all political parties in the opposition, civil society &amp; trade unions. 1/1 #GoHomeGota #අරගලයටඡය https://t.co/ByjQAzVeMJ
-
-```
-
-![image](https://pbs.twimg.com/media/FW-Ckq4UEAIg0Ih.jpg)
 
 ---
