@@ -1,10 +1,103 @@
 # Social Media Photos
 
-*127 tweets as of 20220706-225415*
+*133 tweets as of 20220706-230922*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 23:08:51 by [ashvincj](https://twitter.com/ashvincj/status/1544737653899214854)
+
+1 videos, 0 photos
+
+```
+
+Polim left 😂 #GoHomeGota https://t.co/Y4k7tFaZKd
+
+```
+
+
+
+---
+
+2022-07-06 23:08:15 by [MyTurnNow_Lk](https://twitter.com/MyTurnNow_Lk/status/1544737503886061568)
+
+0 videos, 2 photos
+
+```
+
+හිරුණිකා විතරක් නෙවෙයි අරගල කරන  පිටකොන්ද හයිය ගෑනි.. ඕනෑතරම් එහෙම ගෑනු ඉන්නවා මේ මහපොලවේ.... 
+පොඩි වෙනසයි තියෙන්නේ.... හිරුනිකා කරන්නේ කැම්පේන් එකක් 
+අනිත් ගෑනු කරන්නේ අරගලයක්....
+
+#Hirunika #EconomicCrisisLK #GoHomeGota https://t.co/TE70MmItbo
+
+```
+
+![image](https://pbs.twimg.com/media/FXABOkPaUAEoa7M.png)
+
+---
+
+2022-07-06 23:02:13 by [AshenGunawarda1](https://twitter.com/AshenGunawarda1/status/1544735986646921216)
+
+1 videos, 0 photos
+
+```
+
+මිනිස්සු 💔
+#GoHomeGota https://t.co/5p2MTiNx4A
+
+```
+
+
+
+---
+
+2022-07-06 23:00:06 by [izam_saveen](https://twitter.com/izam_saveen/status/1544735453168934912)
+
+0 videos, 1 photos
+
+```
+
+Photo from Saveen Izam
+#GoHomeGota n Ranil https://t.co/JuLikhQhJ4
+
+```
+
+![image](https://pbs.twimg.com/media/FXAAZ6jWYAEZ4l3.jpg)
+
+---
+
+2022-07-06 22:56:46 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544734613582401536)
+
+0 videos, 1 photos
+
+```
+
+ස' මිනිස්සු ඔක්කොම එක පැත්තක් දැන්. ඔයා දැන් ගෙදර යන්න
+
+#GoHomeGota https://t.co/vLh3ut7Vjo
+
+```
+
+![image](https://pbs.twimg.com/media/FW__8aBWAAI06Al.jpg)
+
+---
+
+2022-07-06 22:56:13 by [imrisath](https://twitter.com/imrisath/status/1544734477783429120)
+
+0 videos, 1 photos
+
+```
+
+People are dying. They are laughing.🥺
+#GoHomeGota #SriLankaCrisis https://t.co/bJsxlgB8xb
+
+```
+
+![image](https://pbs.twimg.com/media/FW__0fAUYAEZFAF.jpg)
+
+---
 
 2022-07-06 22:51:58 by [Jeevanifdo](https://twitter.com/Jeevanifdo/status/1544733406080208896)
 
@@ -1490,101 +1583,5 @@ I don't agree with her political party. But I love her attitude, gut feelings an
 ```
 
 ![image](https://pbs.twimg.com/media/FW9o6KQWQAIktRN.jpg)
-
----
-
-2022-07-06 11:47:05 by [sandunruki](https://twitter.com/sandunruki/status/1544566084732346370)
-
-0 videos, 1 photos
-
-```
-
-Country need this type of #MP s @RamanayakeR @Hirunika_Premac  #IronLady #WonderWomanSL #GoHomeGota #GoHomeRajapaksas https://t.co/ruiy2aZXjk
-
-```
-
-![image](https://pbs.twimg.com/media/FW9mGumXkAAX_SQ.jpg)
-
----
-
-2022-07-06 11:41:06 by [ShafarSham](https://twitter.com/ShafarSham/status/1544564577458847746)
-
-1 videos, 0 photos
-
-```
-
-Bravo @Hirunikaconnect 
-
-For the ones who are good at nothing but complaining about the crisis &amp; the other  who says protesting is not good KEEP SLEEPING DO NOT WAKE UP. I'm not overrating Hirunika, but I am Super proud of her.  1/
-
-#GoHomeGota #lka https://t.co/nI0i6ZJA0f
-
-```
-
-
-
----
-
-2022-07-06 11:32:07 by [heavybstyles](https://twitter.com/heavybstyles/status/1544562318167707648)
-
-1 videos, 0 photos
-
-```
-
-RT @LihiniFernando: Hirunika @Hirunikaconnect strikes again 
-
-Bravo 👏 #GoHomeGota https://t.co/6u6CM11EE8
-
-```
-
-
-
----
-
-2022-07-06 11:24:30 by [Menitweet](https://twitter.com/Menitweet/status/1544560399294480385)
-
-1 videos, 0 photos
-
-```
-
-හිරුනිකා ආවා! 🇱🇰 🗣 
-
-@GotabayaR time to face your people ✊🏿✊🏽✊🏼
-
-@Hirunikaconnect @sjbsrilanka #GoHomeGota https://t.co/X44bzwAovI
-
-```
-
-
-
----
-
-2022-07-06 11:19:03 by [ShamlanShmsdn](https://twitter.com/ShamlanShmsdn/status/1544559026666893313)
-
-1 videos, 0 photos
-
-```
-
-GTA ChiLanka Town #GTA6 #GoHomeGota #economiccrisissl https://t.co/ptW5pQFxom
-
-```
-
-
-
----
-
-2022-07-06 11:15:17 by [To_Iflal](https://twitter.com/To_Iflal/status/1544558081929261056)
-
-1 videos, 0 photos
-
-```
-
-On July 9th.....
-
-#GoHomeGota #GoHomeGota2022 #SriLanka #SriLankaEconomicCrisis https://t.co/rZ5FrlczuF
-
-```
-
-
 
 ---
