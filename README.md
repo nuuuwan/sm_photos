@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*154 tweets as of 20220707-020103*
+*155 tweets as of 20220707-021511*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 02:06:24 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544782338441216003)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota #GoHomeGota2022 #GotaGoHome #GotaGoHome2022 #GotaGoGama #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #SriLankaProtests #July9th #july9 #GoHomeRanil #GoHomeRajapaksas https://t.co/YCtLdb8WbY
+
+```
+
+
+
+---
 
 2022-07-07 01:31:38 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544773589366255616)
 
@@ -1573,21 +1587,5 @@ Come out Nande! Enough is ENOUGH!
 ```
 
 
-
----
-
-2022-07-06 14:28:42 by [sunandadesh](https://twitter.com/sunandadesh/status/1544606757074440193)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka  #GoHomeRanil  #GoHomeGota
-මිනිස් අයිතිය ගැන අංශු මත්ක්‍රයක් නොදන්න මේ වගේ බූරුවෝ තමයි කාලයක් වීරයො වගේ හිටියේ! A monkey minister who does not understand  an iota of truth  of HR now says he will stop we coming back to do our job! පලයන් හුම්තෝ යන්න!
-@nanayakkara77 https://t.co/z10YSEl8KR
-
-```
-
-![image](https://pbs.twimg.com/media/FW-KkovXwAAhCwt.png)
 
 ---
