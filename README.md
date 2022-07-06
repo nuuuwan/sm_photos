@@ -1,10 +1,29 @@
 # Social Media Photos
 
-*108 tweets*
+*109 tweets*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 21:02:44 by [BizColombo](https://twitter.com/BizColombo/status/1544705914883768327)
+
+0 videos, 1 photos
+
+```
+
+බොස්ව දැක්කම පුටුවෙන් නැගිටින්නෙ නැතුව ඩෝන්ට් කෙයා ඉන්න, I work here just like you attitude තියෙන පිරිමියි
+ගුමෝනින් සෑර් කියාගෙන තොඳොල් වෙන්න යන්නෙ නැති ගෑණුයි විතරක් කාන්චගෙ කොන්ද ගැන ට්වීට් දාන්න ප්ලීස්
+
+#GoHomeGota 
+#GoHomeGota2022 
+#GoHomeRajapaksas https://t.co/JdkCzUe6rg
+
+```
+
+![image](https://pbs.twimg.com/media/FW_k2rSacAIs_JD.png)
+
+---
 
 2022-07-06 20:58:33 by [Ranuka_Perera2](https://twitter.com/Ranuka_Perera2/status/1544704863547711489)
 
@@ -1576,22 +1595,5 @@ Cartoon by @RcSullan
 ```
 
 ![image](https://pbs.twimg.com/media/FW85GT6WIAUm_xX.jpg)
-
----
-
-2022-07-06 08:25:11 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544515273901764610)
-
-0 videos, 1 photos
-
-```
-
-Creative 🖤🇱🇰
-
-#අරගලයටජය
-#GoHomeGota https://t.co/KTkDQecjiK
-
-```
-
-![image](https://pbs.twimg.com/media/FW84dJhWAAQAhzJ.jpg)
 
 ---
