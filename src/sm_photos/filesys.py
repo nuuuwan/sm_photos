@@ -8,7 +8,7 @@ from sm_photos._utils import log
 
 def init():
     git = Git(URL_GIT_REPO)
-    git.clone(DIR_DATA, force=True)
+    git.clone(DIR_DATA, force=False)
     git.checkout('data')
 
     if not os.path.exists(DIR_TWTR_DATA):
