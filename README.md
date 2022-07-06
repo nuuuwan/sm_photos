@@ -1,6 +1,6 @@
 # Social Media Photos
 
-*104 tweets*
+*100 tweets*
 
 ## 30 latest tweets
 
@@ -286,7 +286,7 @@ She is the brave woman started protest in front of president’s house in miriha
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544574584086843399/pu/vid/248x426/5WzNIuLV6E3kYVsH.mp4?tag=12)
+![image](https://video.twimg.com/ext_tw_video/1544574584086843399/pu/vid/248x426/5WzNIuLV6E3kYVsH.mp4)
 
 ---
 
@@ -328,7 +328,7 @@ Document shared during the start of meeting between activists, unions, oppositio
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544597236541075456/pu/vid/320x564/Qd4TRE3Ws2XYzYK-.mp4?tag=12)
+![image](https://video.twimg.com/ext_tw_video/1544597236541075456/pu/vid/320x564/Qd4TRE3Ws2XYzYK-.mp4)
 
 ---
 
@@ -409,7 +409,7 @@ They waste tear gas to attack those who are already lost and starving!
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4?tag=12)
+![image](https://video.twimg.com/ext_tw_video/1544644366924660736/pu/vid/320x568/vRKtsRKv0dzO0s7c.mp4)
 
 ---
 
@@ -454,7 +454,7 @@ Srilanka protest against the government and president. Sri Lanka is 'bankrupt,' 
 
 ```
 
-![image](https://video.twimg.com/ext_tw_video/1544642150855491585/pu/vid/524x270/j-CM_HjCFK70T8G5.mp4?tag=12)
+![image](https://video.twimg.com/ext_tw_video/1544642150855491585/pu/vid/524x270/j-CM_HjCFK70T8G5.mp4)
 
 ---
 
