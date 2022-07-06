@@ -1,10 +1,25 @@
 # Social Media Photos
 
-*105 tweets*
+*106 tweets*
 
-![collage.png]()
+![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 20:52:26 by [mansoorlk](https://twitter.com/mansoorlk/status/1544703325727117312)
+
+0 videos, 1 photos
+
+```
+
+#inflation #GoHomeGota2022 #GoHomeGota #GoHomeRajapakshas 
+#SriLankaEconomicCrisis https://t.co/G6HdV1yyDe
+
+```
+
+![image](https://pbs.twimg.com/media/FW_jezKaQAIKVEZ.jpg)
+
+---
 
 2022-07-06 20:32:52 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1544698399764516864)
 
@@ -1575,21 +1590,5 @@ Creative 🖤🇱🇰
 ```
 
 ![image](https://pbs.twimg.com/media/FW80qIGaAAA0VJ2.jpg)
-
----
-
-2022-07-06 08:08:09 by [cartoonlka](https://twitter.com/cartoonlka/status/1544510986845143041)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #protestlk https://t.co/YC452FpK95
-
-```
-
-![image](https://pbs.twimg.com/media/FW80jTzWIAIaUqV.jpg)
 
 ---
