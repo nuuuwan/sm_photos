@@ -1,10 +1,54 @@
 # Social Media Photos
 
-*152 tweets as of 20220707-012429*
+*154 tweets as of 20220707-013602*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 01:31:38 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544773589366255616)
+
+1 videos, 0 photos
+
+```
+
+Kandy turning up the heat in the lead up to the 9th! 
+
+#EndGame 
+Everyone, let’s get to the streets!
+It’s now or never!
+
+#takebackourpower✊🏾#lka 
+#GotaPoda 
+#GotaPalayang
+#GoHomeGota
+#GoHomeRajapaksas https://t.co/GHHQl47AAn
+
+```
+
+
+
+---
+
+2022-07-07 01:30:31 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544773305802039297)
+
+1 videos, 0 photos
+
+```
+
+ශ්‍රී ලංකා ඉතිහාසයේ ශ්‍රේෂ්ඨතම මහජන පිබිදීම 🇱🇰
+
+The greatest public awakening in the history of Sri Lanka 🇱🇰
+
+இலங்கை வரலாற்றில் மிகப்பெரும் பொது விழிப்புணர்வு 🇱🇰
+
+@nuzlyMN @thila794 #lka #GoHomeGota @Hirunikaconnect @RehanJayawick @munza14 @roelraymond @AthaudaDasuni @Bloktimus https://t.co/6YdXM7jCGn
+
+```
+
+
+
+---
 
 2022-07-07 01:18:15 by [ChirathPerera89](https://twitter.com/ChirathPerera89/status/1544770221654740993)
 
@@ -1545,37 +1589,5 @@ Come out Nande! Enough is ENOUGH!
 ```
 
 ![image](https://pbs.twimg.com/media/FW-KkovXwAAhCwt.png)
-
----
-
-2022-07-06 14:25:21 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544605912668639233)
-
-0 videos, 1 photos
-
-```
-
-රට ම කොළඹට!
-
-#GoHomeGota #GotaGoHome #ArrestMahinda https://t.co/Yp0MvleK4z
-
-```
-
-![image](https://pbs.twimg.com/media/FW-K4jVWIAAZGpx.jpg)
-
----
-
-2022-07-06 14:23:00 by [She_is_Nu](https://twitter.com/She_is_Nu/status/1544605322051956736)
-
-0 videos, 1 photos
-
-```
-
-රට ම කොළඹට!
-
-#GoHomeGota #GotaGoHome #ArrestMahinda https://t.co/C6rvSy9TQY
-
-```
-
-![image](https://pbs.twimg.com/media/FW-KVaMXwAEstjy.jpg)
 
 ---
