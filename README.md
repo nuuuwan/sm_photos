@@ -1,10 +1,34 @@
 # Social Media Photos
 
-*150 tweets as of 20220707-010553*
+*151 tweets as of 20220707-011423*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 01:10:03 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544768157734227968)
+
+0 videos, 4 photos
+
+```
+
+Protest Schedule July 07th;
+
+Let’s keep fighting!
+The struggle is not over!
+
+#EndGame
+#takebackourpower✊🏾#lka 
+#GotaPoda 
+#GotaPalayang
+#GoHomeGota
+#GoHomeRajapaksas https://t.co/8H4EIRki4P
+
+```
+
+![image](https://pbs.twimg.com/media/FXAecaaXgAA-zPN.jpg)
+
+---
 
 2022-07-07 00:54:09 by [harshap](https://twitter.com/harshap/status/1544764155328184325)
 
@@ -1551,23 +1575,5 @@ Come out Nande! Enough is ENOUGH!
 ```
 
 ![image](https://pbs.twimg.com/media/FW-JlmAacAAlF_I.jpg)
-
----
-
-2022-07-06 14:18:30 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544604188658651138)
-
-0 videos, 1 photos
-
-```
-
-Reality of නන්දි ගවයා 
-
-#අරගලයටජය
-#GoHomeGota 
-#lka https://t.co/t5THniqzGZ
-
-```
-
-![image](https://pbs.twimg.com/media/FW-JUTKWIAg2r6-.jpg)
 
 ---
