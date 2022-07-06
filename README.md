@@ -1,7 +1,8 @@
 # Social Media Photos
 
 *105 tweets*
-![](collage.png)
+![collage.png](collage.png)
+
 ## 100 latest tweets
 
 2022-07-06 20:32:52 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1544698399764516864)
