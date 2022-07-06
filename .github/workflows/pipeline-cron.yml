@@ -33,7 +33,7 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/pipeline.py --hashtag "${{ secrets.HASHTAG }}"
       env:
-        TWTR_BEARER_TOKEN: "${{ secrets.TWTR_BEARER_TOKEN }}"     
+        TWTR_BEARER_TOKEN: "${{ secrets.TWTR_BEARER_TOKEN }}"
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
@@ -45,7 +45,7 @@ jobs:
       run: |
         git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
         git config --global user.name "${{ secrets.GIT_USER_NAME }}"
-        cp /tmp/sm_photos.* .
+        cp -r /tmp/sm_photos.data .
         echo "* $(date)" >> update.log
         git add .
         git commit -m "Updated data $(date)"
