@@ -1,10 +1,35 @@
 # Social Media Photos
 
-*155 tweets as of 20220707-034834*
+*156 tweets as of 20220707-040057*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 03:53:46 by [SriLives](https://twitter.com/SriLives/status/1544809356503416833)
+
+1 videos, 0 photos
+
+```
+
+රටම කොළඹට 
+THE WHOLE COUNTRY TO COLOMBO- ON 9th OF JULY 2022
+#GoHomeGota
+#GoHomeGota2022
+#Gotagogama_London
+#gotagogama
+#SriLankaCrisis
+#SriLankaEconomicCrisis
+#gohomeranil
+#returnourstolenmoney
+#api5
+#pannamu https://t.co/dActHgYz98
+
+```
+
+
+
+---
 
 2022-07-07 02:06:24 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544782338441216003)
 
@@ -1571,21 +1596,5 @@ Picture courtesy @TheMorningLK
 ```
 
 ![image](https://pbs.twimg.com/media/FW-OoSLXkAAUh7o.jpg)
-
----
-
-2022-07-06 14:31:08 by [NikRNanayakkara](https://twitter.com/NikRNanayakkara/status/1544607368713224192)
-
-1 videos, 0 photos
-
-```
-
-Come out Nande! Enough is ENOUGH!
-
-#GoHomeGota https://t.co/0LHrrZftZX
-
-```
-
-
 
 ---
