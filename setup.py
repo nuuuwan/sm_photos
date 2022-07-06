@@ -29,5 +29,6 @@ setuptools.setup(
         'pytest',
         'tweepy',
         'utils-nuuuwan',
+        'Pillow',
     ],
 )

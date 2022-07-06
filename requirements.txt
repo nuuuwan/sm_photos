@@ -2,3 +2,4 @@
 pytest
 tweepy
 utils-nuuuwan
+Pillow
