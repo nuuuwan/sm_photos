@@ -28,7 +28,7 @@ class TWTR:
             tweet_fields=['context_annotations', 'created_at'],
             media_fields=['variants', 'url'],
             expansions='attachments.media_keys,author_id',
-            max_results=100,
+            max_results=1000,
         )
 
         media_idx = {m["media_key"]: m for m in tweets.includes['media']}
