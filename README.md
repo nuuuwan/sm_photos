@@ -1,10 +1,77 @@
 # Social Media Photos
 
-*141 tweets as of 20220706-235228*
+*145 tweets as of 20220707-001041*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-06 23:59:55 by [razor_fade1](https://twitter.com/razor_fade1/status/1544750506739806208)
+
+0 videos, 1 photos
+
+```
+
+Razor Fade Barber Shop Milton 
+#razorfadebarbershop1 
+#razorfadebarbershop
+#GhumHaiKisikeyPyaarMeiin 
+#gold #gcses2022 #GoHomeGota #GeneralElectionNow #GetWellSoonMile #GenshinImpact #Giveaway #genshinleaks #howaboutnow #HighlandPark #H1KEY #HBDIconOfMillionsDhoni #HandeErcel https://t.co/cL8KSroM03
+
+```
+
+![image](https://pbs.twimg.com/media/FXAOZitVEAETkX_.jpg)
+
+---
+
+2022-07-06 23:59:01 by [pcplustech](https://twitter.com/pcplustech/status/1544750279991894016)
+
+0 videos, 1 photos
+
+```
+
+අපි stf, ගොන් පාට් දාං අාවෝත් KG කැල්ලක් එක්ක අැතුලට දානව,..... තොපි වගේ පකයින්ගේ පවුල් පිටින් හැදිගැවියන්..... #GoHomeGota https://t.co/ZnPrFtYwoe
+
+```
+
+![image](https://pbs.twimg.com/media/FXAOMUPacAALMzx.jpg)
+
+---
+
+2022-07-06 23:58:04 by [pcplustech](https://twitter.com/pcplustech/status/1544750039750549505)
+
+1 videos, 0 photos
+
+```
+
+ගොඨා බයගේ පිස්සු බල්ලෝ... #HumanRights #GoHomeGota https://t.co/3GDOucPyD6
+
+```
+
+
+
+---
+
+2022-07-06 23:57:52 by [razor_fade1](https://twitter.com/razor_fade1/status/1544749989745664000)
+
+0 videos, 1 photos
+
+```
+
+Razor Fade Barber Shop Milton 
+#razorfadebarbershop1 
+#razorfadebarbershop
+#hair 
+#Haircut
+#Giveaway 
+#genshinleaks 
+#GentleMinions #GenshinImpact #GetWellSoonMile #GeneralElectionNow #Gempa #GizliSakli #GapQ6น้ําตาตกแน่นอน #GoHomeGota #gcses2022 #gold #gold #go https://t.co/xclcVxwp1H
+
+```
+
+![image](https://pbs.twimg.com/media/FXAN7fDVQAAlyNG.jpg)
+
+---
 
 2022-07-06 23:48:19 by [udeshan](https://twitter.com/udeshan/status/1544747588712247296)
 
@@ -1511,67 +1578,5 @@ A Common Action Plan was presented to the public by the Galle Face protestors ye
 ```
 
 ![image](https://pbs.twimg.com/media/FW-Ckq4UEAIg0Ih.jpg)
-
----
-
-2022-07-06 13:28:41 by [officiallahiru](https://twitter.com/officiallahiru/status/1544591650252636162)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by 
-@NamalAmarasing
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #protestlk https://t.co/FCLLiefstl
-
-```
-
-![image](https://pbs.twimg.com/media/FW991Q6WQAAkZkT.jpg)
-
----
-
-2022-07-06 13:22:59 by [RPiyathma](https://twitter.com/RPiyathma/status/1544590215251054593)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRajapaksas #GoHomeRanil https://t.co/O4VkWXx5EV
-
-```
-
-![image](https://pbs.twimg.com/media/FW98m9DXwAARySM.jpg)
-
----
-
-2022-07-06 13:10:54 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544587177249476610)
-
-0 videos, 1 photos
-
-```
-
-රටවෙනුවෙන් එක්ව සිටගමු 
-#GoHomeGota https://t.co/2P0B3Rc0tZ
-
-```
-
-![image](https://pbs.twimg.com/media/FW952SFUcAEUIHY.jpg)
-
----
-
-2022-07-06 13:00:00 by [NarrativeHindi](https://twitter.com/NarrativeHindi/status/1544584433256112128)
-
-1 videos, 0 photos
-
-```
-
-#SriLanka के राष्ट्रपति @GotabayaR को मंगलवार को संसद छोड़ कर जाना पड़ा। श्रीलंका की संसद में कुछ सांसदों ने 'गोटा घर जाओ' के नारे लगाए 
-
-#NarrativeHindi #GotaGoHome2022 #GotabayaRajapaksa #SriLankan #GoHomeGota #SriLankaEconomicCrisis @ParliamentLK @HarshadeSilvaMP https://t.co/VnAY2cHG5x
-
-```
-
-
 
 ---
