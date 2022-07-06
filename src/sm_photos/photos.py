@@ -3,7 +3,7 @@ import os
 
 from PIL import Image
 
-from sm_photos._constants import DIR_TWTR_DATA
+from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
 WIDTH, HEIGHT = 80, 45
@@ -33,7 +33,7 @@ def build_collage():
         iy = (int)(i / dim)
 
         image_collage.paste(image, (ix * WIDTH, iy * HEIGHT))
-    collage_file = os.path.join(DIR_TWTR_DATA, 'collage.png')
+    collage_file = os.path.join(DIR_DATA, 'collage.png')
     image_collage.save(collage_file)
 
     log.info(f'Wrote {n} images to {collage_file}')
