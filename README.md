@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*283 tweets as of 20220707-162809*
+*284 tweets as of 20220707-164924*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 16:44:55 by [Heshan_KV](https://twitter.com/Heshan_KV/status/1545003421014835201)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/Woce1IEKrg
+
+```
+
+![image](https://pbs.twimg.com/media/FXD0bF_aIAE_FjJ.jpg)
+
+---
 
 2022-07-07 16:19:14 by [udeshan](https://twitter.com/udeshan/status/1544996960158920704)
 
@@ -1564,19 +1578,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB0XyBWIAAmd2R.jpg)
-
----
-
-2022-07-07 07:25:21 by [udeshan](https://twitter.com/udeshan/status/1544862601451933697)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR @KellyKeiderling @RKaproth @JoeBiden #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/ZwrE4x0fPh
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0WCFXgAASwAg.jpg)
 
 ---
