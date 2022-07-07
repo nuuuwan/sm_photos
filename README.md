@@ -1,10 +1,59 @@
 # Social Media Photos
 
-*329 tweets as of 20220707-233644*
+*332 tweets as of 20220708-000301*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 23:52:19 by [MkAbdulAzees56](https://twitter.com/MkAbdulAzees56/status/1545110981625483265)
+
+1 videos, 0 photos
+
+```
+
+Ane sir please tell @GotabayaR 
+#GoHomeRajapakshas #GoHomeGota https://t.co/7w5hQ2s22U
+
+```
+
+---
+
+2022-07-07 23:50:39 by [_thinkholic](https://twitter.com/_thinkholic/status/1545110564229197824)
+
+0 videos, 1 photos
+
+```
+
+#රටමකොළඹට #JoinTheProtest #SriLankaUprising #GoHomeGota #GoHomeRajapaksas https://t.co/xh4Vwhtfa0
+
+```
+
+![image](https://pbs.twimg.com/media/FXFV29rWAAETEFI.jpg)
+
+---
+
+2022-07-07 23:41:11 by [adopteeslk](https://twitter.com/adopteeslk/status/1545108181973536768)
+
+0 videos, 3 photos
+
+```
+
+Handsome 5 month old boy up for free adoption at Ja-Ela. Adorable, playful, very active &amp; affectionate. Can fund the immediate vaccinations. Can fund transport.
+
+Contact: Amritha - 077 251 3010
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st https://t.co/vrgqf3rik8
+
+```
+
+![image](https://pbs.twimg.com/media/FXFTszyUYAEzm6T.jpg)
+
+![image](https://pbs.twimg.com/media/FXFTszzUYAI5NkW.jpg)
+
+![image](https://pbs.twimg.com/media/FXFTsz1VEAE2Vco.jpg)
+
+---
 
 2022-07-07 23:33:55 by [imdionlloyd](https://twitter.com/imdionlloyd/status/1545106351189151744)
 
@@ -1385,19 +1434,5 @@ Country is also facing record high inflation and protracted power blackouts, of 
 ```
 
 ![image](https://pbs.twimg.com/media/FXCrvv1UcAEs0Vr.jpg)
-
----
-
-2022-07-07 11:27:51 by [Chandana1609](https://twitter.com/Chandana1609/status/1544923630064529408)
-
-0 videos, 1 photos
-
-```
-
-@kanchana_wij your talking system is a utter failure and now blocking entire road at mahabage #මොලේපුකේද #SriLankaCrisis #GoHomeGota https://t.co/UI4YZBjN1i
-
-```
-
-![image](https://pbs.twimg.com/media/FXCr2QfacAAtOtv.jpg)
 
 ---
