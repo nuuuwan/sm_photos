@@ -11,13 +11,14 @@ def main(hashtag):
     for tweet_info in tweet_info_list:
         filesys.download_and_save(tweet_info)
     summary.build_summary()
-    summary.build_readme()
     collage.build_collage()
 
     base_image_file = 'media/text.sketch.png'
     photo_file_list = dedupe.dedupe_photos(photos.get_photo_file_list())
     text_collage.build_text_collage(base_image_file, photo_file_list)
     text_collage.metarize()
+
+    summary.build_readme()
 
 
 def get_options():
