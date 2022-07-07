@@ -1,6 +1,6 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-142940*
+*266 tweets as of 20220707-143248*
 
 ![animation](text_collage_image.animation.gif)
 
@@ -200,6 +200,27 @@ Are you Ready?
 ```
 
 ![image](https://pbs.twimg.com/media/FXDD5hJXwAEHsXP.jpg)
+
+---
+
+2022-07-07 12:41:13 by [nuuuwan](https://twitter.com/nuuuwan/status/1544942095156355074)
+
+0 videos, 1 photos
+
+```
+
+There has been a resurgence of #GoHomeGota tweets, 
+evidently in preparation for July 9th. 
+
+Here's a collage made of the said tweets which contained images. 
+
+You can find the original version - a mere 80MB - at https://t.co/5algKSVI88
+
+#SriLanka #GoHomeGota2022 https://t.co/N74PXcYMpQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXC8bWGWIAAMWPg.jpg)
 
 ---
 
@@ -835,6 +856,24 @@ Let’s do this 🪧 🇱🇰
 ```
 
 ![image](https://pbs.twimg.com/media/FXCY-q9WIAMuR04.jpg)
+
+---
+
+2022-07-07 10:03:04 by [asmrashid27](https://twitter.com/asmrashid27/status/1544902294101278720)
+
+0 videos, 1 photos
+
+```
+
+இலங்கை அரசாங்க ஊழியர்கள்
+சம்பளம் பற்றாக்குறைக்கு வேலைன்னிறுத்தி போராட்டம் செய்வார்கள். நாட்டுமக்களுக்காக வேலைனிருத்தம் செய்யமாட்டார்கள். அரசாங்க ஊழியர்கள் சுயநலவாதிகள்.
+போராட்டம் செய்ய வேண்டாம் பொறுமையாக கார்த்திருங்கள் 
+காலம் உங்களை கவனிக்கம் .....
+#GoHomeGota https://t.co/GVKXZXIDgP
+
+```
+
+![image](https://pbs.twimg.com/media/FXCYcBEUcAAaP1j.jpg)
 
 ---
 
@@ -1515,33 +1554,5 @@ Cartoon by @NamalAmarasing
 ```
 
 ![image](https://pbs.twimg.com/media/FXBymRIWIAE-fvW.jpg)
-
----
-
-2022-07-07 07:13:37 by [udeshan](https://twitter.com/udeshan/status/1544859650528399361)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/4TO6Q1zLY3 https://t.co/fNyt9bBj97
-
-```
-
-![image](https://pbs.twimg.com/media/FXBxqPpX0AEho2J.jpg)
-
----
-
-2022-07-07 07:12:27 by [udeshan](https://twitter.com/udeshan/status/1544859358550302720)
-
-0 videos, 1 photos
-
-```
-
-@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/pc0w4ZWuUA
-
-```
-
-![image](https://pbs.twimg.com/media/FXBxZQ6XoAcxBaL.jpg)
 
 ---
