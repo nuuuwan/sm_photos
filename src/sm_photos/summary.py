@@ -6,6 +6,11 @@ from sm_photos import tweet_info_utils
 from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
+USER_BLACKLIST = [
+    'udeshan',
+    'Sharkboys14',
+]
+
 
 def build_summary():
     tweet_info_list = tweet_info_utils.load_tweet_info_list()
@@ -51,6 +56,8 @@ def build_readme():
     tweet_info_list = tweet_info_utils.load_tweet_info_list()
     rendered_last_n_tweets = []
     for tweet_info in tweet_info_list[:N]:
+        if tweet_info['user'] in USER_BLACKLIST:
+            continue
         rendered_last_n_tweets += render_tweet_info(tweet_info)
 
     time_id = timex.get_time_id(timezone=timex.TIMEZONE_OFFSET_LK)
