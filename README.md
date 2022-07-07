@@ -1,10 +1,32 @@
 # Social Media Photos
 
-*348 tweets as of 20220708-021814*
+*349 tweets as of 20220708-023746*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 02:24:21 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1545149241114480643)
+
+1 videos, 0 photos
+
+```
+
+Igniting the Aragalaya, people march from Chilaw to Colombo for the 9th mass protest!💪🏾 
+
+Get to the streets!
+It’s now or never!
+
+#endgame 
+#takebackourpower✊🏾#lka 
+#GotaPoda 
+#GotaPalayang
+#GoHomeGota
+#GoHomeRajapaksas https://t.co/JzCGNH8atk
+
+```
+
+---
 
 2022-07-08 01:38:43 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1545137758615764992)
 
