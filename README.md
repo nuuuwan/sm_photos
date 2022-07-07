@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*285 tweets as of 20220707-170240*
+*286 tweets as of 20220707-171013*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 17:04:37 by [sunandadesh](https://twitter.com/sunandadesh/status/1545008382368784384)
+
+0 videos, 2 photos
+
+```
+
+Happening now at Lipton Circle, #Colombo 
+#GoHomeGota #SriLanka  #GoHomeRanil https://t.co/DkyZaBnoLD
+
+```
+
+![image](https://pbs.twimg.com/media/FXD45CYXoAEgCfG.jpg)
+
+![image](https://pbs.twimg.com/media/FXD46_GXoAI-AGw.jpg)
+
+---
 
 2022-07-07 16:53:33 by [Mevonnn](https://twitter.com/Mevonnn/status/1545005597451755520)
 
@@ -32,62 +49,6 @@ See you on the 09th
 ```
 
 ![image](https://pbs.twimg.com/media/FXD0bF_aIAE_FjJ.jpg)
-
----
-
-2022-07-07 16:19:14 by [udeshan](https://twitter.com/udeshan/status/1544996960158920704)
-
-0 videos, 1 photos
-
-```
-
-@chami9539 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota #ShamelessPigs https://t.co/amf3Kc9JWk
-
-```
-
-![image](https://pbs.twimg.com/media/FXDuitWXgAEDyX6.jpg)
-
----
-
-2022-07-07 16:11:46 by [udeshan](https://twitter.com/udeshan/status/1544995080510980096)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota - 9th July https://t.co/cQ3mjM7r5j https://t.co/9iZAk9kcAl
-
-```
-
-![image](https://pbs.twimg.com/media/FXDs1P7XoAE0MGi.jpg)
-
----
-
-2022-07-07 16:10:30 by [udeshan](https://twitter.com/udeshan/status/1544994762129694721)
-
-0 videos, 1 photos
-
-```
-
-@NewsfirstSL #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota Save the date - 9th July https://t.co/0ZEMRqwRaA
-
-```
-
-![image](https://pbs.twimg.com/media/FXDsiuvXkAEGiKd.jpg)
-
----
-
-2022-07-07 16:09:00 by [udeshan](https://twitter.com/udeshan/status/1544994384050921474)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota Oh no... 😁 Think about the 9th July https://t.co/gvZK8wi5XJ https://t.co/fSrrhjVR41
-
-```
-
-![image](https://pbs.twimg.com/media/FXDsMuhXEAAM42r.jpg)
 
 ---
 
@@ -573,20 +534,6 @@ Australia / Canada / Switzerland / Netherland
 
 ---
 
-2022-07-07 12:10:47 by [Sharkboys14](https://twitter.com/Sharkboys14/status/1544934435274964992)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/HBO1z3CBBa
-
-```
-
-![image](https://pbs.twimg.com/media/FXC1qZsUYAA5-bR.jpg)
-
----
-
 2022-07-07 12:04:22 by [dillovesred](https://twitter.com/dillovesred/status/1544932821411643392)
 
 0 videos, 1 photos
@@ -598,76 +545,6 @@ Australia / Canada / Switzerland / Netherland
 ```
 
 ![image](https://pbs.twimg.com/media/FXC0NDhXkAAzvHv.jpg)
-
----
-
-2022-07-07 11:57:47 by [udeshan](https://twitter.com/udeshan/status/1544931161943580674)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/yJ2F5vw073 https://t.co/RzfCSUm9dr
-
-```
-
-![image](https://pbs.twimg.com/media/FXCytDIXoAEEpJy.jpg)
-
----
-
-2022-07-07 11:53:18 by [udeshan](https://twitter.com/udeshan/status/1544930035827585024)
-
-0 videos, 1 photos
-
-```
-
-@exfrotezter #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/arP1cXVMWC
-
-```
-
-![image](https://pbs.twimg.com/media/FXCxrfTXgAA6XTa.jpg)
-
----
-
-2022-07-07 11:52:12 by [udeshan](https://twitter.com/udeshan/status/1544929757497737216)
-
-0 videos, 1 photos
-
-```
-
-@exfrotezter @RW_UNP @GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/GbX7DoaJNQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXCxbQcXoAAkdkW.jpg)
-
----
-
-2022-07-07 11:48:58 by [udeshan](https://twitter.com/udeshan/status/1544928944675139584)
-
-0 videos, 1 photos
-
-```
-
-@EvilSavior7 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/qNzANwNf8w
-
-```
-
-![image](https://pbs.twimg.com/media/FXCwr-qX0AMmnlC.jpg)
-
----
-
-2022-07-07 11:46:28 by [udeshan](https://twitter.com/udeshan/status/1544928315370156032)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/YgAkwgAjxj https://t.co/rs1NIRVWLH
-
-```
-
-![image](https://pbs.twimg.com/media/FXCwHU0XwAAo1pm.jpg)
 
 ---
 
@@ -790,34 +667,6 @@ The 'අරගලය දිනවන සම්මුතිය' conference, which
 
 ---
 
-2022-07-07 11:30:23 by [udeshan](https://twitter.com/udeshan/status/1544924266352676869)
-
-0 videos, 1 photos
-
-```
-
-@nuzlyMN #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota 9th July https://t.co/vIH4ztHaET
-
-```
-
-![image](https://pbs.twimg.com/media/FXCsbqhWAAEbITX.jpg)
-
----
-
-2022-07-07 11:28:03 by [udeshan](https://twitter.com/udeshan/status/1544923681331130368)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota 9th July https://t.co/WQROCLcJhw https://t.co/YSlHfryIuZ
-
-```
-
-![image](https://pbs.twimg.com/media/FXCr5leWYAEGkAX.jpg)
-
----
-
 2022-07-07 11:27:56 by [balendra_soorya](https://twitter.com/balendra_soorya/status/1544923651991949312)
 
 0 videos, 1 photos
@@ -843,76 +692,6 @@ Country is also facing record high inflation and protracted power blackouts, of 
 ```
 
 ![image](https://pbs.twimg.com/media/FXCr2QfacAAtOtv.jpg)
-
----
-
-2022-07-07 11:27:05 by [udeshan](https://twitter.com/udeshan/status/1544923436903845888)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/dFlxBQWSmX https://t.co/Hxldboy68B
-
-```
-
-![image](https://pbs.twimg.com/media/FXCrrY7WYAEWRtf.jpg)
-
----
-
-2022-07-07 11:26:13 by [udeshan](https://twitter.com/udeshan/status/1544923218376503296)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 09th July https://t.co/qeY6uv4iTn https://t.co/JDJURt8cNS
-
-```
-
-![image](https://pbs.twimg.com/media/FXCrerLXwAAoBmK.jpg)
-
----
-
-2022-07-07 11:24:26 by [udeshan](https://twitter.com/udeshan/status/1544922769384620032)
-
-0 videos, 1 photos
-
-```
-
-@roelraymond #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/I8pXdgmOgB
-
-```
-
-![image](https://pbs.twimg.com/media/FXCrEheXgAE7D_n.jpg)
-
----
-
-2022-07-07 11:22:37 by [udeshan](https://twitter.com/udeshan/status/1544922312226377730)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/9Qimb5KuVE https://t.co/G3ceZjlfrJ
-
-```
-
-![image](https://pbs.twimg.com/media/FXCqp57XoAEqFqa.jpg)
-
----
-
-2022-07-07 11:22:00 by [udeshan](https://twitter.com/udeshan/status/1544922159331434496)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/JWalPcnWB5 https://t.co/S3wN7OJ3lP
-
-```
-
-![image](https://pbs.twimg.com/media/FXCqg_NWIAA5Mat.jpg)
 
 ---
 
@@ -951,34 +730,6 @@ Country is also facing record high inflation and protracted power blackouts, of 
 
 ---
 
-2022-07-07 10:53:22 by [udeshan](https://twitter.com/udeshan/status/1544914951596228610)
-
-0 videos, 1 photos
-
-```
-
-@sajithpremadasa @sjbsrilanka @WFP #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/IGhhgy4bhe
-
-```
-
-![image](https://pbs.twimg.com/media/FXCj9f3WAAIIMjB.jpg)
-
----
-
-2022-07-07 10:52:53 by [udeshan](https://twitter.com/udeshan/status/1544914832465530887)
-
-0 videos, 1 photos
-
-```
-
-@Dailymirror_SL #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/noQ9B78YZV
-
-```
-
-![image](https://pbs.twimg.com/media/FXCj2ZpXwAMCZQP.jpg)
-
----
-
 2022-07-07 10:50:53 by [exfrotezter](https://twitter.com/exfrotezter/status/1544914329736298496)
 
 0 videos, 1 photos
@@ -991,34 +742,6 @@ Went on @DeutscheWelle yesterday during a powercut to talk about how it is not o
 ```
 
 ![image](https://pbs.twimg.com/media/FXCgyLnWIAEFDBv.jpg)
-
----
-
-2022-07-07 10:47:32 by [udeshan](https://twitter.com/udeshan/status/1544913486643245061)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/KSEye60Did https://t.co/Yc34FBL0Dg
-
-```
-
-![image](https://pbs.twimg.com/media/FXCioNeWQAIHD0v.jpg)
-
----
-
-2022-07-07 10:46:10 by [udeshan](https://twitter.com/udeshan/status/1544913140848087041)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/vwCw83d1TD https://t.co/wHMz6iYbmd
-
-```
-
-![image](https://pbs.twimg.com/media/FXCiUDYWYAEdcMI.jpg)
 
 ---
 
@@ -1523,61 +1246,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB2vVNXEAAaJ93.jpg)
-
----
-
-2022-07-07 07:25:59 by [udeshan](https://twitter.com/udeshan/status/1544862762966196224)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/T0n3vCt6Ad
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0fXcXEAA2lw5.jpg)
-
----
-
-2022-07-07 07:25:52 by [udeshan](https://twitter.com/udeshan/status/1544862731844460545)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/xOcPVRJGwW
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0dosX0AIf_ha.jpg)
-
----
-
-2022-07-07 07:25:43 by [udeshan](https://twitter.com/udeshan/status/1544862697707036672)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/Qpi6T07iCO
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0bpVXwAUKIhI.jpg)
-
----
-
-2022-07-07 07:25:35 by [udeshan](https://twitter.com/udeshan/status/1544862662336454656)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/tgxe1EBPTj
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0ZliWIAIHb1K.jpg)
 
 ---
