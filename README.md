@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*293 tweets as of 20220707-184115*
+*294 tweets as of 20220707-190340*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 18:59:32 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1545037302342111233)
+
+0 videos, 1 photos
+
+```
+
+#GohomeGota https://t.co/R1iRgwXP94
+
+```
+
+![image](https://pbs.twimg.com/media/FXETGeuUUAE3hia.jpg)
+
+---
 
 2022-07-07 18:25:14 by [AnupaDe](https://twitter.com/AnupaDe/status/1545028670129324035)
 
@@ -1263,29 +1277,5 @@ Some slept at the railway station last night.
 ```
 
 ![image](https://pbs.twimg.com/media/FXB6yb7X0AEWWji.jpg)
-
----
-
-2022-07-07 07:50:05 by [IAmVisionR](https://twitter.com/IAmVisionR/status/1544868829658071040)
-
-0 videos, 1 photos
-
-```
-
-😃💪 GET UP ✊🇱🇰😁
-😃💪 STAND UP ✊🇱🇰😁
-😃💪 FOR OUR RIGHTS ✊🇱🇰😁
-
-😃🇱🇰💪 Let's seize this opportunity to fight for our nation. 👊👏🇱🇰😁
-
-#රටමකොළඹට 
-#අරගලයටජය
-#SriLankaEconomicCrisis 
-#FuelCrisisLK
-#GoHomeGota https://t.co/qJnekYxrmY
-
-```
-
-![image](https://pbs.twimg.com/media/FXB6AHRWQAEq-3t.jpg)
 
 ---
