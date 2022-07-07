@@ -1,10 +1,36 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-135106*
+*100 tweets as of 20220707-140608*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 14:04:14 by [MarioAlles1](https://twitter.com/MarioAlles1/status/1544962984661110784)
+
+1 videos, 0 photos
+
+```
+
+Tourists arriving in Sri Lanka, well prepared to face the fuel crisis. I think this is what Harin is promoting now. @HarshadeSilvaMP @Dr_HariniA @fernandoharin @CabinetSL @ParliamentLK @GotabayaR @sajithpremadasa @anuradisanayake @pcranawaka @MaithripalaS @sjbsrilanka #GoHomeGota https://t.co/HCdAJt9lH8
+
+```
+
+---
+
+2022-07-07 14:03:10 by [poets_delight](https://twitter.com/poets_delight/status/1544962718020489216)
+
+1 videos, 0 photos
+
+```
+
+My favourite tuktuk driver 💜
+
+#GoHomeGota #srilanka #SriLankaEconomicCrisis https://t.co/XO1IwjqF21
+
+```
+
+---
 
 2022-07-07 13:49:41 by [Menitweet](https://twitter.com/Menitweet/status/1544959322441990144)
 
@@ -1521,51 +1547,5 @@ https://t.co/PtLubOCI1y
 ```
 
 ![image](https://pbs.twimg.com/media/FXBfr74XoAANAo4.jpg)
-
----
-
-2022-07-07 05:52:43 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544839290747863041)
-
-0 videos, 4 photos
-
-```
-
-Victoria, Zurich, Berlin &amp; Paris protests on  July 9 &amp; 10 to ask President of #SriLanka to go home. #GoHomeGota 
-Entire #SriLanka will come to Colombo on July 9. Follow us! 
-#EnoughIsEnough #Wewantourcountryback 
-#GiveUsOurStolenMoneyBack https://t.co/x9HQbgfb6s
-
-```
-
-![image](https://pbs.twimg.com/media/FXBfIvKXwAEZSIF.jpg)
-
-![image](https://pbs.twimg.com/media/FXBfI9AXgAEhXmU.jpg)
-
-![image](https://pbs.twimg.com/media/FXBfJLTXoAAXXxL.jpg)
-
-![image](https://pbs.twimg.com/media/FXBfJaJXwAIzQdp.jpg)
-
----
-
-2022-07-07 05:28:26 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544833179281915907)
-
-0 videos, 4 photos
-
-```
-
-Copenhagen, Amsterdam, British Columbia, cities across USA (to be announced) protests on  July 9 to ask President of #SriLanka to go home. #GoHomeGota 
-Entire #SriLanka will come to Colombo on July 9. Follow us! 
-#EnoughIsEnough #Wewantourcountryback 
-#GiveUsOurStolenMoneyBack https://t.co/ZyO5rTRl5V
-
-```
-
-![image](https://pbs.twimg.com/media/FXBZlCtWYAAXaFs.jpg)
-
-![image](https://pbs.twimg.com/media/FXBZlRuXEAcw5Rn.jpg)
-
-![image](https://pbs.twimg.com/media/FXBZlflXwAQBm-6.jpg)
-
-![image](https://pbs.twimg.com/media/FXBZlvvXwAIjkdk.jpg)
 
 ---
