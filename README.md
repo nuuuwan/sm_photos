@@ -1,10 +1,101 @@
 # Social Media Photos
 
-*332 tweets as of 20220708-000301*
+*337 tweets as of 20220708-002521*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 00:20:00 by [Thilinaindraji5](https://twitter.com/Thilinaindraji5/status/1545117946917240832)
+
+0 videos, 1 photos
+
+```
+
+ඉස්සරහට මොකක් වෙයිද දන්නෑ #GoHomeGota https://t.co/tNTfEEt5m1
+
+```
+
+![image](https://pbs.twimg.com/media/FXFclICXkAMHdb_.jpg)
+
+---
+
+2022-07-08 00:19:37 by [cnde282_92](https://twitter.com/cnde282_92/status/1545117852071772160)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GoHomeRajapakshas #GoHomeGota2022 https://t.co/FIG7i6qz5X
+
+```
+
+![image](https://pbs.twimg.com/media/FXFcf4CVsAAVUoy.jpg)
+
+---
+
+2022-07-08 00:06:49 by [adopteeslk](https://twitter.com/adopteeslk/status/1545114629650624512)
+
+0 videos, 4 photos
+
+```
+
+Beautiful 2 month old kittens up for free adoption at Colombo. Boy &amp; girl. Litter trained, playful, active &amp; affectionate. Dewormed &amp; vaccinated. Can deliver within Colombo.
+
+Contact: Ameen - 077 796 3431
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala https://t.co/2UkR7tknAX
+
+```
+
+![image](https://pbs.twimg.com/media/FXFZkCnVUAAN_ec.jpg)
+
+![image](https://pbs.twimg.com/media/FXFZkCoVQAAwZXQ.jpg)
+
+![image](https://pbs.twimg.com/media/FXFZkCmVEAAQ-mU.jpg)
+
+![image](https://pbs.twimg.com/media/FXFZkCmUsAA0NMG.jpg)
+
+---
+
+2022-07-08 00:05:44 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1545114358358765568)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR Ubath Pala Or We Will Kick You Out Lika A Dog 🐕 
+#GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapakshas #EconomicCrisisLK https://t.co/9ath9DWZTz
+
+```
+
+![image](https://pbs.twimg.com/media/FXFZUR9UIAAG90m.jpg)
+
+---
+
+2022-07-08 00:03:26 by [adopteeslk](https://twitter.com/adopteeslk/status/1545113778798280704)
+
+0 videos, 4 photos
+
+```
+
+Lovely 7 month old girl up for free adoption at Ratmalana. Very playful, energetic &amp; active. Dewormed.
+
+Contact: Judith - 071 550 5591
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/T0UIjsadQF
+
+```
+
+![image](https://pbs.twimg.com/media/FXFYycIUIAAwx04.jpg)
+
+![image](https://pbs.twimg.com/media/FXFYycIVQAAFudg.jpg)
+
+![image](https://pbs.twimg.com/media/FXFYycHUcAAI4Xb.jpg)
+
+![image](https://pbs.twimg.com/media/FXFYycJVsAA9Q-z.jpg)
+
+---
 
 2022-07-07 23:52:19 by [MkAbdulAzees56](https://twitter.com/MkAbdulAzees56/status/1545110981625483265)
 
@@ -1380,59 +1471,5 @@ Another Sri Lankan senior citizen died while waiting in line for fuel. This is t
 ```
 
 ![image](https://pbs.twimg.com/media/FXCuCo3XEAEYTQF.jpg)
-
----
-
-2022-07-07 11:35:59 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544925677883097088)
-
-0 videos, 4 photos
-
-```
-
-The party leaders said that they would fully support any action taken democratically by the #GoHomeGota activists to oust Gotabhaya Rajapaksa from the office. (3/4) https://t.co/D56Ptz91SI
-
-```
-
-![image](https://pbs.twimg.com/media/FXCttkYaMAEV6fK.jpg)
-
-![image](https://pbs.twimg.com/media/FXCttkPakAIVBrE.jpg)
-
-![image](https://pbs.twimg.com/media/FXCttkPakAEp0YQ.jpg)
-
-![image](https://pbs.twimg.com/media/FXCttkcaIAAdI-Y.jpg)
-
----
-
-2022-07-07 11:35:51 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544925645784096768)
-
-0 videos, 4 photos
-
-```
-
-The 'අරගලය දිනවන සම්මුතිය' conference, which brings together opposition political parties, civil organizations, trade unions and #GoHomeGota activists for an all-party unity to win the non-partisan goals of the people's struggle, was held yesterday in Colombo. (1/4) https://t.co/r1JlmQRw8y
-
-```
-
-![image](https://pbs.twimg.com/media/FXCtq8caIAAyfWf.jpg)
-
-![image](https://pbs.twimg.com/media/FXCtq8cagAAWcLS.jpg)
-
-![image](https://pbs.twimg.com/media/FXCtq8facAAqPsC.jpg)
-
-![image](https://pbs.twimg.com/media/FXCtq8naQAEOVHX.jpg)
-
----
-
-2022-07-07 11:27:56 by [balendra_soorya](https://twitter.com/balendra_soorya/status/1544923651991949312)
-
-0 videos, 1 photos
-
-```
-
-Country is also facing record high inflation and protracted power blackouts, of which we have contributed to months of protests calling on President #GoHomeGota to step down, but the impact of #FuelCrisisLK is on us now #EndFreePetrolLK https://t.co/MCZa2Eyx9q
-
-```
-
-![image](https://pbs.twimg.com/media/FXCrvv1UcAEs0Vr.jpg)
 
 ---
