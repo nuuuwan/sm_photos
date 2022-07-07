@@ -1,10 +1,43 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-133803*
+*100 tweets as of 20220707-135106*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 13:49:41 by [Menitweet](https://twitter.com/Menitweet/status/1544959322441990144)
+
+0 videos, 1 photos
+
+```
+
+Many thanks 🙃 we were waiting for you to tell us.
+
+Now go eat more mangoes 🥭 
+
+#ranilටබෑ #GoHomeGota #EndGame2022 https://t.co/zDIewsRujf
+
+```
+
+![image](https://pbs.twimg.com/media/FXDMT4NWAAIgtw_.jpg)
+
+---
+
+2022-07-07 13:45:41 by [BannehekaDinesh](https://twitter.com/BannehekaDinesh/status/1544958316710952960)
+
+0 videos, 1 photos
+
+```
+
+මගියාව තුන්වෙනි පංතියෙනුත් පහලට දැමූ කඳුලු කුමාරි
+#SriLanka #GoHomeGota #GotaGoHome2022 #SriLankaEconomicCrisis #රටමකොළඹට https://t.co/JpXST9LSfh
+
+```
+
+![image](https://pbs.twimg.com/media/FXDLZC-WQAIfNVz.jpg)
+
+---
 
 2022-07-07 13:27:46 by [nuuuwan](https://twitter.com/nuuuwan/status/1544953807615967232)
 
@@ -1534,49 +1567,5 @@ Entire #SriLanka will come to Colombo on July 9. Follow us!
 ![image](https://pbs.twimg.com/media/FXBZlflXwAQBm-6.jpg)
 
 ![image](https://pbs.twimg.com/media/FXBZlvvXwAIjkdk.jpg)
-
----
-
-2022-07-07 05:16:54 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544830276869804033)
-
-0 videos, 3 photos
-
-```
-
-London Paris Melbourne protests on  July 9 to ask President of #SriLanka to go home. #GoHomeGota 
-Entire #SriLanka will come to Colombo on July 9. Follow us! 
-#EnoughIsEnough #Wewantourcountryback 
-#GiveUsOurStolenMoneyBack https://t.co/y9MpnE4zjn
-
-```
-
-![image](https://pbs.twimg.com/media/FXBW8UqWYAIfysJ.jpg)
-
-![image](https://pbs.twimg.com/media/FXBW8jiX0AEpAwu.jpg)
-
-![image](https://pbs.twimg.com/media/FXBW8uJWYAA8oZx.jpg)
-
----
-
-2022-07-07 03:53:46 by [SriLives](https://twitter.com/SriLives/status/1544809356503416833)
-
-1 videos, 0 photos
-
-```
-
-රටම කොළඹට 
-THE WHOLE COUNTRY TO COLOMBO- ON 9th OF JULY 2022
-#GoHomeGota
-#GoHomeGota2022
-#Gotagogama_London
-#gotagogama
-#SriLankaCrisis
-#SriLankaEconomicCrisis
-#gohomeranil
-#returnourstolenmoney
-#api5
-#pannamu https://t.co/dActHgYz98
-
-```
 
 ---
