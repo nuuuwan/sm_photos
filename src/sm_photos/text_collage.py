@@ -12,10 +12,17 @@ WIDTH, HEIGHT = 80, 45
 
 
 def get_average(pixels):
-    return sum(list(map(
-        lambda pixel: sum(pixel[:3]),
-        pixels,
-    ))) / len(pixels)
+    return (
+        sum(
+            list(
+                map(
+                    lambda pixel: sum(pixel[:3]),
+                    pixels,
+                )
+            )
+        )
+        / len(pixels)
+    )
 
 
 def build_text_collage(base_image_file, photo_file_list):
@@ -39,7 +46,7 @@ def build_text_collage(base_image_file, photo_file_list):
             map(
                 lambda item: [
                     item[0],
-                    get_average(item[1]) + random.random() * 0.0000001,
+                    get_average(item[1]) + random.random(),
                 ],
                 text_collage_image_pixels.items(),
             )
@@ -51,7 +58,9 @@ def build_text_collage(base_image_file, photo_file_list):
         list(
             map(
                 lambda x: [x[1], x[0]],
-                enumerate(sorted(text_collage_image_light_values, key=lambda v: -v)),
+                enumerate(
+                    sorted(text_collage_image_light_values, key=lambda v: -v)
+                ),
             )
         )
     )
@@ -75,7 +84,13 @@ def build_text_collage(base_image_file, photo_file_list):
     )
     for k, rank in text_collage_image_ranks.items():
         ix, iy = list(map(lambda x: (int)(x), k.split(',')))
-        i_photo = (int)(rank * n_photos / DIM / DIM)
+        i_photo = (int)(
+            rank * n_photos / DIM / DIM + (random.random() - 0.5) * 5
+        )
+        if i_photo >= n_photos:
+            i_photo = n_photos - 1
+        elif i_photo < 0:
+            i_photo = 0
         photo_image = photo_image_list[i_photo]
         text_collage_image.paste(
             photo_image,
