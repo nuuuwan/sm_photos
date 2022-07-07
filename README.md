@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*352 tweets as of 20220708-050700*
+*353 tweets as of 20220708-051845*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 05:07:29 by [ABagthathi](https://twitter.com/ABagthathi/status/1545190297248083968)
+
+1 videos, 0 photos
+
+```
+
+Gota Resign pannura naal than unmayana Perunaal 
+
+#GoHomeGota https://t.co/GJVRuQtU1s
+
+```
+
+---
 
 2022-07-08 04:40:38 by [UJayawardena](https://twitter.com/UJayawardena/status/1545183540295376896)
 
@@ -1539,26 +1553,5 @@ Are you Ready?
 ```
 
 ![image](https://pbs.twimg.com/media/FXDD5hJXwAEHsXP.jpg)
-
----
-
-2022-07-07 12:41:13 by [nuuuwan](https://twitter.com/nuuuwan/status/1544942095156355074)
-
-0 videos, 1 photos
-
-```
-
-There has been a resurgence of #GoHomeGota tweets, 
-evidently in preparation for July 9th. 
-
-Here's a collage made of the said tweets which contained images. 
-
-You can find the original version - a mere 80MB - at https://t.co/5algKSVI88
-
-#SriLanka #GoHomeGota2022 https://t.co/N74PXcYMpQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXC8bWGWIAAMWPg.jpg)
 
 ---
