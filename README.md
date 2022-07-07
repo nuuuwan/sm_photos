@@ -1,10 +1,112 @@
 # Social Media Photos
 
-*197 tweets as of 20220707-080327*
+*203 tweets as of 20220707-085610*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 08:55:08 by [faizer_fazil](https://twitter.com/faizer_fazil/status/1544885199086882816)
+
+0 videos, 1 photos
+
+```
+
+Dehiwala municipal junction. Morning 8.54, haunted, 
+I can c wellawatte clear view. 
+#SriLankaCrisis #GoHomeGota #GoHomeGota2022 https://t.co/p4GvAFCuhj
+
+```
+
+![image](https://pbs.twimg.com/media/FXCI4rgWYAAatUh.jpg)
+
+---
+
+2022-07-07 08:54:33 by [NomicOli](https://twitter.com/NomicOli/status/1544885050746888192)
+
+0 videos, 1 photos
+
+```
+
+මහ පුටු වෙ ඉන්න ගැරඩියා නම් ඔය මොනවා ගහල වත් එලවන්න බෑ,,,ගම් ගාලා අලවලා ඉන්නෙ
+#GoHomeGota 
+#GoHomeGota2022 
+🇱🇰❤️‍🩹❤️‍🩹❤️‍🩹❤️‍🩹❤️‍🩹 https://t.co/NtqHL1R25z
+
+```
+
+![image](https://pbs.twimg.com/media/FXCIxCcXEAEigTm.jpg)
+
+---
+
+2022-07-07 08:45:01 by [exfrotezter](https://twitter.com/exfrotezter/status/1544882652108378112)
+
+0 videos, 1 photos
+
+```
+
+2023 will be difficult, but it will be better without the likes of you two who are still trying to ruin the country. This is the truth @RW_UNP and @GotabayaR. This is the reality.
+
+#GoHomeGota
+#GoHomeRanil https://t.co/p2b2TjLtEF
+
+```
+
+![image](https://pbs.twimg.com/media/FXCGlDNXgAESCm-.jpg)
+
+---
+
+2022-07-07 08:40:30 by [mohamednafly98](https://twitter.com/mohamednafly98/status/1544881514034647040)
+
+0 videos, 1 photos
+
+```
+
+Gota If you think you are bad .
+I am your dad.
+#GoHomeGota https://t.co/Cy6HcihL51
+
+```
+
+![image](https://pbs.twimg.com/media/FXCFA2kaMAEXsM4.jpg)
+
+---
+
+2022-07-07 08:31:16 by [KotageNipun](https://twitter.com/KotageNipun/status/1544879190842810368)
+
+1 videos, 0 photos
+
+```
+
+කාකි ඇඳුමට යටින් මතු වූ දරු සෙනෙහස!
+කඳුළු ගෑස් ප්‍රහාරයෙන් දරුවා බේරා ගැනීමට ඉදිරිපත් වූ  සංවේදනයක් ඇති පොලිස් නිලධාරියාට  ප්‍රණාමය!Hats off...👊👊👊
+#GoHomeGota 
+#lka #GoHomeRajapaksas https://t.co/x3V3e8YigY
+
+```
+
+
+
+---
+
+2022-07-07 08:24:11 by [Jeevanifdo](https://twitter.com/Jeevanifdo/status/1544877411200020481)
+
+0 videos, 1 photos
+
+```
+
+Some slept at the railway station last night.
+#whyweshouldprotest
+#SriLankaEconomicCrisis 
+#srilankafuelcrisis 
+#GoHomeGota 
+#jointhearagalaya https://t.co/aROL7OI4Kz
+
+```
+
+![image](https://pbs.twimg.com/media/FXCB0T9XEAEl8nh.jpg)
+
+---
 
 2022-07-07 08:00:42 by [isurusen](https://twitter.com/isurusen/status/1544871499546644480)
 
@@ -1455,96 +1557,5 @@ July 9th 🙌  #FinalChapter
 ```
 
 ![image](https://pbs.twimg.com/media/FW_dxrqaIAA0zCr.jpg)
-
----
-
-2022-07-06 20:22:56 by [KalpaniChandra3](https://twitter.com/KalpaniChandra3/status/1544695902388068355)
-
-0 videos, 1 photos
-
-```
-
-The enemy of my enemy is my friend .
-#GoHomeGota https://t.co/ieyf7NGQER
-
-```
-
-![image](https://pbs.twimg.com/media/FW_cvHkXwAIYOl3.jpg)
-
----
-
-2022-07-06 20:19:35 by [lelum_sasmitha](https://twitter.com/lelum_sasmitha/status/1544695056640413696)
-
-1 videos, 0 photos
-
-```
-
-හොදටම කරල තියෙන්නේ.රටෙ දියුනුව පිරිලා ඉතිරෙනවා
-#හොදටමකරා
-#GoHomeGota 
-#gohome225 https://t.co/RuY46ayPwJ
-
-```
-
-
-
----
-
-2022-07-06 20:17:06 by [kavindacena](https://twitter.com/kavindacena/status/1544694433555574786)
-
-0 videos, 1 photos
-
-```
-
-Let's make Golden July 9 with real System Change !
-#GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #GoHomeRajapaksas #EconomicCrisisLK #ProtestLK #අරගලයටජය #colombo #SriLanka #lka https://t.co/OVBkxaBpgQ
-
-```
-
-![image](https://pbs.twimg.com/media/FW_bZpHaMAAuaUx.jpg)
-
----
-
-2022-07-06 19:58:47 by [Mr___Pathum](https://twitter.com/Mr___Pathum/status/1544689824082186240)
-
-0 videos, 1 photos
-
-```
-
-බස්වල යන විදිහ අපි ස්තුති ස රටටම හැමින්නුවට 🖕😖
-
-#GoHomeGota # https://t.co/kt99JQIMg3
-
-```
-
-![image](https://pbs.twimg.com/media/FW_XNEdUcAIA0-j.jpg)
-
----
-
-2022-07-06 19:57:14 by [ThyagiR](https://twitter.com/ThyagiR/status/1544689432254902273)
-
-0 videos, 2 photos
-
-```
-
-Kitchen lament protest underway in Koswatta, Nawala. #gohomegota https://t.co/Bk1Y9oczJZ
-
-```
-
-![image](https://pbs.twimg.com/media/FW_W2L-aUAAg8g1.jpg)
-
----
-
-2022-07-06 19:44:22 by [MeeNavo](https://twitter.com/MeeNavo/status/1544686196269645825)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRajapaksas #GoHomeGota2022 #GoHomeRanil #crisisinsl #lka https://t.co/jwu2Y44603
-
-```
-
-![image](https://pbs.twimg.com/media/FW_T54LaMAEHm2u.jpg)
 
 ---
