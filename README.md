@@ -1,10 +1,51 @@
 # Social Media Photos
 
-*313 tweets as of 20220707-211003*
+*315 tweets as of 20220707-212750*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 21:16:13 by [SriLives](https://twitter.com/SriLives/status/1545071697166045187)
+
+0 videos, 2 photos
+
+```
+
+READY TO PROTECT YOURSELF FROM TEARGAS &amp; OTHER CHEMICALS.
+රටම කොළඹට 
+9th OF JULY 2022
+#GoHomeGota
+#GoHomeGota2022
+#Gotagogama_London
+#gotagogama
+#SriLankaCrisis 
+#gohomeranil
+#pannamu 
+Read more about protecting yourself ..!
+https://t.co/0twwIOrD4O https://t.co/1Iflpu1ze3
+
+```
+
+![image](https://pbs.twimg.com/media/FXEyhMOXgAEYEgL.jpg)
+
+![image](https://pbs.twimg.com/media/FXEyhMQWIAAxcPC.jpg)
+
+---
+
+2022-07-07 21:11:57 by [bambarawanage](https://twitter.com/bambarawanage/status/1545070625378680833)
+
+1 videos, 0 photos
+
+```
+
+ජූලි 9 ට ජවය අරන්, 
+අන්තරේ එනවා ජූලි 8 කොලඹට....
+#GoHomeGota #lka #sl https://t.co/US9c7i71Cx
+
+```
+
+---
 
 2022-07-07 21:02:41 by [vg123e](https://twitter.com/vg123e/status/1545068291609296896)
 
@@ -1246,42 +1287,5 @@ Note: The price of 12 pro max is 420 000. This is equivalent to a government sch
 ```
 
 ![image](https://pbs.twimg.com/media/FXCccDGXoAEJE0j.jpg)
-
----
-
-2022-07-07 10:19:46 by [motherland_1994](https://twitter.com/motherland_1994/status/1544906498874126336)
-
-0 videos, 1 photos
-
-```
-
-During the last two months, it was found that there was a difference of Rs 150 to Rs 200 between the charges and taxes on imported fuel.
-       Janaka Ratnayake 
-
-MAYBE RESEARCH NEXT YEAR..😂
-
-#news #GoHomeGota #lka #srilanka https://t.co/NJOQqJsOcP
-
-```
-
-![image](https://pbs.twimg.com/media/FXCcRP0XEAA1lRY.jpg)
-
----
-
-2022-07-07 10:15:33 by [sasith_bandara](https://twitter.com/sasith_bandara/status/1544905436906004480)
-
-0 videos, 1 photos
-
-```
-
-@Sri_Lanka_Army why are you lying to your own citizens? 
-
-@CricketAus denies the Army Commander's statement that they complained about the protest held in Galle Fort. 
-
-#GoHomeGota #lka https://t.co/3JbsGnn7zi
-
-```
-
-![image](https://pbs.twimg.com/media/FXCbToXaUAEuRSL.jpg)
 
 ---
