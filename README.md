@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*249 tweets as of 20220707-122255*
+*251 tweets as of 20220707-123825*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 12:35:48 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544940730447446017)
+
+1 videos, 0 photos
+
+```
+
+ජූලි 8 අන්තනෝමතික පාලකයන්ට එරෙහිව අන්තරය සමග අත්වැල්බැද ගනිමු 
+
+-#GoHomeGota https://t.co/dcG5Q40Jxb
+
+```
+
+---
+
+2022-07-07 12:29:11 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544939065329557505)
+
+0 videos, 1 photos
+
+```
+
+හොදටම කරපු නන්දේ එක්ක කතාකරගන්න 9 වෙනිදට කොළඹ එන්න 
+
+#GoHomeGota https://t.co/MEqdvdyNJX
+
+```
+
+![image](https://pbs.twimg.com/media/FXC54kxXoAIx4zV.jpg)
+
+---
 
 2022-07-07 12:10:47 by [Sharkboys14](https://twitter.com/Sharkboys14/status/1544934435274964992)
 
@@ -1546,49 +1576,5 @@ The greatest public awakening in the history of Sri Lanka 🇱🇰
 ```
 
 ![image](https://pbs.twimg.com/media/FXAgUw0XoAEMlhe.jpg)
-
----
-
-2022-07-07 01:10:03 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544768157734227968)
-
-0 videos, 4 photos
-
-```
-
-Protest Schedule July 07th;
-
-Let’s keep fighting!
-The struggle is not over!
-
-#EndGame
-#takebackourpower✊🏾#lka 
-#GotaPoda 
-#GotaPalayang
-#GoHomeGota
-#GoHomeRajapaksas https://t.co/8H4EIRki4P
-
-```
-
-![image](https://pbs.twimg.com/media/FXAecaaXgAA-zPN.jpg)
-
-![image](https://pbs.twimg.com/media/FXAecafXgAIgjo_.jpg)
-
-![image](https://pbs.twimg.com/media/FXAecaZWQAAOl_P.jpg)
-
-![image](https://pbs.twimg.com/media/FXAecaZWYAE9y6z.jpg)
-
----
-
-2022-07-07 00:54:09 by [harshap](https://twitter.com/harshap/status/1544764155328184325)
-
-0 videos, 1 photos
-
-```
-
-I don’t care who comes next but #GoHomeGota #GoHomeGota2022 #lka #protestLK Location for IT pro’s to mobilize “Trace expert city Maradana Bus Stand” 9AM / 9th July. https://t.co/2xE7VsRHB2 https://t.co/bmTyPvqM9p
-
-```
-
-![image](https://pbs.twimg.com/media/FXAaz5NWYAIuBST.jpg)
 
 ---
