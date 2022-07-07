@@ -1,10 +1,65 @@
 # Social Media Photos
 
-*323 tweets as of 20220707-230839*
+*326 tweets as of 20220707-232000*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 23:15:10 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545101632504877057)
+
+0 videos, 3 photos
+
+```
+
+Peaceful Protest - Starter Pack (2)
+
+#GoHomeGota #GoHomeRanil #Srilanka https://t.co/vkgaOk4yIG
+
+```
+
+![image](https://pbs.twimg.com/media/FXFNvWXWYAIBvzc.jpg)
+
+![image](https://pbs.twimg.com/media/FXFNvWeWYAAd4kM.jpg)
+
+![image](https://pbs.twimg.com/media/FXFNvWcXEAEoxA9.jpg)
+
+---
+
+2022-07-07 23:15:07 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545101618428796928)
+
+0 videos, 3 photos
+
+```
+
+Peaceful Protest - Starter Pack (1)
+
+#GoHomeGota #GoHomeRanil #Srilanka https://t.co/j0WiecpHyN
+
+```
+
+![image](https://pbs.twimg.com/media/FXFNuTaWIAMGzw_.jpg)
+
+![image](https://pbs.twimg.com/media/FXFNuTbWIAIS6Jq.jpg)
+
+![image](https://pbs.twimg.com/media/FXFNuTZWIAEeoAa.jpg)
+
+---
+
+2022-07-07 23:13:47 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545101283497050115)
+
+1 videos, 0 photos
+
+```
+
+Mahinda Rajapaksha’s childhood video found 😂
+
+#EconomicCrisisLK 
+#GoHomeGota https://t.co/e41JzrsOwD
+
+```
+
+---
 
 2022-07-07 23:05:55 by [sunandadesh](https://twitter.com/sunandadesh/status/1545099304850817025)
 
@@ -1291,40 +1346,5 @@ Country is also facing record high inflation and protracted power blackouts, of 
 ```
 
 ![image](https://pbs.twimg.com/media/FXCr2QfacAAtOtv.jpg)
-
----
-
-2022-07-07 11:14:20 by [Krys_Types](https://twitter.com/Krys_Types/status/1544920228588445696)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #ArrestRajapaksas #EconomicCrisisLK #EndGameOn #අරගලයටජය✊ https://t.co/G5dQRfZClu https://t.co/XMWkRUVrtV
-
-```
-
-![image](https://pbs.twimg.com/media/FXCown0WIAI834Y.jpg)
-
----
-
-2022-07-07 11:14:19 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544920226772312069)
-
-0 videos, 3 photos
-
-```
-
-යලි නැගිටින #Gogogama 
-
-#GoHomeGota 
-#අරගලයටජය https://t.co/UzcgGJFN7L
-
-```
-
-![image](https://pbs.twimg.com/media/FXCowJPWQAAOi3V.jpg)
-
-![image](https://pbs.twimg.com/media/FXCowV5WQAIw65F.jpg)
-
-![image](https://pbs.twimg.com/media/FXCowhnXwAAKgt9.jpg)
 
 ---
