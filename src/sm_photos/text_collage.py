@@ -128,7 +128,7 @@ def metarize():
         ),
     )
 
-    N_STEPS = 20
+    N_STEPS = 36
     metarized_item_image_list = []
     for i_step in range(N_STEPS):
         if i_step != 0:
