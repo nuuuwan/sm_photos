@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*346 tweets as of 20220708-010241*
+*347 tweets as of 20220708-011753*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 01:07:23 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545129871226990592)
+
+0 videos, 1 photos
+
+```
+
+🥽
+
+#GoHomeGota https://t.co/rcs6s5agol
+
+```
+
+![image](https://pbs.twimg.com/media/FXFnbORakAAU0qM.jpg)
+
+---
 
 2022-07-08 00:59:14 by [Makerevolution1](https://twitter.com/Makerevolution1/status/1545127821688725504)
 
