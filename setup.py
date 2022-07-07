@@ -31,5 +31,6 @@ setuptools.setup(
         'utils-nuuuwan',
         'Pillow',
         'imagehash',
+        'imageio',
     ],
 )
