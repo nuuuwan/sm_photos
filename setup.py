@@ -30,5 +30,6 @@ setuptools.setup(
         'tweepy',
         'utils-nuuuwan',
         'Pillow',
+        'imagehash',
     ],
 )

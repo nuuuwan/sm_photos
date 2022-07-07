@@ -3,3 +3,4 @@ pytest
 tweepy
 utils-nuuuwan
 Pillow
+imagehash
