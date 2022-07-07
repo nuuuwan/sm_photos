@@ -1,10 +1,29 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-132632*
+*100 tweets as of 20220707-133803*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 13:27:46 by [nuuuwan](https://twitter.com/nuuuwan/status/1544953807615967232)
+
+0 videos, 1 photos
+
+```
+
+There has been a resurgence of #GoHomeGota tweets, 
+evidently in preparation for July 9th. 
+
+Here's a collage made of the said tweets which contained images. 
+
+#SriLanka #GoHomeGota2022 https://t.co/23wG8lCnza
+
+```
+
+![image](https://pbs.twimg.com/media/FXDHRF9XkAIGdYS.jpg)
+
+---
 
 2022-07-07 13:25:08 by [shanoz16](https://twitter.com/shanoz16/status/1544953146057068544)
 
@@ -48,27 +67,6 @@ Are you Ready?
 ```
 
 ![image](https://pbs.twimg.com/media/FXDD5hJXwAEHsXP.jpg)
-
----
-
-2022-07-07 12:41:13 by [nuuuwan](https://twitter.com/nuuuwan/status/1544942095156355074)
-
-0 videos, 1 photos
-
-```
-
-There has been a resurgence of #GoHomeGota tweets, 
-evidently in preparation for July 9th. 
-
-Here's a collage made of the said tweets which contained images. 
-
-You can find the original version - a mere 80MB - at https://t.co/5algKSVI88
-
-#SriLanka #GoHomeGota2022 https://t.co/N74PXcYMpQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXC8bWGWIAAMWPg.jpg)
 
 ---
 
