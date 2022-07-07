@@ -1,10 +1,55 @@
 # Social Media Photos
 
-*251 tweets as of 20220707-123825*
+*253 tweets as of 20220707-124844*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 12:41:13 by [nuuuwan](https://twitter.com/nuuuwan/status/1544942095156355074)
+
+0 videos, 1 photos
+
+```
+
+There has been a resurgence of #GoHomeGota tweets, 
+evidently in preparation for July 9th. 
+
+Here's a collage made of the said tweets which contained images. 
+
+You can find the original version - a mere 80MB - at https://t.co/5algKSVI88
+
+#SriLanka #GoHomeGota2022 https://t.co/N74PXcYMpQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXC8bWGWIAAMWPg.jpg)
+
+---
+
+2022-07-07 12:40:27 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544941899970007040)
+
+0 videos, 4 photos
+
+```
+
+9th is where all the Sri Lankans come together for the country! 
+
+Australia / Canada / Switzerland / Netherland 
+
+#EndGame #GoHomeGota https://t.co/qGH99arl8d
+
+```
+
+![image](https://pbs.twimg.com/media/FXC8dNIWQAEsnks.jpg)
+
+![image](https://pbs.twimg.com/media/FXC8dNGWIAYnirK.jpg)
+
+![image](https://pbs.twimg.com/media/FXC8dNCXEAI5u5A.jpg)
+
+![image](https://pbs.twimg.com/media/FXC8dNFWYAEstqi.jpg)
+
+---
 
 2022-07-07 12:35:48 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544940730447446017)
 
@@ -1542,39 +1587,5 @@ It’s now or never!
 #GoHomeRajapaksas https://t.co/GHHQl47AAn
 
 ```
-
----
-
-2022-07-07 01:30:31 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544773305802039297)
-
-1 videos, 0 photos
-
-```
-
-ශ්‍රී ලංකා ඉතිහාසයේ ශ්‍රේෂ්ඨතම මහජන පිබිදීම 🇱🇰
-
-The greatest public awakening in the history of Sri Lanka 🇱🇰
-
-இலங்கை வரலாற்றில் மிகப்பெரும் பொது விழிப்புணர்வு 🇱🇰
-
-@nuzlyMN @thila794 #lka #GoHomeGota @Hirunikaconnect @RehanJayawick @munza14 @roelraymond @AthaudaDasuni @Bloktimus https://t.co/6YdXM7jCGn
-
-```
-
----
-
-2022-07-07 01:18:15 by [ChirathPerera89](https://twitter.com/ChirathPerera89/status/1544770221654740993)
-
-0 videos, 1 photos
-
-```
-
-😱 Devil is here… 
-
-#SriLankaCrisis #SriLanka #SriLankaProtests #GotaGoHome2022 #GoHomeGota #imf https://t.co/nYXGqg20S1
-
-```
-
-![image](https://pbs.twimg.com/media/FXAgUw0XoAEMlhe.jpg)
 
 ---
