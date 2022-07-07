@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*286 tweets as of 20220707-171135*
+*288 tweets as of 20220707-172121*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 17:13:16 by [TechGuyGamunu](https://twitter.com/TechGuyGamunu/status/1545010557811494917)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #lka https://t.co/EGJnX6ftQY
+
+```
+
+![image](https://pbs.twimg.com/media/FXD66V1UUAIKfEb.jpg)
+
+---
+
+2022-07-07 17:11:50 by [EvilExecutor](https://twitter.com/EvilExecutor/status/1545010198619664384)
+
+0 videos, 1 photos
+
+```
+
+This is a great gesture. Especially at these hard times. Kudos!
+
+📸 @ Sakya Nugegoda.
+
+#SriLanka #LKA #FuelCrisisLK #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #GotaGoHome #GoHomeGota2022  #GoHomeRanil #GoHomeRajapakshas https://t.co/BknDNDOAvv
+
+```
+
+![image](https://pbs.twimg.com/media/FXD6lY0VUAAqDRo.jpg)
+
+---
 
 2022-07-07 17:04:37 by [sunandadesh](https://twitter.com/sunandadesh/status/1545008382368784384)
 
