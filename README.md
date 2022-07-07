@@ -1,10 +1,33 @@
 # Social Media Photos
 
-*308 tweets as of 20220707-202109*
+*309 tweets as of 20220707-203638*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 20:33:51 by [AjJaasir](https://twitter.com/AjJaasir/status/1545061035845251073)
+
+0 videos, 4 photos
+
+```
+
+#Aragalaya
+Kotahena Getting ready for #July9th 
+Strong message sent to the President
+#GohomeGota #GoHomeRanil #GoHomeRajapaksas #EnoughIsEnough #Aragalaya #SriLankaCrisis https://t.co/hPfNyuT0eq https://t.co/oBKi83eO5T
+
+```
+
+![image](https://pbs.twimg.com/media/FXEo0sXaIAAHZI_.jpg)
+
+![image](https://pbs.twimg.com/media/FXEdy_aaIAABc00.jpg)
+
+![image](https://pbs.twimg.com/media/FXEdz7YaUAAZgqA.jpg)
+
+![image](https://pbs.twimg.com/media/FXEd08SaUAAjw2_.jpg)
+
+---
 
 2022-07-07 20:11:49 by [Krys_Types](https://twitter.com/Krys_Types/status/1545055489540534273)
 
@@ -1267,19 +1290,5 @@ Derana cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXCYReRXkAAIr33.jpg)
-
----
-
-2022-07-07 09:58:12 by [afidelf](https://twitter.com/afidelf/status/1544901068034691072)
-
-0 videos, 1 photos
-
-```
-
-The bus to Galle #GoHomeGota https://t.co/C0KDoWvzaf
-
-```
-
-![image](https://pbs.twimg.com/media/FXCXUyvXgAM6FpE.jpg)
 
 ---
