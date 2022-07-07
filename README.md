@@ -1,10 +1,70 @@
 # Social Media Photos
 
-*342 tweets as of 20220708-005015*
+*346 tweets as of 20220708-010241*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 00:59:14 by [Makerevolution1](https://twitter.com/Makerevolution1/status/1545127821688725504)
+
+0 videos, 1 photos
+
+```
+
+என் இலங்கை சகோதரி சகோதரர்களே சில சுயநலம் பிடித்த அரசியல்வாதிகளால் இத்தனை வருடங்கள் நாம் இன,மதம், ஜாதி மற்றும் மொழியால் பிரிக்கப்பட்டு  இருந்தோம் ஆனால் இப்போது நாம் ஒன்றாக ஒற்றுமையாக போராட நேரம் வந்து விட்டது.மாற்றம் ஒன்றே மாறாதது .
+#GoHomeGota #SriLankaProtests https://t.co/ypPssclGpP
+
+```
+
+![image](https://pbs.twimg.com/media/FXFlkKmWIAEisjd.jpg)
+
+---
+
+2022-07-08 00:56:54 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545127235086008320)
+
+0 videos, 1 photos
+
+```
+
+මුලු රටම කොටුවට 
+
+#GoHomeGota https://t.co/xh41Yn2nPc
+
+```
+
+![image](https://pbs.twimg.com/media/FXFlBjpXwAEB93D.jpg)
+
+---
+
+2022-07-08 00:55:13 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1545126811855642624)
+
+0 videos, 1 photos
+
+```
+
+Respect to 🇨🇦Canadian High Commissioner to #SriLanka @McKinnonDavid for stating
+"Particularly at this sensitive time, the democratic right to peaceful protest must be respected throughout the country." #GoHomeGota https://t.co/BOuBLQnolz https://t.co/ixjTjLplhU
+
+```
+
+![image](https://pbs.twimg.com/media/FXFkpXGWIAYF13z.jpg)
+
+---
+
+2022-07-08 00:52:14 by [AnupaCrypto](https://twitter.com/AnupaCrypto/status/1545126060378845184)
+
+0 videos, 1 photos
+
+```
+
+#GohomeGota https://t.co/W9w4cmsJS6
+
+```
+
+![image](https://pbs.twimg.com/media/FXFj9MvWAAQxwsu.jpg)
+
+---
 
 2022-07-08 00:33:49 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545121425077309440)
 
