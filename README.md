@@ -1,10 +1,85 @@
 # Social Media Photos
 
-*337 tweets as of 20220708-002521*
+*342 tweets as of 20220708-005015*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 00:33:49 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545121425077309440)
+
+0 videos, 1 photos
+
+```
+
+තව දින 1 යි 
+
+#GoHomeGota https://t.co/JgZ35jwQDj
+
+```
+
+![image](https://pbs.twimg.com/media/FXFfvX3XEAEacUJ.jpg)
+
+---
+
+2022-07-08 00:33:36 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545121371239239680)
+
+0 videos, 1 photos
+
+```
+
+Tomorrow is the Big Day! 
+
+#GoHomeGota https://t.co/axGWkG7kAH
+
+```
+
+![image](https://pbs.twimg.com/media/FXFfsMdX0AUQxyP.jpg)
+
+---
+
+2022-07-08 00:33:12 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545121271502934016)
+
+1 videos, 0 photos
+
+```
+
+Say No to Systematic Force &amp; Police Brutality! 
+
+IUSF Coming today to Support the 9th! 
+
+#GoHomeGota #GoHomeRanil https://t.co/e3iCe0jqOM
+
+```
+
+---
+
+2022-07-08 00:28:20 by [Kappa_S](https://twitter.com/Kappa_S/status/1545120045063348229)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota අරගලයට ජය! https://t.co/x80CksrEqR
+
+```
+
+![image](https://pbs.twimg.com/media/FXFeecXXgAMyP9Z.jpg)
+
+---
+
+2022-07-08 00:28:08 by [finityfund](https://twitter.com/finityfund/status/1545119996178620416)
+
+1 videos, 0 photos
+
+```
+
+Angry #SriLankan asking for #GoHomeGota 
+#SriLankaEconomicCrisis https://t.co/Ccsizuk0QM
+
+```
+
+---
 
 2022-07-08 00:20:00 by [Thilinaindraji5](https://twitter.com/Thilinaindraji5/status/1545117946917240832)
 
@@ -1392,84 +1467,5 @@ Australia / Canada / Switzerland / Netherland
 ```
 
 ![image](https://pbs.twimg.com/media/FXC0NDhXkAAzvHv.jpg)
-
----
-
-2022-07-07 11:45:52 by [RanwalageLasika](https://twitter.com/RanwalageLasika/status/1544928164601769984)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota and #GoHomeRanil have looted the country so badly that it is now our country which took drastic measures to stop the sale of fuel to the common people "Oil crisis since the 1970s #EndFreePetrolLK #FuelCrisisLK https://t.co/jSM0eDeZNT
-
-```
-
----
-
-2022-07-07 11:43:45 by [Abddd1999](https://twitter.com/Abddd1999/status/1544927630793019393)
-
-0 videos, 1 photos
-
-```
-
-A rare picture of Mr.Boris Johnson wasting his time. 
-
-#GoHomeGota 
-#July9 #EconomicCrisis https://t.co/rae0ZyNBbd
-
-```
-
-![image](https://pbs.twimg.com/media/FXCvfdTaIAAO-yd.jpg)
-
----
-
-2022-07-07 11:41:53 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1544927161764655104)
-
-0 videos, 1 photos
-
-```
-
-රටම කොළඹට!!!! #GoHomeGota #GoHomeGota2022 https://t.co/21RVEMtbEm
-
-```
-
-![image](https://pbs.twimg.com/media/FXCvEO_VUAYS491.jpg)
-
----
-
-2022-07-07 11:41:32 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544927074896723968)
-
-0 videos, 4 photos
-
-```
-
-The fellow #GoHomeGota activists also participated in this event representing many groups of the #gotagogama. The basic policy points presented by them received unanimous support from everyone. (4/4) Live video : https://t.co/QSi8fMm8Hg… https://t.co/RKXx5w3YrG
-
-```
-
-![image](https://pbs.twimg.com/media/FXCu-bMaUAAx66j.jpg)
-
-![image](https://pbs.twimg.com/media/FXCu-bNakAEjxti.jpg)
-
-![image](https://pbs.twimg.com/media/FXCu-bNaQAI80Of.jpg)
-
-![image](https://pbs.twimg.com/media/FXCu-bVakAAoz0b.jpg)
-
----
-
-2022-07-07 11:37:28 by [MaatramSL](https://twitter.com/MaatramSL/status/1544926051897610241)
-
-0 videos, 1 photos
-
-```
-
-Another Sri Lankan senior citizen died while waiting in line for fuel. This is the 15th death to have taken place at a fuel queue. https://t.co/2LX2dmfhci
-
-#lka #SriLanka #GoHomeGota 📸 @GettyImages https://t.co/EH2Z6l9lKi
-
-```
-
-![image](https://pbs.twimg.com/media/FXCuCo3XEAEYTQF.jpg)
 
 ---
