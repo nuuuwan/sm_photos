@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*206 tweets as of 20220707-092840*
+*208 tweets as of 20220707-095542*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 09:44:38 by [akalanka___y](https://twitter.com/akalanka___y/status/1544897654735634432)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/bTrOMtebBQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXCUOapacAAIPv0.jpg)
+
+---
+
+2022-07-07 09:32:27 by [heavybstyles](https://twitter.com/heavybstyles/status/1544894587793248257)
+
+0 videos, 1 photos
+
+```
+
+RT @faizer_fazil: Dehiwala municipal junction. Morning 8.54, haunted, 
+I can c wellawatte clear view. 
+#SriLankaCrisis #GoHomeGota #GoHomeGota2022 https://t.co/HZRLHt3vhe
+
+```
+
+![image](https://pbs.twimg.com/media/FXCI4rgWYAAatUh.jpg)
+
+---
 
 2022-07-07 09:27:11 by [udeshanbala](https://twitter.com/udeshanbala/status/1544893262443397120)
 
@@ -1529,36 +1559,5 @@ Had the majority Sinhala people stood against the discriminatory acts of their l
 ```
 
 ![image](https://pbs.twimg.com/media/FW_k2rSacAIs_JD.png)
-
----
-
-2022-07-06 20:58:33 by [Ranuka_Perera2](https://twitter.com/Ranuka_Perera2/status/1544704863547711489)
-
-0 videos, 1 photos
-
-```
-
-@siwura @GotabayaR #GoHomeGota https://t.co/bgF0vMzN08
-
-```
-
-![image](https://pbs.twimg.com/media/FW_k4WyX0AYNGAv.jpg)
-
----
-
-2022-07-06 20:55:29 by [devondevesser_](https://twitter.com/devondevesser_/status/1544704090852458496)
-
-0 videos, 1 photos
-
-```
-
-Let's all get together to save our country from this devil "Gota" 🇱🇰🙏
-July 9th 🙌  #FinalChapter 
-
-#GoHomeGota2022 #GoHomeGota #lka #SriLanka #ProtestLK #SriLankaEconomicCrisis https://t.co/p14dZ7X3ZX
-
-```
-
-![image](https://pbs.twimg.com/media/FW_kLuZX0AQu_zO.jpg)
 
 ---
