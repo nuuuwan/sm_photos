@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-142339*
+*100 tweets as of 20220707-142653*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 14:25:32 by [finityfund](https://twitter.com/finityfund/status/1544968345010589697)
+
+1 videos, 0 photos
+
+```
+
+Road is under control by The TukTuk Warriors. 🛺
+
+#SriLankaEconomicCrisis #SriLanka #SriLankaProtests #GoHomeRanil #GoHomeGota https://t.co/a9hQxhDNha
+
+```
+
+---
+
+2022-07-07 14:24:41 by [MaheshNegombo](https://twitter.com/MaheshNegombo/status/1544968133584203776)
+
+0 videos, 1 photos
+
+```
+
+ලෝකල් ලී ක්වාන් යූ යි, මහතීරුයි blend කරල දියුණුවෙන් දියුණුවට පත්වෙච්ච ‍රටේ දැන් එදිනෙදා ඇහෙන නිව්ස්.... 
+
+#gohomegota https://t.co/JdvTPiaAYj
+
+```
+
+![image](https://pbs.twimg.com/media/FXDUU7xVQAArfEN.jpg)
+
+---
 
 2022-07-07 14:21:35 by [NimeshPansilu](https://twitter.com/NimeshPansilu/status/1544967351644196866)
 
@@ -1511,34 +1541,5 @@ Cartoon by @NamalAmarasing
 ```
 
 ![image](https://pbs.twimg.com/media/FXBxHh_XkAElZqn.jpg)
-
----
-
-2022-07-07 07:10:12 by [udeshan](https://twitter.com/udeshan/status/1544858791975342080)
-
-0 videos, 1 photos
-
-```
-
-@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/e4Qp99nWu4
-
-```
-
-![image](https://pbs.twimg.com/media/FXBw4QqXEAAUbm2.jpg)
-
----
-
-2022-07-07 06:58:47 by [_T_h_a_r_u_k_a_](https://twitter.com/_T_h_a_r_u_k_a_/status/1544855917451087872)
-
-0 videos, 1 photos
-
-```
-
-සුබ උදෑසනක් වේවා....🥰🌍🤍
-#GoHomeGota https://t.co/I9dE5U83fi
-
-```
-
-![image](https://pbs.twimg.com/media/FXBuQ76WYAEHNcT.jpg)
 
 ---

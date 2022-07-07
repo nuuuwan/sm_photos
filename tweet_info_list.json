@@ -1,5 +1,27 @@
 [
   {
+    "tweet_url": "https://twitter.com/finityfund/status/1544968345010589697",
+    "id": 1544968345010589697,
+    "user": "finityfund",
+    "time_create_ut": 1657184132,
+    "text": "Road is under control by The TukTuk Warriors. \ud83d\udefa\n\n#SriLankaEconomicCrisis #SriLanka #SriLankaProtests #GoHomeRanil #GoHomeGota https://t.co/a9hQxhDNha",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1544968299405946882/pu/vid/490x270/0-HAmEn5XtZLWHY1.mp4"
+    ]
+  },
+  {
+    "tweet_url": "https://twitter.com/MaheshNegombo/status/1544968133584203776",
+    "id": 1544968133584203776,
+    "user": "MaheshNegombo",
+    "time_create_ut": 1657184081,
+    "text": "\u0dbd\u0ddd\u0d9a\u0dbd\u0dca \u0dbd\u0dd3 \u0d9a\u0dca\u0dc0\u0dcf\u0db1\u0dca \u0dba\u0dd6 \u0dba\u0dd2, \u0db8\u0dc4\u0dad\u0dd3\u0dbb\u0dd4\u0dba\u0dd2 blend \u0d9a\u0dbb\u0dbd \u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dba\u0dd4\u0dab\u0dd4\u0dc0\u0da7 \u0db4\u0dad\u0dca\u0dc0\u0dd9\u0da0\u0dca\u0da0 \u200d\u0dbb\u0da7\u0dda \u0daf\u0dd0\u0db1\u0dca \u0d91\u0daf\u0dd2\u0db1\u0dd9\u0daf\u0dcf \u0d87\u0dc4\u0dd9\u0db1 \u0db1\u0dd2\u0dc0\u0dca\u0dc3\u0dca.... \n\n#gohomegota https://t.co/JdvTPiaAYj",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXDUU7xVQAArfEN.jpg"
+    ],
+    "video_url_list": []
+  },
+  {
     "tweet_url": "https://twitter.com/NimeshPansilu/status/1544967351644196866",
     "id": 1544967351644196866,
     "user": "NimeshPansilu",
@@ -1093,28 +1115,6 @@
     "text": "#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/EdTWwY7zDv https://t.co/1ou6JQYY6u",
     "photo_url_list": [
       "https://pbs.twimg.com/media/FXBxHh_XkAElZqn.jpg"
-    ],
-    "video_url_list": []
-  },
-  {
-    "tweet_url": "https://twitter.com/udeshan/status/1544858791975342080",
-    "id": 1544858791975342080,
-    "user": "udeshan",
-    "time_create_ut": 1657158012,
-    "text": "@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/e4Qp99nWu4",
-    "photo_url_list": [
-      "https://pbs.twimg.com/media/FXBw4QqXEAAUbm2.jpg"
-    ],
-    "video_url_list": []
-  },
-  {
-    "tweet_url": "https://twitter.com/_T_h_a_r_u_k_a_/status/1544855917451087872",
-    "id": 1544855917451087872,
-    "user": "_T_h_a_r_u_k_a_",
-    "time_create_ut": 1657157327,
-    "text": "\u0dc3\u0dd4\u0db6 \u0d8b\u0daf\u0dd1\u0dc3\u0db1\u0d9a\u0dca \u0dc0\u0dda\u0dc0\u0dcf....\ud83e\udd70\ud83c\udf0d\ud83e\udd0d\n#GoHomeGota https://t.co/I9dE5U83fi",
-    "photo_url_list": [
-      "https://pbs.twimg.com/media/FXBuQ76WYAEHNcT.jpg"
     ],
     "video_url_list": []
   }
