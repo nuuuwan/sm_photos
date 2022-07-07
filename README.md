@@ -1,10 +1,63 @@
 # Social Media Photos
 
-*157 tweets as of 20220707-052649*
+*160 tweets as of 20220707-055927*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 05:55:04 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544839882794831874)
+
+0 videos, 1 photos
+
+```
+
+🇱🇰#SriLanka 
+#GoHomeGota 
+#gohomerajapaksas 
+#StopRuiningMyCountry 
+#Resign
+#GiveUsOurStolenMoneyBack https://t.co/MClwCo0oZe
+
+```
+
+![image](https://pbs.twimg.com/media/FXBfr74XoAANAo4.jpg)
+
+---
+
+2022-07-07 05:52:43 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544839290747863041)
+
+0 videos, 4 photos
+
+```
+
+Victoria, Zurich, Berlin &amp; Paris protests on  July 9 &amp; 10 to ask President of #SriLanka to go home. #GoHomeGota 
+Entire #SriLanka will come to Colombo on July 9. Follow us! 
+#EnoughIsEnough #Wewantourcountryback 
+#GiveUsOurStolenMoneyBack https://t.co/x9HQbgfb6s
+
+```
+
+![image](https://pbs.twimg.com/media/FXBfIvKXwAEZSIF.jpg)
+
+---
+
+2022-07-07 05:28:26 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544833179281915907)
+
+0 videos, 4 photos
+
+```
+
+Copenhagen, Amsterdam, British Columbia, cities across USA (to be announced) protests on  July 9 to ask President of #SriLanka to go home. #GoHomeGota 
+Entire #SriLanka will come to Colombo on July 9. Follow us! 
+#EnoughIsEnough #Wewantourcountryback 
+#GiveUsOurStolenMoneyBack https://t.co/ZyO5rTRl5V
+
+```
+
+![image](https://pbs.twimg.com/media/FXBZlCtWYAAXaFs.jpg)
+
+---
 
 2022-07-07 05:16:54 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544830276869804033)
 
@@ -1544,57 +1597,5 @@ Thats how Horrible the State &amp; the Forces treating the Protesters.
 ```
 
 
-
----
-
-2022-07-06 15:02:41 by [Menitweet](https://twitter.com/Menitweet/status/1544615309021130752)
-
-0 videos, 1 photos
-
-```
-
-True story 🤌🏽 @Hirunikaconnect 
-
-Credit to the designer!
-#GoHomeGota https://t.co/Bi2AJbkuPb
-
-```
-
-![image](https://pbs.twimg.com/media/FW-TbwYXEAAqPqg.jpg)
-
----
-
-2022-07-06 14:57:22 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544613968060092416)
-
-1 videos, 0 photos
-
-```
-
-පරයා බැහැපන් එළියට
-
--හිරුණිකා ප්‍රේමචන්ද්‍ර- 
-
-#අරගලයටජය
-#GoHomeGota 
-#lka #dirtypolitics https://t.co/5WjFDwOeav
-
-```
-
-
-
----
-
-2022-07-06 14:43:04 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544610370295398402)
-
-0 videos, 1 photos
-
-```
-
-How one woman can make you get scared...
-#GoHomeGota https://t.co/fEnovKJ2Ns
-
-```
-
-![image](https://pbs.twimg.com/media/FW-O8jZXkAAAO-M.jpg)
 
 ---
