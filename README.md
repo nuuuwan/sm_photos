@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*160 tweets as of 20220707-055927*
+*161 tweets as of 20220707-062605*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 06:04:35 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1544842279138889728)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/PtLubOCI1y
+රට ගෙන්න පුළුවන් අන්තිම අඩියට ගෙනැල්ලා ඉවරයි - 09 වෙනිදා විරෝධයට නීතිඥවරු පෙළගැසෙයි
+#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/ZAEzMUi0su
+
+```
+
+![image](https://pbs.twimg.com/media/FXBh2fPagAAOA7g.jpg)
+
+---
 
 2022-07-07 05:55:04 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544839882794831874)
 
@@ -1579,23 +1595,5 @@ This. @Hirunikaconnect ❤‍🔥
 ```
 
 ![image](https://pbs.twimg.com/media/FW-YJW1UcAAqPNC.jpg)
-
----
-
-2022-07-06 15:11:51 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544617612746936321)
-
-1 videos, 0 photos
-
-```
-
-The Worst Part is : The Water they use in the Water Canons are Mud Water. It was purely filled with Mud! 
-
-Thats how Horrible the State &amp; the Forces treating the Protesters.
-
-#GoHomeGota #PoliceBrutality https://t.co/CH72Iy1AU3 https://t.co/GS7OAxTWCc
-
-```
-
-
 
 ---
