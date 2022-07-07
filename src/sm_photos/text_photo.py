@@ -21,8 +21,6 @@ def generate(text, font_size):
         anchor='mm',
         font=font,
         fill="black",
-        stroke_fill="black",
-        stroke_width=4,
     )
 
     text_id = text.replace(' ', '-')
