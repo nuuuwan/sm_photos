@@ -57,7 +57,7 @@ def build_readme():
     lines = [
         '# Social Media Photos',
         f'*{len(tweet_info_list)} tweets as of {time_id}*',
-        '![text-collage](text_collage_image-1080x.png)',
+        '![animation](text_collage_image.animation.gif)',
         f'## {N} latest tweets',
     ] + rendered_last_n_tweets
     md_file = os.path.join(DIR_DATA, 'README.md')
