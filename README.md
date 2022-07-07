@@ -1,10 +1,63 @@
 # Social Media Photos
 
-*326 tweets as of 20220707-232000*
+*329 tweets as of 20220707-233644*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 23:33:55 by [imdionlloyd](https://twitter.com/imdionlloyd/status/1545106351189151744)
+
+0 videos, 1 photos
+
+```
+
+They will try to go deep as they can to suppress the People and to remain in power. Let's Rally and Join force on the 9th to chase the away Creators of #EconomicCrisisLK. 
+One Day of Sacrifice will ensure peaceful life for the rest of the days to come. #GoHomeGota https://t.co/V1uAL0nRd3
+
+```
+
+![image](https://pbs.twimg.com/media/FXFSCVoWIAAWQN3.jpg)
+
+---
+
+2022-07-07 23:29:47 by [adopteeslk](https://twitter.com/adopteeslk/status/1545105310708142080)
+
+0 videos, 4 photos
+
+```
+
+Lovely 3 month old girl up for free adoption at Nugegoda. Very playful &amp; affectionate. Litter trained. Loves playing with rubber slippers. Loves attention. Will be vaccinated prior to adoption.
+
+Contact: Jaami - 077 300 7508
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews https://t.co/srOuRyDQAv
+
+```
+
+![image](https://pbs.twimg.com/media/FXFRFnyUYAAXx-j.jpg)
+
+![image](https://pbs.twimg.com/media/FXFRFnzVUAALNf8.jpg)
+
+![image](https://pbs.twimg.com/media/FXFRFnzVsAAiELT.jpg)
+
+![image](https://pbs.twimg.com/media/FXFRFoiUsAE0p_1.jpg)
+
+---
+
+2022-07-07 23:29:38 by [Hirunikaconnect](https://twitter.com/Hirunikaconnect/status/1545105273706401793)
+
+0 videos, 1 photos
+
+```
+
+✊#gohomegota https://t.co/QlKB7PyH8D
+
+```
+
+![image](https://pbs.twimg.com/media/FXFRDsAaAAAjtZQ.jpg)
+
+---
 
 2022-07-07 23:15:10 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545101632504877057)
 
