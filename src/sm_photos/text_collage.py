@@ -12,9 +12,10 @@ WIDTH, HEIGHT = 80, 45
 
 
 def get_average(pixels):
-    n = len(pixels)
-    n_black = len(list(filter(lambda pixel: pixel[0] < 32, pixels)))
-    return n_black / n
+    return sum(list(map(
+        lambda pixel: sum(pixel[:3]),
+        pixels,
+    ))) / len(pixels)
 
 
 def build_text_collage(base_image_file, photo_file_list):
@@ -50,7 +51,7 @@ def build_text_collage(base_image_file, photo_file_list):
         list(
             map(
                 lambda x: [x[1], x[0]],
-                enumerate(sorted(text_collage_image_light_values)),
+                enumerate(sorted(text_collage_image_light_values, key=lambda v: -v)),
             )
         )
     )
