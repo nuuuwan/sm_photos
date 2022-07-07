@@ -9,7 +9,7 @@ from sm_photos import dedupe, photos
 from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
-DIM = 127 - 1
+DIM = 128 - 1
 WIDTH, HEIGHT = 80, 45
 
 
@@ -48,7 +48,7 @@ def build_text_collage(base_image_file, photo_file_list):
             map(
                 lambda item: [
                     item[0],
-                    get_average(item[1]) + random.random(),
+                    get_average(item[1]) + random.random() * 10,
                 ],
                 text_collage_image_pixels.items(),
             )
@@ -87,7 +87,7 @@ def build_text_collage(base_image_file, photo_file_list):
     for k, rank in text_collage_image_ranks.items():
         ix, iy = list(map(lambda x: (int)(x), k.split(',')))
         i_photo = (int)(
-            rank * n_photos / DIM / DIM + (random.random() - 0.5) * 5
+            rank * n_photos / DIM / DIM + (random.random() - 0.5) * 3
         )
         if i_photo >= n_photos:
             i_photo = n_photos - 1
