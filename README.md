@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*282 tweets as of 20220707-161856*
+*283 tweets as of 20220707-162809*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 16:19:14 by [udeshan](https://twitter.com/udeshan/status/1544996960158920704)
+
+0 videos, 1 photos
+
+```
+
+@chami9539 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota #ShamelessPigs https://t.co/amf3Kc9JWk
+
+```
+
+![image](https://pbs.twimg.com/media/FXDuitWXgAEDyX6.jpg)
+
+---
 
 2022-07-07 16:11:46 by [udeshan](https://twitter.com/udeshan/status/1544995080510980096)
 
@@ -1564,19 +1578,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB0WCFXgAASwAg.jpg)
-
----
-
-2022-07-07 07:25:13 by [udeshan](https://twitter.com/udeshan/status/1544862571584294912)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/Sxk2J5Amib
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0UTgWIAEryzY.jpg)
 
 ---
