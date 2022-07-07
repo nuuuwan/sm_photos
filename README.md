@@ -1,10 +1,39 @@
 # Social Media Photos
 
-*349 tweets as of 20220708-025917*
+*351 tweets as of 20220708-031716*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 03:14:50 by [cartoonlka](https://twitter.com/cartoonlka/status/1545161945916944384)
+
+0 videos, 1 photos
+
+```
+
+Dayan Kottachchi cartoon 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/LUW4mWXRuq
+
+```
+
+![image](https://pbs.twimg.com/media/FXGEmHKWIAEw08T.jpg)
+
+---
+
+2022-07-08 03:14:48 by [ordealeus](https://twitter.com/ordealeus/status/1545161936693694464)
+
+1 videos, 0 photos
+
+```
+
+I just want to talk to President Gotabaya.
+#GoHomeGota2022 #GoHomeGota #GoHomeRanil #GotaGoGama #GotaGoHome #GotaGoHome2022 #lka #Aragalaya https://t.co/iQ99lyMWK4
+
+```
+
+---
 
 2022-07-08 02:24:21 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1545149241114480643)
 
@@ -1535,35 +1564,5 @@ Australia / Canada / Switzerland / Netherland
 ![image](https://pbs.twimg.com/media/FXC8dNCXEAI5u5A.jpg)
 
 ![image](https://pbs.twimg.com/media/FXC8dNFWYAEstqi.jpg)
-
----
-
-2022-07-07 12:35:48 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544940730447446017)
-
-1 videos, 0 photos
-
-```
-
-ජූලි 8 අන්තනෝමතික පාලකයන්ට එරෙහිව අන්තරය සමග අත්වැල්බැද ගනිමු 
-
--#GoHomeGota https://t.co/dcG5Q40Jxb
-
-```
-
----
-
-2022-07-07 12:29:11 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544939065329557505)
-
-0 videos, 1 photos
-
-```
-
-හොදටම කරපු නන්දේ එක්ක කතාකරගන්න 9 වෙනිදට කොළඹ එන්න 
-
-#GoHomeGota https://t.co/MEqdvdyNJX
-
-```
-
-![image](https://pbs.twimg.com/media/FXC54kxXoAIx4zV.jpg)
 
 ---
