@@ -1,10 +1,38 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-141349*
+*100 tweets as of 20220707-142339*
 
-![text-collage](text_collage_image-1080x.png)
+![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 14:21:35 by [NimeshPansilu](https://twitter.com/NimeshPansilu/status/1544967351644196866)
+
+1 videos, 0 photos
+
+```
+
+we are responsible to re create our mother land ❤️‍🩹🇱🇰 #GoHomeGota #GoHomeGota2022 #GoHomeRajapaksas #itshappening https://t.co/3bzuS00c6m
+
+```
+
+---
+
+2022-07-07 14:15:42 by [Thedmdvbd](https://twitter.com/Thedmdvbd/status/1544965871801470976)
+
+0 videos, 1 photos
+
+```
+
+අවුරුදු පහකට සැරයක් ගිහිල්ලා කතිරයක් ගැහුවට මුන් කවුරුත් උඹලා තරං වැරදි කරලා නෑ යකෝ... දැං ඇති! 😣🖐
+
+#GoHomeGota2022 #GoHomeGota #GoHomeRajapakshas #GotaGoHome #lka #SriLanka #PowerToThePeople https://t.co/zxqIPbPknH
+
+```
+
+![image](https://pbs.twimg.com/media/FXDSQ7lWAAMEmFd.jpg)
+
+---
 
 2022-07-07 14:04:14 by [MarioAlles1](https://twitter.com/MarioAlles1/status/1544962984661110784)
 
@@ -1512,40 +1540,5 @@ Cartoon by @NamalAmarasing
 ```
 
 ![image](https://pbs.twimg.com/media/FXBuQ76WYAEHNcT.jpg)
-
----
-
-2022-07-07 06:04:35 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1544842279138889728)
-
-0 videos, 1 photos
-
-```
-
-https://t.co/PtLubOCI1y
-රට ගෙන්න පුළුවන් අන්තිම අඩියට ගෙනැල්ලා ඉවරයි - 09 වෙනිදා විරෝධයට නීතිඥවරු පෙළගැසෙයි
-#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/ZAEzMUi0su
-
-```
-
-![image](https://pbs.twimg.com/media/FXBh2fPagAAOA7g.jpg)
-
----
-
-2022-07-07 05:55:04 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544839882794831874)
-
-0 videos, 1 photos
-
-```
-
-🇱🇰#SriLanka 
-#GoHomeGota 
-#gohomerajapaksas 
-#StopRuiningMyCountry 
-#Resign
-#GiveUsOurStolenMoneyBack https://t.co/MClwCo0oZe
-
-```
-
-![image](https://pbs.twimg.com/media/FXBfr74XoAANAo4.jpg)
 
 ---
