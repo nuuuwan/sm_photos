@@ -1,8 +1,8 @@
 # Social Media Photos
 
-*244 tweets as of 20220707-115148*
+*244 tweets as of 20220707-115218*
 
-![collage.png](collage.png)
+![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
 
@@ -43,8 +43,6 @@
 #GoHomeGota and #GoHomeRanil have looted the country so badly that it is now our country which took drastic measures to stop the sale of fuel to the common people "Oil crisis since the 1970s #EndFreePetrolLK #FuelCrisisLK https://t.co/jSM0eDeZNT
 
 ```
-
-
 
 ---
 
@@ -91,6 +89,12 @@ The fellow #GoHomeGota activists also participated in this event representing ma
 
 ![image](https://pbs.twimg.com/media/FXCu-bMaUAAx66j.jpg)
 
+![image](https://pbs.twimg.com/media/FXCu-bNakAEjxti.jpg)
+
+![image](https://pbs.twimg.com/media/FXCu-bNaQAI80Of.jpg)
+
+![image](https://pbs.twimg.com/media/FXCu-bVakAAoz0b.jpg)
+
 ---
 
 2022-07-07 11:37:28 by [MaatramSL](https://twitter.com/MaatramSL/status/1544926051897610241)
@@ -121,6 +125,12 @@ The party leaders said that they would fully support any action taken democratic
 
 ![image](https://pbs.twimg.com/media/FXCttkYaMAEV6fK.jpg)
 
+![image](https://pbs.twimg.com/media/FXCttkPakAIVBrE.jpg)
+
+![image](https://pbs.twimg.com/media/FXCttkPakAEp0YQ.jpg)
+
+![image](https://pbs.twimg.com/media/FXCttkcaIAAdI-Y.jpg)
+
 ---
 
 2022-07-07 11:35:51 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544925645784096768)
@@ -134,6 +144,12 @@ The 'අරගලය දිනවන සම්මුතිය' conference, which
 ```
 
 ![image](https://pbs.twimg.com/media/FXCtq8caIAAyfWf.jpg)
+
+![image](https://pbs.twimg.com/media/FXCtq8cagAAWcLS.jpg)
+
+![image](https://pbs.twimg.com/media/FXCtq8facAAqPsC.jpg)
+
+![image](https://pbs.twimg.com/media/FXCtq8naQAEOVHX.jpg)
 
 ---
 
@@ -292,6 +308,10 @@ Country is also facing record high inflation and protracted power blackouts, of 
 
 ![image](https://pbs.twimg.com/media/FXCowJPWQAAOi3V.jpg)
 
+![image](https://pbs.twimg.com/media/FXCowV5WQAIw65F.jpg)
+
+![image](https://pbs.twimg.com/media/FXCowhnXwAAKgt9.jpg)
+
 ---
 
 2022-07-07 10:53:22 by [udeshan](https://twitter.com/udeshan/status/1544914951596228610)
@@ -412,6 +432,10 @@ So refreshing to see the super-hardcore බයියාස් being absolutely r
 ```
 
 ![image](https://pbs.twimg.com/media/FXCeJKDagAAkeSs.jpg)
+
+![image](https://pbs.twimg.com/media/FXCeJfpaQAIXvSy.jpg)
+
+![image](https://pbs.twimg.com/media/FXCeJ1BaAAAWDmm.jpg)
 
 ---
 
@@ -616,6 +640,12 @@ I can c wellawatte clear view.
 
 ![image](https://pbs.twimg.com/media/FXCLiyBUYAEr5yx.jpg)
 
+![image](https://pbs.twimg.com/media/FXCLjMkUIAA2uRk.jpg)
+
+![image](https://pbs.twimg.com/media/FXCLjn_VUAETtT9.jpg)
+
+![image](https://pbs.twimg.com/media/FXCLkBeVEAA-DBx.jpg)
+
 ---
 
 2022-07-07 09:11:52 by [NireshEliatamby](https://twitter.com/NireshEliatamby/status/1544889409681637376)
@@ -711,8 +741,6 @@ I am your dad.
 #lka #GoHomeRajapaksas https://t.co/x3V3e8YigY
 
 ```
-
-
 
 ---
 
@@ -811,8 +839,6 @@ Some slept at the railway station last night.
 #GoHomeGota https://t.co/ZjqyZ6RLwM
 
 ```
-
-
 
 ---
 
@@ -1310,6 +1336,12 @@ Entire #SriLanka will come to Colombo on July 9. Follow us!
 
 ![image](https://pbs.twimg.com/media/FXBfIvKXwAEZSIF.jpg)
 
+![image](https://pbs.twimg.com/media/FXBfI9AXgAEhXmU.jpg)
+
+![image](https://pbs.twimg.com/media/FXBfJLTXoAAXXxL.jpg)
+
+![image](https://pbs.twimg.com/media/FXBfJaJXwAIzQdp.jpg)
+
 ---
 
 2022-07-07 05:28:26 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544833179281915907)
@@ -1327,6 +1359,12 @@ Entire #SriLanka will come to Colombo on July 9. Follow us!
 
 ![image](https://pbs.twimg.com/media/FXBZlCtWYAAXaFs.jpg)
 
+![image](https://pbs.twimg.com/media/FXBZlRuXEAcw5Rn.jpg)
+
+![image](https://pbs.twimg.com/media/FXBZlflXwAQBm-6.jpg)
+
+![image](https://pbs.twimg.com/media/FXBZlvvXwAIjkdk.jpg)
+
 ---
 
 2022-07-07 05:16:54 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1544830276869804033)
@@ -1343,6 +1381,10 @@ Entire #SriLanka will come to Colombo on July 9. Follow us!
 ```
 
 ![image](https://pbs.twimg.com/media/FXBW8UqWYAIfysJ.jpg)
+
+![image](https://pbs.twimg.com/media/FXBW8jiX0AEpAwu.jpg)
+
+![image](https://pbs.twimg.com/media/FXBW8uJWYAA8oZx.jpg)
 
 ---
 
@@ -1367,8 +1409,6 @@ THE WHOLE COUNTRY TO COLOMBO- ON 9th OF JULY 2022
 
 ```
 
-
-
 ---
 
 2022-07-07 02:06:24 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544782338441216003)
@@ -1380,8 +1420,6 @@ THE WHOLE COUNTRY TO COLOMBO- ON 9th OF JULY 2022
 #GoHomeGota #GoHomeGota2022 #GotaGoHome #GotaGoHome2022 #GotaGoGama #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #SriLankaProtests #July9th #july9 #GoHomeRanil #GoHomeRajapaksas https://t.co/YCtLdb8WbY
 
 ```
-
-
 
 ---
 
@@ -1405,8 +1443,6 @@ It’s now or never!
 
 ```
 
-
-
 ---
 
 2022-07-07 01:30:31 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544773305802039297)
@@ -1424,8 +1460,6 @@ The greatest public awakening in the history of Sri Lanka 🇱🇰
 @nuzlyMN @thila794 #lka #GoHomeGota @Hirunikaconnect @RehanJayawick @munza14 @roelraymond @AthaudaDasuni @Bloktimus https://t.co/6YdXM7jCGn
 
 ```
-
-
 
 ---
 
@@ -1467,6 +1501,12 @@ The struggle is not over!
 
 ![image](https://pbs.twimg.com/media/FXAecaaXgAA-zPN.jpg)
 
+![image](https://pbs.twimg.com/media/FXAecafXgAIgjo_.jpg)
+
+![image](https://pbs.twimg.com/media/FXAecaZWQAAOl_P.jpg)
+
+![image](https://pbs.twimg.com/media/FXAecaZWYAE9y6z.jpg)
+
 ---
 
 2022-07-07 00:54:09 by [harshap](https://twitter.com/harshap/status/1544764155328184325)
@@ -1492,8 +1532,6 @@ I don’t care who comes next but #GoHomeGota #GoHomeGota2022 #lka #protestLK Lo
 #GoHomeGota #GoHomeGota2022 https://t.co/NIzmpTvFJg
 
 ```
-
-
 
 ---
 
