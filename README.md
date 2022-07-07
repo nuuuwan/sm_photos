@@ -1,10 +1,99 @@
 # Social Media Photos
 
-*296 tweets as of 20220707-191825*
+*302 tweets as of 20220707-193924*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 19:35:37 by [kumanthika](https://twitter.com/kumanthika/status/1545046381429108736)
+
+0 videos, 1 photos
+
+```
+
+CPC has no LKR to buy USD to import fuel, asks Treasury for LKR to buy the next shipment - CB driven to print money to meet the need. When will this vicious cycle end? #SriLankaEconomicCrisis #SriLankaCrisis #SriLankaProtests #srilankanpoliticalcrisis #GoHomeGota #FuelCrisisLK https://t.co/ZrWZ5rJLbt
+
+```
+
+![image](https://pbs.twimg.com/media/FXEamSnUsAMmpSl.jpg)
+
+---
+
+2022-07-07 19:32:38 by [heavybstyles](https://twitter.com/heavybstyles/status/1545045631844003843)
+
+0 videos, 1 photos
+
+```
+
+RT @TechGuyGamunu: #GoHomeGota #lka https://t.co/zH0G04GZD5
+
+```
+
+![image](https://pbs.twimg.com/media/FXD66V1UUAIKfEb.jpg)
+
+---
+
+2022-07-07 19:26:16 by [aruni_t](https://twitter.com/aruni_t/status/1545044030178103297)
+
+0 videos, 1 photos
+
+```
+
+The entire @PodujanaParty &amp; it’s leaders @GotabayaR, @PresRajapaksa, &amp; Basil Rajapaksa who promised Sri Lankans ‘Vistas of Prosperity &amp; Splendour’ are responsible for this humiliation. #GoHomeGota #Vipathmaga https://t.co/G2hUNzsVa7
+
+```
+
+![image](https://pbs.twimg.com/media/FXEZWgqaQAEpLp0.jpg)
+
+---
+
+2022-07-07 19:25:17 by [ambvrtt](https://twitter.com/ambvrtt/status/1545043780721446917)
+
+0 videos, 1 photos
+
+```
+
+Some says “A journey of a thousand miles begins with a single step”.
+We ended each walking 40,000+ steps. Without trains and buses.
+Thank you @GotabayaR 🤢🤌
+#GoHomeRajapakshas #GoHomeGota https://t.co/I5szwSkwyT
+
+```
+
+![image](https://pbs.twimg.com/media/FXEZHeiUsAE2i9m.jpg)
+
+---
+
+2022-07-07 19:23:30 by [OneAahad](https://twitter.com/OneAahad/status/1545043331595452417)
+
+0 videos, 1 photos
+
+```
+
+#SL People Please🔊 Listen Let's gather with us  #July9 to make #SriLankaProtests  to make new turning point. #Revolution 💪of #Srilanka .People Power is much Strong. #FuelCrisisLK  #StandasOneSL #SriLankaEconomicCrisis #lka #GoHomeGota #srilankanpoliticalcrisis https://t.co/62BpPATRxx
+
+```
+
+![image](https://pbs.twimg.com/media/FXEYtM8VEAcl_cX.png)
+
+---
+
+2022-07-07 19:21:58 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545042944344096768)
+
+0 videos, 1 photos
+
+```
+
+🛑උඹලට තියෙන්න තව පැය කීපයක් පමණයි -  ජූලි 9 මොකද වෙන්නේ අරගලකරුවන්ගේ දැනුවත් කිරීම මෙන්න
+https://t.co/60dZtTgiMF
+#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/WyVEWpbWqa
+
+```
+
+![image](https://pbs.twimg.com/media/FXEYVz1aAAADAAp.jpg)
+
+---
 
 2022-07-07 19:12:28 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545040553435447296)
 
@@ -1184,103 +1273,5 @@ I can c wellawatte clear view.
 ```
 
 ![image](https://pbs.twimg.com/media/FXCI4rgWYAAatUh.jpg)
-
----
-
-2022-07-07 08:54:33 by [NomicOli](https://twitter.com/NomicOli/status/1544885050746888192)
-
-0 videos, 1 photos
-
-```
-
-මහ පුටු වෙ ඉන්න ගැරඩියා නම් ඔය මොනවා ගහල වත් එලවන්න බෑ,,,ගම් ගාලා අලවලා ඉන්නෙ
-#GoHomeGota 
-#GoHomeGota2022 
-🇱🇰❤️‍🩹❤️‍🩹❤️‍🩹❤️‍🩹❤️‍🩹 https://t.co/NtqHL1R25z
-
-```
-
-![image](https://pbs.twimg.com/media/FXCIxCcXEAEigTm.jpg)
-
----
-
-2022-07-07 08:45:01 by [exfrotezter](https://twitter.com/exfrotezter/status/1544882652108378112)
-
-0 videos, 1 photos
-
-```
-
-2023 will be difficult, but it will be better without the likes of you two who are still trying to ruin the country. This is the truth @RW_UNP and @GotabayaR. This is the reality.
-
-#GoHomeGota
-#GoHomeRanil https://t.co/p2b2TjLtEF
-
-```
-
-![image](https://pbs.twimg.com/media/FXCGlDNXgAESCm-.jpg)
-
----
-
-2022-07-07 08:40:30 by [mohamednafly98](https://twitter.com/mohamednafly98/status/1544881514034647040)
-
-0 videos, 1 photos
-
-```
-
-Gota If you think you are bad .
-I am your dad.
-#GoHomeGota https://t.co/Cy6HcihL51
-
-```
-
-![image](https://pbs.twimg.com/media/FXCFA2kaMAEXsM4.jpg)
-
----
-
-2022-07-07 08:31:16 by [KotageNipun](https://twitter.com/KotageNipun/status/1544879190842810368)
-
-1 videos, 0 photos
-
-```
-
-කාකි ඇඳුමට යටින් මතු වූ දරු සෙනෙහස!
-කඳුළු ගෑස් ප්‍රහාරයෙන් දරුවා බේරා ගැනීමට ඉදිරිපත් වූ  සංවේදනයක් ඇති පොලිස් නිලධාරියාට  ප්‍රණාමය!Hats off...👊👊👊
-#GoHomeGota 
-#lka #GoHomeRajapaksas https://t.co/x3V3e8YigY
-
-```
-
----
-
-2022-07-07 08:24:11 by [Jeevanifdo](https://twitter.com/Jeevanifdo/status/1544877411200020481)
-
-0 videos, 1 photos
-
-```
-
-Some slept at the railway station last night.
-#whyweshouldprotest
-#SriLankaEconomicCrisis 
-#srilankafuelcrisis 
-#GoHomeGota 
-#jointhearagalaya https://t.co/aROL7OI4Kz
-
-```
-
-![image](https://pbs.twimg.com/media/FXCB0T9XEAEl8nh.jpg)
-
----
-
-2022-07-07 08:00:42 by [isurusen](https://twitter.com/isurusen/status/1544871499546644480)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GotaGoGama #GotaGoHome2022   https://t.co/OOCJMButHz https://t.co/sTMrWzEuv8
-
-```
-
-![image](https://pbs.twimg.com/media/FXB8bL5aQAArsSV.jpg)
 
 ---
