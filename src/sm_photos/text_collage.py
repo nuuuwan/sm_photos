@@ -10,7 +10,8 @@ from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
 DIM = 128 - 1
-WIDTH, HEIGHT = 80, 45
+WIDTH = 64
+HEIGHT = WIDTH * 9 / 16
 
 
 def get_average(pixels):
@@ -128,7 +129,7 @@ def metarize():
         ),
     )
 
-    N_STEPS = 36
+    N_STEPS = 40
     metarized_item_image_list = []
     for i_step in range(N_STEPS):
         if i_step != 0:
@@ -160,7 +161,7 @@ def metarize():
         DIR_DATA,
         'text_collage_image.animation.gif',
     )
-    DURATION = 0.15
+    DURATION = 0.12
     imageio.mimsave(
         metarized_animation_file, metarized_item_image_list, duration=DURATION
     )
