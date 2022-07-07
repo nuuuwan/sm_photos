@@ -1,10 +1,69 @@
 # Social Media Photos
 
-*267 tweets as of 20220707-143734*
+*271 tweets as of 20220707-145201*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 14:49:13 by [ChehanSiva](https://twitter.com/ChehanSiva/status/1544974305997766661)
+
+1 videos, 0 photos
+
+```
+
+@elonmusk you should hire this guys to @SpaceX , he is capable of providing zero cost space travel. 😄
+
+#GoHomeGota #GoHomeGota2022 https://t.co/olf9E15fn0
+
+```
+
+---
+
+2022-07-07 14:48:16 by [BandhiniF](https://twitter.com/BandhiniF/status/1544974065395503105)
+
+1 videos, 0 photos
+
+```
+
+A pregnant mother has gone into labour, while waiting in the queue at the Department of Immigration &amp; Emigration in Battaramulla. 
+#EconomicCrisisLK #GoHomeGota https://t.co/tEeFWF8CxN
+
+```
+
+---
+
+2022-07-07 14:39:33 by [CseJunkie](https://twitter.com/CseJunkie/status/1544971875058536448)
+
+0 videos, 1 photos
+
+```
+
+See you all tomorrow. Let us all take a stand against this failed administration 
+#GoHomeGota
+#පලනන්දෙගෙදර https://t.co/zQ93GhevB3
+
+```
+
+![image](https://pbs.twimg.com/media/FXDXudhXwAA_Ft6.jpg)
+
+---
+
+2022-07-07 14:39:10 by [IjazDil1](https://twitter.com/IjazDil1/status/1544971776693702657)
+
+0 videos, 1 photos
+
+```
+
+Are You Ready? 
+
+#GoHomeGota #GoHomeRanil https://t.co/gB5uH1gfCG
+
+```
+
+![image](https://pbs.twimg.com/media/FXDXnBqVUAAF57j.jpg)
+
+---
 
 2022-07-07 14:33:09 by [MimiWdf](https://twitter.com/MimiWdf/status/1544970264269967360)
 
@@ -1496,63 +1555,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXBz5ydWAAEcr_D.jpg)
-
----
-
-2022-07-07 07:22:56 by [udeshan](https://twitter.com/udeshan/status/1544861996142641153)
-
-0 videos, 1 photos
-
-```
-
-@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/KnuI1EpDEZ
-
-```
-
-![image](https://pbs.twimg.com/media/FXBzyx9WAAAJ-xY.jpg)
-
----
-
-2022-07-07 07:22:31 by [udeshan](https://twitter.com/udeshan/status/1544861891205378048)
-
-0 videos, 1 photos
-
-```
-
-@NalakaG #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On this 9th July https://t.co/FQkwUReaiD
-
-```
-
-![image](https://pbs.twimg.com/media/FXBzsp2WYAAkh4A.jpg)
-
----
-
-2022-07-07 07:21:30 by [udeshan](https://twitter.com/udeshan/status/1544861633779867649)
-
-0 videos, 1 photos
-
-```
-
-@Dailymirror_SL #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/t5QnKCMjPK
-
-```
-
-![image](https://pbs.twimg.com/media/FXBzdq4WIAMxZ1e.jpg)
-
----
-
-2022-07-07 07:19:01 by [cartoonlka](https://twitter.com/cartoonlka/status/1544861010972008454)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @RcSullan 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/NaHahNiz1W
-
-```
-
-![image](https://pbs.twimg.com/media/FXBy5SUXEAI8ksu.jpg)
 
 ---
