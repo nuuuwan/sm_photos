@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*288 tweets as of 20220707-172928*
+*289 tweets as of 20220707-174454*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 17:36:50 by [bhanu_subhash](https://twitter.com/bhanu_subhash/status/1545016489769840640)
+
+0 videos, 1 photos
+
+```
+
+#travel #GoHomeGota https://t.co/PrPDSIup9o
+
+```
+
+![image](https://pbs.twimg.com/media/FXEATHtaMAACinn.jpg)
+
+---
 
 2022-07-07 17:13:16 by [TechGuyGamunu](https://twitter.com/TechGuyGamunu/status/1545010557811494917)
 
