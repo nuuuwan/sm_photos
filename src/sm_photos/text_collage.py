@@ -9,8 +9,8 @@ from sm_photos import dedupe, photos
 from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
-DIM = 64 - 1
-WIDTH, HEIGHT = 160, 90
+DIM = 127 - 1
+WIDTH, HEIGHT = 80, 45
 
 
 def get_average(pixels):
