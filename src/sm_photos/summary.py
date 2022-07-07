@@ -24,24 +24,26 @@ def render_tweet_info(tweet_info):
         timezone=timex.TIMEZONE_OFFSET_LK,
     )
 
-    media_url = None
     video_url_list = tweet_info['video_url_list']
     photo_url_list = tweet_info['photo_url_list']
 
-    line_media = ''
-    if photo_url_list:
-        media_url = photo_url_list[0]
-        line_media = f'![image]({media_url})'
+    photo_lines = []
+    for photo_url in photo_url_list:
+        photo_lines.append(f'![image]({photo_url})')
 
-    return [
-        f'{time_str} by [{user}]({tweet_url})',
-        f'{len(video_url_list)} videos, {len(photo_url_list)} photos',
-        '```',
-        text,
-        '```',
-        line_media,
-        '---',
-    ]
+    return (
+        [
+            f'{time_str} by [{user}]({tweet_url})',
+            f'{len(video_url_list)} videos, {len(photo_url_list)} photos',
+            '```',
+            text,
+            '```',
+        ]
+        + photo_lines
+        + [
+            '---',
+        ]
+    )
 
 
 def build_readme():
@@ -55,7 +57,7 @@ def build_readme():
     lines = [
         '# Social Media Photos',
         f'*{len(tweet_info_list)} tweets as of {time_id}*',
-        '![collage.png](collage.png)',
+        '![text-collage](text_collage_image-1080x.png)',
         f'## {N} latest tweets',
     ] + rendered_last_n_tweets
     md_file = os.path.join(DIR_DATA, 'README.md')
