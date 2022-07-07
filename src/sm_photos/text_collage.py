@@ -154,11 +154,6 @@ def metarize():
             )
         )
 
-        metarized_item_image_file = os.path.join(
-            DIR_DATA, f'text_collage_image.meta-item.{i_step:02d}.png'
-        )
-        metarized_item_image.save(metarized_item_image_file)
-        log.info(f'Wrote {metarized_item_image_file}')
         metarized_item_image_list.append(metarized_item_image)
 
     metarized_animation_file = os.path.join(
