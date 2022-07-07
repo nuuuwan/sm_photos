@@ -1,10 +1,41 @@
 # Social Media Photos
 
-*321 tweets as of 20220707-224308*
+*323 tweets as of 20220707-230839*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 23:05:55 by [sunandadesh](https://twitter.com/sunandadesh/status/1545099304850817025)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #SriLanka  #GoHomeRanil 
+Anglican Church of Ceylon calls for President &amp; PM to resign immediately and  establishment to truly representative interim administration. https://t.co/XnBHkZJfnV via @LankaBrief https://t.co/71nsWTPAoF
+
+```
+
+![image](https://pbs.twimg.com/media/FXFLlr5X0AEVCqL.jpg)
+
+---
+
+2022-07-07 22:54:24 by [ChanakaB2](https://twitter.com/ChanakaB2/status/1545096406112796673)
+
+0 videos, 1 photos
+
+```
+
+@H_S_KandyHamu මතක ඇතුව උල් හයි කරලා පේන්නෙ නැති වෙන්න ඉටි කොලෙකින් වහන්න.ඇස් මට්ටමේ පවා හයි කරන්න දෙපාරක් හිතන්න එපා,අර ගිය පාර කලේ. මන් හිතන්නේ පපුව හරියෙන් ඇනුනොත් හදවතටම බහින දිගත් ඇතිවෙයි. 
+මිලේච්චයි කියන්නේ හරි අහිංසක වචනයක් මේවත් 👇 එක්ක බලනකොට.
+#GoHomeGota2022 #GoHomeGota https://t.co/EAdTZ2nrIT
+
+```
+
+![image](https://pbs.twimg.com/media/FXFI5naWQAcWl4F.jpg)
+
+---
 
 2022-07-07 22:22:59 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1545088499409379328)
 
@@ -1295,20 +1326,5 @@ Country is also facing record high inflation and protracted power blackouts, of 
 ![image](https://pbs.twimg.com/media/FXCowV5WQAIw65F.jpg)
 
 ![image](https://pbs.twimg.com/media/FXCowhnXwAAKgt9.jpg)
-
----
-
-2022-07-07 10:50:53 by [exfrotezter](https://twitter.com/exfrotezter/status/1544914329736298496)
-
-0 videos, 1 photos
-
-```
-
-Went on @DeutscheWelle yesterday during a powercut to talk about how it is not only a humanitarian crisis but a human rights crisis as well referring to the army officer who kicked a citizen and yesterday's arrests and tear gas attacks on peaceful protestors.
-#GoHomeGota https://t.co/1JBkpr7GfM
-
-```
-
-![image](https://pbs.twimg.com/media/FXCgyLnWIAEFDBv.jpg)
 
 ---
