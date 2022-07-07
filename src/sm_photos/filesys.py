@@ -31,7 +31,7 @@ def download_and_save_media(tweet_info):
                 www.download_binary(url, file_name)
                 log.info(f'Downloaded {url} to {file_name}')
             else:
-                log.info(f'Wrote {file_name} exists. Not downloading')
+                log.info(f'{file_name} exists. Not downloading')
 
 
 def download_and_save_data(tweet_info):
