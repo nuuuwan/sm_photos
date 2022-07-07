@@ -1,10 +1,116 @@
 # Social Media Photos
 
-*302 tweets as of 20220707-194634*
+*308 tweets as of 20220707-202109*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 20:11:49 by [Krys_Types](https://twitter.com/Krys_Types/status/1545055489540534273)
+
+0 videos, 4 photos
+
+```
+
+ජූලි 9, කොළබට එන්න 👇👇👇
+
+මේ දූශිත පවුල් පාලනය ඉවර කරමු!
+මේ ගෝඨා-රනිල් හවුල ඉවර කරමු!
+මේ ක්‍රමය වෙනස් කරමු! 
+
+#EndGameOn #GoHomeGota #July9 #ArrestRajapaksas #PeoplesProtestLK #EconomicCrisisLK #ReformSriLanka https://t.co/fO06u32Xlt
+
+```
+
+![image](https://pbs.twimg.com/media/FXEjI2AUUAIY601.jpg)
+
+![image](https://pbs.twimg.com/media/FXEjKQwVUAEmfLf.jpg)
+
+![image](https://pbs.twimg.com/media/FXEjLG_VEAIK1LJ.jpg)
+
+![image](https://pbs.twimg.com/media/FXEjL8yUUAAwRZy.jpg)
+
+---
+
+2022-07-07 20:11:21 by [sunandadesh](https://twitter.com/sunandadesh/status/1545055374520201223)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #SriLanka  #GoHomeRanil
+විදේශ ගමන් බලපත්‍රය ලබා ගැනීම සඳහා ආගමන විගමන දෙපාර්තමේන්තුවට පැමිණි හැටන් ප්‍රදේශයේ ගැබිණි කාන්තාවකට  කොළඹ කාසල් රෝහලේදී බිහිවූ දැරිය මිය ගොස් ඇතැයි වාර්තාවේ. https://t.co/wOrf7DCpo8
+
+```
+
+![image](https://pbs.twimg.com/media/FXEjk3hUsAIO6Wh.png)
+
+---
+
+2022-07-07 20:08:42 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545054707474870273)
+
+0 videos, 1 photos
+
+```
+
+This is how Nandasena and his clowns ruling the country 
+
+#EconomicCrisisLK 
+#GoHomeGota https://t.co/E7oKtC5AUl
+
+```
+
+![image](https://pbs.twimg.com/media/FXEjEQyVsAE7ArL.jpg)
+
+---
+
+2022-07-07 20:08:22 by [svyoges](https://twitter.com/svyoges/status/1545054622284271618)
+
+0 videos, 1 photos
+
+```
+
+What a pathetic situation that is created by the dictatorship regime @GotabayaR still holds your position while nation is in deep troubles &amp; people's wills aren't respected - PM Borris has resigned in a characteristic manner inwhich you don't..! #GoHomeGota https://t.co/5JYxLY6a5c
+
+```
+
+![image](https://pbs.twimg.com/media/FXEeR8mUsAIIzO4.png)
+
+---
+
+2022-07-07 20:00:25 by [MarcMartinn](https://twitter.com/MarcMartinn/status/1545052623631396864)
+
+0 videos, 1 photos
+
+```
+
+Individuals sometimes turn out to be almost the opposite of how they present. It isn't because they're trying to fool you or because they're hypocrites. It's because they badly want to be that thing, and so they'll try to be it #Aragalaya #lka #SriLanka  #Gohomegota https://t.co/TXsq7urTXY
+
+```
+
+![image](https://pbs.twimg.com/media/FXEfDxqVsAMv9Is.png)
+
+---
+
+2022-07-07 19:45:49 by [Indooshan](https://twitter.com/Indooshan/status/1545048946552479746)
+
+0 videos, 3 photos
+
+```
+
+Kotahena Getting ready for #July9th 
+Strong message sent to the President
+#GohomeGota #GoHomeRanil #GoHomeRajapaksas #EnoughIsEnough #Aragalaya #SriLankaCrisis https://t.co/hBMcKGJ0vh
+
+```
+
+![image](https://pbs.twimg.com/media/FXEdy_aaIAABc00.jpg)
+
+![image](https://pbs.twimg.com/media/FXEdz7YaUAAZgqA.jpg)
+
+![image](https://pbs.twimg.com/media/FXEd08SaUAAjw2_.jpg)
+
+---
 
 2022-07-07 19:35:37 by [kumanthika](https://twitter.com/kumanthika/status/1545046381429108736)
 
@@ -1175,103 +1281,5 @@ The bus to Galle #GoHomeGota https://t.co/C0KDoWvzaf
 ```
 
 ![image](https://pbs.twimg.com/media/FXCXUyvXgAM6FpE.jpg)
-
----
-
-2022-07-07 09:44:38 by [akalanka___y](https://twitter.com/akalanka___y/status/1544897654735634432)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/bTrOMtebBQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXCUOapacAAIPv0.jpg)
-
----
-
-2022-07-07 09:32:27 by [heavybstyles](https://twitter.com/heavybstyles/status/1544894587793248257)
-
-0 videos, 1 photos
-
-```
-
-RT @faizer_fazil: Dehiwala municipal junction. Morning 8.54, haunted, 
-I can c wellawatte clear view. 
-#SriLankaCrisis #GoHomeGota #GoHomeGota2022 https://t.co/HZRLHt3vhe
-
-```
-
-![image](https://pbs.twimg.com/media/FXCI4rgWYAAatUh.jpg)
-
----
-
-2022-07-07 09:27:11 by [udeshanbala](https://twitter.com/udeshanbala/status/1544893262443397120)
-
-0 videos, 1 photos
-
-```
-
-@HarshadeSilvaMP @RW_UNP @IMFNews #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/scPuBtT1Xq
-
-```
-
-![image](https://pbs.twimg.com/media/FXCQNigXEAEP5vt.jpg)
-
----
-
-2022-07-07 09:20:03 by [NightWingzzz](https://twitter.com/NightWingzzz/status/1544891468531126272)
-
-0 videos, 4 photos
-
-```
-
-හැබැයි ජූනි 29 අති විශේෂ ගැසට් එකක් එනවා මේ වැඩේ තහනම් කරලා. එහෙමයි කියලා අපේ රටේ උන් ගැසට් තඹේකට ගණන් ගන්නවද? නෑ... හූරන්ම කනවා... 
-
-#නමටගැසට්
-#GoHomeGota https://t.co/1k7PkjpmkB
-
-```
-
-![image](https://pbs.twimg.com/media/FXCLiyBUYAEr5yx.jpg)
-
-![image](https://pbs.twimg.com/media/FXCLjMkUIAA2uRk.jpg)
-
-![image](https://pbs.twimg.com/media/FXCLjn_VUAETtT9.jpg)
-
-![image](https://pbs.twimg.com/media/FXCLkBeVEAA-DBx.jpg)
-
----
-
-2022-07-07 09:11:52 by [NireshEliatamby](https://twitter.com/NireshEliatamby/status/1544889409681637376)
-
-0 videos, 1 photos
-
-```
-
-#EconomicCrisisLK #GoHomeGota #GoHomeRajapaksas #GoHomeRanil #GotaGoHome #LKA #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis 
-@SLRTBot @BotLanka @Sri_Lankabot @619Sniper619Bot https://t.co/zksNZRcRGg
-
-```
-
-![image](https://pbs.twimg.com/media/FXCMuUdWQAArXmV.png)
-
----
-
-2022-07-07 08:55:08 by [faizer_fazil](https://twitter.com/faizer_fazil/status/1544885199086882816)
-
-0 videos, 1 photos
-
-```
-
-Dehiwala municipal junction. Morning 8.54, haunted, 
-I can c wellawatte clear view. 
-#SriLankaCrisis #GoHomeGota #GoHomeGota2022 https://t.co/p4GvAFCuhj
-
-```
-
-![image](https://pbs.twimg.com/media/FXCI4rgWYAAatUh.jpg)
 
 ---
