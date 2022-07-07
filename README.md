@@ -1,10 +1,124 @@
 # Social Media Photos
 
-*230 tweets as of 20220707-112716*
+*238 tweets as of 20220707-113937*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 11:37:28 by [MaatramSL](https://twitter.com/MaatramSL/status/1544926051897610241)
+
+0 videos, 1 photos
+
+```
+
+Another Sri Lankan senior citizen died while waiting in line for fuel. This is the 15th death to have taken place at a fuel queue. https://t.co/2LX2dmfhci
+
+#lka #SriLanka #GoHomeGota 📸 @GettyImages https://t.co/EH2Z6l9lKi
+
+```
+
+![image](https://pbs.twimg.com/media/FXCuCo3XEAEYTQF.jpg)
+
+---
+
+2022-07-07 11:35:59 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544925677883097088)
+
+0 videos, 4 photos
+
+```
+
+The party leaders said that they would fully support any action taken democratically by the #GoHomeGota activists to oust Gotabhaya Rajapaksa from the office. (3/4) https://t.co/D56Ptz91SI
+
+```
+
+![image](https://pbs.twimg.com/media/FXCttkYaMAEV6fK.jpg)
+
+---
+
+2022-07-07 11:35:51 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544925645784096768)
+
+0 videos, 4 photos
+
+```
+
+The 'අරගලය දිනවන සම්මුතිය' conference, which brings together opposition political parties, civil organizations, trade unions and #GoHomeGota activists for an all-party unity to win the non-partisan goals of the people's struggle, was held yesterday in Colombo. (1/4) https://t.co/r1JlmQRw8y
+
+```
+
+![image](https://pbs.twimg.com/media/FXCtq8caIAAyfWf.jpg)
+
+---
+
+2022-07-07 11:30:23 by [udeshan](https://twitter.com/udeshan/status/1544924266352676869)
+
+0 videos, 1 photos
+
+```
+
+@nuzlyMN #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota 9th July https://t.co/vIH4ztHaET
+
+```
+
+![image](https://pbs.twimg.com/media/FXCsbqhWAAEbITX.jpg)
+
+---
+
+2022-07-07 11:28:03 by [udeshan](https://twitter.com/udeshan/status/1544923681331130368)
+
+0 videos, 1 photos
+
+```
+
+#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota 9th July https://t.co/WQROCLcJhw https://t.co/YSlHfryIuZ
+
+```
+
+![image](https://pbs.twimg.com/media/FXCr5leWYAEGkAX.jpg)
+
+---
+
+2022-07-07 11:27:56 by [balendra_soorya](https://twitter.com/balendra_soorya/status/1544923651991949312)
+
+0 videos, 1 photos
+
+```
+
+Country is also facing record high inflation and protracted power blackouts, of which we have contributed to months of protests calling on President #GoHomeGota to step down, but the impact of #FuelCrisisLK is on us now #EndFreePetrolLK https://t.co/MCZa2Eyx9q
+
+```
+
+![image](https://pbs.twimg.com/media/FXCrvv1UcAEs0Vr.jpg)
+
+---
+
+2022-07-07 11:27:51 by [Chandana1609](https://twitter.com/Chandana1609/status/1544923630064529408)
+
+0 videos, 1 photos
+
+```
+
+@kanchana_wij your talking system is a utter failure and now blocking entire road at mahabage #මොලේපුකේද #SriLankaCrisis #GoHomeGota https://t.co/UI4YZBjN1i
+
+```
+
+![image](https://pbs.twimg.com/media/FXCr2QfacAAtOtv.jpg)
+
+---
+
+2022-07-07 11:27:05 by [udeshan](https://twitter.com/udeshan/status/1544923436903845888)
+
+0 videos, 1 photos
+
+```
+
+#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/dFlxBQWSmX https://t.co/Hxldboy68B
+
+```
+
+![image](https://pbs.twimg.com/media/FXCrrY7WYAEWRtf.jpg)
+
+---
 
 2022-07-07 11:26:13 by [udeshan](https://twitter.com/udeshan/status/1544923218376503296)
 
@@ -1450,123 +1564,5 @@ Razor Fade Barber Shop Milton
 ```
 
 ![image](https://pbs.twimg.com/media/FXALPJyX0AAjvp8.jpg)
-
----
-
-2022-07-06 23:45:55 by [udeshan](https://twitter.com/udeshan/status/1544746984388448256)
-
-0 videos, 1 photos
-
-```
-
-@nuzlyMN @chami9539 @Jonathanajay @nimashi_wi @IamVimukthi #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/kqgForWTBQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXALMLfWAAAGJdf.jpg)
-
----
-
-2022-07-06 23:45:34 by [udeshan](https://twitter.com/udeshan/status/1544746893493673984)
-
-0 videos, 1 photos
-
-```
-
-@ThilinaKalu @munza14 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/GVtYqq4Oeq
-
-```
-
-![image](https://pbs.twimg.com/media/FXALG6EWIAEoaYS.jpg)
-
----
-
-2022-07-06 23:44:20 by [udeshan](https://twitter.com/udeshan/status/1544746583899533312)
-
-0 videos, 1 photos
-
-```
-
-@Welikumbura #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/HJDFurUIDW
-
-```
-
-![image](https://pbs.twimg.com/media/FXAK05JX0AANv0W.jpg)
-
----
-
-2022-07-06 23:42:10 by [udeshan](https://twitter.com/udeshan/status/1544746037851541504)
-
-0 videos, 1 photos
-
-```
-
-@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/cWBHotNp2v
-
-```
-
-![image](https://pbs.twimg.com/media/FXAKVFtWIAE67TO.jpg)
-
----
-
-2022-07-06 23:10:31 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1544738073715417088)
-
-0 videos, 2 photos
-
-```
-
-Just To Missed. Windows Felt By Crowd At Technical Junction
-#GotaGoGama #GoHomeGota https://t.co/pxE9tOFLnR
-
-```
-
-![image](https://pbs.twimg.com/media/FXADEXSUYAAsUqC.jpg)
-
----
-
-2022-07-06 23:08:51 by [ashvincj](https://twitter.com/ashvincj/status/1544737653899214854)
-
-1 videos, 0 photos
-
-```
-
-Polim left 😂 #GoHomeGota https://t.co/Y4k7tFaZKd
-
-```
-
-
-
----
-
-2022-07-06 23:08:15 by [MyTurnNow_Lk](https://twitter.com/MyTurnNow_Lk/status/1544737503886061568)
-
-0 videos, 2 photos
-
-```
-
-හිරුණිකා විතරක් නෙවෙයි අරගල කරන  පිටකොන්ද හයිය ගෑනි.. ඕනෑතරම් එහෙම ගෑනු ඉන්නවා මේ මහපොලවේ.... 
-පොඩි වෙනසයි තියෙන්නේ.... හිරුනිකා කරන්නේ කැම්පේන් එකක් 
-අනිත් ගෑනු කරන්නේ අරගලයක්....
-
-#Hirunika #EconomicCrisisLK #GoHomeGota https://t.co/TE70MmItbo
-
-```
-
-![image](https://pbs.twimg.com/media/FXABOkPaUAEoa7M.png)
-
----
-
-2022-07-06 23:02:13 by [AshenGunawarda1](https://twitter.com/AshenGunawarda1/status/1544735986646921216)
-
-1 videos, 0 photos
-
-```
-
-මිනිස්සු 💔
-#GoHomeGota https://t.co/5p2MTiNx4A
-
-```
-
-
 
 ---
