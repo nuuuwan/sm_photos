@@ -1,10 +1,25 @@
 # Social Media Photos
 
-*161 tweets as of 20220707-062605*
+*162 tweets as of 20220707-070738*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 06:58:47 by [_T_h_a_r_u_k_a_](https://twitter.com/_T_h_a_r_u_k_a_/status/1544855917451087872)
+
+0 videos, 1 photos
+
+```
+
+සුබ උදෑසනක් වේවා....🥰🌍🤍
+#GoHomeGota https://t.co/I9dE5U83fi
+
+```
+
+![image](https://pbs.twimg.com/media/FXBuQ76WYAEHNcT.jpg)
+
+---
 
 2022-07-07 06:04:35 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1544842279138889728)
 
@@ -1578,22 +1593,5 @@ Be it acting or politics, be happy that she has at least one thing to fight for.
 ```
 
 ![image](https://pbs.twimg.com/media/FW-e-VIaQAA2SZE.jpg)
-
----
-
-2022-07-06 15:23:16 by [_ammatasiri](https://twitter.com/_ammatasiri/status/1544620486327382018)
-
-0 videos, 1 photos
-
-```
-
-This. @Hirunikaconnect ❤‍🔥
-
-#GoHomeGota #SriLankaProtests #GotaGoHome #SriLankaCrisis 
-#SriLankan | #lka https://t.co/fDhK2CWsKH
-
-```
-
-![image](https://pbs.twimg.com/media/FW-YJW1UcAAqPNC.jpg)
 
 ---
