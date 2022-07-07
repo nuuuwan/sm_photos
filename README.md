@@ -1,10 +1,56 @@
 # Social Media Photos
 
-*315 tweets as of 20220707-213706*
+*318 tweets as of 20220707-220535*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 21:59:59 by [Economynext](https://twitter.com/Economynext/status/1545082711903125505)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka government suspends #fuel for #health workers ahead of #protest to oust #President, #PrimeMinister 
+
+#EconomicCrisisLK #ProtestLK #GoHomeGota #OccupyGalleFace #Aragalaya #FuelCrisisLK #HealthWorkers #Gotabaya #Ranil @RW_UNP @GotabayaR 
+
+https://t.co/hWIfgfRSTB https://t.co/bNEnquSxX5
+
+```
+
+![image](https://pbs.twimg.com/media/FXE6mg3UIAE4EhG.jpg)
+
+---
+
+2022-07-07 21:53:23 by [pangiri12](https://twitter.com/pangiri12/status/1545081050203693056)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 🙏🙏🙏 https://t.co/n3t4SqVFV4
+
+```
+
+![image](https://pbs.twimg.com/media/FXE7BiDaIAACJ70.jpg)
+
+---
+
+2022-07-07 21:44:47 by [sohan_vipul](https://twitter.com/sohan_vipul/status/1545078888534982662)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/ki2Yq6X5iA
+
+```
+
+![image](https://pbs.twimg.com/media/FXE5DqFUEAARgvt.jpg)
+
+---
 
 2022-07-07 21:16:13 by [SriLives](https://twitter.com/SriLives/status/1545071697166045187)
 
@@ -1232,60 +1278,5 @@ Went on @DeutscheWelle yesterday during a powercut to talk about how it is not o
 ```
 
 ![image](https://pbs.twimg.com/media/FXChiGqXoAE_G-_.jpg)
-
----
-
-2022-07-07 10:38:14 by [_sasindu_00](https://twitter.com/_sasindu_00/status/1544911142849486848)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota 
-#GoHomeGota2022 https://t.co/OgjCjgfE1e
-
-```
-
-![image](https://pbs.twimg.com/media/FXCgfYxXkAIfLjT.jpg)
-
----
-
-2022-07-07 10:27:59 by [nuwnjay](https://twitter.com/nuwnjay/status/1544908566796341252)
-
-0 videos, 3 photos
-
-```
-
-So refreshing to see the super-hardcore බයියාස් being absolutely rattled about the 9th on a daily basis 
-#GoHomeGota #GoHomeRanil #GoHomeRajapaksas https://t.co/Y0Xl9Hsbdk
-
-```
-
-![image](https://pbs.twimg.com/media/FXCeJKDagAAkeSs.jpg)
-
-![image](https://pbs.twimg.com/media/FXCeJfpaQAIXvSy.jpg)
-
-![image](https://pbs.twimg.com/media/FXCeJ1BaAAAWDmm.jpg)
-
----
-
-2022-07-07 10:20:30 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1544906681242484737)
-
-0 videos, 1 photos
-
-```
-
-Serious question ( someone please give a reasonable answer) 
-
-What is his source of income to buy 12 pro max ?  
-
-Note: The price of 12 pro max is 420 000. This is equivalent to a government school teacher annual salary. 
-
-#EconomicCrisisLK 
-#GoHomeGota https://t.co/XaPs6UutT8
-
-```
-
-![image](https://pbs.twimg.com/media/FXCccDGXoAEJE0j.jpg)
 
 ---
