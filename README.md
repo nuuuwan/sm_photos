@@ -1,10 +1,83 @@
 # Social Media Photos
 
-*238 tweets as of 20220707-113937*
+*243 tweets as of 20220707-114859*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 11:46:28 by [udeshan](https://twitter.com/udeshan/status/1544928315370156032)
+
+0 videos, 1 photos
+
+```
+
+#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/YgAkwgAjxj https://t.co/rs1NIRVWLH
+
+```
+
+![image](https://pbs.twimg.com/media/FXCwHU0XwAAo1pm.jpg)
+
+---
+
+2022-07-07 11:45:52 by [RanwalageLasika](https://twitter.com/RanwalageLasika/status/1544928164601769984)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota and #GoHomeRanil have looted the country so badly that it is now our country which took drastic measures to stop the sale of fuel to the common people "Oil crisis since the 1970s #EndFreePetrolLK #FuelCrisisLK https://t.co/jSM0eDeZNT
+
+```
+
+
+
+---
+
+2022-07-07 11:43:45 by [Abddd1999](https://twitter.com/Abddd1999/status/1544927630793019393)
+
+0 videos, 1 photos
+
+```
+
+A rare picture of Mr.Boris Johnson wasting his time. 
+
+#GoHomeGota 
+#July9 #EconomicCrisis https://t.co/rae0ZyNBbd
+
+```
+
+![image](https://pbs.twimg.com/media/FXCvfdTaIAAO-yd.jpg)
+
+---
+
+2022-07-07 11:41:53 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1544927161764655104)
+
+0 videos, 1 photos
+
+```
+
+රටම කොළඹට!!!! #GoHomeGota #GoHomeGota2022 https://t.co/21RVEMtbEm
+
+```
+
+![image](https://pbs.twimg.com/media/FXCvEO_VUAYS491.jpg)
+
+---
+
+2022-07-07 11:41:32 by [aragalakaruwoSL](https://twitter.com/aragalakaruwoSL/status/1544927074896723968)
+
+0 videos, 4 photos
+
+```
+
+The fellow #GoHomeGota activists also participated in this event representing many groups of the #gotagogama. The basic policy points presented by them received unanimous support from everyone. (4/4) Live video : https://t.co/QSi8fMm8Hg… https://t.co/RKXx5w3YrG
+
+```
+
+![image](https://pbs.twimg.com/media/FXCu-bMaUAAx66j.jpg)
+
+---
 
 2022-07-07 11:37:28 by [MaatramSL](https://twitter.com/MaatramSL/status/1544926051897610241)
 
@@ -1487,82 +1560,5 @@ Razor Fade Barber Shop Milton
 ```
 
 ![image](https://pbs.twimg.com/media/FXAOMUPacAALMzx.jpg)
-
----
-
-2022-07-06 23:58:04 by [pcplustech](https://twitter.com/pcplustech/status/1544750039750549505)
-
-1 videos, 0 photos
-
-```
-
-ගොඨා බයගේ පිස්සු බල්ලෝ... #HumanRights #GoHomeGota https://t.co/3GDOucPyD6
-
-```
-
-
-
----
-
-2022-07-06 23:57:52 by [razor_fade1](https://twitter.com/razor_fade1/status/1544749989745664000)
-
-0 videos, 1 photos
-
-```
-
-Razor Fade Barber Shop Milton 
-#razorfadebarbershop1 
-#razorfadebarbershop
-#hair 
-#Haircut
-#Giveaway 
-#genshinleaks 
-#GentleMinions #GenshinImpact #GetWellSoonMile #GeneralElectionNow #Gempa #GizliSakli #GapQ6น้ําตาตกแน่นอน #GoHomeGota #gcses2022 #gold #gold #go https://t.co/xclcVxwp1H
-
-```
-
-![image](https://pbs.twimg.com/media/FXAN7fDVQAAlyNG.jpg)
-
----
-
-2022-07-06 23:48:19 by [udeshan](https://twitter.com/udeshan/status/1544747588712247296)
-
-0 videos, 1 photos
-
-```
-
-@Dailymirror_SL #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/kqprdsRMkJ
-
-```
-
-![image](https://pbs.twimg.com/media/FXALvTsX0AEGteK.jpg)
-
----
-
-2022-07-06 23:46:21 by [udeshan](https://twitter.com/udeshan/status/1544747091431305218)
-
-0 videos, 1 photos
-
-```
-
-@BasnayakeM #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/RWwZea9Xfl
-
-```
-
-![image](https://pbs.twimg.com/media/FXALSbxWAAAiKx9.jpg)
-
----
-
-2022-07-06 23:46:08 by [udeshan](https://twitter.com/udeshan/status/1544747036137779200)
-
-0 videos, 1 photos
-
-```
-
-@NewsWireLK @nimalhperera #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/YdUb2rpL7h
-
-```
-
-![image](https://pbs.twimg.com/media/FXALPJyX0AAjvp8.jpg)
 
 ---
