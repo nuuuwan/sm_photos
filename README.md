@@ -1,10 +1,43 @@
 # Social Media Photos
 
-*253 tweets as of 20220707-131024*
+*255 tweets as of 20220707-131813*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 13:14:52 by [SudathDheera](https://twitter.com/SudathDheera/status/1544950561539244032)
+
+0 videos, 1 photos
+
+```
+
+Let’s raise our voices against injustice! Let’s wake up and stop our country from being destroyed under the rule of a short-sighted, insane, Dictator..! Stop everything you’re doing and get on the streets on July 09th. It’s now or never...! 
+#Gotagojail #GoHomeGota https://t.co/nsCu682y3g
+
+```
+
+![image](https://pbs.twimg.com/media/FXDEWR6XEAAB_Ao.jpg)
+
+---
+
+2022-07-07 13:12:56 by [EvilSavior7](https://twitter.com/EvilSavior7/status/1544950074794467339)
+
+0 videos, 1 photos
+
+```
+
+2 Days More! 
+
+Are you Ready? 
+
+#GoHomeGota #GoHomeRanil https://t.co/AtyT4BhKSR
+
+```
+
+![image](https://pbs.twimg.com/media/FXDD5hJXwAEHsXP.jpg)
+
+---
 
 2022-07-07 12:41:13 by [nuuuwan](https://twitter.com/nuuuwan/status/1544942095156355074)
 
@@ -1551,40 +1584,6 @@ THE WHOLE COUNTRY TO COLOMBO- ON 9th OF JULY 2022
 #returnourstolenmoney
 #api5
 #pannamu https://t.co/dActHgYz98
-
-```
-
----
-
-2022-07-07 02:06:24 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1544782338441216003)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota #GoHomeGota2022 #GotaGoHome #GotaGoHome2022 #GotaGoGama #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #SriLankaProtests #July9th #july9 #GoHomeRanil #GoHomeRajapaksas https://t.co/YCtLdb8WbY
-
-```
-
----
-
-2022-07-07 01:31:38 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1544773589366255616)
-
-1 videos, 0 photos
-
-```
-
-Kandy turning up the heat in the lead up to the 9th! 
-
-#EndGame 
-Everyone, let’s get to the streets!
-It’s now or never!
-
-#takebackourpower✊🏾#lka 
-#GotaPoda 
-#GotaPalayang
-#GoHomeGota
-#GoHomeRajapaksas https://t.co/GHHQl47AAn
 
 ```
 
