@@ -1,10 +1,30 @@
 # Social Media Photos
 
-*271 tweets as of 20220707-145201*
+*272 tweets as of 20220707-151329*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 15:06:49 by [realChamith](https://twitter.com/realChamith/status/1544978737409806337)
+
+0 videos, 3 photos
+
+```
+
+ගාලු විරෝධය.
+
+#Galle #GoHomeGota https://t.co/AlBemla9WP
+
+```
+
+![image](https://pbs.twimg.com/media/FXDd9U5WQAAfld1.jpg)
+
+![image](https://pbs.twimg.com/media/FXDd9U6XoAAos_K.jpg)
+
+![image](https://pbs.twimg.com/media/FXDd9U8WAAA4bxH.jpg)
+
+---
 
 2022-07-07 14:49:13 by [ChehanSiva](https://twitter.com/ChehanSiva/status/1544974305997766661)
 
@@ -1541,19 +1561,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXBz-_TX0AAitfo.jpg)
-
----
-
-2022-07-07 07:23:25 by [udeshan](https://twitter.com/udeshan/status/1544862116288401408)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/0qCVk8EJHG
-
-```
-
-![image](https://pbs.twimg.com/media/FXBz5ydWAAEcr_D.jpg)
 
 ---
