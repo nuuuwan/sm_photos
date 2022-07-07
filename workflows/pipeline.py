@@ -1,6 +1,6 @@
 import argparse
 
-from sm_photos import collage, filesys, summary
+from sm_photos import collage, dedupe, filesys, photos, summary, text_collage
 from sm_photos.twtr import TWTR
 
 
@@ -13,6 +13,10 @@ def main(hashtag):
     summary.build_summary()
     summary.build_readme()
     collage.build_collage()
+
+    base_image_file = 'media/text.sketch.png'
+    photo_file_list = dedupe.dedupe_photos(photos.get_photo_file_list())
+    text_collage.build_text_collage(base_image_file, photo_file_list)
 
 
 def get_options():
