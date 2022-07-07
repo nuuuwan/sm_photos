@@ -1,8 +1,10 @@
+import math
 import os
 import random
-import math
-from PIL import Image
+
 import imageio
+from PIL import Image
+
 from sm_photos import dedupe, photos
 from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
@@ -161,7 +163,7 @@ def metarize():
 
     metarized_animation_file = os.path.join(
         DIR_DATA,
-        f'text_collage_image.animation.gif',
+        'text_collage_image.animation.gif',
     )
     DURATION = 0.2
     imageio.mimsave(
