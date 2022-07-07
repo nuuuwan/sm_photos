@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*347 tweets as of 20220708-013857*
+*348 tweets as of 20220708-020319*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 01:38:43 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1545137758615764992)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/BYitFssJsA
+
+```
+
+![image](https://pbs.twimg.com/media/FXFumZgXoAICPrS.jpg)
+
+---
 
 2022-07-08 01:07:23 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545129871226990592)
 
@@ -1529,19 +1543,5 @@ Australia / Canada / Switzerland / Netherland
 ```
 
 ![image](https://pbs.twimg.com/media/FXC54kxXoAIx4zV.jpg)
-
----
-
-2022-07-07 12:04:22 by [dillovesred](https://twitter.com/dillovesred/status/1544932821411643392)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota2022 #EconomicCrisisLK #GoHomeGota https://t.co/xi9ZV61I3r
-
-```
-
-![image](https://pbs.twimg.com/media/FXC0NDhXkAAzvHv.jpg)
 
 ---
