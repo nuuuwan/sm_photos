@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*274 tweets as of 20220707-153936*
+*276 tweets as of 20220707-155118*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 15:48:39 by [CJChathura](https://twitter.com/CJChathura/status/1544989261409107968)
+
+0 videos, 1 photos
+
+```
+
+නම්බු ඇතුව අයින් වෙනවා! අපේ නාකි හැලයා නම් මැරුණත් ඔය පුටුව දාලා යන්නේ නෑ
+
+#GoHomeRajapaksas #GoHomeGota #GoHomeRanil #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #HumanRightsViolations https://t.co/Z28uwJacWd
+
+```
+
+![image](https://pbs.twimg.com/media/FXDnikxXwAEHiAH.jpg)
+
+---
+
+2022-07-07 15:45:36 by [pcplustech](https://twitter.com/pcplustech/status/1544988495340777473)
+
+0 videos, 1 photos
+
+```
+
+පුක දෙන සෙට් එක එන්න.... දේවේෂ බන්දුත් හිටියනම් හොදයි.... #GoHomeGota @GotabayaR #බියගුලුගෝඨා https://t.co/ISzsdNQ27J
+
+```
+
+![image](https://pbs.twimg.com/media/FXDm2QkaMAAqS_d.jpg)
+
+---
 
 2022-07-07 15:23:12 by [DmiAlucar](https://twitter.com/DmiAlucar/status/1544982857604820992)
 
@@ -1541,33 +1571,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB0IHrWIAADKdl.jpg)
-
----
-
-2022-07-07 07:24:14 by [udeshan](https://twitter.com/udeshan/status/1544862323776450560)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/2zyERi50OJ
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0F4KXwAApeV-.jpg)
-
----
-
-2022-07-07 07:24:14 by [IamSivaranjan](https://twitter.com/IamSivaranjan/status/1544862324565106689)
-
-0 videos, 1 photos
-
-```
-
-#MoneyHeist #SriLanka version #GoHomeGota #SriLankaCrisis #SriLankaProtests https://t.co/F4MrU2ew7e
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0FmtXkAAGxVy.jpg)
 
 ---
