@@ -1,10 +1,46 @@
 # Social Media Photos
 
-*272 tweets as of 20220707-151329*
+*274 tweets as of 20220707-152749*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 15:23:12 by [DmiAlucar](https://twitter.com/DmiAlucar/status/1544982857604820992)
+
+0 videos, 1 photos
+
+```
+
+A tourist family rolls into BIA with their own mode of transport. 
+Thank you to the tourists and a big F U for Nandasena and Ranil. 
+#GoHomeGota #GoHomeRanil #FuelCrisisLK #EconomicCrisisLK https://t.co/RSlz0KDH8G
+
+```
+
+![image](https://pbs.twimg.com/media/FXDhBWZaQAEGB3m.png)
+
+---
+
+2022-07-07 15:15:09 by [Economynext](https://twitter.com/Economynext/status/1544980834309918721)
+
+0 videos, 4 photos
+
+```
+
+Buddhist monks protest demanding the President @GotabayaR and Prime Minister @RW_UNP to leave office. Today marks 98 days since the #GoHomeGota and #OccupyGalleFace protest. #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #Colombo https://t.co/URCQffa2hc
+
+```
+
+![image](https://pbs.twimg.com/media/FXDfzk8WAAAkBYm.jpg)
+
+![image](https://pbs.twimg.com/media/FXDf1IUWAAQlQd8.jpg)
+
+![image](https://pbs.twimg.com/media/FXDf2JeXwAEPtcn.jpg)
+
+![image](https://pbs.twimg.com/media/FXDf3Y4XoAA5y0t.jpg)
+
+---
 
 2022-07-07 15:06:49 by [realChamith](https://twitter.com/realChamith/status/1544978737409806337)
 
@@ -1533,33 +1569,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB0FmtXkAAGxVy.jpg)
-
----
-
-2022-07-07 07:24:04 by [udeshan](https://twitter.com/udeshan/status/1544862280751255555)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR @AusHCSriLanka #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/7at4Dc0QRe
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0DXnXwAAVUVp.jpg)
-
----
-
-2022-07-07 07:23:46 by [udeshan](https://twitter.com/udeshan/status/1544862206235254784)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR @Aeroflot_World #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/E7GffFyQOK
-
-```
-
-![image](https://pbs.twimg.com/media/FXBz-_TX0AAitfo.jpg)
 
 ---
