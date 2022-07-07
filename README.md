@@ -1,10 +1,50 @@
 # Social Media Photos
 
-*289 tweets as of 20220707-174454*
+*292 tweets as of 20220707-175950*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 17:48:22 by [Economynext](https://twitter.com/Economynext/status/1545019391271571458)
+
+1 videos, 0 photos
+
+```
+
+"We had written to the government stating our arrival to #Colombo Our letters have been disregarded, would have been of greater notice if #GnanaAkka wrote a letter."  #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #GoHomeGota #Rajapaksa #Gotabaya https://t.co/KC8dKbRi8y
+
+```
+
+---
+
+2022-07-07 17:46:36 by [Economynext](https://twitter.com/Economynext/status/1545018945039503360)
+
+1 videos, 0 photos
+
+```
+
+"The days we were scared of Rajapaksa's guns are over. We are not scared to die, we aren't scared of their gunshots." #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #GoHomeGota #Rajapaksa #Gotabaya https://t.co/i7cdhtoPaZ
+
+```
+
+---
+
+2022-07-07 17:45:33 by [67ApY7unC7JwfMs](https://twitter.com/67ApY7unC7JwfMs/status/1545018684057341952)
+
+0 videos, 1 photos
+
+```
+
+🤣🤣🤣
+#GoHomeGota 
+#EconomicCrisisLK https://t.co/QfIf0Mz1NX
+
+```
+
+![image](https://pbs.twimg.com/media/FXECTgQUcAAZfnJ.jpg)
+
+---
 
 2022-07-07 17:36:50 by [bhanu_subhash](https://twitter.com/bhanu_subhash/status/1545016489769840640)
 
@@ -1245,52 +1285,5 @@ Some slept at the railway station last night.
 #GoHomeGota https://t.co/ZjqyZ6RLwM
 
 ```
-
----
-
-2022-07-07 07:40:39 by [Shana56588200](https://twitter.com/Shana56588200/status/1544866453181984768)
-
-0 videos, 1 photos
-
-```
-
-The one who made Sri Lanka a garbage bin for the rest of the world. 
-Can we expect something better from him. 
-Do not fall into his fake promises and plans.
-#SriLankaCrisis #GoHomeGota #GoHomeRajapakshas #gohomegota2022 https://t.co/9zWNSmQanT
-
-```
-
-![image](https://pbs.twimg.com/media/FXB32KeUcAAel0l.jpg)
-
----
-
-2022-07-07 07:37:10 by [h_liyan](https://twitter.com/h_liyan/status/1544865578590306304)
-
-0 videos, 1 photos
-
-```
-
-The plan for this Saturday (9th July), if I can't find transport. Packing running shoes, snacks, lunch, drinks with electrolytes and planning for multiple stops. Planning to spend the day in Colombo. Hopefully will be able to cover at least part of this in vehicles. #GoHomeGota https://t.co/iZEVERQSI6
-
-```
-
-![image](https://pbs.twimg.com/media/FXB2GboaMAAweG4.jpg)
-
----
-
-2022-07-07 07:35:48 by [cartoonlka](https://twitter.com/cartoonlka/status/1544865233751220224)
-
-0 videos, 1 photos
-
-```
-
-Divaina cartoon 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/mvi6dZL7t2
-
-```
-
-![image](https://pbs.twimg.com/media/FXB2vVNXEAAaJ93.jpg)
 
 ---
