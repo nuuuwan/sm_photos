@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*243 tweets as of 20220707-114859*
+*244 tweets as of 20220707-115148*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 11:48:58 by [udeshan](https://twitter.com/udeshan/status/1544928944675139584)
+
+0 videos, 1 photos
+
+```
+
+@EvilSavior7 #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/qNzANwNf8w
+
+```
+
+![image](https://pbs.twimg.com/media/FXCwr-qX0AMmnlC.jpg)
+
+---
 
 2022-07-07 11:46:28 by [udeshan](https://twitter.com/udeshan/status/1544928315370156032)
 
@@ -1546,19 +1560,5 @@ Razor Fade Barber Shop Milton
 ```
 
 ![image](https://pbs.twimg.com/media/FXAOZitVEAETkX_.jpg)
-
----
-
-2022-07-06 23:59:01 by [pcplustech](https://twitter.com/pcplustech/status/1544750279991894016)
-
-0 videos, 1 photos
-
-```
-
-අපි stf, ගොන් පාට් දාං අාවෝත් KG කැල්ලක් එක්ක අැතුලට දානව,..... තොපි වගේ පකයින්ගේ පවුල් පිටින් හැදිගැවියන්..... #GoHomeGota https://t.co/ZnPrFtYwoe
-
-```
-
-![image](https://pbs.twimg.com/media/FXAOMUPacAALMzx.jpg)
 
 ---
