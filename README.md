@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*292 tweets as of 20220707-182023*
+*293 tweets as of 20220707-184115*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 18:25:14 by [AnupaDe](https://twitter.com/AnupaDe/status/1545028670129324035)
+
+0 videos, 1 photos
+
+```
+
+The plan for this Saturday (9th July), if I can't find transport. Packing running shoes, snacks, lunch, drinks with electrolytes and planning for multiple stops. Planning to spend the day in Colombo. Hopefully will be able to cover at least part of this in vehicles. #GoHomeGota https://t.co/FWtlyQHpPU
+
+```
+
+![image](https://pbs.twimg.com/media/FXELYtFagAEq8K-.jpg)
+
+---
 
 2022-07-07 17:48:22 by [Economynext](https://twitter.com/Economynext/status/1545019391271571458)
 
@@ -1273,17 +1287,5 @@ Some slept at the railway station last night.
 ```
 
 ![image](https://pbs.twimg.com/media/FXB6AHRWQAEq-3t.jpg)
-
----
-
-2022-07-07 07:44:44 by [kznxy7](https://twitter.com/kznxy7/status/1544867481411457024)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota https://t.co/ZjqyZ6RLwM
-
-```
 
 ---
