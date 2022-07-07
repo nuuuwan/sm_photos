@@ -1,10 +1,62 @@
 # Social Media Photos
 
-*318 tweets as of 20220707-220535*
+*321 tweets as of 20220707-222821*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 22:22:59 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1545088499409379328)
+
+0 videos, 4 photos
+
+```
+
+Srilanka president will be resign on 9 of July?Sri Lanka president asks Russia’s Vladimir Putin to help import fuel.  https://t.co/cJdBE6aGVU #gohomegota #gohomeranil #srilanka #lk #protest #asia #worldnews #news #vishvanewsoftheworld https://t.co/1K4NLm0Unw
+
+```
+
+![image](https://pbs.twimg.com/media/FXFBydkWIAg90nq.jpg)
+
+![image](https://pbs.twimg.com/media/FXFByqtWIAAngIt.jpg)
+
+![image](https://pbs.twimg.com/media/FXFBy87XgAIIHfp.jpg)
+
+![image](https://pbs.twimg.com/media/FXFBzLsXwAAHjWE.jpg)
+
+---
+
+2022-07-07 22:11:31 by [DanulaDilanga](https://twitter.com/DanulaDilanga/status/1545085615682662400)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka #SriLankaProtests #GoHomeGota #අරගලයටජය https://t.co/Cb5UDjhGPh
+
+```
+
+![image](https://pbs.twimg.com/media/FXE_LciWQAIg7Ao.jpg)
+
+---
+
+2022-07-07 22:06:24 by [Economynext](https://twitter.com/Economynext/status/1545084328933085184)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka court rejects #police request to prevent #protest amid massive agitation plan
+
+#EconomicCrisisLK #ProtestLK #GoHomeGota #Aragalaya #CourtOrder #SLPolice 
+
+https://t.co/yairtzNWlz https://t.co/tXnb3XtqXt
+
+```
+
+![image](https://pbs.twimg.com/media/FXE9cjzUsAAkA8t.jpg)
+
+---
 
 2022-07-07 21:59:59 by [Economynext](https://twitter.com/Economynext/status/1545082711903125505)
 
@@ -1258,25 +1310,5 @@ Went on @DeutscheWelle yesterday during a powercut to talk about how it is not o
 ```
 
 ![image](https://pbs.twimg.com/media/FXCgyLnWIAEFDBv.jpg)
-
----
-
-2022-07-07 10:42:46 by [Krys_Types](https://twitter.com/Krys_Types/status/1544912284824354816)
-
-0 videos, 1 photos
-
-```
-
-මේ දූශිත පවුල් පාලනය ඉවර කරමු!
-මේ ගෝඨා-රනිල් හවුල ඉවර කරමු!
-මේ ක්‍රමය වෙනස් කරමු! 
-
-ජූලි 9, උදේ 9ට!
-
-#GoHomeGota #EndGameOn #ArrestRajapaksas #EconomicCrisisLK #ReformSriLanka #අරගලයටජය✊ https://t.co/pMbnC84rCD
-
-```
-
-![image](https://pbs.twimg.com/media/FXChiGqXoAE_G-_.jpg)
 
 ---
