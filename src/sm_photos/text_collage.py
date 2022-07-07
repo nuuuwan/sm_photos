@@ -11,7 +11,7 @@ from sm_photos._utils import log
 
 DIM = 128 - 1
 WIDTH = 64
-HEIGHT = WIDTH * 9 / 16
+HEIGHT = (int)(WIDTH * 9 / 16)
 
 
 def get_average(pixels):
