@@ -1,10 +1,73 @@
 # Social Media Photos
 
-*309 tweets as of 20220707-203638*
+*313 tweets as of 20220707-210457*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 21:02:41 by [vg123e](https://twitter.com/vg123e/status/1545068291609296896)
+
+0 videos, 1 photos
+
+```
+
+Dhammika Camp #Srilanka #GoHomeGota https://t.co/M1tLgrYZzV
+
+```
+
+![image](https://pbs.twimg.com/media/FXEvau2WQAEtR3d.png)
+
+---
+
+2022-07-07 21:02:23 by [rrramod](https://twitter.com/rrramod/status/1545068217106051072)
+
+0 videos, 1 photos
+
+```
+
+එකතුවෙමු. එලවමු. අලුත් රටක් හදාගන්න හිතාගෙන එක අඩියක් ඉස්සරහට යමු. අරගලය දිනේවා!! #GoHomeGota https://t.co/UUV8u7iOdM
+
+```
+
+![image](https://pbs.twimg.com/media/FXEvWOxX0AA_MOR.jpg)
+
+---
+
+2022-07-07 20:47:46 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545064536985980928)
+
+0 videos, 2 photos
+
+```
+
+Warm up for Saturday! 
+
+Lets Do this! 
+
+#GoHomeGota #GoHomeRanil https://t.co/Dl6tqLSI9i
+
+```
+
+![image](https://pbs.twimg.com/media/FXEr_XjaAAAKSuC.jpg)
+
+![image](https://pbs.twimg.com/media/FXEr_XkaQAEWEBP.jpg)
+
+---
+
+2022-07-07 20:41:47 by [AjJaasir](https://twitter.com/AjJaasir/status/1545063030622658566)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota
+Oh no.... I accident 😅 https://t.co/rABSF8UGhi
+
+```
+
+![image](https://pbs.twimg.com/media/FXEqox5aAAAi6H7.jpg)
+
+---
 
 2022-07-07 20:33:51 by [AjJaasir](https://twitter.com/AjJaasir/status/1545061035845251073)
 
@@ -1220,75 +1283,5 @@ MAYBE RESEARCH NEXT YEAR..😂
 ```
 
 ![image](https://pbs.twimg.com/media/FXCbToXaUAEuRSL.jpg)
-
----
-
-2022-07-07 10:05:26 by [Menitweet](https://twitter.com/Menitweet/status/1544902888001916930)
-
-0 videos, 1 photos
-
-```
-
-This is our route on Saturday, 9am
-🚶🏽‍♀️🚶🏽‍♂️🚶🏽‍♀️🚶🏽‍♂️
-
-I encourage anyone from any street off Galle Road to join (pls stay hydrated). Groups are joining from different parts of Colombo too, I.e.: GGY are joining from Thim’yaya. 
-
-Let’s do this 🪧 🇱🇰 
-#EndGame2022 #GoHomeGota https://t.co/Cag5MLz4BG
-
-```
-
-![image](https://pbs.twimg.com/media/FXCY-q9WIAMuR04.jpg)
-
----
-
-2022-07-07 10:03:04 by [asmrashid27](https://twitter.com/asmrashid27/status/1544902294101278720)
-
-0 videos, 1 photos
-
-```
-
-இலங்கை அரசாங்க ஊழியர்கள்
-சம்பளம் பற்றாக்குறைக்கு வேலைன்னிறுத்தி போராட்டம் செய்வார்கள். நாட்டுமக்களுக்காக வேலைனிருத்தம் செய்யமாட்டார்கள். அரசாங்க ஊழியர்கள் சுயநலவாதிகள்.
-போராட்டம் செய்ய வேண்டாம் பொறுமையாக கார்த்திருங்கள் 
-காலம் உங்களை கவனிக்கம் .....
-#GoHomeGota https://t.co/GVKXZXIDgP
-
-```
-
-![image](https://pbs.twimg.com/media/FXCYcBEUcAAaP1j.jpg)
-
----
-
-2022-07-07 10:02:46 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1544902220432306176)
-
-0 videos, 1 photos
-
-```
-
-සුභ ගමන් මිත්‍රයා, අපිරිසිදු දේශපාලනය විසින් ගොදුරු කර ගත්.තවත් නර බිල්ලක් 😥😒
-
-#GoHomeGota https://t.co/ujoTIcMVnN
-
-```
-
-![image](https://pbs.twimg.com/media/FXCYYCAWAAQW3ry.jpg)
-
----
-
-2022-07-07 10:02:19 by [cartoonlka](https://twitter.com/cartoonlka/status/1544902105399525376)
-
-0 videos, 1 photos
-
-```
-
-Derana cartoon 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota https://t.co/tcF0NqIGqB
-
-```
-
-![image](https://pbs.twimg.com/media/FXCYReRXkAAIr33.jpg)
 
 ---
