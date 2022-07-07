@@ -160,7 +160,7 @@ def metarize():
         DIR_DATA,
         'text_collage_image.animation.gif',
     )
-    DURATION = 0.1
+    DURATION = 0.15
     imageio.mimsave(
         metarized_animation_file, metarized_item_image_list, duration=DURATION
     )
