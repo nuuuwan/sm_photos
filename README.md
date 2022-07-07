@@ -1,10 +1,59 @@
 # Social Media Photos
 
-*276 tweets as of 20220707-155118*
+*279 tweets as of 20220707-160544*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 16:00:01 by [munza14](https://twitter.com/munza14/status/1544992123551752198)
+
+0 videos, 1 photos
+
+```
+
+Captured at the #GotaGoGama last month when on an assignment and there wasn't much of a crowd.
+Just two more days for July 9th... Wonder what's in store for Sri Lanka 🤞
+#LKA #SriLanka #GoHomeGota #Aragalaya https://t.co/4wna2c3aJQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXDqI7OVsAAfjjV.jpg)
+
+---
+
+2022-07-07 15:59:29 by [buwaneka_perera](https://twitter.com/buwaneka_perera/status/1544991991247024128)
+
+1 videos, 0 photos
+
+```
+
+පෙර පවකින් අපේ
+මෙහෙම රටක උපත ලබා වී 😥💔
+#SriLankaCrisis #GoHomeGota https://t.co/fnaR2jJ4jP
+
+```
+
+---
+
+2022-07-07 15:58:05 by [Nadeeka_Ind](https://twitter.com/Nadeeka_Ind/status/1544991637167673344)
+
+1 videos, 0 photos
+
+```
+
+එකතුවෙලා පන්නමු . ජූලි 09 රටම කොළඹට .
+@GotabayaR
+@RW_UNP
+#NotMyPresident 
+#GoHomeGota2022
+#GoHomeRanil #PoliticalCrisisLK 
+#GoHomeGota 
+#GoHomeRajapakshas https://t.co/w7p74nCUby
+
+```
+
+---
 
 2022-07-07 15:48:39 by [CJChathura](https://twitter.com/CJChathura/status/1544989261409107968)
 
@@ -1529,47 +1578,5 @@ Divaina cartoon
 ```
 
 ![image](https://pbs.twimg.com/media/FXB0OopWYAAiaz8.jpg)
-
----
-
-2022-07-07 07:24:40 by [udeshan](https://twitter.com/udeshan/status/1544862432912257025)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/6HCchKtydg
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0MNRX0Ac16Yw.jpg)
-
----
-
-2022-07-07 07:24:31 by [udeshan](https://twitter.com/udeshan/status/1544862394924421120)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/kxGgjxazOO
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0KAIWIAI-OBB.jpg)
-
----
-
-2022-07-07 07:24:23 by [udeshan](https://twitter.com/udeshan/status/1544862362192072704)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/ce3X1grluS
-
-```
-
-![image](https://pbs.twimg.com/media/FXB0IHrWIAADKdl.jpg)
 
 ---
