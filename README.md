@@ -1,10 +1,30 @@
 # Social Media Photos
 
-*351 tweets as of 20220708-043844*
+*352 tweets as of 20220708-050700*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 04:40:38 by [UJayawardena](https://twitter.com/UJayawardena/status/1545183540295376896)
+
+0 videos, 1 photos
+
+```
+
+Don't forget @RajapaksaNamal. Dont want SL to be like this again in like 10/15 years!! 
+
+@Media_NR 
+
+#GoHomeGota2022 
+#GoHomeRajapakshas 
+#GoHomeGota https://t.co/Tg4sxpTGN9
+
+```
+
+![image](https://pbs.twimg.com/media/FXGYDGrXoAAD28I.png)
+
+---
 
 2022-07-08 03:14:50 by [cartoonlka](https://twitter.com/cartoonlka/status/1545161945916944384)
 
@@ -1540,29 +1560,5 @@ You can find the original version - a mere 80MB - at https://t.co/5algKSVI88
 ```
 
 ![image](https://pbs.twimg.com/media/FXC8bWGWIAAMWPg.jpg)
-
----
-
-2022-07-07 12:40:27 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544941899970007040)
-
-0 videos, 4 photos
-
-```
-
-9th is where all the Sri Lankans come together for the country! 
-
-Australia / Canada / Switzerland / Netherland 
-
-#EndGame #GoHomeGota https://t.co/qGH99arl8d
-
-```
-
-![image](https://pbs.twimg.com/media/FXC8dNIWQAEsnks.jpg)
-
-![image](https://pbs.twimg.com/media/FXC8dNGWIAYnirK.jpg)
-
-![image](https://pbs.twimg.com/media/FXC8dNCXEAI5u5A.jpg)
-
-![image](https://pbs.twimg.com/media/FXC8dNFWYAEstqi.jpg)
 
 ---
