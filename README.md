@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*266 tweets as of 20220707-143248*
+*267 tweets as of 20220707-143734*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 14:33:09 by [MimiWdf](https://twitter.com/MimiWdf/status/1544970264269967360)
+
+0 videos, 1 photos
+
+```
+
+Apple ≈ 418 rupees 
+An Apple a day will keep 418 rs per day away 🙄🙄🙄. Guess that's the last apple I'm going to consume for a while
+#lka #srilanka #EconomicCrisisLK #FuelCrisisLK #GoHomeGota #inflation https://t.co/fswp1s3p41
+
+```
+
+![image](https://pbs.twimg.com/media/FXDWRAMaMAA87gR.jpg)
+
+---
 
 2022-07-07 14:26:40 by [akakawwa](https://twitter.com/akakawwa/status/1544968633134157824)
 
@@ -1538,21 +1554,5 @@ Cartoon by @RcSullan
 ```
 
 ![image](https://pbs.twimg.com/media/FXBy5SUXEAI8ksu.jpg)
-
----
-
-2022-07-07 07:17:43 by [cartoonlka](https://twitter.com/cartoonlka/status/1544860680569880578)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/aHFGDMkS81
-
-```
-
-![image](https://pbs.twimg.com/media/FXBymRIWIAE-fvW.jpg)
 
 ---
