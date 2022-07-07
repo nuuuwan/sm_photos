@@ -1,10 +1,44 @@
 # Social Media Photos
 
-*294 tweets as of 20220707-190340*
+*296 tweets as of 20220707-191825*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 19:12:28 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545040553435447296)
+
+1 videos, 0 photos
+
+```
+
+STF to Sri Lankans : We will put Kerala Cannabis(KG) and take you to the High Court 
+
+We(Tamils) to STF : Hold our Pe***
+
+#EconomicCrisisLK 
+#GoHomeGota 
+
+ https://t.co/mzU1Had42p
+
+```
+
+---
+
+2022-07-07 19:07:18 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1545039255075885061)
+
+0 videos, 1 photos
+
+```
+
+ගෝටාට අප්පට සිරි වෙන්න යන්නේ 
+#gohomeGota 😂🤬😂🤬😂🤬 https://t.co/KbIhsJ1hDE
+
+```
+
+![image](https://pbs.twimg.com/media/FXEU0IfVEAEuIqj.jpg)
+
+---
 
 2022-07-07 18:59:32 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1545037302342111233)
 
@@ -1248,34 +1282,5 @@ Some slept at the railway station last night.
 ```
 
 ![image](https://pbs.twimg.com/media/FXB8bL5aQAArsSV.jpg)
-
----
-
-2022-07-07 08:00:20 by [isurusen](https://twitter.com/isurusen/status/1544871407590723584)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GotaGoGama #GotaGoHome2022   https://t.co/OOCJMButHz https://t.co/dTMhNPVBCt
-
-```
-
-![image](https://pbs.twimg.com/media/FXB8Ir5aAAA6BCc.jpg)
-
----
-
-2022-07-07 07:53:31 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1544869690329014272)
-
-0 videos, 1 photos
-
-```
-
-රටම පෙරට 
-#GoHomeGota https://t.co/oCgkTwNFjH
-
-```
-
-![image](https://pbs.twimg.com/media/FXB6yb7X0AEWWji.jpg)
 
 ---
