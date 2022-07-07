@@ -1,6 +1,6 @@
 # Social Media Photos
 
-*274 tweets as of 20220707-152837*
+*274 tweets as of 20220707-153936*
 
 ![animation](text_collage_image.animation.gif)
 
@@ -933,7 +933,7 @@ Note: The price of 12 pro max is 420 000. This is equivalent to a government sch
 
 ---
 
-2022-07-07 10:19:46 by [Fawzul_Aleem_lk](https://twitter.com/Fawzul_Aleem_lk/status/1544906498874126336)
+2022-07-07 10:19:46 by [motherland_1994](https://twitter.com/motherland_1994/status/1544906498874126336)
 
 0 videos, 1 photos
 
