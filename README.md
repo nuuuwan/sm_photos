@@ -1,10 +1,80 @@
 # Social Media Photos
 
-*244 tweets as of 20220707-115218*
+*249 tweets as of 20220707-121114*
 
 ![text-collage](text_collage_image-1080x.png)
 
 ## 100 latest tweets
+
+2022-07-07 12:10:47 by [Sharkboys14](https://twitter.com/Sharkboys14/status/1544934435274964992)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/HBO1z3CBBa
+
+```
+
+![image](https://pbs.twimg.com/media/FXC1qZsUYAA5-bR.jpg)
+
+---
+
+2022-07-07 12:04:22 by [dillovesred](https://twitter.com/dillovesred/status/1544932821411643392)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota2022 #EconomicCrisisLK #GoHomeGota https://t.co/xi9ZV61I3r
+
+```
+
+![image](https://pbs.twimg.com/media/FXC0NDhXkAAzvHv.jpg)
+
+---
+
+2022-07-07 11:57:47 by [udeshan](https://twitter.com/udeshan/status/1544931161943580674)
+
+0 videos, 1 photos
+
+```
+
+#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/yJ2F5vw073 https://t.co/RzfCSUm9dr
+
+```
+
+![image](https://pbs.twimg.com/media/FXCytDIXoAEEpJy.jpg)
+
+---
+
+2022-07-07 11:53:18 by [udeshan](https://twitter.com/udeshan/status/1544930035827585024)
+
+0 videos, 1 photos
+
+```
+
+@exfrotezter #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/arP1cXVMWC
+
+```
+
+![image](https://pbs.twimg.com/media/FXCxrfTXgAA6XTa.jpg)
+
+---
+
+2022-07-07 11:52:12 by [udeshan](https://twitter.com/udeshan/status/1544929757497737216)
+
+0 videos, 1 photos
+
+```
+
+@exfrotezter @RW_UNP @GotabayaR #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/GbX7DoaJNQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXCxbQcXoAAkdkW.jpg)
+
+---
 
 2022-07-07 11:48:58 by [udeshan](https://twitter.com/udeshan/status/1544928944675139584)
 
@@ -1520,83 +1590,5 @@ I don’t care who comes next but #GoHomeGota #GoHomeGota2022 #lka #protestLK Lo
 ```
 
 ![image](https://pbs.twimg.com/media/FXAaz5NWYAIuBST.jpg)
-
----
-
-2022-07-07 00:46:12 by [ABagthathi](https://twitter.com/ABagthathi/status/1544762154079113216)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota #GoHomeGota2022 https://t.co/NIzmpTvFJg
-
-```
-
----
-
-2022-07-07 00:30:51 by [FerozKhanLanka](https://twitter.com/FerozKhanLanka/status/1544758292114595842)
-
-0 videos, 1 photos
-
-```
-
-#MoneyHeist #SriLanka version #ArrestRajapaksas #GoHomeGota @NewsfirstSL @NewsWireLK #SriLankaCrisis #SriLankaProtests #SriLankanpoliticalcrisis https://t.co/VZytV4kUUF
-
-```
-
-![image](https://pbs.twimg.com/media/FXAVeYeUIAEiObb.jpg)
-
----
-
-2022-07-07 00:16:38 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1544754713089871874)
-
-0 videos, 1 photos
-
-```
-
-2 Days More! 
-
-Are you Ready? 
-
-#GoHomeGota #GoHomeRanil https://t.co/QqeZf7FOrr
-
-```
-
-![image](https://pbs.twimg.com/media/FXASOB5WIAEQjwE.jpg)
-
----
-
-2022-07-07 00:12:13 by [M_Jazath](https://twitter.com/M_Jazath/status/1544753603537240066)
-
-0 videos, 1 photos
-
-```
-
-9th of July if you coming to colombo... please be prepared and come... eye goggles , mask, helmet.... and also emergency kit too.... we need to resolve this crisis because it our mother land 🥺🥺🥺 we are responsible to re create our mother.
-
-#GoHomeGota #EconomicCrisis https://t.co/QVhe7Nje78
-
-```
-
-![image](https://pbs.twimg.com/media/FXARNrvXEAE6sO2.jpg)
-
----
-
-2022-07-06 23:59:55 by [razor_fade1](https://twitter.com/razor_fade1/status/1544750506739806208)
-
-0 videos, 1 photos
-
-```
-
-Razor Fade Barber Shop Milton 
-#razorfadebarbershop1 
-#razorfadebarbershop
-#GhumHaiKisikeyPyaarMeiin 
-#gold #gcses2022 #GoHomeGota #GeneralElectionNow #GetWellSoonMile #GenshinImpact #Giveaway #genshinleaks #howaboutnow #HighlandPark #H1KEY #HBDIconOfMillionsDhoni #HandeErcel https://t.co/cL8KSroM03
-
-```
-
-![image](https://pbs.twimg.com/media/FXAOZitVEAETkX_.jpg)
 
 ---
