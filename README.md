@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*100 tweets as of 20220707-142653*
+*100 tweets as of 20220707-142940*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-07 14:26:40 by [akakawwa](https://twitter.com/akakawwa/status/1544968633134157824)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 
+#GoHomeRanil 
+📍Galle https://t.co/7kWlDg0880
+
+```
+
+![image](https://pbs.twimg.com/media/FXDUyHiUUAAi8Hh.jpg)
+
+---
 
 2022-07-07 14:25:32 by [finityfund](https://twitter.com/finityfund/status/1544968345010589697)
 
@@ -1527,19 +1543,5 @@ Cartoon by @NamalAmarasing
 ```
 
 ![image](https://pbs.twimg.com/media/FXBxZQ6XoAcxBaL.jpg)
-
----
-
-2022-07-07 07:11:15 by [udeshan](https://twitter.com/udeshan/status/1544859054366789632)
-
-0 videos, 1 photos
-
-```
-
-#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/EdTWwY7zDv https://t.co/1ou6JQYY6u
-
-```
-
-![image](https://pbs.twimg.com/media/FXBxHh_XkAElZqn.jpg)
 
 ---

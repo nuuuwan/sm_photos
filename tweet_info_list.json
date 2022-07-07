@@ -1,5 +1,16 @@
 [
   {
+    "tweet_url": "https://twitter.com/akakawwa/status/1544968633134157824",
+    "id": 1544968633134157824,
+    "user": "akakawwa",
+    "time_create_ut": 1657184200,
+    "text": "#GoHomeGota \n#GoHomeRanil \n\ud83d\udccdGalle https://t.co/7kWlDg0880",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXDUyHiUUAAi8Hh.jpg"
+    ],
+    "video_url_list": []
+  },
+  {
     "tweet_url": "https://twitter.com/finityfund/status/1544968345010589697",
     "id": 1544968345010589697,
     "user": "finityfund",
@@ -1104,17 +1115,6 @@
     "text": "@NewsWireLK #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/pc0w4ZWuUA",
     "photo_url_list": [
       "https://pbs.twimg.com/media/FXBxZQ6XoAcxBaL.jpg"
-    ],
-    "video_url_list": []
-  },
-  {
-    "tweet_url": "https://twitter.com/udeshan/status/1544859054366789632",
-    "id": 1544859054366789632,
-    "user": "udeshan",
-    "time_create_ut": 1657158075,
-    "text": "#GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota https://t.co/EdTWwY7zDv https://t.co/1ou6JQYY6u",
-    "photo_url_list": [
-      "https://pbs.twimg.com/media/FXBxHh_XkAElZqn.jpg"
     ],
     "video_url_list": []
   }
