@@ -1,13 +1,13 @@
 import os
 import random
-
+import math
 from PIL import Image
-
+import imageio
 from sm_photos import dedupe, photos
 from sm_photos._constants import DIR_DATA
 from sm_photos._utils import log
 
-DIM = 128
+DIM = 128 - 1
 WIDTH, HEIGHT = 80, 45
 
 
@@ -112,9 +112,69 @@ def build_text_collage(base_image_file, photo_file_list):
         log.info(f'Wrote {text_collage_image_resized_file}')
 
 
+def metarize():
+    text_collage_image_file = os.path.join(DIR_DATA, 'text_collage_image.png')
+    text_collage_image = Image.open(text_collage_image_file)
+    big_width, big_height = WIDTH * DIM, HEIGHT * DIM
+
+    text_collage_image_small = text_collage_image.resize((WIDTH, HEIGHT))
+    text_collage_image.paste(
+        text_collage_image_small,
+        (
+            (int)(WIDTH * (int)(DIM / 2)),
+            (int)(HEIGHT * (int)(DIM / 2)),
+        ),
+    )
+
+    N_STEPS = 20
+    metarized_item_image_list = []
+    for i_step in range(N_STEPS):
+        if i_step != 0:
+            m = math.pow(2, i_step * math.log(DIM, 2) / N_STEPS)
+            step_width, step_height = (int)(WIDTH * m), (int)(HEIGHT * m)
+            left = (int)((big_width - step_width) / 2)
+            top = (int)((big_height - step_height) / 2)
+
+            right = (int)((big_width + step_width) / 2)
+            bottom = (int)((big_height + step_height) / 2)
+
+            metarized_item_image = text_collage_image.crop(
+                (left, top, right, bottom),
+            )
+        else:
+            metarized_item_image = text_collage_image
+
+        METARIZED_IMAGE_DIM = 1080 / 80
+        metarized_item_image = metarized_item_image.resize(
+            (
+                (int)(WIDTH * METARIZED_IMAGE_DIM),
+                (int)(HEIGHT * METARIZED_IMAGE_DIM),
+            )
+        )
+
+        metarized_item_image_file = os.path.join(
+            DIR_DATA, f'text_collage_image.meta-item.{i_step:02d}.png'
+        )
+        metarized_item_image.save(metarized_item_image_file)
+        log.info(f'Wrote {metarized_item_image_file}')
+        metarized_item_image_list.append(metarized_item_image)
+
+    metarized_animation_file = os.path.join(
+        DIR_DATA,
+        f'text_collage_image.animation.gif',
+    )
+    DURATION = 0.2
+    imageio.mimsave(
+        metarized_animation_file, metarized_item_image_list, duration=DURATION
+    )
+    log.info(f'Wrote {metarized_animation_file}')
+
+
 if __name__ == '__main__':
-    # from sm_photos import filesys
-    # filesys.init()
+    from sm_photos import filesys
+
+    filesys.init()
     base_image_file = 'media/text.sketch.png'
     photo_file_list = dedupe.dedupe_photos(photos.get_photo_file_list())
     build_text_collage(base_image_file, photo_file_list)
+    metarize()

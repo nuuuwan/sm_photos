@@ -17,6 +17,7 @@ def main(hashtag):
     base_image_file = 'media/text.sketch.png'
     photo_file_list = dedupe.dedupe_photos(photos.get_photo_file_list())
     text_collage.build_text_collage(base_image_file, photo_file_list)
+    text_collage.metarize()
 
 
 def get_options():
