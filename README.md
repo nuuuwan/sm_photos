@@ -1,10 +1,56 @@
 # Social Media Photos
 
-*203 tweets as of 20220707-085610*
+*206 tweets as of 20220707-092840*
 
 ![collage.png](collage.png)
 
 ## 100 latest tweets
+
+2022-07-07 09:27:11 by [udeshanbala](https://twitter.com/udeshanbala/status/1544893262443397120)
+
+0 videos, 1 photos
+
+```
+
+@HarshadeSilvaMP @RW_UNP @IMFNews #GotaParaya @GotabayaR #RanilParaya @RW_UNP #GoHomeGota On the 9th July https://t.co/scPuBtT1Xq
+
+```
+
+![image](https://pbs.twimg.com/media/FXCQNigXEAEP5vt.jpg)
+
+---
+
+2022-07-07 09:20:03 by [NightWingzzz](https://twitter.com/NightWingzzz/status/1544891468531126272)
+
+0 videos, 4 photos
+
+```
+
+හැබැයි ජූනි 29 අති විශේෂ ගැසට් එකක් එනවා මේ වැඩේ තහනම් කරලා. එහෙමයි කියලා අපේ රටේ උන් ගැසට් තඹේකට ගණන් ගන්නවද? නෑ... හූරන්ම කනවා... 
+
+#නමටගැසට්
+#GoHomeGota https://t.co/1k7PkjpmkB
+
+```
+
+![image](https://pbs.twimg.com/media/FXCLiyBUYAEr5yx.jpg)
+
+---
+
+2022-07-07 09:11:52 by [NireshEliatamby](https://twitter.com/NireshEliatamby/status/1544889409681637376)
+
+0 videos, 1 photos
+
+```
+
+#EconomicCrisisLK #GoHomeGota #GoHomeRajapaksas #GoHomeRanil #GotaGoHome #LKA #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis 
+@SLRTBot @BotLanka @Sri_Lankabot @619Sniper619Bot https://t.co/zksNZRcRGg
+
+```
+
+![image](https://pbs.twimg.com/media/FXCMuUdWQAArXmV.png)
+
+---
 
 2022-07-07 08:55:08 by [faizer_fazil](https://twitter.com/faizer_fazil/status/1544885199086882816)
 
@@ -1514,48 +1560,5 @@ July 9th 🙌  #FinalChapter
 ```
 
 ![image](https://pbs.twimg.com/media/FW_kLuZX0AQu_zO.jpg)
-
----
-
-2022-07-06 20:52:26 by [mansoorlk](https://twitter.com/mansoorlk/status/1544703325727117312)
-
-0 videos, 1 photos
-
-```
-
-#inflation #GoHomeGota2022 #GoHomeGota #GoHomeRajapakshas 
-#SriLankaEconomicCrisis https://t.co/G6HdV1yyDe
-
-```
-
-![image](https://pbs.twimg.com/media/FW_jezKaQAIKVEZ.jpg)
-
----
-
-2022-07-06 20:32:52 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1544698399764516864)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota2022 #GoHomeRanil2022 #GoHomeGota #gohomerajapaksas #July9th #gotagogama #peoplepower #peoplefirst  #SriLankaCrisis https://t.co/IANY4zmnPE
-
-```
-
-
-
----
-
-2022-07-06 20:27:31 by [THIMIRA_LAK](https://twitter.com/THIMIRA_LAK/status/1544697054899077122)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/cnWK5DIQ0Y
-
-```
-
-![image](https://pbs.twimg.com/media/FW_dxrqaIAA0zCr.jpg)
 
 ---
