@@ -47,5 +47,5 @@ def backpopulate_video_clips():
         if os.path.exists(first_video_clip_file):
             log.info(f'Clips already downloaded for {video_file}.')
         else:
-            log.info(f'No clips for {video_file}. Downloading...')
+            log.info(f'No clips for {video_file}. Extracting...')
             extract_and_save_clips(video_file)
