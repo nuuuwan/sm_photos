@@ -1,10 +1,136 @@
 # Social Media Photos
 
-*390 tweets as of 20220708-092414*
+*397 tweets as of 20220708-095119*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 09:44:42 by [Sakikumarage](https://twitter.com/Sakikumarage/status/1545260059256836096)
+
+0 videos, 1 photos
+
+```
+
+Be your Diyasen,
+Be your Murugan,
+Seek the Jihad,
+Resurrect the crucified !!!
+#GoHomeGota #SaveSriLanka https://t.co/7Skqwrl0e4
+
+```
+
+![image](https://pbs.twimg.com/media/FXHdRvOaMAA_SQW.jpg)
+
+---
+
+2022-07-08 09:41:51 by [LuckyDhar7](https://twitter.com/LuckyDhar7/status/1545259340898045952)
+
+0 videos, 1 photos
+
+```
+
+3 debutants today !
+
+#SLvAUS #July9th #GoHomeGota #GotaGoHome2022 https://t.co/QMZaCXfgfh
+
+```
+
+![image](https://pbs.twimg.com/media/FXHdJ6rUsAApLQo.jpg)
+
+---
+
+2022-07-08 09:40:33 by [WedabimaL](https://twitter.com/WedabimaL/status/1545259014224809990)
+
+0 videos, 4 photos
+
+```
+
+In #protest against the current #government, several monk organizations are starting a #Satyagraha in pettah..
+#GoHomeGota #EconomicCrisisLK #GoHomeRajapaksas #FuelCrisisLK #SriLanka #SriLankaEconomicCrisis #SriLankaProtests https://t.co/Nltp9PCmc2
+
+```
+
+![image](https://pbs.twimg.com/media/FXHciBHX0AA-SNF.jpg)
+
+![image](https://pbs.twimg.com/media/FXHciBdWYAEuLIh.jpg)
+
+![image](https://pbs.twimg.com/media/FXHciBvWQAELB3u.jpg)
+
+![image](https://pbs.twimg.com/media/FXHciCEXEAAPbWG.jpg)
+
+---
+
+2022-07-08 09:38:57 by [isurukoda](https://twitter.com/isurukoda/status/1545258611273740290)
+
+0 videos, 1 photos
+
+```
+
+Aragalaya 2.0 #GoHomeGota https://t.co/QMgWKZ0Lg4
+
+```
+
+![image](https://pbs.twimg.com/media/FXHcg1_UcAEzyP_.jpg)
+
+---
+
+2022-07-08 09:36:55 by [exfrotezter](https://twitter.com/exfrotezter/status/1545258099526836228)
+
+1 videos, 0 photos
+
+```
+
+You don’t have to come to Colombo, there are many ways to protest from wherever you are.
+
+But tomorrow, Lankans here and abroad will collectively raise their voice loud and clear 
+#GoHomeGota and #GoHomeRajapaksas 
+
+#අරගලයටජය✊🏽
+
+https://t.co/FzVxmOzZJF
+
+```
+
+---
+
+2022-07-08 09:34:38 by [exfrotezter](https://twitter.com/exfrotezter/status/1545257524634329090)
+
+0 videos, 1 photos
+
+```
+
+I won’t ask people to come to the streets tomorrow, because I know the state will use every means to crackdown on peaceful protestors.
+
+But this is what I’ll do. I will go because this gov. and this president have left us no other choice.
+
+#ProtestLK✊🏽 #GoHomeGota https://t.co/IpbVMjEGCw
+
+```
+
+![image](https://pbs.twimg.com/media/FXHbhkEXgAE57U3.jpg)
+
+---
+
+2022-07-08 09:24:24 by [JinRanz](https://twitter.com/JinRanz/status/1545254950707417088)
+
+0 videos, 1 photos
+
+```
+
+Starting at 11 am on 8th July from University of Kelaniya to Colombo🔥
+Full night in Colombo to join the civil protests on 9th July
+
+#GoHomeGota
+#GotaGoHome2022 
+#ArrestRajapaksas
+#RanilGoHome https://t.co/F3nhfnd6ki
+
+```
+
+![image](https://pbs.twimg.com/media/FXHZMDAaIAAniPF.jpg)
+
+---
 
 2022-07-08 09:14:44 by [chamindu1](https://twitter.com/chamindu1/status/1545252517872746496)
 
@@ -1568,107 +1694,5 @@ Thank you @GotabayaR 🤢🤌
 ```
 
 ![image](https://pbs.twimg.com/media/FXEYtM8VEAcl_cX.png)
-
----
-
-2022-07-07 19:21:58 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545042944344096768)
-
-0 videos, 1 photos
-
-```
-
-🛑උඹලට තියෙන්න තව පැය කීපයක් පමණයි -  ජූලි 9 මොකද වෙන්නේ අරගලකරුවන්ගේ දැනුවත් කිරීම මෙන්න
-https://t.co/60dZtTgiMF
-#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/WyVEWpbWqa
-
-```
-
-![image](https://pbs.twimg.com/media/FXEYVz1aAAADAAp.jpg)
-
----
-
-2022-07-07 19:12:28 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545040553435447296)
-
-1 videos, 0 photos
-
-```
-
-STF to Sri Lankans : We will put Kerala Cannabis(KG) and take you to the High Court 
-
-We(Tamils) to STF : Hold our Pe***
-
-#EconomicCrisisLK 
-#GoHomeGota 
-
- https://t.co/mzU1Had42p
-
-```
-
----
-
-2022-07-07 19:07:18 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1545039255075885061)
-
-0 videos, 1 photos
-
-```
-
-ගෝටාට අප්පට සිරි වෙන්න යන්නේ 
-#gohomeGota 😂🤬😂🤬😂🤬 https://t.co/KbIhsJ1hDE
-
-```
-
-![image](https://pbs.twimg.com/media/FXEU0IfVEAEuIqj.jpg)
-
----
-
-2022-07-07 18:59:32 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1545037302342111233)
-
-0 videos, 1 photos
-
-```
-
-#GohomeGota https://t.co/R1iRgwXP94
-
-```
-
-![image](https://pbs.twimg.com/media/FXETGeuUUAE3hia.jpg)
-
----
-
-2022-07-07 18:25:14 by [AnupaDe](https://twitter.com/AnupaDe/status/1545028670129324035)
-
-0 videos, 1 photos
-
-```
-
-The plan for this Saturday (9th July), if I can't find transport. Packing running shoes, snacks, lunch, drinks with electrolytes and planning for multiple stops. Planning to spend the day in Colombo. Hopefully will be able to cover at least part of this in vehicles. #GoHomeGota https://t.co/FWtlyQHpPU
-
-```
-
-![image](https://pbs.twimg.com/media/FXELYtFagAEq8K-.jpg)
-
----
-
-2022-07-07 17:48:22 by [Economynext](https://twitter.com/Economynext/status/1545019391271571458)
-
-1 videos, 0 photos
-
-```
-
-"We had written to the government stating our arrival to #Colombo Our letters have been disregarded, would have been of greater notice if #GnanaAkka wrote a letter."  #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #GoHomeGota #Rajapaksa #Gotabaya https://t.co/KC8dKbRi8y
-
-```
-
----
-
-2022-07-07 17:46:36 by [Economynext](https://twitter.com/Economynext/status/1545018945039503360)
-
-1 videos, 0 photos
-
-```
-
-"The days we were scared of Rajapaksa's guns are over. We are not scared to die, we aren't scared of their gunshots." #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #GoHomeGota #Rajapaksa #Gotabaya https://t.co/i7cdhtoPaZ
-
-```
 
 ---
