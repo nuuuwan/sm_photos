@@ -1,4 +1,5 @@
 import os
+
 from moviepy.editor import VideoFileClip
 
 from sm_photos._constants import DIR_TWTR_DATA
@@ -47,3 +48,4 @@ def backpopulate_video_clips():
             log.info(f'Clips already downloaded for {video_file}.')
         else:
             log.info(f'No clips for {video_file}. Downloading...')
+            extract_and_save_clips(video_file)
