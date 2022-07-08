@@ -13,15 +13,13 @@ def main(hashtag):
         filesys.download_and_save(tweet_info)
 
     videos.backpopulate_video_clips()
-
     summary.build_summary()
-    collage.build_collage()
 
+    collage.build_collage()
     base_image_file = 'media/text.sketch.png'
     photo_file_list = dedupe.dedupe_photos(photos.get_photo_file_list())
     text_collage.build_text_collage(base_image_file, photo_file_list)
     text_collage.metarize()
-
     readme.build_readme()
 
 
