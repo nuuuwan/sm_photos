@@ -2,6 +2,7 @@ import os
 
 from utils import Git, JSONFile, www
 
+from sm_photos import videos
 from sm_photos._constants import DIR_DATA, DIR_TWTR_DATA, URL_GIT_REPO
 from sm_photos._utils import log
 
@@ -27,11 +28,23 @@ def download_and_save_media(tweet_info):
         for i, url in enumerate(tweet_info[k]):
             ext = url.split('.')[-1]
             file_name = f'{file_prefix}.{media_type}.{i:02d}.{ext}'
+
+            tweet_info[media_type + '_file_name'] = file_name
+
             if not os.path.exists(file_name):
                 www.download_binary(url, file_name)
                 log.info(f'Downloaded {url} to {file_name}')
+
+                if media_type == 'video':
+                    video_clip_file_list = videos.extract_and_save_clips(
+                        file_name
+                    )
+                    tweet_info['video_clip_file_list'] = video_clip_file_list
+
             else:
                 log.info(f'{file_name} exists. Not downloading')
+
+    return tweet_info
 
 
 def download_and_save_data(tweet_info):
@@ -41,5 +54,5 @@ def download_and_save_data(tweet_info):
 
 
 def download_and_save(tweet_info):
-    download_and_save_data(tweet_info)
-    download_and_save_media(tweet_info)
+    expanded_tweet_info = download_and_save_media(tweet_info)
+    download_and_save_data(expanded_tweet_info)
