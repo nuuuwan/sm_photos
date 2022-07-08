@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*763 tweets as of 20220709-002316*
+*765 tweets as of 20220709-003929*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 00:36:24 by [AnjanaKalindu8](https://twitter.com/AnjanaKalindu8/status/1545484463848755200)
+
+0 videos, 1 photos
+
+```
+
+අරගලයට ජයවේවා!🇱🇰❤️
+#GoHomeGota  #EndGame2022 https://t.co/Bi4ZdwheY7
+
+```
+
+![image](twtr_data/1545484463848755200.photo.00.jpg)
+
+---
+
+2022-07-09 00:31:23 by [Lachchu07](https://twitter.com/Lachchu07/status/1545483200968790017)
+
+0 videos, 1 photos
+
+```
+
+9th July 😎
+#GoHomeGota2022
+#GoHomeGota
+#NewProfilePic https://t.co/AhK1OjK6KP
+
+```
+
+![image](twtr_data/1545483200968790017.photo.00.jpg)
+
+---
 
 2022-07-09 00:15:17 by [Abdu_loud77](https://twitter.com/Abdu_loud77/status/1545479148969279488)
 
@@ -1653,38 +1685,5 @@ Source: https://t.co/kFjX6mU48z
 ![image](twtr_data/1545449824828370949.photo.01.jpg)
 
 ![image](twtr_data/1545449824828370949.photo.00.jpg)
-
----
-
-2022-07-08 22:17:46 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1545449577364328449)
-
-1 videos, 0 photos
-
-```
-
-ගම සමඟ පිළිසදරට ගිය අන්තරේ කොල්ලෝ කෙල්ලෝ
-#lka #SriLankaCrisis #GoHomeGota https://t.co/2IpIP2ITcC
-
-```
-
-![image](twtr_data/1545449577364328449.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 22:16:53 by [CeylonNewsFact](https://twitter.com/CeylonNewsFact/status/1545449354101678081)
-
-0 videos, 1 photos
-
-```
-
-අත්තනෝමතික ලෙස පැනවූ ඇඳිරි නීතිය නීති විරෝධී බවට නීතිඥ සංගමයෙන් නිවේදනයක් !
-
-වැඩිදුර විස්තර සහ ලිපිය &gt;&gt;&gt; https://t.co/AvPeqf5HaF
-
-#lka #news #BASL #SriLankaCrisis #GoHomeGota #SriLanka https://t.co/Xv4W22VysV
-
-```
-
-![image](twtr_data/1545449354101678081.photo.00.jpg)
 
 ---
