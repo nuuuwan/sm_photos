@@ -1,7 +1,7 @@
 import argparse
 
-from sm_photos import (collage, dedupe, filesys, photos, summary, text_collage,
-                       videos)
+from sm_photos import (collage, dedupe, filesys, photos, readme, summary,
+                       text_collage, videos)
 from sm_photos.twtr import TWTR
 
 
@@ -22,7 +22,7 @@ def main(hashtag):
     text_collage.build_text_collage(base_image_file, photo_file_list)
     text_collage.metarize()
 
-    summary.build_readme()
+    readme.build_readme()
 
 
 def get_options():
