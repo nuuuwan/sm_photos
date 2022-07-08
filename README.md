@@ -1,10 +1,77 @@
 # Social Media Photos
 
-*562 tweets as of 20220708-192104*
+*566 tweets as of 20220708-193955*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 19:35:03 by [walterministry](https://twitter.com/walterministry/status/1545408626382102533)
+
+0 videos, 2 photos
+
+```
+
+நாளை (ஜூலை 9) சிறீவங்காவில் மக்களும் அரசும் எதிர்கொள்ளவிருக்கும் வரலாற்று போர்.
+
+ சிங்கள மக்களும் சிங்கள அரசும் சந்திக்கவிருப்பது பற்றி, யாழ் தினக்குரல் நாளிதழ் செய்திகள்.
+
+#lka #Srilanka #GoHomeGota https://t.co/QZULWqW12L
+
+```
+
+![image](twtr_data/1545408626382102533.photo.01.jpg)
+
+![image](twtr_data/1545408626382102533.photo.00.jpg)
+
+---
+
+2022-07-08 19:33:37 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545408267098402817)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/pj1KEgDbxr
+පාලකයෝ දැන්වත් බැහැලා පලයල්ලා - සිවිල් ක්‍රියාධරයන්ගෙන්  ජනතාවට පණිවුඩයක්
+#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/bw2baRqCjT
+
+```
+
+![image](twtr_data/1545408267098402817.photo.00.jpg)
+
+---
+
+2022-07-08 19:32:00 by [cartoonlka](https://twitter.com/cartoonlka/status/1545407859462025216)
+
+0 videos, 1 photos
+
+```
+
+Lankadeepa cartoon by Dasa Hapuwalana 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota https://t.co/cbETgEEV01
+
+```
+
+![image](twtr_data/1545407859462025216.photo.00.jpg)
+
+---
+
+2022-07-08 19:24:44 by [janindudezoysa](https://twitter.com/janindudezoysa/status/1545406029953126400)
+
+1 videos, 0 photos
+
+```
+
+Police fired water cannon and tear gas to disperse university students and protestors. 
+#GoHomeGota https://t.co/z93JdgSSsp
+
+```
+
+![image](twtr_data/1545406029953126400.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-08 19:15:00 by [OneAahad](https://twitter.com/OneAahad/status/1545403580995223553)
 
@@ -1587,65 +1654,5 @@ Meanwhile in a parallel universe 🫠
 ```
 
 ![image](twtr_data/1545350462588653568.photo.00.jpg)
-
----
-
-2022-07-08 15:32:45 by [Welikumbura](https://twitter.com/Welikumbura/status/1545347649813217281)
-
-0 videos, 1 photos
-
-```
-
-This is a cowardly act of an unbelievable level by the @GotabayaR &amp; @RW_UNP regime to sabotage tomorrow's protest.
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #HumanRights #HumanRightsViolations #ProtestLK #SriLankaProtests #රටමකොළඹට #අරගලයටජය https://t.co/nCINepJ42L
-
-```
-
-![image](twtr_data/1545347649813217281.photo.00.jpg)
-
----
-
-2022-07-08 15:27:59 by [mohamed_rikas12](https://twitter.com/mohamed_rikas12/status/1545346451655368704)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/Puo5xsuU7n
-
-```
-
-![image](twtr_data/1545346451655368704.photo.00.jpg)
-
----
-
-2022-07-08 15:22:56 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345180345450498)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 12/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/uP4SC6M1Qc
-
-```
-
-![image](twtr_data/1545345180345450498.photo.00.jpg)
-
----
-
-2022-07-08 15:22:55 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345175207432192)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 11/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/HAjhIYm1eO
-
-```
-
-![image](twtr_data/1545345175207432192.photo.00.jpg)
 
 ---
