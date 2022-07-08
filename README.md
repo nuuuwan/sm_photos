@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*429 tweets as of 20220708-130018*
+*430 tweets as of 20220708-131653*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 13:10:57 by [kavinuishere](https://twitter.com/kavinuishere/status/1545311965114863616)
+
+0 videos, 1 photos
+
+```
+
+නමය නමයට 
+රටම කොළඹට! 🇱🇰 
+
+#GOHOMEGOTA https://t.co/RXrx0ayPiM
+
+```
+
+![image](https://pbs.twimg.com/media/FXINCOsUYAAUtw9.jpg)
+
+---
 
 2022-07-08 12:53:48 by [Amaliniii](https://twitter.com/Amaliniii/status/1545307648815312898)
 
@@ -1624,27 +1641,5 @@ Ane sir please tell @GotabayaR
 ```
 
 ![image](https://pbs.twimg.com/media/FXFV29rWAAETEFI.jpg)
-
----
-
-2022-07-07 23:41:11 by [adopteeslk](https://twitter.com/adopteeslk/status/1545108181973536768)
-
-0 videos, 3 photos
-
-```
-
-Handsome 5 month old boy up for free adoption at Ja-Ela. Adorable, playful, very active &amp; affectionate. Can fund the immediate vaccinations. Can fund transport.
-
-Contact: Amritha - 077 251 3010
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st https://t.co/vrgqf3rik8
-
-```
-
-![image](https://pbs.twimg.com/media/FXFTszyUYAEzm6T.jpg)
-
-![image](https://pbs.twimg.com/media/FXFTszzUYAI5NkW.jpg)
-
-![image](https://pbs.twimg.com/media/FXFTsz1VEAE2Vco.jpg)
 
 ---
