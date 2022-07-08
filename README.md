@@ -1,10 +1,77 @@
 # Social Media Photos
 
-*358 tweets as of 20220708-063712*
+*362 tweets as of 20220708-073632*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 07:17:35 by [cartoonlka](https://twitter.com/cartoonlka/status/1545223038068658176)
+
+0 videos, 1 photos
+
+```
+
+Cartoon by @RcSullan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #PritestLK #GoHomeGota https://t.co/XxPYSUsCnA
+
+```
+
+![image](https://pbs.twimg.com/media/FXG8JuhXEAEMuCk.jpg)
+
+---
+
+2022-07-08 07:01:22 by [gataritagames](https://twitter.com/gataritagames/status/1545218953852895232)
+
+0 videos, 1 photos
+
+```
+
+Just released our very first commercial game! 
+A game about the current situation in #SriLanka (well sort of hahah)
+
+playstore : https://t.co/Pgeyo0x6Rl
+itch (for Windows and Linux) : https://t.co/QUGPJSWYZm
+
+Made in ❤️ with #GodotEngine in Sri Lanka
+#GoHomeGota #RoyalButts https://t.co/71TPNH9S64
+
+```
+
+![image](https://pbs.twimg.com/media/FXG4UPxaAAAoMaZ.jpg)
+
+---
+
+2022-07-08 06:45:00 by [OneAahad](https://twitter.com/OneAahad/status/1545214835918393344)
+
+1 videos, 0 photos
+
+```
+
+🟢July 9 #Revolution in #Srilanka
+💪Our Motherland is in Danger. Wakeup your Sound for our #Srilanka
+#GoHomeGota #GoHomeRanil #GoHomeRajapaksas #EnoughIsEnough #Aragalaya #SriLankaCrisis #FuelCrisisLK #EconomicCrisisL #srilankanpoliticalcrisis #GoHomeGota2022 #lka https://t.co/agSstDeBCd
+
+```
+
+---
+
+2022-07-08 06:42:15 by [Gelitha_Jay](https://twitter.com/Gelitha_Jay/status/1545214145284423680)
+
+0 videos, 1 photos
+
+```
+
+6.40 am 
+Delkanda Junction 
+#FuelCrisisSL #FuelCrisisLK #GoHomeGota https://t.co/kf1Rmfv4nn
+
+```
+
+![image](https://pbs.twimg.com/media/FXG0DtAVEAAR7-j.jpg)
+
+---
 
 2022-07-08 06:34:26 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545212176499359744)
 
@@ -1505,65 +1572,5 @@ Road is under control by The TukTuk Warriors. 🛺
 we are responsible to re create our mother land ❤️‍🩹🇱🇰 #GoHomeGota #GoHomeGota2022 #GoHomeRajapaksas #itshappening https://t.co/3bzuS00c6m
 
 ```
-
----
-
-2022-07-07 14:15:42 by [Thedmdvbd](https://twitter.com/Thedmdvbd/status/1544965871801470976)
-
-0 videos, 1 photos
-
-```
-
-අවුරුදු පහකට සැරයක් ගිහිල්ලා කතිරයක් ගැහුවට මුන් කවුරුත් උඹලා තරං වැරදි කරලා නෑ යකෝ... දැං ඇති! 😣🖐
-
-#GoHomeGota2022 #GoHomeGota #GoHomeRajapakshas #GotaGoHome #lka #SriLanka #PowerToThePeople https://t.co/zxqIPbPknH
-
-```
-
-![image](https://pbs.twimg.com/media/FXDSQ7lWAAMEmFd.jpg)
-
----
-
-2022-07-07 14:04:14 by [MarioAlles1](https://twitter.com/MarioAlles1/status/1544962984661110784)
-
-1 videos, 0 photos
-
-```
-
-Tourists arriving in Sri Lanka, well prepared to face the fuel crisis. I think this is what Harin is promoting now. @HarshadeSilvaMP @Dr_HariniA @fernandoharin @CabinetSL @ParliamentLK @GotabayaR @sajithpremadasa @anuradisanayake @pcranawaka @MaithripalaS @sjbsrilanka #GoHomeGota https://t.co/HCdAJt9lH8
-
-```
-
----
-
-2022-07-07 14:03:10 by [poets_delight](https://twitter.com/poets_delight/status/1544962718020489216)
-
-1 videos, 0 photos
-
-```
-
-My favourite tuktuk driver 💜
-
-#GoHomeGota #srilanka #SriLankaEconomicCrisis https://t.co/XO1IwjqF21
-
-```
-
----
-
-2022-07-07 13:49:41 by [Menitweet](https://twitter.com/Menitweet/status/1544959322441990144)
-
-0 videos, 1 photos
-
-```
-
-Many thanks 🙃 we were waiting for you to tell us.
-
-Now go eat more mangoes 🥭 
-
-#ranilටබෑ #GoHomeGota #EndGame2022 https://t.co/zDIewsRujf
-
-```
-
-![image](https://pbs.twimg.com/media/FXDMT4NWAAIgtw_.jpg)
 
 ---
