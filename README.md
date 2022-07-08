@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*397 tweets as of 20220708-095119*
+*399 tweets as of 20220708-101123*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 10:02:55 by [photodiyani](https://twitter.com/photodiyani/status/1545264646382563328)
+
+0 videos, 1 photos
+
+```
+
+හෙට කොළඹට එන මගේ රටේ ආදරණීය පුරවැසියනි ! 
+මතක තබාගන්න, අපේ බලය අවිහිංසාව. අපි ගල් කැටයක්වත් අතට ගන්නෑ. 
+මේක ආදරයේ අරගලය ! ✊🇱🇰 #EndGameOn #GoHomeGota  #අරගලයටජය https://t.co/0A6wmI9hmK
+
+```
+
+![image](https://pbs.twimg.com/media/FXHiAJsacAATx3a.jpg)
+
+---
+
+2022-07-08 09:59:03 by [IsharaMadhu](https://twitter.com/IsharaMadhu/status/1545263672133447680)
+
+0 videos, 1 photos
+
+```
+
+හෙට කොළඹට එන මගේ රටේ ආදරණීය පුරවැසියනි ! 
+මතක තබාගන්න, අපේ බලය අවිහිංසාව. අපි ගල් කැටයක්වත් අතට ගන්නෑ. 
+මේක ආදරයේ අරගලය ! ✊🇱🇰 #EndGameOn #GoHomeGota  #අරගලයටජය https://t.co/pjGZOq6Vww
+
+```
+
+![image](https://pbs.twimg.com/media/FXHhHezUIAEVRiE.jpg)
+
+---
 
 2022-07-08 09:44:42 by [Sakikumarage](https://twitter.com/Sakikumarage/status/1545260059256836096)
 
@@ -1663,36 +1695,5 @@ The entire @PodujanaParty &amp; it’s leaders @GotabayaR, @PresRajapaksa, &amp;
 ```
 
 ![image](https://pbs.twimg.com/media/FXEZWgqaQAEpLp0.jpg)
-
----
-
-2022-07-07 19:25:17 by [ambvrtt](https://twitter.com/ambvrtt/status/1545043780721446917)
-
-0 videos, 1 photos
-
-```
-
-Some says “A journey of a thousand miles begins with a single step”.
-We ended each walking 40,000+ steps. Without trains and buses.
-Thank you @GotabayaR 🤢🤌
-#GoHomeRajapakshas #GoHomeGota https://t.co/I5szwSkwyT
-
-```
-
-![image](https://pbs.twimg.com/media/FXEZHeiUsAE2i9m.jpg)
-
----
-
-2022-07-07 19:23:30 by [OneAahad](https://twitter.com/OneAahad/status/1545043331595452417)
-
-0 videos, 1 photos
-
-```
-
-#SL People Please🔊 Listen Let's gather with us  #July9 to make #SriLankaProtests  to make new turning point. #Revolution 💪of #Srilanka .People Power is much Strong. #FuelCrisisLK  #StandasOneSL #SriLankaEconomicCrisis #lka #GoHomeGota #srilankanpoliticalcrisis https://t.co/62BpPATRxx
-
-```
-
-![image](https://pbs.twimg.com/media/FXEYtM8VEAcl_cX.png)
 
 ---
