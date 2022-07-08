@@ -1,5 +1,93 @@
 [
   {
+    "tweet_url": "https://twitter.com/iAnuradhaS/status/1545504495672561664",
+    "id": 1545504495672561664,
+    "user": "iAnuradhaS",
+    "time_create_ut": 1657311960,
+    "text": "It\u2019s illegal and unconstitutional to impose a police curfew. \n\n#GoHomeGota #EconomicCrisisLK #SaveSriLanka #HumanRights https://t.co/p7CjJ0N7yF",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXK8I6qXkAc_uWp.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545504495672561664.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545504495672561664.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/kim_nethu/status/1545503846566309888",
+    "id": 1545503846566309888,
+    "user": "kim_nethu",
+    "time_create_ut": 1657311805,
+    "text": "@bts_bighit @BTS_twt #Google #HappyARMYDay #HappyBirthdayARMY #BTSARMYDAY #purpleballoones #GoHomeGota https://t.co/SC8y1PZF4q",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXK7hX5WQAA1dLi.jpg",
+      "https://pbs.twimg.com/media/FXK7iH6XwAI800t.jpg",
+      "https://pbs.twimg.com/media/FXK7i6wXwAMK2xd.jpg",
+      "https://pbs.twimg.com/media/FXK7jh9XEAs96F6.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545503846566309888.photo.03.jpg",
+    "local_media": {
+      "photo": [
+        "1545503846566309888.photo.01.jpg",
+        "1545503846566309888.photo.03.jpg",
+        "1545503846566309888.photo.02.jpg",
+        "1545503846566309888.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/kim_nethu/status/1545501903114555392",
+    "id": 1545501903114555392,
+    "user": "kim_nethu",
+    "time_create_ut": 1657311342,
+    "text": "#HappyARMYDay #HappyBirthdayARMY #purpleballoons \n#BTSARMYDAY \n#GoHomeGota #Purpleballoons https://t.co/Fqhqnqkt3S",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXK5oQoWAAgD0fy.jpg",
+      "https://pbs.twimg.com/media/FXK5wK3WQAA-1Jv.jpg",
+      "https://pbs.twimg.com/media/FXK5xV5WAAAgqvE.jpg",
+      "https://pbs.twimg.com/media/FXK5yhQXkAAFycF.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545501903114555392.photo.03.jpg",
+    "local_media": {
+      "photo": [
+        "1545501903114555392.photo.01.jpg",
+        "1545501903114555392.photo.00.jpg",
+        "1545501903114555392.photo.02.jpg",
+        "1545501903114555392.photo.03.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/EvvanPerera/status/1545501283397672960",
+    "id": 1545501283397672960,
+    "user": "EvvanPerera",
+    "time_create_ut": 1657311194,
+    "text": "Three weeks ago there was 5 of us back on the streets reigniting a cause and reminding people despite the hardships that the struggle continues uncorrupted, undivided, unadulterated &amp; back at our closest junctions. Today we are more than 5 #GoHomeGota #July9Revolution #ProtestLK https://t.co/o7aYupjvyg",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXK5OB2XEAMVoFF.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545501283397672960.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545501283397672960.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/mar_mohamedanaa/status/1545499374142119936",
     "id": 1545499374142119936,
     "user": "mar_mohamedanaa",
@@ -29,10 +117,6 @@
       "https://video.twimg.com/ext_tw_video/1545498367748456450/pu/vid/720x720/-aGP2-5alAgpN52C.mp4"
     ],
     "video_file_name": "twtr_data/1545498552272568321.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545498552272568321.video.00.mp4.clip.00.png",
-      "twtr_data/1545498552272568321.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -93,9 +177,6 @@
       "https://video.twimg.com/ext_tw_video/1545497438928371712/pu/vid/480x270/xXHKYTaeB94QC97Z.mp4"
     ],
     "video_file_name": "twtr_data/1545497583023685632.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545497583023685632.video.00.mp4.clip.00.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

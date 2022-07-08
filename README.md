@@ -1,10 +1,82 @@
 # Social Media Photos
 
-*780 tweets as of 20220709-014133*
+*784 tweets as of 20220709-020731*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 01:56:00 by [iAnuradhaS](https://twitter.com/iAnuradhaS/status/1545504495672561664)
+
+0 videos, 1 photos
+
+```
+
+It’s illegal and unconstitutional to impose a police curfew. 
+
+#GoHomeGota #EconomicCrisisLK #SaveSriLanka #HumanRights https://t.co/p7CjJ0N7yF
+
+```
+
+![image](twtr_data/1545504495672561664.photo.00.jpg)
+
+---
+
+2022-07-09 01:53:25 by [kim_nethu](https://twitter.com/kim_nethu/status/1545503846566309888)
+
+0 videos, 4 photos
+
+```
+
+@bts_bighit @BTS_twt #Google #HappyARMYDay #HappyBirthdayARMY #BTSARMYDAY #purpleballoones #GoHomeGota https://t.co/SC8y1PZF4q
+
+```
+
+![image](twtr_data/1545503846566309888.photo.01.jpg)
+
+![image](twtr_data/1545503846566309888.photo.03.jpg)
+
+![image](twtr_data/1545503846566309888.photo.02.jpg)
+
+![image](twtr_data/1545503846566309888.photo.00.jpg)
+
+---
+
+2022-07-09 01:45:42 by [kim_nethu](https://twitter.com/kim_nethu/status/1545501903114555392)
+
+0 videos, 4 photos
+
+```
+
+#HappyARMYDay #HappyBirthdayARMY #purpleballoons 
+#BTSARMYDAY 
+#GoHomeGota #Purpleballoons https://t.co/Fqhqnqkt3S
+
+```
+
+![image](twtr_data/1545501903114555392.photo.01.jpg)
+
+![image](twtr_data/1545501903114555392.photo.00.jpg)
+
+![image](twtr_data/1545501903114555392.photo.02.jpg)
+
+![image](twtr_data/1545501903114555392.photo.03.jpg)
+
+---
+
+2022-07-09 01:43:14 by [EvvanPerera](https://twitter.com/EvvanPerera/status/1545501283397672960)
+
+0 videos, 1 photos
+
+```
+
+Three weeks ago there was 5 of us back on the streets reigniting a cause and reminding people despite the hardships that the struggle continues uncorrupted, undivided, unadulterated &amp; back at our closest junctions. Today we are more than 5 #GoHomeGota #July9Revolution #ProtestLK https://t.co/o7aYupjvyg
+
+```
+
+![image](twtr_data/1545501283397672960.photo.00.jpg)
+
+---
 
 2022-07-09 01:35:39 by [mar_mohamedanaa](https://twitter.com/mar_mohamedanaa/status/1545499374142119936)
 
@@ -1622,68 +1694,5 @@ We are in Thummulla. Scores of people in line to pump fuel. Majority of them wer
 ```
 
 ![image](twtr_data/1545456080725032960.photo.00.jpg)
-
----
-
-2022-07-08 22:42:49 by [Kapilan_lk](https://twitter.com/Kapilan_lk/status/1545455878660165632)
-
-0 videos, 1 photos
-
-```
-
-Had the majority Sinhala people stood against the discriminatory acts of their leaders against the minorities, the country wouldn’t have come to this state today #GoHomeGota #GoHomeGota2022 https://t.co/czXI2Lxoeh
-
-```
-
-![image](twtr_data/1545455878660165632.photo.00.jpg)
-
----
-
-2022-07-08 22:41:03 by [Don_Sanketh](https://twitter.com/Don_Sanketh/status/1545455432772321280)
-
-0 videos, 1 photos
-
-```
-
-Gota you should go now
-@UNHumanRights
-@GotabayaR
- #GoHomeGota2022 #GoHomeGota
-#HumanRightsViolations #SriLankaCrisis https://t.co/MM1pfjXUQf
-
-```
-
-![image](twtr_data/1545455432772321280.photo.00.jpg)
-
----
-
-2022-07-08 22:40:08 by [OneAahad](https://twitter.com/OneAahad/status/1545455204715630592)
-
-1 videos, 0 photos
-
-```
-
-🟢July 9 #Revolution in Sri Lanka🤝 Wakeup your Sound for our #SriLanka ඥාන වීර්ය වඩවමින රැගෙන යනු මැන ජය භූමී කරා.එක මවකගෙ දරු කැල බැවිනා .යමු යමු වී නොපමා
-
-#GoHomeGota #GoHomeRanil #GoHomeRajapaksas  #SriLankaCrisis #FuelCrisisLK #EconomicCrisisLK  #GoHomeGota2022 #lka https://t.co/dgu7RE1JJO
-
-```
-
-![image](twtr_data/1545455204715630592.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 22:39:57 by [KanishkaAbeysi1](https://twitter.com/KanishkaAbeysi1/status/1545455157579620353)
-
-0 videos, 1 photos
-
-```
-
-Yes sir..🥲
-#GoHomeGota #රටමකොළඹට #lka https://t.co/lEeDRYukK1
-
-```
-
-![image](twtr_data/1545455157579620353.photo.00.jpg)
 
 ---
