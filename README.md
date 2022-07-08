@@ -1,10 +1,67 @@
 # Social Media Photos
 
-*406 tweets as of 20220708-104406*
+*410 tweets as of 20220708-110412*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 10:59:28 by [Rasiya_Twitz](https://twitter.com/Rasiya_Twitz/status/1545278875801792513)
+
+0 videos, 1 photos
+
+```
+
+Cartoon by @RcSullan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests  #GoHomeGota https://t.co/eDjtNvRM9n
+
+```
+
+![image](https://pbs.twimg.com/media/FXHu8DLaMAEoMAt.jpg)
+
+---
+
+2022-07-08 10:50:32 by [AnupaDe](https://twitter.com/AnupaDe/status/1545276625859661825)
+
+0 videos, 1 photos
+
+```
+
+The plan for this Saturday (9th July), if I can't find transport. Packing running shoes, snacks, lunch, drinks with electrolytes and planning for multiple stops. Planning to spend the day in Colombo. Hopefully will be able to cover at least part of this in vehicles. #GoHomeGota https://t.co/iyh7ofTbhk
+
+```
+
+![image](https://pbs.twimg.com/media/FXHs5ZaUEAAmMKQ.jpg)
+
+---
+
+2022-07-08 10:44:13 by [Nilasi_J](https://twitter.com/Nilasi_J/status/1545275036193284097)
+
+0 videos, 1 photos
+
+```
+
+We either Raise our Voice Now, Or Suffer in silence for years to come!
+#GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas https://t.co/CJw7ktQpio
+
+```
+
+![image](https://pbs.twimg.com/media/FXHrcpdXgAIlPNa.jpg)
+
+---
+
+2022-07-08 10:42:54 by [BandhiniF](https://twitter.com/BandhiniF/status/1545274708270227459)
+
+1 videos, 0 photos
+
+```
+
+ජනාධිපති @GotabayaR සහ අගමැති @RW_UNP ඉල්ලා බෞද්ධ භික්ෂූන් විරෝධතාවයක්  කාර්යාලයෙන් ඉවත් වීමට. #GoHomeGota සහ #OccupyGalleFace විරෝධතාවට අදට දින 98ක් සපිරේ. https://t.co/2ksksygjQS
+
+```
+
+---
 
 2022-07-08 10:42:04 by [AddictiveAds](https://twitter.com/AddictiveAds/status/1545274496852303872)
 
@@ -1619,84 +1676,5 @@ Lets Do this!
 ![image](https://pbs.twimg.com/media/FXEr_XjaAAAKSuC.jpg)
 
 ![image](https://pbs.twimg.com/media/FXEr_XkaQAEWEBP.jpg)
-
----
-
-2022-07-07 20:41:47 by [AjJaasir](https://twitter.com/AjJaasir/status/1545063030622658566)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota
-Oh no.... I accident 😅 https://t.co/rABSF8UGhi
-
-```
-
-![image](https://pbs.twimg.com/media/FXEqox5aAAAi6H7.jpg)
-
----
-
-2022-07-07 20:33:51 by [AjJaasir](https://twitter.com/AjJaasir/status/1545061035845251073)
-
-0 videos, 4 photos
-
-```
-
-#Aragalaya
-Kotahena Getting ready for #July9th 
-Strong message sent to the President
-#GohomeGota #GoHomeRanil #GoHomeRajapaksas #EnoughIsEnough #Aragalaya #SriLankaCrisis https://t.co/hPfNyuT0eq https://t.co/oBKi83eO5T
-
-```
-
-![image](https://pbs.twimg.com/media/FXEo0sXaIAAHZI_.jpg)
-
-![image](https://pbs.twimg.com/media/FXEdy_aaIAABc00.jpg)
-
-![image](https://pbs.twimg.com/media/FXEdz7YaUAAZgqA.jpg)
-
-![image](https://pbs.twimg.com/media/FXEd08SaUAAjw2_.jpg)
-
----
-
-2022-07-07 20:11:49 by [Krys_Types](https://twitter.com/Krys_Types/status/1545055489540534273)
-
-0 videos, 4 photos
-
-```
-
-ජූලි 9, කොළබට එන්න 👇👇👇
-
-මේ දූශිත පවුල් පාලනය ඉවර කරමු!
-මේ ගෝඨා-රනිල් හවුල ඉවර කරමු!
-මේ ක්‍රමය වෙනස් කරමු! 
-
-#EndGameOn #GoHomeGota #July9 #ArrestRajapaksas #PeoplesProtestLK #EconomicCrisisLK #ReformSriLanka https://t.co/fO06u32Xlt
-
-```
-
-![image](https://pbs.twimg.com/media/FXEjI2AUUAIY601.jpg)
-
-![image](https://pbs.twimg.com/media/FXEjKQwVUAEmfLf.jpg)
-
-![image](https://pbs.twimg.com/media/FXEjLG_VEAIK1LJ.jpg)
-
-![image](https://pbs.twimg.com/media/FXEjL8yUUAAwRZy.jpg)
-
----
-
-2022-07-07 20:11:21 by [sunandadesh](https://twitter.com/sunandadesh/status/1545055374520201223)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLanka  #GoHomeRanil
-විදේශ ගමන් බලපත්‍රය ලබා ගැනීම සඳහා ආගමන විගමන දෙපාර්තමේන්තුවට පැමිණි හැටන් ප්‍රදේශයේ ගැබිණි කාන්තාවකට  කොළඹ කාසල් රෝහලේදී බිහිවූ දැරිය මිය ගොස් ඇතැයි වාර්තාවේ. https://t.co/wOrf7DCpo8
-
-```
-
-![image](https://pbs.twimg.com/media/FXEjk3hUsAIO6Wh.png)
 
 ---
