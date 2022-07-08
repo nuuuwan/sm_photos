@@ -1,10 +1,63 @@
 # Social Media Photos
 
-*806 tweets as of 20220709-044233*
+*809 tweets as of 20220709-050439*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 04:58:44 by [Abddd1999](https://twitter.com/Abddd1999/status/1545550480939847680)
+
+0 videos, 1 photos
+
+```
+
+As a Sri Lankan important day for us today! #July9 
+Violence is never the solution #May9 
+
+#Powerofthepeople
+#GoHomeGota #GoHomeRanil 
+#EnoughIsEnough #July9 https://t.co/ivD6Xy79PG
+
+```
+
+![image](twtr_data/1545550480939847680.photo.00.jpg)
+
+---
+
+2022-07-09 04:57:06 by [dreamchaser098](https://twitter.com/dreamchaser098/status/1545550071801843712)
+
+0 videos, 1 photos
+
+```
+
+We may have different religions and different languages, but we all are Sri Lankans.
+Let's raise as one.
+🔥🇱🇰
+#GoHomeGota #GoHomeRanil https://t.co/fVWVlgTE02
+
+```
+
+![image](twtr_data/1545550071801843712.photo.00.jpg)
+
+---
+
+2022-07-09 04:55:49 by [Qalbi_zm](https://twitter.com/Qalbi_zm/status/1545549747838394368)
+
+0 videos, 2 photos
+
+```
+
+#மக்களின்_பலம்
+#GoHomeGota https://t.co/rBjEV1JQPs
+
+```
+
+![image](twtr_data/1545549747838394368.photo.01.jpg)
+
+![image](twtr_data/1545549747838394368.photo.00.jpg)
+
+---
 
 2022-07-09 03:52:06 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545533713655599104)
 
@@ -1765,57 +1818,5 @@ Be a part of this and prove solidarity
 ```
 
 ![image](twtr_data/1545463046264434688.photo.00.jpg)
-
----
-
-2022-07-08 23:10:54 by [Nishadxx](https://twitter.com/Nishadxx/status/1545462947551449088)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR RN 😂👍 #SriLanka #President #GoHomeGota #GoHomeRajapaksas https://t.co/6LdEUoRgdq
-
-```
-
-![image](twtr_data/1545462947551449088.photo.00.jpg)
-
----
-
-2022-07-08 23:07:23 by [Amaliniii](https://twitter.com/Amaliniii/status/1545462061412409344)
-
-0 videos, 4 photos
-
-```
-
-Riot Police were quick to start tear-gassing today. And were excessive, as usual. You could hear 5-6 shots going off in quick succession. Into buildings nearby but also horizontally into the crowd. #lka #SriLanka #GoHomeGota https://t.co/4bNw0m0bw6
-
-```
-
-![image](twtr_data/1545462061412409344.photo.01.jpg)
-
-![image](twtr_data/1545462061412409344.photo.00.jpg)
-
-![image](twtr_data/1545462061412409344.photo.02.jpg)
-
-![image](twtr_data/1545462061412409344.photo.03.jpg)
-
----
-
-2022-07-08 23:06:49 by [LillyVictory](https://twitter.com/LillyVictory/status/1545461919473344512)
-
-0 videos, 1 photos
-
-```
-
-බඩක් ලැබුනා චිත්‍රා දෝණිට ගෙයක හිටියත් කන්දේ.. 
-
-කවද වෙනකම් ඇඳිරිනීතිය දාන් ඉන්නද නන්දේ....
-#GoHomeGota 
-#GoHomeRajapaksas https://t.co/2mANcqhwGJ
-
-```
-
-![image](twtr_data/1545461919473344512.photo.00.jpg)
 
 ---
