@@ -29,22 +29,15 @@ def download_and_save_media(tweet_info):
             ext = url.split('.')[-1]
             file_name = f'{file_prefix}.{media_type}.{i:02d}.{ext}'
 
-            tweet_info[media_type + '_file_name'] = file_name
-
             if not os.path.exists(file_name):
                 www.download_binary(url, file_name)
                 log.info(f'Downloaded {url} to {file_name}')
 
                 if media_type == 'video':
-                    video_clip_file_list = videos.extract_and_save_clips(
-                        file_name
-                    )
-                    tweet_info['video_clip_file_list'] = video_clip_file_list
+                    videos.extract_and_save_clips(file_name)
 
             else:
                 log.info(f'{file_name} exists. Not downloading')
-
-    return tweet_info
 
 
 def download_and_save_data(tweet_info):
@@ -54,5 +47,5 @@ def download_and_save_data(tweet_info):
 
 
 def download_and_save(tweet_info):
-    expanded_tweet_info = download_and_save_media(tweet_info)
-    download_and_save_data(expanded_tweet_info)
+    download_and_save_media(tweet_info)
+    download_and_save_data(tweet_info)
