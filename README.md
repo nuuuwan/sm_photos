@@ -1,10 +1,127 @@
 # Social Media Photos
 
-*413 tweets as of 20220708-114315*
+*420 tweets as of 20220708-121043*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 12:06:04 by [loku_mahathaya](https://twitter.com/loku_mahathaya/status/1545295635166875650)
+
+0 videos, 1 photos
+
+```
+
+People finding new way of transportation these days 😩
+
+#GoHomeGota #GoHomeRanil #SriLankaCrisis https://t.co/Va00T7e3O7
+
+```
+
+![image](https://pbs.twimg.com/media/FXH-LqCaMAAJno0.jpg)
+
+---
+
+2022-07-08 12:05:46 by [Amaliniii](https://twitter.com/Amaliniii/status/1545295561980465152)
+
+0 videos, 4 photos
+
+```
+
+The journalists, protestors, dissenters killed during both Rajapaksa regimes අනේ the people dying in queues or of hunger while 'Ranil Rajapaksa'* laughs.
+
+*phrase courtesy @exfrotezter #lka #SriLanka #GoHomeGota https://t.co/UjEd5Jkk4r
+
+```
+
+![image](https://pbs.twimg.com/media/FXH-CoRVQAAlJJa.jpg)
+
+![image](https://pbs.twimg.com/media/FXH-EEtVUAA2bxw.jpg)
+
+![image](https://pbs.twimg.com/media/FXH-Fg9UIAM174E.jpg)
+
+![image](https://pbs.twimg.com/media/FXH-G_vUsAAOFCd.jpg)
+
+---
+
+2022-07-08 12:02:49 by [ChalanaJD](https://twitter.com/ChalanaJD/status/1545294818385035264)
+
+0 videos, 1 photos
+
+```
+
+Who needs Netflix when we have our own source of entertainment 😂
+
+#GoHomeGota #SriLanka #SriLankaEconomicCrisis #EconomicCrisisLK #lka https://t.co/HnhNuAdXod
+
+```
+
+![image](https://pbs.twimg.com/media/FXH9NTLXoAAXW9h.jpg)
+
+---
+
+2022-07-08 12:02:09 by [Amaliniii](https://twitter.com/Amaliniii/status/1545294652265246721)
+
+0 videos, 1 photos
+
+```
+
+'For the fight to chase them out, let's come to Colombo on the 9th' - scenes from a protest organised by the Young Journalists' Association at Lipton Circus yesterday. #lka #SriLanka #GoHomeGota https://t.co/wtXv4G1fqj
+
+```
+
+![image](https://pbs.twimg.com/media/FXH9SuIVQAANAIN.jpg)
+
+---
+
+2022-07-08 11:59:27 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1545293972787974145)
+
+0 videos, 2 photos
+
+```
+
+වෙන මිනිස්සු කූඩු වෙන්න කැමති නෑ ඒකට මේ මිනිහා කැමැත්තෙන්ම කූඩු වෙනවා
+පහළ මෙව්වා එක ගණන් ගන්න එපා ඇමරිකන් බුල්ඩොග් කෙනෙක් කූඩු කරන්න හදපු සැලැස්මක් 😅
+සිතියම් පින්තුරේ ගත්තේ @iamBharatha අයියාගෙන් 💝
+#lka #SriLankaCrisis #GoHomeGota
+#July9th https://t.co/950lbvju8D
+
+```
+
+![image](https://pbs.twimg.com/media/FXH8qx8VQAERAcI.jpg)
+
+![image](https://pbs.twimg.com/media/FXH8rNRUEAMUmo3.jpg)
+
+---
+
+2022-07-08 11:55:04 by [NishiTwt](https://twitter.com/NishiTwt/status/1545292865823117312)
+
+0 videos, 1 photos
+
+```
+
+#PeacefulProtest #ProtestPeacefully #GoHomeGota2022 #GoHomeGota #GotaGoHome2022 #GotaGoHome #EndGame #PeopleProtest #SriLankaProtests #SaftyFirst #TearGas 
+@lancekmuller https://t.co/6jJ8RpzQjN
+
+```
+
+![image](https://pbs.twimg.com/media/FXH7qqVakAAyzlv.jpg)
+
+---
+
+2022-07-08 11:52:43 by [NishiTwt](https://twitter.com/NishiTwt/status/1545292275541979136)
+
+0 videos, 1 photos
+
+```
+
+#PeacefulProtest #ProtestPeacefully #GoHomeGota2022 #GoHomeGota #GotaGoHome2022 #GotaGoHome #EndGame #PeopleProtest #SriLankaProtests #SaftyFirst #TearGas https://t.co/YdVXLnExTI
+
+```
+
+![image](https://pbs.twimg.com/media/FXH7IVMaMAAxl9J.jpg)
+
+---
 
 2022-07-08 11:40:01 by [mohamedrizi275](https://twitter.com/mohamedrizi275/status/1545289078303870980)
 
@@ -1558,124 +1675,5 @@ Srilanka president will be resign on 9 of July?Sri Lanka president asks Russia�
 ![image](https://pbs.twimg.com/media/FXFBy87XgAIIHfp.jpg)
 
 ![image](https://pbs.twimg.com/media/FXFBzLsXwAAHjWE.jpg)
-
----
-
-2022-07-07 22:11:31 by [DanulaDilanga](https://twitter.com/DanulaDilanga/status/1545085615682662400)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka #SriLankaProtests #GoHomeGota #අරගලයටජය https://t.co/Cb5UDjhGPh
-
-```
-
-![image](https://pbs.twimg.com/media/FXE_LciWQAIg7Ao.jpg)
-
----
-
-2022-07-07 22:06:24 by [Economynext](https://twitter.com/Economynext/status/1545084328933085184)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka court rejects #police request to prevent #protest amid massive agitation plan
-
-#EconomicCrisisLK #ProtestLK #GoHomeGota #Aragalaya #CourtOrder #SLPolice 
-
-https://t.co/yairtzNWlz https://t.co/tXnb3XtqXt
-
-```
-
-![image](https://pbs.twimg.com/media/FXE9cjzUsAAkA8t.jpg)
-
----
-
-2022-07-07 21:59:59 by [Economynext](https://twitter.com/Economynext/status/1545082711903125505)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka government suspends #fuel for #health workers ahead of #protest to oust #President, #PrimeMinister 
-
-#EconomicCrisisLK #ProtestLK #GoHomeGota #OccupyGalleFace #Aragalaya #FuelCrisisLK #HealthWorkers #Gotabaya #Ranil @RW_UNP @GotabayaR 
-
-https://t.co/hWIfgfRSTB https://t.co/bNEnquSxX5
-
-```
-
-![image](https://pbs.twimg.com/media/FXE6mg3UIAE4EhG.jpg)
-
----
-
-2022-07-07 21:53:23 by [pangiri12](https://twitter.com/pangiri12/status/1545081050203693056)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota 🙏🙏🙏 https://t.co/n3t4SqVFV4
-
-```
-
-![image](https://pbs.twimg.com/media/FXE7BiDaIAACJ70.jpg)
-
----
-
-2022-07-07 21:44:47 by [sohan_vipul](https://twitter.com/sohan_vipul/status/1545078888534982662)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/ki2Yq6X5iA
-
-```
-
-![image](https://pbs.twimg.com/media/FXE5DqFUEAARgvt.jpg)
-
----
-
-2022-07-07 21:16:13 by [SriLives](https://twitter.com/SriLives/status/1545071697166045187)
-
-0 videos, 2 photos
-
-```
-
-READY TO PROTECT YOURSELF FROM TEARGAS &amp; OTHER CHEMICALS.
-රටම කොළඹට 
-9th OF JULY 2022
-#GoHomeGota
-#GoHomeGota2022
-#Gotagogama_London
-#gotagogama
-#SriLankaCrisis 
-#gohomeranil
-#pannamu 
-Read more about protecting yourself ..!
-https://t.co/0twwIOrD4O https://t.co/1Iflpu1ze3
-
-```
-
-![image](https://pbs.twimg.com/media/FXEyhMOXgAEYEgL.jpg)
-
-![image](https://pbs.twimg.com/media/FXEyhMQWIAAxcPC.jpg)
-
----
-
-2022-07-07 21:11:57 by [bambarawanage](https://twitter.com/bambarawanage/status/1545070625378680833)
-
-1 videos, 0 photos
-
-```
-
-ජූලි 9 ට ජවය අරන්, 
-අන්තරේ එනවා ජූලි 8 කොලඹට....
-#GoHomeGota #lka #sl https://t.co/US9c7i71Cx
-
-```
 
 ---
