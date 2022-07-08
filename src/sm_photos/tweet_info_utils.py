@@ -24,7 +24,8 @@ def organize_media(file_only_list):
 def get_id_to_media(tweet_info_list):
     id_to_file_only_list = {}
     for file_only in os.listdir(DIR_TWTR_DATA):
-        id = file_only.partition('.')[0]
+        id = file_only.replace('twtr_data/', '').partition('.')[0]
+
         if id not in id_to_file_only_list:
             id_to_file_only_list[id] = []
 
