@@ -1,10 +1,318 @@
 # Social Media Photos
 
-*362 tweets as of 20220708-073632*
+*381 tweets as of 20220708-083754*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 08:35:30 by [AddictiveAds](https://twitter.com/AddictiveAds/status/1545242643827138561)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GoHomeGota2022 #MentalMayhem #JeremyMuller #TheJamFruitTree https://t.co/PsZ0IccGUz
+
+```
+
+![image](https://pbs.twimg.com/media/FXHN_mRaUAAPCsy.jpg)
+
+---
+
+2022-07-08 08:32:55 by [NomicOli](https://twitter.com/NomicOli/status/1545241994565455874)
+
+0 videos, 1 photos
+
+```
+
+ස'. ඇහෙනවද, බැරිනම් යන්න
+
+රටේ අනාගතය ඔබ අමතනවා
+#SriLanka 
+#SriLankaEconomicCrisis 
+#GoHomeGota 
+🇱🇰❤️‍🩹❤️‍🩹❤️‍🩹❤️‍🩹 https://t.co/0ReaK6a0TT
+
+```
+
+![image](https://pbs.twimg.com/media/FXHNZ55WIAEvcVh.jpg)
+
+---
+
+2022-07-08 08:28:15 by [ami_anonymous](https://twitter.com/ami_anonymous/status/1545240822144434176)
+
+0 videos, 4 photos
+
+```
+
+Cotton Panties for Women Waist Cross Design Sexy Underwear Intimates Lingerie Female Panties Solid Color Briefs Soft Girls Panty
+Learn More&gt;&gt; https://t.co/dvTAxGar4T
+#cotton #underwearparty #Girls #Beast
+#GoHomeGota
+#SLvAUS
+#tellonym
+#TheBoysFinale
+#ThorLoveAndThunder
+hirunika https://t.co/f1Hm2KcDBv
+
+```
+
+![image](https://pbs.twimg.com/media/FXHMUyuagAE9Pvq.jpg)
+
+![image](https://pbs.twimg.com/media/FXHMUyvaAAAnRIu.jpg)
+
+![image](https://pbs.twimg.com/media/FXHMUy5aMAEpOI7.jpg)
+
+![image](https://pbs.twimg.com/media/FXHMUyvagAEE-gn.jpg)
+
+---
+
+2022-07-08 08:26:30 by [lathakesi2](https://twitter.com/lathakesi2/status/1545240382383853569)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 
+ மாறாத நியதிகளை மாற்றி அமைப்போம் https://t.co/nzDOlLEmZu
+
+```
+
+![image](https://pbs.twimg.com/media/FXHL7u0XoAIzhsU.jpg)
+
+---
+
+2022-07-08 08:16:48 by [KalhanRan](https://twitter.com/KalhanRan/status/1545237938941767680)
+
+0 videos, 1 photos
+
+```
+
+University students will lead a large protest march today calling for the resignation of the Gota-Ranil government. 
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #PritestLK #GoHomeGota https://t.co/Y8MxQAMdLm https://t.co/I2RDoy0oDq
+
+```
+
+![image](https://pbs.twimg.com/media/FXHJtaZUcAA2Igj.jpg)
+
+---
+
+2022-07-08 08:14:17 by [CWariyagoda](https://twitter.com/CWariyagoda/status/1545237307061862400)
+
+0 videos, 1 photos
+
+```
+
+The Key of chasing out crooks ! #GoHomeGota #SriLanka #aragalayatajaya https://t.co/YJ0HvgLFlZ
+
+```
+
+![image](https://pbs.twimg.com/media/FXHI2iyaUAECS-h.jpg)
+
+---
+
+2022-07-08 08:13:54 by [LenaduweL](https://twitter.com/LenaduweL/status/1545237210747719680)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/JMElSGHP84
+
+```
+
+![image](https://pbs.twimg.com/media/FXHJDefVEAE3Hx3.jpg)
+
+---
+
+2022-07-08 08:11:55 by [HRDSanjei](https://twitter.com/HRDSanjei/status/1545236708936929285)
+
+0 videos, 1 photos
+
+```
+
+One more day. #GoHomeGota2022 #GoHomeGota #GoHomeRajapaksas https://t.co/qNhoCurVc4
+
+```
+
+![image](https://pbs.twimg.com/media/FXHIl0CXwAMOVz8.jpg)
+
+---
+
+2022-07-08 08:10:42 by [venurath1](https://twitter.com/venurath1/status/1545236404283707393)
+
+0 videos, 1 photos
+
+```
+
+#gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #GoHomeGota2022 https://t.co/YGYXIM2HpL
+
+```
+
+![image](https://pbs.twimg.com/media/FXHIQ-MVEAAENJJ.jpg)
+
+---
+
+2022-07-08 08:09:47 by [venurath1](https://twitter.com/venurath1/status/1545236173223706625)
+
+0 videos, 1 photos
+
+```
+
+ජුලී 9 කොළඹට #gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #GoHomeGota2022 https://t.co/EUlSBhBtjd
+
+```
+
+![image](https://pbs.twimg.com/media/FXHH_LMUUAAWBjh.jpg)
+
+---
+
+2022-07-08 08:09:05 by [venurath1](https://twitter.com/venurath1/status/1545235995385163776)
+
+0 videos, 1 photos
+
+```
+
+#gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #gohomegota2022 https://t.co/Rtz1qOVs9P
+
+```
+
+![image](https://pbs.twimg.com/media/FXHGloYUsAEfD5t.png)
+
+---
+
+2022-07-08 08:07:24 by [karvindass](https://twitter.com/karvindass/status/1545235571617935360)
+
+0 videos, 1 photos
+
+```
+
+Washington #GoHomeGota Protest @ 3025 Whitehaven St NW (Sri Lankan Embassy) at 12pm, #July9th  FB Event link with contact info: https://t.co/rprkmbnWno 4/6 https://t.co/10TeeEJPwo
+
+```
+
+![image](https://pbs.twimg.com/media/FXHEKzUUEAAiOW7.jpg)
+
+---
+
+2022-07-08 08:07:24 by [karvindass](https://twitter.com/karvindass/status/1545235575531192321)
+
+0 videos, 1 photos
+
+```
+
+Phoenix (Motorcade) #GoHomeGota Protest @ Grant Street West of Seventh Avenue at 4pm, #July9th  FB Event link with contact info: https://t.co/V3iPuUUvgP 5/6 https://t.co/D7x9CsYFFP
+
+```
+
+![image](https://pbs.twimg.com/media/FXHE-sRUsAA5FTH.jpg)
+
+---
+
+2022-07-08 08:07:23 by [karvindass](https://twitter.com/karvindass/status/1545235568044347392)
+
+0 videos, 1 photos
+
+```
+
+Chicago (Warrenville) #GoHomeGota Protest @ Blackwell Forest Preserve Park, Butterfield Rd, Warrenville at 9:30am, #July9th  FB Event link with contact info: https://t.co/48flzOhflY 3/6 https://t.co/X114VM97Eh
+
+```
+
+![image](https://pbs.twimg.com/media/FXHDv0FUcAAFki8.jpg)
+
+---
+
+2022-07-08 08:07:22 by [karvindass](https://twitter.com/karvindass/status/1545235563971678209)
+
+0 videos, 1 photos
+
+```
+
+Staten Island  #GoHomeGota Protest @ 10 Richmond Terrace, Borough Hall (In front of ferry terminal exit) at 3pm, #July9th. FB Event link with contact info: https://t.co/ceKxCbu6L8 2/6 https://t.co/IVKjZZo09r
+
+```
+
+![image](https://pbs.twimg.com/media/FXHDiRLVUAAAVga.jpg)
+
+---
+
+2022-07-08 08:04:27 by [ami_anonymous](https://twitter.com/ami_anonymous/status/1545234829679407104)
+
+0 videos, 4 photos
+
+```
+
+Salad Food Processor With Ice Cream Function For Frozen Fruit Fruit Vegetable Shredding Slicing And Potato Mashing Sonifer. 
+Learn More&gt;&gt; https://t.co/R1jEnPYENK
+#Beast #Salad #FuelCrisisLK #GoHomeGota
+#KinnPorscheTheseries #SLvAUS #tellonym
+#TheBoysFinale #ThorLoveAndThunder https://t.co/JTQMV0JYJJ
+
+```
+
+![image](https://pbs.twimg.com/media/FXHGQVsacAAqZ5p.jpg)
+
+![image](https://pbs.twimg.com/media/FXHGQVuakAAVxUF.png)
+
+![image](https://pbs.twimg.com/media/FXHGQV2agAE8fRG.png)
+
+![image](https://pbs.twimg.com/media/FXHGQV3acAA7dUa.png)
+
+---
+
+2022-07-08 07:51:11 by [ambikasat](https://twitter.com/ambikasat/status/1545231491365421056)
+
+0 videos, 3 photos
+
+```
+
+#GoHomeGota #GoHomeRanil 
+
+As ppl prepare to protest on 9 July, sharing a community safety toolkit prepared in response to protests in US. Has helpful tips, eg, how to deal with teargas &amp; verbal de-escalation strategies. Thanks to @yalinidream for sharing.
+https://t.co/bHrWN08BdX https://t.co/IGVDnH6WXm
+
+```
+
+![image](https://pbs.twimg.com/media/FXHD2EWX0AE0kxd.jpg)
+
+![image](https://pbs.twimg.com/media/FXHD2EUWAAAS3Ei.jpg)
+
+![image](https://pbs.twimg.com/media/FXHD2ERXkAMuOv8.jpg)
+
+---
+
+2022-07-08 07:44:56 by [Thinoshan12](https://twitter.com/Thinoshan12/status/1545229918375518208)
+
+1 videos, 0 photos
+
+```
+
+✊ We Together on 9th✊
+
+#GoHomeGota #SriLankaCrisis #GoHomeRajapaksas #Aragalaya_ta_Jayawewa ✊ https://t.co/sYbc0IAoEz
+
+```
+
+---
+
+2022-07-08 07:44:00 by [OneAahad](https://twitter.com/OneAahad/status/1545229683553439749)
+
+0 videos, 2 photos
+
+```
+
+#SL Rulers Destroying #SriLanka . Our Motherland is Crying 😢do you feel it ?Let's wakeup  sound on July 9 to Save Our Sri Lanka.
+#GoHomeGota #GoHomeRanil  #EnoughIsEnough #Aragalaya #SriLankaCrisis #FuelCrisisLK #EconomicCrisisLK  #srilankanpoliticalcrisis #GoHomeGota2022 https://t.co/MPQNCka7k4
+
+```
+
+![image](https://pbs.twimg.com/media/FXGVDBUUYAA0csE.jpg)
+
+![image](https://pbs.twimg.com/media/FXGVERoUYAAWL3A.png)
+
+---
 
 2022-07-08 07:17:35 by [cartoonlka](https://twitter.com/cartoonlka/status/1545223038068658176)
 
@@ -1304,273 +1612,5 @@ See you on the 09th
 ```
 
 ![image](https://pbs.twimg.com/media/FXD0bF_aIAE_FjJ.jpg)
-
----
-
-2022-07-07 16:00:01 by [munza14](https://twitter.com/munza14/status/1544992123551752198)
-
-0 videos, 1 photos
-
-```
-
-Captured at the #GotaGoGama last month when on an assignment and there wasn't much of a crowd.
-Just two more days for July 9th... Wonder what's in store for Sri Lanka 🤞
-#LKA #SriLanka #GoHomeGota #Aragalaya https://t.co/4wna2c3aJQ
-
-```
-
-![image](https://pbs.twimg.com/media/FXDqI7OVsAAfjjV.jpg)
-
----
-
-2022-07-07 15:59:29 by [buwaneka_perera](https://twitter.com/buwaneka_perera/status/1544991991247024128)
-
-1 videos, 0 photos
-
-```
-
-පෙර පවකින් අපේ
-මෙහෙම රටක උපත ලබා වී 😥💔
-#SriLankaCrisis #GoHomeGota https://t.co/fnaR2jJ4jP
-
-```
-
----
-
-2022-07-07 15:58:05 by [Nadeeka_Ind](https://twitter.com/Nadeeka_Ind/status/1544991637167673344)
-
-1 videos, 0 photos
-
-```
-
-එකතුවෙලා පන්නමු . ජූලි 09 රටම කොළඹට .
-@GotabayaR
-@RW_UNP
-#NotMyPresident 
-#GoHomeGota2022
-#GoHomeRanil #PoliticalCrisisLK 
-#GoHomeGota 
-#GoHomeRajapakshas https://t.co/w7p74nCUby
-
-```
-
----
-
-2022-07-07 15:48:39 by [CJChathura](https://twitter.com/CJChathura/status/1544989261409107968)
-
-0 videos, 1 photos
-
-```
-
-නම්බු ඇතුව අයින් වෙනවා! අපේ නාකි හැලයා නම් මැරුණත් ඔය පුටුව දාලා යන්නේ නෑ
-
-#GoHomeRajapaksas #GoHomeGota #GoHomeRanil #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #HumanRightsViolations https://t.co/Z28uwJacWd
-
-```
-
-![image](https://pbs.twimg.com/media/FXDnikxXwAEHiAH.jpg)
-
----
-
-2022-07-07 15:45:36 by [pcplustech](https://twitter.com/pcplustech/status/1544988495340777473)
-
-0 videos, 1 photos
-
-```
-
-පුක දෙන සෙට් එක එන්න.... දේවේෂ බන්දුත් හිටියනම් හොදයි.... #GoHomeGota @GotabayaR #බියගුලුගෝඨා https://t.co/ISzsdNQ27J
-
-```
-
-![image](https://pbs.twimg.com/media/FXDm2QkaMAAqS_d.jpg)
-
----
-
-2022-07-07 15:23:12 by [DmiAlucar](https://twitter.com/DmiAlucar/status/1544982857604820992)
-
-0 videos, 1 photos
-
-```
-
-A tourist family rolls into BIA with their own mode of transport. 
-Thank you to the tourists and a big F U for Nandasena and Ranil. 
-#GoHomeGota #GoHomeRanil #FuelCrisisLK #EconomicCrisisLK https://t.co/RSlz0KDH8G
-
-```
-
-![image](https://pbs.twimg.com/media/FXDhBWZaQAEGB3m.png)
-
----
-
-2022-07-07 15:15:09 by [Economynext](https://twitter.com/Economynext/status/1544980834309918721)
-
-0 videos, 4 photos
-
-```
-
-Buddhist monks protest demanding the President @GotabayaR and Prime Minister @RW_UNP to leave office. Today marks 98 days since the #GoHomeGota and #OccupyGalleFace protest. #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #Colombo https://t.co/URCQffa2hc
-
-```
-
-![image](https://pbs.twimg.com/media/FXDfzk8WAAAkBYm.jpg)
-
-![image](https://pbs.twimg.com/media/FXDf1IUWAAQlQd8.jpg)
-
-![image](https://pbs.twimg.com/media/FXDf2JeXwAEPtcn.jpg)
-
-![image](https://pbs.twimg.com/media/FXDf3Y4XoAA5y0t.jpg)
-
----
-
-2022-07-07 15:06:49 by [realChamith](https://twitter.com/realChamith/status/1544978737409806337)
-
-0 videos, 3 photos
-
-```
-
-ගාලු විරෝධය.
-
-#Galle #GoHomeGota https://t.co/AlBemla9WP
-
-```
-
-![image](https://pbs.twimg.com/media/FXDd9U5WQAAfld1.jpg)
-
-![image](https://pbs.twimg.com/media/FXDd9U6XoAAos_K.jpg)
-
-![image](https://pbs.twimg.com/media/FXDd9U8WAAA4bxH.jpg)
-
----
-
-2022-07-07 14:49:13 by [ChehanSiva](https://twitter.com/ChehanSiva/status/1544974305997766661)
-
-1 videos, 0 photos
-
-```
-
-@elonmusk you should hire this guys to @SpaceX , he is capable of providing zero cost space travel. 😄
-
-#GoHomeGota #GoHomeGota2022 https://t.co/olf9E15fn0
-
-```
-
----
-
-2022-07-07 14:48:16 by [BandhiniF](https://twitter.com/BandhiniF/status/1544974065395503105)
-
-1 videos, 0 photos
-
-```
-
-A pregnant mother has gone into labour, while waiting in the queue at the Department of Immigration &amp; Emigration in Battaramulla. 
-#EconomicCrisisLK #GoHomeGota https://t.co/tEeFWF8CxN
-
-```
-
----
-
-2022-07-07 14:39:33 by [CseJunkie](https://twitter.com/CseJunkie/status/1544971875058536448)
-
-0 videos, 1 photos
-
-```
-
-See you all tomorrow. Let us all take a stand against this failed administration 
-#GoHomeGota
-#පලනන්දෙගෙදර https://t.co/zQ93GhevB3
-
-```
-
-![image](https://pbs.twimg.com/media/FXDXudhXwAA_Ft6.jpg)
-
----
-
-2022-07-07 14:39:10 by [IjazDil1](https://twitter.com/IjazDil1/status/1544971776693702657)
-
-0 videos, 1 photos
-
-```
-
-Are You Ready? 
-
-#GoHomeGota #GoHomeRanil https://t.co/gB5uH1gfCG
-
-```
-
-![image](https://pbs.twimg.com/media/FXDXnBqVUAAF57j.jpg)
-
----
-
-2022-07-07 14:33:09 by [MimiWdf](https://twitter.com/MimiWdf/status/1544970264269967360)
-
-0 videos, 1 photos
-
-```
-
-Apple ≈ 418 rupees 
-An Apple a day will keep 418 rs per day away 🙄🙄🙄. Guess that's the last apple I'm going to consume for a while
-#lka #srilanka #EconomicCrisisLK #FuelCrisisLK #GoHomeGota #inflation https://t.co/fswp1s3p41
-
-```
-
-![image](https://pbs.twimg.com/media/FXDWRAMaMAA87gR.jpg)
-
----
-
-2022-07-07 14:26:40 by [akakawwa](https://twitter.com/akakawwa/status/1544968633134157824)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota 
-#GoHomeRanil 
-📍Galle https://t.co/7kWlDg0880
-
-```
-
-![image](https://pbs.twimg.com/media/FXDUyHiUUAAi8Hh.jpg)
-
----
-
-2022-07-07 14:25:32 by [finityfund](https://twitter.com/finityfund/status/1544968345010589697)
-
-1 videos, 0 photos
-
-```
-
-Road is under control by The TukTuk Warriors. 🛺
-
-#SriLankaEconomicCrisis #SriLanka #SriLankaProtests #GoHomeRanil #GoHomeGota https://t.co/a9hQxhDNha
-
-```
-
----
-
-2022-07-07 14:24:41 by [MaheshNegombo](https://twitter.com/MaheshNegombo/status/1544968133584203776)
-
-0 videos, 1 photos
-
-```
-
-ලෝකල් ලී ක්වාන් යූ යි, මහතීරුයි blend කරල දියුණුවෙන් දියුණුවට පත්වෙච්ච ‍රටේ දැන් එදිනෙදා ඇහෙන නිව්ස්.... 
-
-#gohomegota https://t.co/JdvTPiaAYj
-
-```
-
-![image](https://pbs.twimg.com/media/FXDUU7xVQAArfEN.jpg)
-
----
-
-2022-07-07 14:21:35 by [NimeshPansilu](https://twitter.com/NimeshPansilu/status/1544967351644196866)
-
-1 videos, 0 photos
-
-```
-
-we are responsible to re create our mother land ❤️‍🩹🇱🇰 #GoHomeGota #GoHomeGota2022 #GoHomeRajapaksas #itshappening https://t.co/3bzuS00c6m
-
-```
 
 ---
