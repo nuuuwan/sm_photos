@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*765 tweets as of 20220709-003929*
+*767 tweets as of 20220709-010258*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 00:57:55 by [jiyasond](https://twitter.com/jiyasond/status/1545489880301867009)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota Time to change https://t.co/G31pdPFA1n
+
+```
+
+![image](twtr_data/1545489880301867009.photo.00.jpg)
+
+---
+
+2022-07-09 00:44:26 by [arunieshy](https://twitter.com/arunieshy/status/1545486484446121984)
+
+0 videos, 1 photos
+
+```
+
+Oh well, top 2 apps in Lanka rn 💁🏻‍♀️ 
+
+#GoHomeGota #AragalayataJaya https://t.co/x1wKaoQatq
+
+```
+
+![image](twtr_data/1545486484446121984.photo.00.jpg)
+
+---
 
 2022-07-09 00:36:24 by [AnjanaKalindu8](https://twitter.com/AnjanaKalindu8/status/1545484463848755200)
 
@@ -1646,44 +1676,5 @@ Source: https://t.co/kFjX6mU48z
 ```
 
 ![image](twtr_data/1545450168648347648.photo.00.jpg)
-
----
-
-2022-07-08 22:19:23 by [EvilSavior7](https://twitter.com/EvilSavior7/status/1545449981867597825)
-
-0 videos, 1 photos
-
-```
-
-ජූලි 9, අපි කොළඹට! 
-
-#අරගලයටජය✊ #GoHomeGota #ArrestRajapaksas #EconomicCrisisLK #ReformSriLanka https://t.co/yPlrganJrx
-
-```
-
-![image](twtr_data/1545449981867597825.photo.00.jpg)
-
----
-
-2022-07-08 22:18:45 by [randima_dilshan](https://twitter.com/randima_dilshan/status/1545449824828370949)
-
-0 videos, 2 photos
-
-```
-
-⭕ 74 වසරක දූෂිත දේශපාලනය අවසන් කරමු !
-
-⭕හෙට ( ජූලි 9 ) කොල්ලුපිටිය SLIIT Metro Campus එක ඉදිරිපිටට අපිත් එක්වෙමු .....👊🏻
-
-#sliit 
-#GoHomeGota 
-#SriLankaCrisis 
-#GoHomeRajapaksha https://t.co/TdJueUX6v5
-
-```
-
-![image](twtr_data/1545449824828370949.photo.01.jpg)
-
-![image](twtr_data/1545449824828370949.photo.00.jpg)
 
 ---
