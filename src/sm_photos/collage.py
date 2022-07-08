@@ -28,10 +28,8 @@ def build_collage():
     image_collage.save(collage_file)
     log.info(f'Wrote {n} images to {collage_file}')
 
-    for f_resize in [2, 4]:
-        width, height = (int)(dim * WIDTH / f_resize), (int)(
-            dim * HEIGHT / f_resize
-        )
+    for width in [640, 1280, 2560]:
+        height = (int)(width * 9 / 16)
         image_resized = image_collage.resize((width, height))
 
         collage_resized_file = os.path.join(DIR_DATA, f'collage-{width}x.png')
