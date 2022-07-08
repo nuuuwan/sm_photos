@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/MoulanaAmjad/status/1545436771588050944",
+  "id": 1545436771588050944,
+  "user": "MoulanaAmjad",
+  "time_create_ut": 1657295813,
+  "text": "Curfew? What curfew? \n\n#GoHomeGota https://t.co/AB87K5waZE",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545436706047942656/pu/vid/720x1280/5qePUmVZOTQ49iOX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545436771588050944.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545436771588050944.video.00.mp4.clip.00.png"
+  ]
+}

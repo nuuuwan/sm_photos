@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/umaadias/status/1545434616265199617",
+  "id": 1545434616265199617,
+  "user": "umaadias",
+  "time_create_ut": 1657295299,
+  "text": "Let's end this \u270b \n\n#GoHomeGota #GoHomeRajapakshas \n#GoHomeRanil https://t.co/McpMFDcp1V",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545434570832908288/pu/vid/320x564/4gX3eC9XuW6xT2_n.mp4"
+  ],
+  "video_file_name": "twtr_data/1545434616265199617.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545434616265199617.video.00.mp4.clip.00.png"
+  ]
+}

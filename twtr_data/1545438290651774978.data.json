@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/heavybstyles/status/1545438290651774978",
+  "id": 1545438290651774978,
+  "user": "heavybstyles",
+  "time_create_ut": 1657296176,
+  "text": "RT @MoulanaAmjad: Curfew? What curfew? \n\n#GoHomeGota https://t.co/Em6tvy5jnO",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545436706047942656/pu/vid/720x1280/5qePUmVZOTQ49iOX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545438290651774978.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545438290651774978.video.00.mp4.clip.00.png"
+  ]
+}
