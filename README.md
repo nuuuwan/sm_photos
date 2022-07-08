@@ -1,10 +1,56 @@
 # Social Media Photos
 
-*790 tweets as of 20220709-030259*
+*793 tweets as of 20220709-032622*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 03:18:09 by [Mohmdfahri](https://twitter.com/Mohmdfahri/status/1545525170286182403)
+
+0 videos, 1 photos
+
+```
+
+#SriLankaCrisis #SriLankaEconomicCrisis #curfew #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/Yd0in2HIPN
+
+```
+
+![image](twtr_data/1545525170286182403.photo.00.jpg)
+
+---
+
+2022-07-09 03:06:16 by [sheni131](https://twitter.com/sheni131/status/1545522179898744832)
+
+0 videos, 1 photos
+
+```
+
+Today is the day!
+
+#GoHomeGota #රටමකොළඹට #අරගලයටජය https://t.co/Pk54gTaujy
+
+```
+
+![image](twtr_data/1545522179898744832.photo.00.jpg)
+
+---
+
+2022-07-09 03:01:48 by [sheni131](https://twitter.com/sheni131/status/1545521053300322304)
+
+0 videos, 1 photos
+
+```
+
+POLICE CURFEW!!!
+
+Is that even a thing? #GoHomeGota https://t.co/MJgGZrISuz
+
+```
+
+![image](twtr_data/1545521053300322304.photo.00.jpg)
+
+---
 
 2022-07-09 02:46:07 by [sanduabey](https://twitter.com/sanduabey/status/1545517109001695232)
 
@@ -1658,50 +1704,5 @@ Eww
 ```
 
 ![image](twtr_data/1545458337256333312.photo.00.jpg)
-
----
-
-2022-07-08 22:51:59 by [sunandadesh](https://twitter.com/sunandadesh/status/1545458187914059781)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLanka  #GoHomeRanil  
-BASL expresses strong protest at the imposition of so-called Police curfew! https://t.co/eEfJQW7VnH
-
-```
-
-![image](twtr_data/1545458187914059781.photo.00.jpg)
-
----
-
-2022-07-08 22:50:04 by [priyatharshan1](https://twitter.com/priyatharshan1/status/1545457702616326144)
-
-1 videos, 0 photos
-
-```
-
-#Curfew  ?  
-
-#GoHomeGota #lka #SriLankaCrisis #SriLanka #SriLankaCrisis #SriLankaProtests https://t.co/C94ry0AICh
-
-```
-
-![image](twtr_data/1545457702616326144.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 22:50:03 by [KamikazeJapan5](https://twitter.com/KamikazeJapan5/status/1545457701018226688)
-
-0 videos, 1 photos
-
-```
-
-Bar Association of Sri Lanka has condemned the declaration of police curfew in parts of the Western Province, and calls for its withdrawal. BASL has also questioned IGP as to what law was used to impose this curfew. #LKA #SriLanka #GoHomeGota #SriLankaCrisis #EconomicCrisisLK https://t.co/qWUA3QEUub
-
-```
-
-![image](twtr_data/1545457701018226688.photo.00.jpg)
 
 ---
