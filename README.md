@@ -1,10 +1,37 @@
 # Social Media Photos
 
-*353 tweets as of 20220708-054614*
+*354 tweets as of 20220708-060742*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 06:04:45 by [SriLives](https://twitter.com/SriLives/status/1545204709018959877)
+
+0 videos, 4 photos
+
+```
+
+Internationally Sri-Lankans join the protest with solidarity රටම කොළඹට 9th &amp; 10 OF July 2022
+#GoHomeGota
+#GoHomeGota2022
+#Gotagogama_London
+#gotagogama
+#SriLankaCrisis 
+#gohomeranil
+#pannamu https://t.co/4k783hQfjq
+
+```
+
+![image](https://pbs.twimg.com/media/FXGrfc4X0AE5kHf.jpg)
+
+![image](https://pbs.twimg.com/media/FXGrfc7WYAA6yo3.jpg)
+
+![image](https://pbs.twimg.com/media/FXGrfc6XkAEeNZe.jpg)
+
+![image](https://pbs.twimg.com/media/FXGrfc7XEAcM8nC.jpg)
+
+---
 
 2022-07-08 05:07:29 by [ABagthathi](https://twitter.com/ABagthathi/status/1545190297248083968)
 
@@ -1535,23 +1562,5 @@ Let’s raise our voices against injustice! Let’s wake up and stop our country
 ```
 
 ![image](https://pbs.twimg.com/media/FXDEWR6XEAAB_Ao.jpg)
-
----
-
-2022-07-07 13:12:56 by [EvilSavior7](https://twitter.com/EvilSavior7/status/1544950074794467339)
-
-0 videos, 1 photos
-
-```
-
-2 Days More! 
-
-Are you Ready? 
-
-#GoHomeGota #GoHomeRanil https://t.co/AtyT4BhKSR
-
-```
-
-![image](https://pbs.twimg.com/media/FXDD5hJXwAEHsXP.jpg)
 
 ---
