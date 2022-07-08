@@ -1,10 +1,70 @@
 # Social Media Photos
 
-*424 tweets as of 20220708-122134*
+*428 tweets as of 20220708-123824*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 12:36:42 by [sunandadesh](https://twitter.com/sunandadesh/status/1545303346533253120)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #SriLanka  #GoHomeRanil 
+Our strength is unity, clarity and non-violence! Victory to the people! https://t.co/W6y4TMJWoi
+
+```
+
+![image](https://pbs.twimg.com/media/FXIE88eWQAA5sLA.jpg)
+
+---
+
+2022-07-08 12:33:12 by [CeylonComrades](https://twitter.com/CeylonComrades/status/1545302463099441153)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR look at what you have done!
+#gohomegota https://t.co/DzRroSpOsZ
+
+```
+
+![image](https://pbs.twimg.com/media/FXIEZn1X0AAgy8X.jpg)
+
+---
+
+2022-07-08 12:21:18 by [zshone93](https://twitter.com/zshone93/status/1545299470547505153)
+
+0 videos, 1 photos
+
+```
+
+Today is the official date that reserved health care sector to get fuel. But yesterday officials inform us that another 48 hours delay to issue fuel. But look so-called parliament members can get fuel and they can pump a full tank without any delay.
+#FuelCrisisLK 
+#GoHomeGota https://t.co/4wLnppfYY1
+
+```
+
+![image](https://pbs.twimg.com/media/FXIBrTTXEAE53Yb.jpg)
+
+---
+
+2022-07-08 12:21:17 by [iminspark](https://twitter.com/iminspark/status/1545299463698124801)
+
+0 videos, 1 photos
+
+```
+
+#lka #SriLanka #StormColombo #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට #පන්නමු https://t.co/kTTBPaVtFC
+
+```
+
+![image](https://pbs.twimg.com/media/FXIBqfIWQAA_Qkd.jpg)
+
+---
 
 2022-07-08 12:17:03 by [Amaliniii](https://twitter.com/Amaliniii/status/1545298401796898817)
 
@@ -1587,83 +1647,5 @@ One Day of Sacrifice will ensure peaceful life for the rest of the days to come.
 ```
 
 ![image](https://pbs.twimg.com/media/FXFSCVoWIAAWQN3.jpg)
-
----
-
-2022-07-07 23:29:47 by [adopteeslk](https://twitter.com/adopteeslk/status/1545105310708142080)
-
-0 videos, 4 photos
-
-```
-
-Lovely 3 month old girl up for free adoption at Nugegoda. Very playful &amp; affectionate. Litter trained. Loves playing with rubber slippers. Loves attention. Will be vaccinated prior to adoption.
-
-Contact: Jaami - 077 300 7508
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews https://t.co/srOuRyDQAv
-
-```
-
-![image](https://pbs.twimg.com/media/FXFRFnyUYAAXx-j.jpg)
-
-![image](https://pbs.twimg.com/media/FXFRFnzVUAALNf8.jpg)
-
-![image](https://pbs.twimg.com/media/FXFRFnzVsAAiELT.jpg)
-
-![image](https://pbs.twimg.com/media/FXFRFoiUsAE0p_1.jpg)
-
----
-
-2022-07-07 23:29:38 by [Hirunikaconnect](https://twitter.com/Hirunikaconnect/status/1545105273706401793)
-
-0 videos, 1 photos
-
-```
-
-✊#gohomegota https://t.co/QlKB7PyH8D
-
-```
-
-![image](https://pbs.twimg.com/media/FXFRDsAaAAAjtZQ.jpg)
-
----
-
-2022-07-07 23:15:10 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545101632504877057)
-
-0 videos, 3 photos
-
-```
-
-Peaceful Protest - Starter Pack (2)
-
-#GoHomeGota #GoHomeRanil #Srilanka https://t.co/vkgaOk4yIG
-
-```
-
-![image](https://pbs.twimg.com/media/FXFNvWXWYAIBvzc.jpg)
-
-![image](https://pbs.twimg.com/media/FXFNvWeWYAAd4kM.jpg)
-
-![image](https://pbs.twimg.com/media/FXFNvWcXEAEoxA9.jpg)
-
----
-
-2022-07-07 23:15:07 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545101618428796928)
-
-0 videos, 3 photos
-
-```
-
-Peaceful Protest - Starter Pack (1)
-
-#GoHomeGota #GoHomeRanil #Srilanka https://t.co/j0WiecpHyN
-
-```
-
-![image](https://pbs.twimg.com/media/FXFNuTaWIAMGzw_.jpg)
-
-![image](https://pbs.twimg.com/media/FXFNuTbWIAIS6Jq.jpg)
-
-![image](https://pbs.twimg.com/media/FXFNuTZWIAEeoAa.jpg)
 
 ---
