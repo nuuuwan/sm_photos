@@ -29,7 +29,9 @@ def build_collage():
     log.info(f'Wrote {n} images to {collage_file}')
 
     for f_resize in [2, 4]:
-        width, height = (int)(WIDTH / f_resize), (int)(HEIGHT / f_resize)
+        width, height = (int)(dim * WIDTH / f_resize), (int)(
+            dim * HEIGHT / f_resize
+        )
         image_resized = image_collage.resize((width, height))
 
         collage_resized_file = os.path.join(
