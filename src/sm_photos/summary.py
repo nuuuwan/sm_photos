@@ -3,13 +3,8 @@ import os
 from utils import File, JSONFile, timex
 
 from sm_photos import tweet_info_utils
-from sm_photos._constants import DIR_DATA
+from sm_photos._constants import DIR_DATA, USER_BLACKLIST
 from sm_photos._utils import log
-
-USER_BLACKLIST = [
-    'udeshan',
-    'Sharkboys14',
-]
 
 
 def build_summary():
