@@ -34,7 +34,7 @@ def extract_and_save_clips(video_file):
         t = (int)(duration * i_clip / (n_clips + 1))
         video_clip_file = video_file + f'.clip.{i_clip:02d}.png'
         video.save_frame(video_clip_file, t=t)
-        log.info(f'Wroted {video_clip_file}')
+        log.info(f'Wrote {video_clip_file}')
         video_clip_file_list.append(video_clip_file)
     return video_clip_file_list
 
