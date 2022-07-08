@@ -1,10 +1,73 @@
 # Social Media Photos
 
-*767 tweets as of 20220709-010258*
+*771 tweets as of 20220709-012022*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 01:16:25 by [SandaruwanWije5](https://twitter.com/SandaruwanWije5/status/1545494535773749249)
+
+0 videos, 1 photos
+
+```
+
+#July9th #GoHomeGota #අරගලයටජය #win #SriLanka https://t.co/93yPnzVsg5
+
+```
+
+![image](twtr_data/1545494535773749249.photo.00.jpg)
+
+---
+
+2022-07-09 01:06:43 by [Welikumbura](https://twitter.com/Welikumbura/status/1545492093031763968)
+
+0 videos, 2 photos
+
+```
+
+These are @IUSFSL @iubfsl students waiting for you all to join them tomorrow to chase off @GotabayaR.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/eqA8ilFuH2
+
+```
+
+![image](twtr_data/1545492093031763968.photo.00.jpg)
+
+![image](twtr_data/1545492093031763968.photo.01.jpg)
+
+---
+
+2022-07-09 01:05:50 by [Praveen_D_B](https://twitter.com/Praveen_D_B/status/1545491870679449600)
+
+0 videos, 1 photos
+
+```
+
+මගේ මතය. මගේ වචන.
+#SriLanka 🇱🇰 #GoHomeGota👊 #SriLankaCrisis https://t.co/31zZNvCuUU
+
+```
+
+![image](twtr_data/1545491870679449600.photo.00.jpg)
+
+---
+
+2022-07-09 01:02:54 by [duhcoolies](https://twitter.com/duhcoolies/status/1545491131038924801)
+
+1 videos, 0 photos
+
+```
+
+Where will you be on July 9th?
+Join the people's protest wherever you are.
+#SriLankaCrisis #EconomicCrisisLK #GoHomeRajapaksas #GoHomeGota #GoHomeRanil #lka #SriLanka https://t.co/3w44PMTgyP
+
+```
+
+![image](twtr_data/1545491131038924801.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-09 00:57:55 by [jiyasond](https://twitter.com/jiyasond/status/1545489880301867009)
 
@@ -1612,69 +1675,5 @@ https://t.co/c1rtFnbk1p https://t.co/u6pILptAoU
 ```
 
 ![image](twtr_data/1545451247482056705.photo.00.jpg)
-
----
-
-2022-07-08 22:24:18 by [chiranaimanjith](https://twitter.com/chiranaimanjith/status/1545451218654310401)
-
-0 videos, 1 photos
-
-```
-
-මේ වෙනකොට ගෝඨා. #GoHomeGota https://t.co/kep48gBLB5
-
-```
-
-![image](twtr_data/1545451218654310401.photo.00.jpg)
-
----
-
-2022-07-08 22:22:36 by [sehan_jayaweera](https://twitter.com/sehan_jayaweera/status/1545450791217274880)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/KB2Kd6nsEC
-
-```
-
-![image](twtr_data/1545450791217274880.photo.00.jpg)
-
----
-
-2022-07-08 22:20:40 by [nHiRanZ](https://twitter.com/nHiRanZ/status/1545450304191500288)
-
-0 videos, 1 photos
-
-```
-
-Why Sex Ed is important, courtesy of Preethi.
-
-Source: https://t.co/kFjX6mU48z
-
-#GoHomeGota https://t.co/ekt1ApHqPe
-
-```
-
-![image](twtr_data/1545450304191500288.photo.00.jpg)
-
----
-
-2022-07-08 22:20:07 by [FraudTwitz2](https://twitter.com/FraudTwitz2/status/1545450168648347648)
-
-0 videos, 1 photos
-
-```
-
-ஆரம்பிக்கலாமா..?
-
-ஜனாதிபதி மாளிகையின் முன் திரண்ட மக்கள்..
-
-#gohomegota2022 #SriLanka #GoHomeGota https://t.co/PhEnvFtneg
-
-```
-
-![image](twtr_data/1545450168648347648.photo.00.jpg)
 
 ---
