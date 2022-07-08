@@ -1,10 +1,77 @@
 # Social Media Photos
 
-*399 tweets as of 20220708-101123*
+*403 tweets as of 20220708-102941*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 10:23:25 by [gogotagama](https://twitter.com/gogotagama/status/1545269802805379072)
+
+0 videos, 3 photos
+
+```
+
+Protestors have started their journey from Kurunagala via bicycles.🚴 
+Join tomorrow, we are waiting 🫡
+
+#GoHomeGota #GoHomeGota2022 https://t.co/MQnWifcBLQ
+
+```
+
+![image](https://pbs.twimg.com/media/FXHmqdiagAEoKw8.jpg)
+
+![image](https://pbs.twimg.com/media/FXHmqdmakAMItXW.jpg)
+
+![image](https://pbs.twimg.com/media/FXHmqd2aIAAHtTg.jpg)
+
+---
+
+2022-07-08 10:18:33 by [JD_dilshan](https://twitter.com/JD_dilshan/status/1545268579842801664)
+
+0 videos, 1 photos
+
+```
+
+රටම එකට, අනාගතය වෙනුවෙන්..✊
+#SriLanka #ForThePeople #Protests #lk #GoHomeGota #GoHomeRajapakshas #GoHomeRanil #GoHomeGota2022 
+
+Art work by - Naveenb99 https://t.co/RTKzoiHUWW
+
+```
+
+![image](https://pbs.twimg.com/media/FXHllWAakAAshVR.jpg)
+
+---
+
+2022-07-08 10:12:20 by [gogotagama](https://twitter.com/gogotagama/status/1545267013521915904)
+
+0 videos, 1 photos
+
+```
+
+One more day to do, are you ready? Enough is enough  #GoHomeGota2022 #GoHomeGota https://t.co/tdVCRlFo3G
+
+```
+
+![image](https://pbs.twimg.com/media/FXHkJO_aMAAuJlK.jpg)
+
+---
+
+2022-07-08 10:11:35 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545266827227533312)
+
+1 videos, 0 photos
+
+```
+
+How stupid we were 😢
+
+#EconomicCrisisLK 
+#GoHomeGota https://t.co/0NmuMRGnTF
+
+```
+
+---
 
 2022-07-08 10:02:55 by [photodiyani](https://twitter.com/photodiyani/status/1545264646382563328)
 
@@ -1633,67 +1700,5 @@ Individuals sometimes turn out to be almost the opposite of how they present. It
 ```
 
 ![image](https://pbs.twimg.com/media/FXEfDxqVsAMv9Is.png)
-
----
-
-2022-07-07 19:45:49 by [Indooshan](https://twitter.com/Indooshan/status/1545048946552479746)
-
-0 videos, 3 photos
-
-```
-
-Kotahena Getting ready for #July9th 
-Strong message sent to the President
-#GohomeGota #GoHomeRanil #GoHomeRajapaksas #EnoughIsEnough #Aragalaya #SriLankaCrisis https://t.co/hBMcKGJ0vh
-
-```
-
-![image](https://pbs.twimg.com/media/FXEdy_aaIAABc00.jpg)
-
-![image](https://pbs.twimg.com/media/FXEdz7YaUAAZgqA.jpg)
-
-![image](https://pbs.twimg.com/media/FXEd08SaUAAjw2_.jpg)
-
----
-
-2022-07-07 19:35:37 by [kumanthika](https://twitter.com/kumanthika/status/1545046381429108736)
-
-0 videos, 1 photos
-
-```
-
-CPC has no LKR to buy USD to import fuel, asks Treasury for LKR to buy the next shipment - CB driven to print money to meet the need. When will this vicious cycle end? #SriLankaEconomicCrisis #SriLankaCrisis #SriLankaProtests #srilankanpoliticalcrisis #GoHomeGota #FuelCrisisLK https://t.co/ZrWZ5rJLbt
-
-```
-
-![image](https://pbs.twimg.com/media/FXEamSnUsAMmpSl.jpg)
-
----
-
-2022-07-07 19:32:38 by [heavybstyles](https://twitter.com/heavybstyles/status/1545045631844003843)
-
-0 videos, 1 photos
-
-```
-
-RT @TechGuyGamunu: #GoHomeGota #lka https://t.co/zH0G04GZD5
-
-```
-
-![image](https://pbs.twimg.com/media/FXD66V1UUAIKfEb.jpg)
-
----
-
-2022-07-07 19:26:16 by [aruni_t](https://twitter.com/aruni_t/status/1545044030178103297)
-
-0 videos, 1 photos
-
-```
-
-The entire @PodujanaParty &amp; it’s leaders @GotabayaR, @PresRajapaksa, &amp; Basil Rajapaksa who promised Sri Lankans ‘Vistas of Prosperity &amp; Splendour’ are responsible for this humiliation. #GoHomeGota #Vipathmaga https://t.co/G2hUNzsVa7
-
-```
-
-![image](https://pbs.twimg.com/media/FXEZWgqaQAEpLp0.jpg)
 
 ---
