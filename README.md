@@ -1,10 +1,53 @@
 # Social Media Photos
 
-*403 tweets as of 20220708-102941*
+*406 tweets as of 20220708-104406*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 10:42:04 by [AddictiveAds](https://twitter.com/AddictiveAds/status/1545274496852303872)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GoHomeGota2022 #MentalMayhem #JeremyMuller #TheJamFruitTree https://t.co/wPlfeFqBiR
+
+```
+
+![image](https://pbs.twimg.com/media/FXHq82uaUAAffPR.jpg)
+
+---
+
+2022-07-08 10:40:05 by [ChalanaJD](https://twitter.com/ChalanaJD/status/1545273997818007552)
+
+0 videos, 1 photos
+
+```
+
+බල්ලෙක් රකින්න කන කට්ටක්.
+#GoHomeGota #EconomicCrisisLK #SriLanka #SriLankaCrisis https://t.co/kOQhsSsXbA
+
+```
+
+![image](https://pbs.twimg.com/media/FXHqQqdXoAMbV2g.jpg)
+
+---
+
+2022-07-08 10:39:20 by [EjazzJazz](https://twitter.com/EjazzJazz/status/1545273808982261760)
+
+0 videos, 1 photos
+
+```
+
+Lets do this #Letsunite #Aragalayatajaya #SriLankaCrisis #EconomicCrisisLK #CNN #bbcnews #අරගලයටජය #GoHomeGota #GoHomeGota2022 #RanilWickremesinghe #lka https://t.co/XWGHAbMYEi
+
+```
+
+![image](https://pbs.twimg.com/media/FXHqVhuaAAEKbnh.jpg)
+
+---
 
 2022-07-08 10:23:25 by [gogotagama](https://twitter.com/gogotagama/status/1545269802805379072)
 
@@ -1655,50 +1698,5 @@ Strong message sent to the President
 ```
 
 ![image](https://pbs.twimg.com/media/FXEjk3hUsAIO6Wh.png)
-
----
-
-2022-07-07 20:08:42 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545054707474870273)
-
-0 videos, 1 photos
-
-```
-
-This is how Nandasena and his clowns ruling the country 
-
-#EconomicCrisisLK 
-#GoHomeGota https://t.co/E7oKtC5AUl
-
-```
-
-![image](https://pbs.twimg.com/media/FXEjEQyVsAE7ArL.jpg)
-
----
-
-2022-07-07 20:08:22 by [svyoges](https://twitter.com/svyoges/status/1545054622284271618)
-
-0 videos, 1 photos
-
-```
-
-What a pathetic situation that is created by the dictatorship regime @GotabayaR still holds your position while nation is in deep troubles &amp; people's wills aren't respected - PM Borris has resigned in a characteristic manner inwhich you don't..! #GoHomeGota https://t.co/5JYxLY6a5c
-
-```
-
-![image](https://pbs.twimg.com/media/FXEeR8mUsAIIzO4.png)
-
----
-
-2022-07-07 20:00:25 by [MarcMartinn](https://twitter.com/MarcMartinn/status/1545052623631396864)
-
-0 videos, 1 photos
-
-```
-
-Individuals sometimes turn out to be almost the opposite of how they present. It isn't because they're trying to fool you or because they're hypocrites. It's because they badly want to be that thing, and so they'll try to be it #Aragalaya #lka #SriLanka  #Gohomegota https://t.co/TXsq7urTXY
-
-```
-
-![image](https://pbs.twimg.com/media/FXEfDxqVsAMv9Is.png)
 
 ---
