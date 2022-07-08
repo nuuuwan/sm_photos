@@ -24,7 +24,7 @@ def organize_media(file_only_list):
     return media
 
 
-def get_id_to_media(tweet_info_list):
+def get_id_to_media():
     id_to_file_only_list = {}
     for file_only in os.listdir(DIR_TWTR_DATA):
         id = file_only.partition('.')[0]
@@ -46,12 +46,12 @@ def get_id_to_media(tweet_info_list):
 
 
 def expand_tweet_info(tweet_info, id_to_media):
-    tweet_info['local_media'] = id_to_media.get(tweet_info['id'], None)
+    tweet_info['local_media'] = id_to_media.get(str(tweet_info['id']), None)
     return tweet_info
 
 
 def expand_tweet_info_list(tweet_info_list):
-    id_to_media = get_id_to_media(tweet_info_list)
+    id_to_media = get_id_to_media()
     return list(
         map(
             lambda tweet_info: expand_tweet_info(tweet_info, id_to_media),
