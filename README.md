@@ -1,10 +1,87 @@
 # Social Media Photos
 
-*435 tweets as of 20220708-140433*
+*440 tweets as of 20220708-142633*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 14:20:44 by [Welikumbura](https://twitter.com/Welikumbura/status/1545329524778627073)
+
+0 videos, 4 photos
+
+```
+
+It's amazing to see how people are organising themselves &amp; informing everyone about tomorrow's protest. It looks like #Aragalaya gave them hope.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/4fCUrItpx4
+
+```
+
+![image](https://pbs.twimg.com/media/FXIdAHJacAAqb3E.jpg)
+
+![image](https://pbs.twimg.com/media/FXIdAUTaAAAk9bi.jpg)
+
+![image](https://pbs.twimg.com/media/FXIdAjHacAIMBZS.jpg)
+
+![image](https://pbs.twimg.com/media/FXIdAztaUAAUfDz.jpg)
+
+---
+
+2022-07-08 14:19:40 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1545329256799952896)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota #GoHomeRajapaksas #lk #EconomyCrisislk https://t.co/HldW5XguIc
+
+```
+
+---
+
+2022-07-08 14:16:28 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1545328452336697345)
+
+1 videos, 0 photos
+
+```
+
+රටම කොලඹට!!!!! 9.  #GoHomeGota #GoHomeRajapaksas  #EconomyCrisisLk #lka https://t.co/VQyk8Lb1Ap
+
+```
+
+---
+
+2022-07-08 14:14:46 by [KavinduKokila08](https://twitter.com/KavinduKokila08/status/1545328025725612033)
+
+0 videos, 1 photos
+
+```
+
+අරගලය 🏴 #GoHomeGota #kandy https://t.co/ajGcyIo2wa
+
+```
+
+![image](https://pbs.twimg.com/media/FXIbohDWYAE_GjI.jpg)
+
+---
+
+2022-07-08 14:04:25 by [pumuditha1](https://twitter.com/pumuditha1/status/1545325420744036352)
+
+0 videos, 1 photos
+
+```
+
+මමත් එනවා ඔබත් එන්න !!!
+#GoHomeGota 
+#GoHomeRanil 
+#GoHomeRajapaksas https://t.co/lLXpeEciDb
+
+```
+
+![image](https://pbs.twimg.com/media/FXIZR6EUsAAbFDO.jpg)
+
+---
 
 2022-07-08 13:49:45 by [nxtgen_sl](https://twitter.com/nxtgen_sl/status/1545321728918065153)
 
@@ -1562,76 +1639,5 @@ Tomorrow is the Big Day!
 ```
 
 ![image](https://pbs.twimg.com/media/FXFfsMdX0AUQxyP.jpg)
-
----
-
-2022-07-08 00:33:12 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545121271502934016)
-
-1 videos, 0 photos
-
-```
-
-Say No to Systematic Force &amp; Police Brutality! 
-
-IUSF Coming today to Support the 9th! 
-
-#GoHomeGota #GoHomeRanil https://t.co/e3iCe0jqOM
-
-```
-
----
-
-2022-07-08 00:28:20 by [Kappa_S](https://twitter.com/Kappa_S/status/1545120045063348229)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota අරගලයට ජය! https://t.co/x80CksrEqR
-
-```
-
-![image](https://pbs.twimg.com/media/FXFeecXXgAMyP9Z.jpg)
-
----
-
-2022-07-08 00:28:08 by [finityfund](https://twitter.com/finityfund/status/1545119996178620416)
-
-1 videos, 0 photos
-
-```
-
-Angry #SriLankan asking for #GoHomeGota 
-#SriLankaEconomicCrisis https://t.co/Ccsizuk0QM
-
-```
-
----
-
-2022-07-08 00:20:00 by [Thilinaindraji5](https://twitter.com/Thilinaindraji5/status/1545117946917240832)
-
-0 videos, 1 photos
-
-```
-
-ඉස්සරහට මොකක් වෙයිද දන්නෑ #GoHomeGota https://t.co/tNTfEEt5m1
-
-```
-
-![image](https://pbs.twimg.com/media/FXFclICXkAMHdb_.jpg)
-
----
-
-2022-07-08 00:19:37 by [cnde282_92](https://twitter.com/cnde282_92/status/1545117852071772160)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRajapakshas #GoHomeGota2022 https://t.co/FIG7i6qz5X
-
-```
-
-![image](https://pbs.twimg.com/media/FXFcf4CVsAAVUoy.jpg)
 
 ---
