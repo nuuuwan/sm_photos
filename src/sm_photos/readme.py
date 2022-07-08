@@ -21,8 +21,12 @@ def render_tweet_info(tweet_info):
     photo_url_list = tweet_info['photo_url_list']
 
     photo_lines = []
-    for photo_url in photo_url_list:
-        photo_lines.append(f'![image]({photo_url})')
+    for local_file_only in (
+        tweet_info['local_media']['photo']
+        + tweet_info['local_media']['video_clip']
+    ):
+        local_file = os.path.join('twtr_data', local_file_only)
+        photo_lines.append(f'![image]({local_file})')
 
     return (
         [
