@@ -163,7 +163,8 @@ def metarize():
     )
     DURATION = 0.12
     imageio.mimsave(
-        metarized_animation_file, metarized_item_image_list, duration=DURATION
+        metarized_animation_file, list(reversed(metarized_item_image_list)), 
+        duration=DURATION
     )
     log.info(f'Wrote {metarized_animation_file}')
 
