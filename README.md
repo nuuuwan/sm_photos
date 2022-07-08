@@ -1,10 +1,132 @@
 # Social Media Photos
 
-*549 tweets as of 20220708-184036*
+*557 tweets as of 20220708-185726*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 18:53:51 by [sumudu231](https://twitter.com/sumudu231/status/1545398257568092160)
+
+0 videos, 1 photos
+
+```
+
+They are coming 
+#GoHomeGota https://t.co/QGbCtlqSgh
+
+```
+
+![image](twtr_data/1545398257568092160.photo.00.jpg)
+
+---
+
+2022-07-08 18:53:06 by [Athaurrrahman1](https://twitter.com/Athaurrrahman1/status/1545398071068016646)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GotaGoHome2022 https://t.co/UTQhfnnZLX
+
+```
+
+![image](twtr_data/1545398071068016646.photo.00.jpg)
+
+---
+
+2022-07-08 18:49:29 by [JBRBALA](https://twitter.com/JBRBALA/status/1545397157313728517)
+
+0 videos, 1 photos
+
+```
+
+பார் கொஞ்ச கொஞ்சமா யாழ்ப்பாணம் போல மாறும் கொழும்பை பார் #GoHomeGota #July9th https://t.co/8izdNun5XZ
+
+```
+
+![image](twtr_data/1545397157313728517.photo.00.jpg)
+
+---
+
+2022-07-08 18:48:37 by [waasds92](https://twitter.com/waasds92/status/1545396939587555330)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 
+#GoHomeGota2022 https://t.co/zB5oLVbPhC
+
+```
+
+![image](twtr_data/1545396939587555330.photo.00.jpg)
+
+---
+
+2022-07-08 18:46:22 by [imesha_kavi](https://twitter.com/imesha_kavi/status/1545396376586326016)
+
+0 videos, 1 photos
+
+```
+
+Power of Sri Lankan University Students against the President Gotabaya Rajapaksha and his shitty government. 
+
+We are not poor. We were robbed. 
+Together for my motherland.🇱🇰
+#GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #UnitedNations #HumanRights @UN @BBCWorld @ABC 
+#SriLanka https://t.co/Js6ccs9DJg
+
+```
+
+![image](twtr_data/1545396376586326016.photo.00.jpg)
+
+---
+
+2022-07-08 18:43:58 by [O2asis_Jun](https://twitter.com/O2asis_Jun/status/1545395771817660416)
+
+0 videos, 1 photos
+
+```
+
+✊ #GoHomeGota2022 #GoHomeGota #GoHomeRanil #අරගලයටජය #රටමකොළඹට https://t.co/rcwHBGUzPb
+
+```
+
+![image](twtr_data/1545395771817660416.photo.00.jpg)
+
+---
+
+2022-07-08 18:42:56 by [Malshani15](https://twitter.com/Malshani15/status/1545395511884390400)
+
+0 videos, 1 photos
+
+```
+
+පණ අදින මගේ රටට පණ පොවන යන්තරේ 
+සිප වැළඳ ගනිමි මම හදවතින් අන්තරේ ❤
+-Copied-
+#GoHomeGota #GoHomeRajapakshas #GoHomeRanil https://t.co/KSl1G233we
+
+```
+
+![image](twtr_data/1545395511884390400.photo.00.jpg)
+
+---
+
+2022-07-08 18:41:47 by [SabreenOfficial](https://twitter.com/SabreenOfficial/status/1545395222388940800)
+
+0 videos, 1 photos
+
+```
+
+We are stronger when we are united as one. Let's fight back to save our country from the crooks who have destroyed this country since independence. #GoHomeGota https://t.co/50eEOezfU9
+
+```
+
+![image](twtr_data/1545395222388940800.photo.00.jpg)
+
+---
 
 2022-07-08 18:32:46 by [Rasiya_Twitz](https://twitter.com/Rasiya_Twitz/status/1545392953694494720)
 
@@ -1517,132 +1639,5 @@ On the Protests tomorrow 6/12
 ```
 
 ![image](twtr_data/1545345148712001536.photo.00.jpg)
-
----
-
-2022-07-08 15:22:48 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345143695618048)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 5/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/Y2upkGHQTv
-
-```
-
-![image](twtr_data/1545345143695618048.photo.00.jpg)
-
----
-
-2022-07-08 15:22:46 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345138394013697)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 4/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/iXR3JxuOnc
-
-```
-
-![image](twtr_data/1545345138394013697.photo.00.jpg)
-
----
-
-2022-07-08 15:22:45 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345133306314753)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 3/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/NAfC0QBwhZ
-
-```
-
-![image](twtr_data/1545345133306314753.photo.00.jpg)
-
----
-
-2022-07-08 15:22:44 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345128088612864)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 2/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/Awu7glG4W8
-
-```
-
-![image](twtr_data/1545345128088612864.photo.00.jpg)
-
----
-
-2022-07-08 15:22:42 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345122396950529)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 1/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/mdnG1vnTkV
-
-```
-
-![image](twtr_data/1545345122396950529.photo.00.jpg)
-
----
-
-2022-07-08 15:02:53 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545340135515906048)
-
-0 videos, 2 photos
-
-```
-
-Supply Runs to IUSF Protest! 
-
-#GoHomeGota #GoHomeRanil https://t.co/1c9w3VeGrc
-
-```
-
-![image](twtr_data/1545340135515906048.photo.01.jpg)
-
-![image](twtr_data/1545340135515906048.photo.00.jpg)
-
----
-
-2022-07-08 15:00:21 by [BandhiniF](https://twitter.com/BandhiniF/status/1545339497839296512)
-
-1 videos, 0 photos
-
-```
-
-Announcement at the platform.
-#GoHomeGota #EconomicCrisisLK https://t.co/IaUfpASTT6
-
-```
-
-![image](twtr_data/1545339497839296512.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1545339497839296512.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1545339497839296512.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 14:54:34 by [bkdvv94](https://twitter.com/bkdvv94/status/1545338041673195521)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR This is Achila an undergrad student age of 25 whose father was a real war hero who sacrificed his life to the country ( unlike you ). This boy died in a fuel queue today because of your incompetence. If you really value a human life GO HOME NOW!!!
-#GoHomeGota https://t.co/BAhk9ziWfv
-
-```
-
-![image](twtr_data/1545338041673195521.photo.00.jpg)
 
 ---
