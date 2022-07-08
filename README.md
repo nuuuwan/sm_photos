@@ -1,10 +1,97 @@
 # Social Media Photos
 
-*758 tweets as of 20220709-000559*
+*763 tweets as of 20220709-002316*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 00:15:17 by [Abdu_loud77](https://twitter.com/Abdu_loud77/status/1545479148969279488)
+
+0 videos, 1 photos
+
+```
+
+#LK #srilanka #GoHomeGota #Vikram #FahadhFaasil https://t.co/pJ3IatH1dI
+
+```
+
+![image](twtr_data/1545479148969279488.photo.00.jpg)
+
+---
+
+2022-07-09 00:12:28 by [vikalpavoices](https://twitter.com/vikalpavoices/status/1545478439934861313)
+
+0 videos, 4 photos
+
+```
+
+සාමකාමී විරෝධතාවට, ආණ්ඩුව හමුදාව කැදවයි.  📷 @Warunic #GoHomeGota #GotaGoHome2022 #ProtestLK https://t.co/fQqXi60ox6
+
+```
+
+![image](twtr_data/1545478439934861313.photo.01.jpg)
+
+![image](twtr_data/1545478439934861313.photo.00.jpg)
+
+![image](twtr_data/1545478439934861313.photo.03.jpg)
+
+![image](twtr_data/1545478439934861313.photo.02.jpg)
+
+---
+
+2022-07-09 00:11:57 by [barstad_boy](https://twitter.com/barstad_boy/status/1545478309412208647)
+
+0 videos, 1 photos
+
+```
+
+@RajapaksaNamal sorry පිම්පී නාමල් 
+#GotaGoHome #GoHomeGota #GoHomeRajapaksas https://t.co/sCEffJDARj
+
+```
+
+![image](twtr_data/1545478309412208647.photo.00.jpg)
+
+---
+
+2022-07-09 00:06:53 by [Angalie96](https://twitter.com/Angalie96/status/1545477036994547712)
+
+0 videos, 1 photos
+
+```
+
+9 නපුරුයි. ඒ නිසා පරිස්සමින්...
+Heavenly Father, Jesus Christ Help and take care of our people who are suffering every day. Bless them and protect them from evil.
+#EasterSundayBombing Time 😯
+#9thJuly
+#MiraclesOfGod 🙏✝️
+#JesusChrist
+#SriLankaCrisis 
+#GoHomeGota 
+#GotaGoGama https://t.co/4NSoT4Egy1
+
+```
+
+![image](twtr_data/1545477036994547712.photo.00.jpg)
+
+---
+
+2022-07-09 00:04:29 by [Jinnel_De](https://twitter.com/Jinnel_De/status/1545476431903203328)
+
+0 videos, 1 photos
+
+```
+
+ලංකාවේ අපේ ජාතික පැතුම❤️
+Every Sri Lankans only dream❤️
+#GoHomeGota #GoHomeRanil #gohomerajapaksas #EconomicCrisisLK https://t.co/NPf6MGPaQ9
+
+```
+
+![image](twtr_data/1545476431903203328.photo.00.jpg)
+
+---
 
 2022-07-09 00:01:11 by [eyedoc_cornea](https://twitter.com/eyedoc_cornea/status/1545475602295050240)
 
@@ -1599,80 +1686,5 @@ Source: https://t.co/kFjX6mU48z
 ```
 
 ![image](twtr_data/1545449354101678081.photo.00.jpg)
-
----
-
-2022-07-08 22:15:51 by [Krys_Types](https://twitter.com/Krys_Types/status/1545449093585334272)
-
-0 videos, 1 photos
-
-```
-
-ජූලි 9, අපි කොළඹට! 
-
-#අරගලයටජය✊ #GoHomeGota #ArrestRajapaksas #EconomicCrisisLK #ReformSriLanka https://t.co/LzWzKfU9vV
-
-```
-
-![image](twtr_data/1545449093585334272.photo.00.jpg)
-
----
-
-2022-07-08 22:15:24 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545448980494127105)
-
-0 videos, 1 photos
-
-```
-
-හෙට දිනයේදී අරගලකාරී ඔබව නැවතීමට අවනීතියට නොහැක ✊
-#GoHomeGota https://t.co/ph2CmY3LCR
-
-```
-
-![image](twtr_data/1545448980494127105.photo.00.jpg)
-
----
-
-2022-07-08 22:13:53 by [ranawake_SJ](https://twitter.com/ranawake_SJ/status/1545448597214429184)
-
-0 videos, 1 photos
-
-```
-
-රටේ ආර්ථික සහ දේශාපලන ප්‍රශ්නය ගැන හොඳට තේරුම් ගන්න පුළුවන් අවස්ථාවක් මේ පොටෝ එක.⁣ අපේ ආර්ථිකය කොච්චර පිරිහිලාද කියනවා නම් පොලීසියට Ballistic shields වලට ගන්න වෙලා තියෙන්නේ දෙකට කපපු බැරල් භාග. ඉතින් හිතාගන්න අපි මේ ප්‍රශ්නය අනිවාර්යෙන්ම විසඳන්න ඕන ඇයි කියලා..
-
-#GoHomeGota #lka https://t.co/nghNwNht7O
-
-```
-
-![image](twtr_data/1545448597214429184.photo.00.jpg)
-
----
-
-2022-07-08 22:13:05 by [PradeepNamasiva](https://twitter.com/PradeepNamasiva/status/1545448395946409984)
-
-0 videos, 1 photos
-
-```
-
-This is unacceptable. @GotabayaR @RW_UNP #GoHomeGota @fernandoharin https://t.co/URwhfcWToG
-
-```
-
-![image](twtr_data/1545448395946409984.photo.00.jpg)
-
----
-
-2022-07-08 22:11:05 by [YasaranPitta](https://twitter.com/YasaranPitta/status/1545447893846278144)
-
-0 videos, 1 photos
-
-```
-
-චු හොද්දා 💦 @GotabayaR 👙 #GoHomeGota https://t.co/Q9oxC5nxt8
-
-```
-
-![image](twtr_data/1545447893846278144.photo.00.jpg)
 
 ---
