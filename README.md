@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*411 tweets as of 20220708-111946*
+*413 tweets as of 20220708-114315*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 11:40:01 by [mohamedrizi275](https://twitter.com/mohamedrizi275/status/1545289078303870980)
+
+0 videos, 1 photos
+
+```
+
+පෝලිමේ බැන බැන ඉන්නේනැතුව,පෝලිම් හදපු &amp; රටට කෙලපු  මුන්ව පන්නමු. වටලුමු  9th July 2022 !!
+අරගලයට ජයවේවා !!!💪💪💪💪
+#පන්නමු #අරගලයටජය
+#GoHomeGota2022 #GoHomeGota
+#69ලක්ශෙසර් #GiveUsOurStolenMoneyBack https://t.co/EWCVR2FcOq
+
+```
+
+![image](https://pbs.twimg.com/media/FXH4Og2X0AM2_BY.jpg)
+
+---
+
+2022-07-08 11:27:02 by [PiyaliRanadeera](https://twitter.com/PiyaliRanadeera/status/1545285813734440960)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GoHomeRajapaksas #SriLankaCrisis https://t.co/D32Tqb1aff
+
+```
+
+![image](https://pbs.twimg.com/media/FXH1Qg5XoAEacW8.jpg)
+
+---
 
 2022-07-08 11:06:06 by [nftarts_design](https://twitter.com/nftarts_design/status/1545280546246459392)
 
@@ -1645,33 +1677,5 @@ https://t.co/0twwIOrD4O https://t.co/1Iflpu1ze3
 #GoHomeGota #lka #sl https://t.co/US9c7i71Cx
 
 ```
-
----
-
-2022-07-07 21:02:41 by [vg123e](https://twitter.com/vg123e/status/1545068291609296896)
-
-0 videos, 1 photos
-
-```
-
-Dhammika Camp #Srilanka #GoHomeGota https://t.co/M1tLgrYZzV
-
-```
-
-![image](https://pbs.twimg.com/media/FXEvau2WQAEtR3d.png)
-
----
-
-2022-07-07 21:02:23 by [rrramod](https://twitter.com/rrramod/status/1545068217106051072)
-
-0 videos, 1 photos
-
-```
-
-එකතුවෙමු. එලවමු. අලුත් රටක් හදාගන්න හිතාගෙන එක අඩියක් ඉස්සරහට යමු. අරගලය දිනේවා!! #GoHomeGota https://t.co/UUV8u7iOdM
-
-```
-
-![image](https://pbs.twimg.com/media/FXEvWOxX0AA_MOR.jpg)
 
 ---
