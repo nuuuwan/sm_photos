@@ -5,3 +5,4 @@ utils-nuuuwan
 Pillow
 imagehash
 imageio
+moviepy

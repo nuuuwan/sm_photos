@@ -32,5 +32,6 @@ setuptools.setup(
         'Pillow',
         'imagehash',
         'imageio',
+        'moviepy',
     ],
 )
