@@ -1,10 +1,82 @@
 # Social Media Photos
 
-*570 tweets as of 20220708-195453*
+*574 tweets as of 20220708-200351*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 19:56:51 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545414114528227329)
+
+0 videos, 1 photos
+
+```
+
+#gohomegota https://t.co/j7nBB1XULd
+
+```
+
+![image](twtr_data/1545414114528227329.photo.00.jpg)
+
+---
+
+2022-07-08 19:56:37 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545414055560503296)
+
+0 videos, 1 photos
+
+```
+
+කියන්න බැ
+ගවයනේ 
+
+#GoHomeGota https://t.co/W7xnGG3yZs
+
+```
+
+![image](twtr_data/1545414055560503296.photo.00.jpg)
+
+---
+
+2022-07-08 19:54:57 by [janinduxtreme](https://twitter.com/janinduxtreme/status/1545413634117226497)
+
+1 videos, 0 photos
+
+```
+
+This is just a very small part of a fuel queue in Sri Lanka. People are waiting more than 4+ days to purchase approx 10L fuel. Gota you need to go home. Location : IOC Panadura #SriLanka #GoHomeGota #FuelCrisisLK https://t.co/hFFFSCedfj
+
+```
+
+![image](twtr_data/1545413634117226497.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1545413634117226497.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-08 19:54:10 by [Angalie96](https://twitter.com/Angalie96/status/1545413436124737536)
+
+0 videos, 1 photos
+
+```
+
+#NewProfilePic
+Let's Save our motherland 🇱🇰
+T☸️☪️E✝️H🕉️🥺🙏🙌
+#9thJuly 
+#togetherstronger 
+#SriLanka 
+#SriLankaCrisis 
+#ProtestLK 
+#Aragalaya
+#GoHomeGota 
+#GoHomeRanil 
+#GoHome225 https://t.co/XIubkkByZ0
+
+```
+
+![image](twtr_data/1545413436124737536.photo.00.jpg)
+
+---
 
 2022-07-08 19:51:53 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545412863774208001)
 
@@ -1582,71 +1654,5 @@ Namal's wife flew to France.
 ```
 
 ![image](twtr_data/1545355902014062592.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 16:03:59 by [nethmikodikara1](https://twitter.com/nethmikodikara1/status/1545355508864786432)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota  #SriLankaEconomicCrisis
-අරගලයට ජය 🔥💪❤️ https://t.co/MBu2Lpmnyc
-
-```
-
-![image](twtr_data/1545355508864786432.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 15:59:12 by [pahanmith](https://twitter.com/pahanmith/status/1545354305770647553)
-
-0 videos, 1 photos
-
-```
-
-Why is he not shocked about the prevailing situation in Sri Lanka?
-His excellency joker🃏...acting funnily 
-Do you agree?
-#GoHomeGota #GoHomeRajapakshas #GoHomeRanil #GotaGoGama https://t.co/TbsJxANhRv
-
-```
-
-![image](twtr_data/1545354305770647553.photo.00.jpg)
-
----
-
-2022-07-08 15:56:34 by [kalanaananda](https://twitter.com/kalanaananda/status/1545353642256896002)
-
-0 videos, 1 photos
-
-```
-
-ජූලි නමය... 
-රටම එකට...
-#GoHomeGota #GoHomeRajapaksas #lka https://t.co/jsSuIRxaLk
-
-```
-
-![image](twtr_data/1545353642256896002.photo.00.jpg)
-
----
-
-2022-07-08 15:55:46 by [Welikumbura](https://twitter.com/Welikumbura/status/1545353441131671552)
-
-1 videos, 0 photos
-
-```
-
-Preparations for tomorrow's protest at #GotaGoGama.
-
-📷: Kalpa Rajapaksha
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaProtests #ProtestLK #අරගලයටජය https://t.co/hgcn6HOkFP
-
-```
-
-![image](twtr_data/1545353441131671552.video.00.mp4.clip.00.png)
 
 ---
