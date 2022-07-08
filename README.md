@@ -1,10 +1,66 @@
 # Social Media Photos
 
-*420 tweets as of 20220708-121043*
+*424 tweets as of 20220708-122134*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 12:17:03 by [Amaliniii](https://twitter.com/Amaliniii/status/1545298401796898817)
+
+1 videos, 0 photos
+
+```
+
+Batalanda - Rambukkana - Mirihana - the Aragalaya: reminder of some of the incidents of State violence against civilians and peaceful protestors by these 'leaders'. #lka #SriLanka #GoHomeGota https://t.co/c61Lu6PC50
+
+```
+
+---
+
+2022-07-08 12:14:52 by [vg123e](https://twitter.com/vg123e/status/1545297849520476160)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/Uzh8u7Zpvw
+
+```
+
+![image](https://pbs.twimg.com/media/FXIAKTOWQAAPmo6.png)
+
+---
+
+2022-07-08 12:13:33 by [Welikumbura](https://twitter.com/Welikumbura/status/1545297519332077569)
+
+0 videos, 1 photos
+
+```
+
+We are stronger when we are united as one. Let's fight back to save our country from the crooks who have destroyed this country since independence.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/r9KdYIghaJ
+
+```
+
+![image](https://pbs.twimg.com/media/FXH_5zuacAA2ILY.jpg)
+
+---
+
+2022-07-08 12:13:03 by [NusandNas](https://twitter.com/NusandNas/status/1545297394966745088)
+
+0 videos, 1 photos
+
+```
+
+Anything can happen. #SriLankaEconomicCrisis #GotaGoHome2022 #GoHomeGota https://t.co/zUX3tSwdxt https://t.co/TAEZL84fKc
+
+```
+
+![image](https://pbs.twimg.com/media/FXH_wiWUUAA5Adu.jpg)
+
+---
 
 2022-07-08 12:06:04 by [loku_mahathaya](https://twitter.com/loku_mahathaya/status/1545295635166875650)
 
@@ -1609,71 +1665,5 @@ Peaceful Protest - Starter Pack (1)
 ![image](https://pbs.twimg.com/media/FXFNuTbWIAIS6Jq.jpg)
 
 ![image](https://pbs.twimg.com/media/FXFNuTZWIAEeoAa.jpg)
-
----
-
-2022-07-07 23:13:47 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545101283497050115)
-
-1 videos, 0 photos
-
-```
-
-Mahinda Rajapaksha’s childhood video found 😂
-
-#EconomicCrisisLK 
-#GoHomeGota https://t.co/e41JzrsOwD
-
-```
-
----
-
-2022-07-07 23:05:55 by [sunandadesh](https://twitter.com/sunandadesh/status/1545099304850817025)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLanka  #GoHomeRanil 
-Anglican Church of Ceylon calls for President &amp; PM to resign immediately and  establishment to truly representative interim administration. https://t.co/XnBHkZJfnV via @LankaBrief https://t.co/71nsWTPAoF
-
-```
-
-![image](https://pbs.twimg.com/media/FXFLlr5X0AEVCqL.jpg)
-
----
-
-2022-07-07 22:54:24 by [ChanakaB2](https://twitter.com/ChanakaB2/status/1545096406112796673)
-
-0 videos, 1 photos
-
-```
-
-@H_S_KandyHamu මතක ඇතුව උල් හයි කරලා පේන්නෙ නැති වෙන්න ඉටි කොලෙකින් වහන්න.ඇස් මට්ටමේ පවා හයි කරන්න දෙපාරක් හිතන්න එපා,අර ගිය පාර කලේ. මන් හිතන්නේ පපුව හරියෙන් ඇනුනොත් හදවතටම බහින දිගත් ඇතිවෙයි. 
-මිලේච්චයි කියන්නේ හරි අහිංසක වචනයක් මේවත් 👇 එක්ක බලනකොට.
-#GoHomeGota2022 #GoHomeGota https://t.co/EAdTZ2nrIT
-
-```
-
-![image](https://pbs.twimg.com/media/FXFI5naWQAcWl4F.jpg)
-
----
-
-2022-07-07 22:22:59 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1545088499409379328)
-
-0 videos, 4 photos
-
-```
-
-Srilanka president will be resign on 9 of July?Sri Lanka president asks Russia’s Vladimir Putin to help import fuel.  https://t.co/cJdBE6aGVU #gohomegota #gohomeranil #srilanka #lk #protest #asia #worldnews #news #vishvanewsoftheworld https://t.co/1K4NLm0Unw
-
-```
-
-![image](https://pbs.twimg.com/media/FXFBydkWIAg90nq.jpg)
-
-![image](https://pbs.twimg.com/media/FXFByqtWIAAngIt.jpg)
-
-![image](https://pbs.twimg.com/media/FXFBy87XgAIIHfp.jpg)
-
-![image](https://pbs.twimg.com/media/FXFBzLsXwAAHjWE.jpg)
 
 ---
