@@ -1,10 +1,176 @@
 # Social Media Photos
 
-*381 tweets as of 20220708-083754*
+*390 tweets as of 20220708-092414*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 09:14:44 by [chamindu1](https://twitter.com/chamindu1/status/1545252517872746496)
+
+0 videos, 1 photos
+
+```
+
+Tomorrow #GoHomeGota #July9th ✊🏾 https://t.co/1CgnfnqESW
+
+```
+
+![image](https://pbs.twimg.com/media/FXHW-IdVUAAqesz.jpg)
+
+---
+
+2022-07-08 09:13:49 by [tr_firefly](https://twitter.com/tr_firefly/status/1545252287999664128)
+
+0 videos, 1 photos
+
+```
+
+Tomorrow we march!
+
+#GoHomeGota https://t.co/QyX0TixICR
+
+```
+
+![image](https://pbs.twimg.com/media/FXHWwrxXgAEeWvL.jpg)
+
+---
+
+2022-07-08 09:04:43 by [Dinujapramudit1](https://twitter.com/Dinujapramudit1/status/1545249999545835521)
+
+0 videos, 3 photos
+
+```
+
+Cartoon car Artwork
+Artstation link - https://t.co/V81RlHZtIx 
+tag - #SriLanka #blender #GoHomeGota #art #3dmodeling #3Danimation #lightingdesign https://t.co/nzuoavhKsw
+
+```
+
+![image](https://pbs.twimg.com/media/FXHThTEaUAAedz1.jpg)
+
+![image](https://pbs.twimg.com/media/FXHThTGaAAE-ena.jpg)
+
+![image](https://pbs.twimg.com/media/FXHThUXaMAEC3Id.jpg)
+
+---
+
+2022-07-08 09:04:36 by [ambikasat](https://twitter.com/ambikasat/status/1545249969086631939)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 
+
+Dayan J once again exhibits his views on the “place” of Tamils in 🇱🇰 society, i.e. not equal citizens but ppl to be tolerated &amp; to whom the South/Sinhalese can give or deny rights. He’s peddling racism while denying it is one of the root causes of ethnic conflict. https://t.co/ADy2pZz71a
+
+```
+
+![image](https://pbs.twimg.com/media/FXHUporWQAIe69b.jpg)
+
+---
+
+2022-07-08 09:04:03 by [cartoonlka](https://twitter.com/cartoonlka/status/1545249830993203202)
+
+0 videos, 1 photos
+
+```
+
+Cartoon by @awanthaartigala 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/IRalugKZep
+
+```
+
+![image](https://pbs.twimg.com/media/FXHUhsVWQAMT_TE.jpg)
+
+---
+
+2022-07-08 08:56:55 by [Economynext](https://twitter.com/Economynext/status/1545248033356812288)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka's influential Buddhist monks start protest to oust #President 
+
+#ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #Colombo #OccupyGalleFace #GoHomeGota #Rajapaksa #Gotabaya #Ranil 
+
+https://t.co/3ovzJYbWsT https://t.co/kteUGzbtN7
+
+```
+
+![image](https://pbs.twimg.com/media/FXHRFe_aUAEBLG4.jpg)
+
+---
+
+2022-07-08 08:50:06 by [TheCitizen1](https://twitter.com/TheCitizen1/status/1545246320730030082)
+
+0 videos, 1 photos
+
+```
+
+පෙට්‍රල් පෝලිමක තවත් මරණයක්.. දෙගොල්ලක් ගහගෙන. රාජපක්ෂලා රටම කාලකන්නි කලා. මිනිස්සු සත්තු වගෙ හැසිරෙන්නෙ. #GoHomeGota https://t.co/EeeP1IL1JA
+
+```
+
+![image](https://pbs.twimg.com/media/FXHRAgrWYAIeAL5.png)
+
+---
+
+2022-07-08 08:46:31 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1545245418161946627)
+
+0 videos, 4 photos
+
+```
+
+Protest Schedule July 08th; 
+
+Get to the streets!
+It’s now or never!
+
+#endgame
+#takebackourpower✊🏾#lka 
+#GotaPoda 
+#GotaPalayang
+#GoHomeGota
+#GoHomeRajapaksas 
+
+Pic 2 by @Amaliniii https://t.co/lAg2rn15HZ
+
+```
+
+![image](https://pbs.twimg.com/media/FXHQgyeWAAc64yh.jpg)
+
+![image](https://pbs.twimg.com/media/FXHQgylX0AAxguH.jpg)
+
+![image](https://pbs.twimg.com/media/FXHQgyZWAAEOsos.jpg)
+
+![image](https://pbs.twimg.com/media/FXHQgycWYAAKxFm.jpg)
+
+---
+
+2022-07-08 08:43:18 by [ManoGanesan](https://twitter.com/ManoGanesan/status/1545244607008899072)
+
+1 videos, 0 photos
+
+```
+
+#9_වැනිදා
+#ගෝඨාභය මේකෙන් යනකන් අපි මේක නවත්තන්නෙ නෑ. 
+https://t.co/yP6RFvLKAp
+
+#අරගලයට_ජයවේවා 
+#GoHomeGota 
+#srilankacrisis 
+#manoganesan 
+#මනෝගනේසන් https://t.co/4yuirhcZHB
+
+```
+
+---
 
 2022-07-08 08:35:30 by [AddictiveAds](https://twitter.com/AddictiveAds/status/1545242643827138561)
 
@@ -1504,113 +1670,5 @@ The plan for this Saturday (9th July), if I can't find transport. Packing runnin
 "The days we were scared of Rajapaksa's guns are over. We are not scared to die, we aren't scared of their gunshots." #ProtestLK #aragalaya #EconomicCrisisLK #OlcottMawatha #GoHomeGota #Rajapaksa #Gotabaya https://t.co/i7cdhtoPaZ
 
 ```
-
----
-
-2022-07-07 17:45:33 by [67ApY7unC7JwfMs](https://twitter.com/67ApY7unC7JwfMs/status/1545018684057341952)
-
-0 videos, 1 photos
-
-```
-
-🤣🤣🤣
-#GoHomeGota 
-#EconomicCrisisLK https://t.co/QfIf0Mz1NX
-
-```
-
-![image](https://pbs.twimg.com/media/FXECTgQUcAAZfnJ.jpg)
-
----
-
-2022-07-07 17:36:50 by [bhanu_subhash](https://twitter.com/bhanu_subhash/status/1545016489769840640)
-
-0 videos, 1 photos
-
-```
-
-#travel #GoHomeGota https://t.co/PrPDSIup9o
-
-```
-
-![image](https://pbs.twimg.com/media/FXEATHtaMAACinn.jpg)
-
----
-
-2022-07-07 17:13:16 by [TechGuyGamunu](https://twitter.com/TechGuyGamunu/status/1545010557811494917)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #lka https://t.co/EGJnX6ftQY
-
-```
-
-![image](https://pbs.twimg.com/media/FXD66V1UUAIKfEb.jpg)
-
----
-
-2022-07-07 17:11:50 by [EvilExecutor](https://twitter.com/EvilExecutor/status/1545010198619664384)
-
-0 videos, 1 photos
-
-```
-
-This is a great gesture. Especially at these hard times. Kudos!
-
-📸 @ Sakya Nugegoda.
-
-#SriLanka #LKA #FuelCrisisLK #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #GotaGoHome #GoHomeGota2022  #GoHomeRanil #GoHomeRajapakshas https://t.co/BknDNDOAvv
-
-```
-
-![image](https://pbs.twimg.com/media/FXD6lY0VUAAqDRo.jpg)
-
----
-
-2022-07-07 17:04:37 by [sunandadesh](https://twitter.com/sunandadesh/status/1545008382368784384)
-
-0 videos, 2 photos
-
-```
-
-Happening now at Lipton Circle, #Colombo 
-#GoHomeGota #SriLanka  #GoHomeRanil https://t.co/DkyZaBnoLD
-
-```
-
-![image](https://pbs.twimg.com/media/FXD45CYXoAEgCfG.jpg)
-
-![image](https://pbs.twimg.com/media/FXD46_GXoAI-AGw.jpg)
-
----
-
-2022-07-07 16:53:33 by [Mevonnn](https://twitter.com/Mevonnn/status/1545005597451755520)
-
-0 videos, 1 photos
-
-```
-
-See you on the 09th
-#GoHomeGota #GoHomeRajapaksas https://t.co/ohrZK9QcYe
-
-```
-
-![image](https://pbs.twimg.com/media/FXD2ZEPaIAMVcki.jpg)
-
----
-
-2022-07-07 16:44:55 by [Heshan_KV](https://twitter.com/Heshan_KV/status/1545003421014835201)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/Woce1IEKrg
-
-```
-
-![image](https://pbs.twimg.com/media/FXD0bF_aIAE_FjJ.jpg)
 
 ---
