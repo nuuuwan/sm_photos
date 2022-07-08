@@ -1,10 +1,131 @@
 # Social Media Photos
 
-*751 tweets as of 20220708-234928*
+*758 tweets as of 20220709-000559*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 00:01:11 by [eyedoc_cornea](https://twitter.com/eyedoc_cornea/status/1545475602295050240)
+
+0 videos, 1 photos
+
+```
+
+Going for “Non essential service “
+ Until “Health” is realized essential in #SriLanka #GoHomeRanil #GoHomeGota https://t.co/XXrvEMMnca
+
+```
+
+![image](twtr_data/1545475602295050240.photo.00.jpg)
+
+---
+
+2022-07-08 23:59:06 by [imfazlullah](https://twitter.com/imfazlullah/status/1545475077411594241)
+
+1 videos, 0 photos
+
+```
+
+🔴 PRESS MEET ::: #Gota Fail That's the reason why Ranil took over as Prime Minister - We approve of the people's stand - Prime Minister will bring revival soon - Palitha Range Bandara - General Secretary - United National Party #EconomicCrisisLK #SriLanka #GoHomeGota #09thJuly https://t.co/RYCdRUvzaV
+
+```
+
+![image](twtr_data/1545475077411594241.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-08 23:58:13 by [sumedhaonline](https://twitter.com/sumedhaonline/status/1545474852802285568)
+
+0 videos, 1 photos
+
+```
+
+මෙන්න ලියුම....දැන් හරි නේද...#GoHomeGota https://t.co/m401syCrJd https://t.co/d8f0vMgBXY
+
+```
+
+![image](twtr_data/1545474852802285568.photo.00.jpg)
+
+---
+
+2022-07-08 23:57:36 by [jayfemrock](https://twitter.com/jayfemrock/status/1545474700620734464)
+
+0 videos, 1 photos
+
+```
+
+Translation: "The police curfew is illegal. The police cannot stop you. If the police try to prevent you from joining the Aragalaya, you can call the Young Lawyers Association - Kusal 0775431696" 
+#GoHomeGota https://t.co/X8Z4tLUcyM
+
+```
+
+![image](twtr_data/1545474700620734464.photo.00.jpg)
+
+---
+
+2022-07-08 23:56:48 by [InshafImam](https://twitter.com/InshafImam/status/1545474498735980544)
+
+0 videos, 1 photos
+
+```
+
+බට නන්දේ masterclass 😭 ⁦@GotabayaR⁩
+
+#GoHomeGota #පලගොටාපල 
+
+Credits to the original creator https://t.co/dmq9pHLovB
+
+```
+
+![image](twtr_data/1545474498735980544.photo.00.jpg)
+
+---
+
+2022-07-08 23:55:27 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545474157395079168)
+
+0 videos, 1 photos
+
+```
+
+බාධා මැද නොසැලී අරගලය නොනැවතී ඉදිරියටම 
+#GoHomeGota https://t.co/soMmPnjGt9
+
+```
+
+![image](twtr_data/1545474157395079168.photo.00.jpg)
+
+---
+
+2022-07-08 23:49:39 by [Angalie96](https://twitter.com/Angalie96/status/1545472697445953536)
+
+0 videos, 3 photos
+
+```
+
+Poor Police Dogs 🤣🤣🤣
+Illegal Police Curfew
+Are you happy now???
+Make sure to sleep under the bed ගෝඨා භය වී ඇත. #Gota
+#Kamal aiya why are you doing these crazy things??? 
+#9thJuly
+#GoHomeGota 
+#GoHomeRanil 
+#GoHomeLKPolice
+#SriLanka
+#SriLankaCrisis 
+#Aragalaya 
+#පන්නමු https://t.co/ScXZX3ihWY
+
+```
+
+![image](twtr_data/1545472697445953536.photo.00.jpg)
+
+![image](twtr_data/1545472697445953536.photo.01.jpg)
+
+![image](twtr_data/1545472697445953536.photo.02.jpg)
+
+---
 
 2022-07-08 23:45:29 by [EvilExecutor](https://twitter.com/EvilExecutor/status/1545471648454742016)
 
@@ -1553,116 +1674,5 @@ This is unacceptable. @GotabayaR @RW_UNP #GoHomeGota @fernandoharin https://t.co
 ```
 
 ![image](twtr_data/1545447893846278144.photo.00.jpg)
-
----
-
-2022-07-08 22:10:22 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545447712274862081)
-
-0 videos, 1 photos
-
-```
-
-නීත්‍යානුකූල නොවන ඇදිරි නීතිය තුළ විරෝධය සඳහා එන ඔබට පොලිස් බාධාවක් ඇති වූ විටෙක නීතිඥ සහය අවශ්‍ය නම් වහාම 0775431696 දුරකථන අංකය ඔස්සේ නීතිඥ කුසල් මහතා සම්බන්ධ කරගන්න. 
-
-#රටමකොළඹට #09july #GoHomeGota #GotaGoHome2022 
-coppied from @She_is_Nu https://t.co/I7r0QkD3lh
-
-```
-
-![image](twtr_data/1545447712274862081.photo.00.jpg)
-
----
-
-2022-07-08 22:09:50 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1545447577520181249)
-
-0 videos, 1 photos
-
-```
-
-The Bar Association of Sri Lanka says Police Ordinance has no provision for imposition of curfew and therefore, curfew currently declared by govt. ‘illegal and a violation of the fundamental rights of the people.’
-#lka #SriLankaCrisis #GoHomeGota https://t.co/T9nalBaNXA
-
-```
-
-![image](twtr_data/1545447577520181249.photo.00.jpg)
-
----
-
-2022-07-08 22:08:39 by [She_is_Nu](https://twitter.com/She_is_Nu/status/1545447283176534016)
-
-0 videos, 1 photos
-
-```
-
-නීත්‍යානුකූල නොවන ඇදිරි නීතිය තුළ විරෝධය සඳහා එන ඔබට පොලිස් බාධාවක් ඇති වූ විටෙක නීතිඥ සහය අවශ්‍ය නම් වහාම 0775431696 දුරකථන අංකය ඔස්සේ නීතිඥ කුසල් මහතා සම්බන්ධ කරගන්න. 
-
-#රටමකොළඹට #09july #GoHomeGota #GotaGoHome2022 https://t.co/JjucCTKDMj
-
-```
-
-![image](twtr_data/1545447283176534016.photo.00.jpg)
-
----
-
-2022-07-08 22:08:09 by [sasajayalath](https://twitter.com/sasajayalath/status/1545447156470784000)
-
-0 videos, 1 photos
-
-```
-
-ජූලි 09 රටම කොලඹට...ඔබත් එන්න අරගල බිමට...
-#GoHomeGota #GoHomeRanil #SrilankanCrisis https://t.co/qlzuJVsoSL
-
-```
-
-![image](twtr_data/1545447156470784000.photo.00.jpg)
-
----
-
-2022-07-08 22:06:08 by [JeyarajanAjanth](https://twitter.com/JeyarajanAjanth/status/1545446648989765632)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota2022 #GoHomeGota https://t.co/iFRcGhvogd
-
-```
-
-![image](twtr_data/1545446648989765632.photo.00.png)
-
----
-
-2022-07-08 21:57:28 by [munza14](https://twitter.com/munza14/status/1545444466655256576)
-
-0 videos, 1 photos
-
-```
-
-Bar Association of Sri Lanka has condemned the declaration of police curfew in parts of the Western Province, and calls for its withdrawal. 
-BASL has also questioned IGP as to what law was used to impose this curfew.
-#LKA #SriLanka #GoHomeGota #SriLankaCrisis #EconomicCrisisLK https://t.co/dk8RKqUUg7
-
-```
-
-![image](twtr_data/1545444466655256576.photo.00.jpg)
-
----
-
-2022-07-08 21:53:57 by [Joseph_S_Fdo](https://twitter.com/Joseph_S_Fdo/status/1545443582340841472)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota2022 
-#GoHomeGota 
-#gohomerajapaksas 
-#GiveOurStolenMoneyBack 
-#gojailrajapaksas https://t.co/G6eahBOjZu
-
-```
-
-![image](twtr_data/1545443582340841472.photo.00.jpg)
 
 ---
