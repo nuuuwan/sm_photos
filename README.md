@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*428 tweets as of 20220708-123824*
+*429 tweets as of 20220708-130018*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 12:53:48 by [Amaliniii](https://twitter.com/Amaliniii/status/1545307648815312898)
+
+1 videos, 0 photos
+
+```
+
+'Filled their stomachs by stealing, censored by arresting, got votes by bombing, hid their faults by murdering' - Namini Panchala 🎶
+
+#lka #SriLanka #GoHomeGota https://t.co/bm17jDEEhk
+
+```
+
+---
 
 2022-07-08 12:36:42 by [sunandadesh](https://twitter.com/sunandadesh/status/1545303346533253120)
 
@@ -1632,20 +1646,5 @@ Contact: Amritha - 077 251 3010
 ![image](https://pbs.twimg.com/media/FXFTszzUYAI5NkW.jpg)
 
 ![image](https://pbs.twimg.com/media/FXFTsz1VEAE2Vco.jpg)
-
----
-
-2022-07-07 23:33:55 by [imdionlloyd](https://twitter.com/imdionlloyd/status/1545106351189151744)
-
-0 videos, 1 photos
-
-```
-
-They will try to go deep as they can to suppress the People and to remain in power. Let's Rally and Join force on the 9th to chase the away Creators of #EconomicCrisisLK. 
-One Day of Sacrifice will ensure peaceful life for the rest of the days to come. #GoHomeGota https://t.co/V1uAL0nRd3
-
-```
-
-![image](https://pbs.twimg.com/media/FXFSCVoWIAAWQN3.jpg)
 
 ---
