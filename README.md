@@ -1,10 +1,29 @@
 # Social Media Photos
 
-*809 tweets as of 20220709-050439*
+*810 tweets as of 20220709-052141*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 05:11:31 by [IsharaMadhu](https://twitter.com/IsharaMadhu/status/1545553699073691648)
+
+1 videos, 0 photos
+
+```
+
+මහපාර තමයි අපි රොද බදින තැන.
+මහපාර තමයි අපි පෙල ගැසෙන තැන.
+සකලවිධ නරැමයන් දනනමන තැන.
+වරෙව් සකියෙනි වරෙව් හද ලෙලවගෙන.✊
+
+The citizens of Sri Lanka have spoken !  🇱🇰 #EndGameOn #GoHomeGota #අරගලයටජය https://t.co/ZulGDI9LBZ
+
+```
+
+![image](twtr_data/1545553699073691648.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-09 04:58:44 by [Abddd1999](https://twitter.com/Abddd1999/status/1545550480939847680)
 
@@ -1797,26 +1816,5 @@ WHAT IS STOPPING YOU? YOU STILL SCARED?
 ```
 
 ![image](twtr_data/1545463405074472961.video.00.mp4.clip.00.png)
-
----
-
-2022-07-08 23:11:18 by [HananCareem1](https://twitter.com/HananCareem1/status/1545463046264434688)
-
-0 videos, 1 photos
-
-```
-
-Let’s unite together for our future generations and for our dawn. 
-
-It’s our time. 
-Let’s protest &amp; create a history. 
-Let’s get rid of this cursed leadership. 
-Be a part of this and prove solidarity
-
-#GoHomeGota #protest #july9th https://t.co/99Zv1l29rA
-
-```
-
-![image](twtr_data/1545463046264434688.photo.00.jpg)
 
 ---
