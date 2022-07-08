@@ -58,5 +58,5 @@ def download_and_save_data(tweet_info):
 
 
 def download_and_save(tweet_info):
-    expanded_tweet_info = download_and_save_media(tweet_info)
-    download_and_save_data(expanded_tweet_info)
+    download_and_save_media(tweet_info)
+    download_and_save_data(tweet_info)
