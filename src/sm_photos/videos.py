@@ -1,5 +1,4 @@
 import os
-
 from moviepy.editor import VideoFileClip
 
 from sm_photos._constants import DIR_TWTR_DATA

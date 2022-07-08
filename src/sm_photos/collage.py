@@ -34,9 +34,7 @@ def build_collage():
         )
         image_resized = image_collage.resize((width, height))
 
-        collage_resized_file = os.path.join(
-            DIR_DATA, f'collage-{width}x.png'
-        )
+        collage_resized_file = os.path.join(DIR_DATA, f'collage-{width}x.png')
         image_resized.save(collage_resized_file)
         log.info(f'Wrote images to {collage_resized_file}')
 
