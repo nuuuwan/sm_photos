@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*784 tweets as of 20220709-020731*
+*786 tweets as of 20220709-022239*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 02:19:58 by [RTR_edirisinghe](https://twitter.com/RTR_edirisinghe/status/1545510527933116421)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/pZJ4DkTPip
+
+```
+
+![image](twtr_data/1545510527933116421.photo.00.jpg)
+
+---
+
+2022-07-09 02:19:38 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545510444890173440)
+
+1 videos, 0 photos
+
+```
+
+&amp; the night goes on &amp; on! 
+
+See you in the morning!! 
+
+#GoHomeGota #GoHomeRanil https://t.co/PMRmwhwKTG
+
+```
+
+![image](twtr_data/1545510444890173440.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-09 01:56:00 by [iAnuradhaS](https://twitter.com/iAnuradhaS/status/1545504495672561664)
 
@@ -1661,38 +1693,5 @@ This is the most beautiful thing I see today. Sisters are coming together to sav
 ```
 
 ![image](twtr_data/1545456182353367040.photo.00.jpg)
-
----
-
-2022-07-08 22:43:58 by [sunandadesh](https://twitter.com/sunandadesh/status/1545456168214085632)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLanka  #GoHomeRanil  
-There is no  term called Police Curfew, It is not legal - @HRCSriLanka https://t.co/s5TCQ1m2Il
-
-```
-
-![image](twtr_data/1545456168214085632.photo.00.png)
-
----
-
-2022-07-08 22:43:37 by [arshadnajudeen](https://twitter.com/arshadnajudeen/status/1545456080725032960)
-
-0 videos, 1 photos
-
-```
-
-Did someone say curfew?
-
-We are in Thummulla. Scores of people in line to pump fuel. Majority of them were positive they will walk to Galleface to join the #Aragalaya
-
-#endgame2022 #GoHomeGota https://t.co/fqWcvX5jqB
-
-```
-
-![image](twtr_data/1545456080725032960.photo.00.jpg)
 
 ---
