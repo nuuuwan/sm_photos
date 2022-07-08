@@ -1,10 +1,31 @@
 # Social Media Photos
 
-*434 tweets as of 20220708-134912*
+*435 tweets as of 20220708-140433*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 13:49:45 by [nxtgen_sl](https://twitter.com/nxtgen_sl/status/1545321728918065153)
+
+0 videos, 1 photos
+
+```
+
+ඔක්කොම කට්ටිය පාරට බහින්න ඕනේ....
+සමහරවිට ඇඳිරි නීති දෙම්මොත් ඔක්කොම කට්ටිය ගෙදර හිටගනින් ඉන්නවා ...
+ඔබ අනාගත සඳහා...
+ඉල්ලා සිටිනවා...කරුණා කරලා එකතුවෙන්න...
+අරගලයට ජයවේවා....
+#GoHomeGota 
+#July9th 
+#SriLanka https://t.co/99f4fG2bAp
+
+```
+
+![image](https://pbs.twimg.com/media/FXIV67caAAAQVdS.jpg)
+
+---
 
 2022-07-08 13:36:24 by [IjazDil1](https://twitter.com/IjazDil1/status/1545318367242104832)
 
@@ -1612,29 +1633,5 @@ Angry #SriLankan asking for #GoHomeGota
 ```
 
 ![image](https://pbs.twimg.com/media/FXFcf4CVsAAVUoy.jpg)
-
----
-
-2022-07-08 00:06:49 by [adopteeslk](https://twitter.com/adopteeslk/status/1545114629650624512)
-
-0 videos, 4 photos
-
-```
-
-Beautiful 2 month old kittens up for free adoption at Colombo. Boy &amp; girl. Litter trained, playful, active &amp; affectionate. Dewormed &amp; vaccinated. Can deliver within Colombo.
-
-Contact: Ameen - 077 796 3431
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala https://t.co/2UkR7tknAX
-
-```
-
-![image](https://pbs.twimg.com/media/FXFZkCnVUAAN_ec.jpg)
-
-![image](https://pbs.twimg.com/media/FXFZkCoVQAAwZXQ.jpg)
-
-![image](https://pbs.twimg.com/media/FXFZkCmVEAAQ-mU.jpg)
-
-![image](https://pbs.twimg.com/media/FXFZkCmUsAA0NMG.jpg)
 
 ---
