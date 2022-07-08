@@ -1,10 +1,129 @@
 # Social Media Photos
 
-*443 tweets as of 20220708-143921*
+*451 tweets as of 20220708-150307*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 15:00:21 by [BandhiniF](https://twitter.com/BandhiniF/status/1545339497839296512)
+
+1 videos, 0 photos
+
+```
+
+Announcement at the platform.
+#GoHomeGota #EconomicCrisisLK https://t.co/IaUfpASTT6
+
+```
+
+---
+
+2022-07-08 14:54:34 by [bkdvv94](https://twitter.com/bkdvv94/status/1545338041673195521)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR This is Achila an undergrad student age of 25 whose father was a real war hero who sacrificed his life to the country ( unlike you ). This boy died in a fuel queue today because of your incompetence. If you really value a human life GO HOME NOW!!!
+#GoHomeGota https://t.co/BAhk9ziWfv
+
+```
+
+![image](https://pbs.twimg.com/media/FXIkwlwUEAAPfPN.jpg)
+
+---
+
+2022-07-08 14:52:22 by [MohamedFuward](https://twitter.com/MohamedFuward/status/1545337485852454912)
+
+0 videos, 1 photos
+
+```
+
+Here the list of citizens who have died waiting in a queues because of you and your family!
+@GotabayaR 
+@RW_UNP 
+@fernandoharin 
+#GoHomeGota https://t.co/I41pnzkALk
+
+```
+
+![image](https://pbs.twimg.com/media/FXIkP1wUsAAL6Hm.jpg)
+
+---
+
+2022-07-08 14:49:09 by [STINGRAY_20000](https://twitter.com/STINGRAY_20000/status/1545336675739414528)
+
+0 videos, 1 photos
+
+```
+
+I've lost my future, freedom,happiness I had before. So many people died in the past few weeks but these scums never do anything thing to solve the #SriLankaEconomicCrisis Now we had enough of this nonsense.Let's fill up the streets a fight for our rights
+#GoHomeGota
+#GoHomeRanil https://t.co/FUoLBzdcsE
+
+```
+
+![image](https://pbs.twimg.com/media/FXIjg-cVQAAsAow.jpg)
+
+---
+
+2022-07-08 14:49:04 by [shabeer_kamil](https://twitter.com/shabeer_kamil/status/1545336655556612096)
+
+0 videos, 1 photos
+
+```
+
+රටම කොළඹට..
+#GoHomeGota https://t.co/ARpOR2SdW3
+
+```
+
+![image](https://pbs.twimg.com/media/FXIjfhuWAAAYwnC.jpg)
+
+---
+
+2022-07-08 14:46:29 by [Welikumbura](https://twitter.com/Welikumbura/status/1545336006345314304)
+
+0 videos, 1 photos
+
+```
+
+A group of youths from the #Aragalaya met with @UNSriLanka representatives to inform them about the 9th protest.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/KkBkBGEtaD
+
+```
+
+![image](https://pbs.twimg.com/media/FXIi6FAaIAAUMjy.jpg)
+
+---
+
+2022-07-08 14:43:43 by [isuruthiwa](https://twitter.com/isuruthiwa/status/1545335308748992513)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota #FinalDayOfGota #EndOfRajapaksaRegime https://t.co/EU0HQyqKa1
+
+```
+
+---
+
+2022-07-08 14:40:15 by [MoulanaAmjad](https://twitter.com/MoulanaAmjad/status/1545334436627042306)
+
+1 videos, 0 photos
+
+```
+
+Watch how the gent in the back loses it as PUCSL chair undresses himself! 🤣🤣
+
+#GoHomeGota https://t.co/gJL64y12ty https://t.co/qya7VlyA1Q
+
+```
+
+---
 
 2022-07-08 14:33:00 by [Welikumbura](https://twitter.com/Welikumbura/status/1545332613841162240)
 
@@ -1512,132 +1631,5 @@ Don't forget @RajapaksaNamal. Dont want SL to be like this again in like 10/15 y
 ```
 
 ![image](https://pbs.twimg.com/media/FXGYDGrXoAAD28I.png)
-
----
-
-2022-07-08 03:14:50 by [cartoonlka](https://twitter.com/cartoonlka/status/1545161945916944384)
-
-0 videos, 1 photos
-
-```
-
-Dayan Kottachchi cartoon 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/LUW4mWXRuq
-
-```
-
-![image](https://pbs.twimg.com/media/FXGEmHKWIAEw08T.jpg)
-
----
-
-2022-07-08 03:14:48 by [ordealeus](https://twitter.com/ordealeus/status/1545161936693694464)
-
-1 videos, 0 photos
-
-```
-
-I just want to talk to President Gotabaya.
-#GoHomeGota2022 #GoHomeGota #GoHomeRanil #GotaGoGama #GotaGoHome #GotaGoHome2022 #lka #Aragalaya https://t.co/iQ99lyMWK4
-
-```
-
----
-
-2022-07-08 02:24:21 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1545149241114480643)
-
-1 videos, 0 photos
-
-```
-
-Igniting the Aragalaya, people march from Chilaw to Colombo for the 9th mass protest!💪🏾 
-
-Get to the streets!
-It’s now or never!
-
-#endgame 
-#takebackourpower✊🏾#lka 
-#GotaPoda 
-#GotaPalayang
-#GoHomeGota
-#GoHomeRajapaksas https://t.co/JzCGNH8atk
-
-```
-
----
-
-2022-07-08 01:38:43 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1545137758615764992)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota https://t.co/BYitFssJsA
-
-```
-
-![image](https://pbs.twimg.com/media/FXFumZgXoAICPrS.jpg)
-
----
-
-2022-07-08 01:07:23 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545129871226990592)
-
-0 videos, 1 photos
-
-```
-
-🥽
-
-#GoHomeGota https://t.co/rcs6s5agol
-
-```
-
-![image](https://pbs.twimg.com/media/FXFnbORakAAU0qM.jpg)
-
----
-
-2022-07-08 00:59:14 by [Makerevolution1](https://twitter.com/Makerevolution1/status/1545127821688725504)
-
-0 videos, 1 photos
-
-```
-
-என் இலங்கை சகோதரி சகோதரர்களே சில சுயநலம் பிடித்த அரசியல்வாதிகளால் இத்தனை வருடங்கள் நாம் இன,மதம், ஜாதி மற்றும் மொழியால் பிரிக்கப்பட்டு  இருந்தோம் ஆனால் இப்போது நாம் ஒன்றாக ஒற்றுமையாக போராட நேரம் வந்து விட்டது.மாற்றம் ஒன்றே மாறாதது .
-#GoHomeGota #SriLankaProtests https://t.co/ypPssclGpP
-
-```
-
-![image](https://pbs.twimg.com/media/FXFlkKmWIAEisjd.jpg)
-
----
-
-2022-07-08 00:56:54 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545127235086008320)
-
-0 videos, 1 photos
-
-```
-
-මුලු රටම කොටුවට 
-
-#GoHomeGota https://t.co/xh41Yn2nPc
-
-```
-
-![image](https://pbs.twimg.com/media/FXFlBjpXwAEB93D.jpg)
-
----
-
-2022-07-08 00:55:13 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1545126811855642624)
-
-0 videos, 1 photos
-
-```
-
-Respect to 🇨🇦Canadian High Commissioner to #SriLanka @McKinnonDavid for stating
-"Particularly at this sensitive time, the democratic right to peaceful protest must be respected throughout the country." #GoHomeGota https://t.co/BOuBLQnolz https://t.co/ixjTjLplhU
-
-```
-
-![image](https://pbs.twimg.com/media/FXFkpXGWIAYF13z.jpg)
 
 ---
