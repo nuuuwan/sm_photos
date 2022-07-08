@@ -1,10 +1,71 @@
 # Social Media Photos
 
-*430 tweets as of 20220708-131653*
+*434 tweets as of 20220708-134912*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 13:36:24 by [IjazDil1](https://twitter.com/IjazDil1/status/1545318367242104832)
+
+0 videos, 1 photos
+
+```
+
+It's a guts💪🏼
+
+#GoHomeGota #GoHomeRanil #publicprotest https://t.co/0gC3yFtSRe
+
+```
+
+![image](https://pbs.twimg.com/media/FXIS1rzVsAE62hE.jpg)
+
+---
+
+2022-07-08 13:23:30 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1545315123765678080)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota #GoHomeGota2022 #GotaGoHome #GotaGoHome2022 #GotaGoGama #SriLanka #SriLankaCrisis #SriLankaEconomicCrisis #SriLankaProtests #July9th #july9 #GoHomeRajapaksas @nuzlyMN @thila794 @Hirunikaconnect @RehanJayawick @munza14 @roelraymond @AthaudaDasuni @Bloktimus https://t.co/Ge3hoMVtl5
+
+```
+
+---
+
+2022-07-08 13:21:43 by [abdulthawwab](https://twitter.com/abdulthawwab/status/1545314675335872521)
+
+1 videos, 0 photos
+
+```
+
+ශ්‍රී ලංකා ඉතිහාසයේ ශ්‍රේෂ්ඨතම මහජන පිබිදීම 🇱🇰
+
+The greatest public awakening in the history of Sri Lanka 🇱🇰
+
+இலங்கை வரலாற்றில் மிகப்பெரும் பொது விழிப்புணர்வு 🇱🇰
+
+@nuzlyMN @thila794 #lka #GoHomeGota @Hirunikaconnect @RehanJayawick @munza14 @roelraymond @AthaudaDasuni @Bloktimus https://t.co/o6vB0lao12
+
+```
+
+---
+
+2022-07-08 13:15:55 by [sunandadesh](https://twitter.com/sunandadesh/status/1545313215017631744)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #SriLanka  #GoHomeRanil
+10,000 Police and armed forces to be deployed in Colombo, #SriLanka to face people's peaceful protest plans for tomorrow, says informed sources. ( Image a leaked note on how to deploy forces tomorrow) https://t.co/QTYzLD28sx
+
+```
+
+![image](https://pbs.twimg.com/media/FXINzqEXEAI0tN-.jpg)
+
+---
 
 2022-07-08 13:10:57 by [kavinuishere](https://twitter.com/kavinuishere/status/1545311965114863616)
 
@@ -1575,71 +1636,5 @@ Contact: Ameen - 077 796 3431
 ![image](https://pbs.twimg.com/media/FXFZkCmVEAAQ-mU.jpg)
 
 ![image](https://pbs.twimg.com/media/FXFZkCmUsAA0NMG.jpg)
-
----
-
-2022-07-08 00:05:44 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1545114358358765568)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR Ubath Pala Or We Will Kick You Out Lika A Dog 🐕 
-#GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapakshas #EconomicCrisisLK https://t.co/9ath9DWZTz
-
-```
-
-![image](https://pbs.twimg.com/media/FXFZUR9UIAAG90m.jpg)
-
----
-
-2022-07-08 00:03:26 by [adopteeslk](https://twitter.com/adopteeslk/status/1545113778798280704)
-
-0 videos, 4 photos
-
-```
-
-Lovely 7 month old girl up for free adoption at Ratmalana. Very playful, energetic &amp; active. Dewormed.
-
-Contact: Judith - 071 550 5591
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/T0UIjsadQF
-
-```
-
-![image](https://pbs.twimg.com/media/FXFYycIUIAAwx04.jpg)
-
-![image](https://pbs.twimg.com/media/FXFYycIVQAAFudg.jpg)
-
-![image](https://pbs.twimg.com/media/FXFYycHUcAAI4Xb.jpg)
-
-![image](https://pbs.twimg.com/media/FXFYycJVsAA9Q-z.jpg)
-
----
-
-2022-07-07 23:52:19 by [MkAbdulAzees56](https://twitter.com/MkAbdulAzees56/status/1545110981625483265)
-
-1 videos, 0 photos
-
-```
-
-Ane sir please tell @GotabayaR 
-#GoHomeRajapakshas #GoHomeGota https://t.co/7w5hQ2s22U
-
-```
-
----
-
-2022-07-07 23:50:39 by [_thinkholic](https://twitter.com/_thinkholic/status/1545110564229197824)
-
-0 videos, 1 photos
-
-```
-
-#රටමකොළඹට #JoinTheProtest #SriLankaUprising #GoHomeGota #GoHomeRajapaksas https://t.co/xh4Vwhtfa0
-
-```
-
-![image](https://pbs.twimg.com/media/FXFV29rWAAETEFI.jpg)
 
 ---
