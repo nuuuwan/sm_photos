@@ -1,10 +1,93 @@
 # Social Media Photos
 
-*557 tweets as of 20220708-185726*
+*562 tweets as of 20220708-192104*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 19:15:00 by [OneAahad](https://twitter.com/OneAahad/status/1545403580995223553)
+
+0 videos, 2 photos
+
+```
+
+#SL Rulers Destroying #SriLanka . Our Motherland is Crying 😢do you feel it ?Let's wakeup  sound on July 9 to Save Our Sri Lanka.
+
+#GoHomeGota #GoHomeRanil  #Aragalaya #SriLankaCrisis #FuelCrisisLK #EconomicCrisisLK  #srilankanpoliticalcrisis #GoHomeGota2022 https://t.co/yHDIB5jDuh
+
+```
+
+![image](twtr_data/1545403580995223553.photo.01.png)
+
+![image](twtr_data/1545403580995223553.photo.00.jpg)
+
+---
+
+2022-07-08 19:12:03 by [waasds92](https://twitter.com/waasds92/status/1545402840322936832)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota2022 
+#GoHomeGota 
+#SriLanka 
+#EconomicCrisisLK https://t.co/7gQ1PbdJ2w
+
+```
+
+![image](twtr_data/1545402840322936832.photo.00.jpg)
+
+---
+
+2022-07-08 19:10:58 by [Shashini_02](https://twitter.com/Shashini_02/status/1545402565176999937)
+
+0 videos, 1 photos
+
+```
+
+THE POWER THIS PICTURE HOLDS!😶🔥 May God protect all these protestors and give them more strength! #GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapaksas https://t.co/uF7Lgr8k3t
+
+```
+
+![image](twtr_data/1545402565176999937.photo.00.jpg)
+
+---
+
+2022-07-08 19:03:19 by [AjJaasir](https://twitter.com/AjJaasir/status/1545400641631109126)
+
+2 videos, 0 photos
+
+```
+
+#GoHomeGota
+The government is bringing reinforcements to #Colombo to face tomorrow's protests. The 
+
+#lka #SriLanka #SriLankaCrisis #GoHomeGota #GoHomeRanil #අරගලයටජය #රටමකොළඹට https://t.co/13121lvAgW https://t.co/Y3cZaJf4OB https://t.co/NL9M20h0G0
+
+```
+
+![image](twtr_data/1545400641631109126.video.01.mp4.clip.00.png)
+
+![image](twtr_data/1545400641631109126.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-08 18:57:20 by [Faleaderofheart](https://twitter.com/Faleaderofheart/status/1545399134034616320)
+
+0 videos, 1 photos
+
+```
+
+Let’s Change Tomorrow 9th Together 
+#GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #GoHomeRanil #EconomicCrisisLK #GotaGoGama #costofliving https://t.co/sh0bgg7smn
+
+```
+
+![image](twtr_data/1545399134034616320.photo.00.jpg)
+
+---
 
 2022-07-08 18:53:51 by [sumudu231](https://twitter.com/sumudu231/status/1545398257568092160)
 
@@ -1564,80 +1647,5 @@ On the Protests tomorrow 11/12
 ```
 
 ![image](twtr_data/1545345175207432192.photo.00.jpg)
-
----
-
-2022-07-08 15:22:54 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345169423503360)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 10/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/NwLLDCamSc
-
-```
-
-![image](twtr_data/1545345169423503360.photo.00.jpg)
-
----
-
-2022-07-08 15:22:52 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345163803107329)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 9/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/Mg2FgDDBsN
-
-```
-
-![image](twtr_data/1545345163803107329.photo.00.jpg)
-
----
-
-2022-07-08 15:22:51 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345158719635461)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 8/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/XbPvONXdWa
-
-```
-
-![image](twtr_data/1545345158719635461.photo.00.jpg)
-
----
-
-2022-07-08 15:22:50 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345153803894784)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 7/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/WJbK5X8DDg
-
-```
-
-![image](twtr_data/1545345153803894784.photo.00.jpg)
-
----
-
-2022-07-08 15:22:49 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345148712001536)
-
-0 videos, 1 photos
-
-```
-
-On the Protests tomorrow 6/12 
-#GoHomeGota #GotaGoHome #GotaGoGama #SriLanka #SriLankaEconomicCrisis https://t.co/DwBh7CV4I7
-
-```
-
-![image](twtr_data/1545345148712001536.photo.00.jpg)
 
 ---
