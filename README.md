@@ -1,10 +1,56 @@
 # Social Media Photos
 
-*440 tweets as of 20220708-142633*
+*443 tweets as of 20220708-143921*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 14:33:00 by [Welikumbura](https://twitter.com/Welikumbura/status/1545332613841162240)
+
+1 videos, 0 photos
+
+```
+
+.@GotabayaR &amp; @RW_UNP, If you can't listen to us, listen to what clown🤡  prince says.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaCrisis https://t.co/d171milCuR
+
+```
+
+---
+
+2022-07-08 14:32:11 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545332408048046080)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/60dZtTgiMF
+🛑උඹලට තියෙන්න තව පැය කීපයක් පමණයි -  ජූලි 9 මොකද වෙන්නේ අරගලකරුවන්ගේ දැනුවත් කිරීම මෙන්න
+#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/Ynb0pBZO7R
+
+```
+
+![image](https://pbs.twimg.com/media/FXIfn4FakAAZltq.jpg)
+
+---
+
+2022-07-08 14:31:00 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545332111082528768)
+
+0 videos, 1 photos
+
+```
+
+Its Now or Never! Lets Do this! 
+
+#GoHomeGota #GoHomeRanil https://t.co/V73O4ISCOl
+
+```
+
+![image](https://pbs.twimg.com/media/FXIfW8yXwAAr13l.jpg)
+
+---
 
 2022-07-08 14:20:44 by [Welikumbura](https://twitter.com/Welikumbura/status/1545329524778627073)
 
@@ -1593,51 +1639,5 @@ Respect to 🇨🇦Canadian High Commissioner to #SriLanka @McKinnonDavid for st
 ```
 
 ![image](https://pbs.twimg.com/media/FXFkpXGWIAYF13z.jpg)
-
----
-
-2022-07-08 00:52:14 by [AnupaCrypto](https://twitter.com/AnupaCrypto/status/1545126060378845184)
-
-0 videos, 1 photos
-
-```
-
-#GohomeGota https://t.co/W9w4cmsJS6
-
-```
-
-![image](https://pbs.twimg.com/media/FXFj9MvWAAQxwsu.jpg)
-
----
-
-2022-07-08 00:33:49 by [anuradhasenana3](https://twitter.com/anuradhasenana3/status/1545121425077309440)
-
-0 videos, 1 photos
-
-```
-
-තව දින 1 යි 
-
-#GoHomeGota https://t.co/JgZ35jwQDj
-
-```
-
-![image](https://pbs.twimg.com/media/FXFfvX3XEAEacUJ.jpg)
-
----
-
-2022-07-08 00:33:36 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545121371239239680)
-
-0 videos, 1 photos
-
-```
-
-Tomorrow is the Big Day! 
-
-#GoHomeGota https://t.co/axGWkG7kAH
-
-```
-
-![image](https://pbs.twimg.com/media/FXFfsMdX0AUQxyP.jpg)
 
 ---
