@@ -1,10 +1,128 @@
 # Social Media Photos
 
-*466 tweets as of 20220708-154402*
+*473 tweets as of 20220708-160229*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 15:59:12 by [pahanmith](https://twitter.com/pahanmith/status/1545354305770647553)
+
+0 videos, 1 photos
+
+```
+
+Why is he not shocked about the prevailing situation in Sri Lanka?
+His excellency joker🃏...acting funnily 
+Do you agree?
+#GoHomeGota #GoHomeRajapakshas #GoHomeRanil #GotaGoGama https://t.co/TbsJxANhRv
+
+```
+
+![image](https://pbs.twimg.com/media/FXIzjJ_acAY5Oyv.jpg)
+
+---
+
+2022-07-08 15:56:34 by [kalanaananda](https://twitter.com/kalanaananda/status/1545353642256896002)
+
+0 videos, 1 photos
+
+```
+
+ජූලි නමය... 
+රටම එකට...
+#GoHomeGota #GoHomeRajapaksas #lka https://t.co/jsSuIRxaLk
+
+```
+
+![image](https://pbs.twimg.com/media/FXIy8obUIAMhA3h.jpg)
+
+---
+
+2022-07-08 15:55:46 by [Welikumbura](https://twitter.com/Welikumbura/status/1545353441131671552)
+
+1 videos, 0 photos
+
+```
+
+Preparations for tomorrow's protest at #GotaGoGama.
+
+📷: Kalpa Rajapaksha
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaProtests #ProtestLK #අරගලයටජය https://t.co/hgcn6HOkFP
+
+```
+
+---
+
+2022-07-08 15:55:46 by [CJChathura](https://twitter.com/CJChathura/status/1545353441844703232)
+
+0 videos, 1 photos
+
+```
+
+Look people… @LankaIOCPLC have been advised to discontinue the supply. Means, චීත්ත නන්දේ and his cowards are behind this. So, don’t stay in queues today and tomorrow. Go to #GotaGoGama at #GalleFace instead. Another failure for sir as usual!!
+
+#GoHomeGota #GoHomeRajapaksas https://t.co/7BDMuAB440
+
+```
+
+![image](https://pbs.twimg.com/media/FXIywimXEAEXN0w.jpg)
+
+---
+
+2022-07-08 15:52:00 by [Angalie96](https://twitter.com/Angalie96/status/1545352495760699392)
+
+1 videos, 0 photos
+
+```
+
+🥺🥹🙌🙏🇱🇰❤️
+#9thJuly
+#LetsSaveOurMotherlandLK
+#GoHomeGota
+#GoHomeRanil
+#ProtestLK
+#SriLanka 
+#SriLankaCrisis 
+#SriLankaEconomicCrisis https://t.co/vfcOeGZuCo
+
+```
+
+---
+
+2022-07-08 15:45:40 by [akakawwa](https://twitter.com/akakawwa/status/1545350898196484096)
+
+0 videos, 1 photos
+
+```
+
+Meanwhile in a parallel universe 🫠
+#lka #GoHomeGota https://t.co/c8vvA2lgYe
+
+```
+
+![image](https://pbs.twimg.com/media/FXIwOAKVsAA1m3v.jpg)
+
+---
+
+2022-07-08 15:43:56 by [Welikumbura](https://twitter.com/Welikumbura/status/1545350462588653568)
+
+0 videos, 1 photos
+
+```
+
+1,000s of @IUSFSL &amp; @iubfsl students march towards #GotaGoGama to participate in tomorrow's protest. 
+
+📷: @ThilinaKalu 
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaProtests #ProtestLK #රටමකොළඹට #අරගලයටජය https://t.co/xJkMtc7UoT
+
+```
+
+![image](https://pbs.twimg.com/media/FXIwDhmacAAdtxi.jpg)
+
+---
 
 2022-07-08 15:32:45 by [Welikumbura](https://twitter.com/Welikumbura/status/1545347649813217281)
 
@@ -1493,103 +1611,5 @@ One more day. #GoHomeGota2022 #GoHomeGota #GoHomeRajapaksas https://t.co/qNhoCur
 ```
 
 ![image](https://pbs.twimg.com/media/FXHIl0CXwAMOVz8.jpg)
-
----
-
-2022-07-08 08:10:42 by [venurath1](https://twitter.com/venurath1/status/1545236404283707393)
-
-0 videos, 1 photos
-
-```
-
-#gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #GoHomeGota2022 https://t.co/YGYXIM2HpL
-
-```
-
-![image](https://pbs.twimg.com/media/FXHIQ-MVEAAENJJ.jpg)
-
----
-
-2022-07-08 08:09:47 by [venurath1](https://twitter.com/venurath1/status/1545236173223706625)
-
-0 videos, 1 photos
-
-```
-
-ජුලී 9 කොළඹට #gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #GoHomeGota2022 https://t.co/EUlSBhBtjd
-
-```
-
-![image](https://pbs.twimg.com/media/FXHH_LMUUAAWBjh.jpg)
-
----
-
-2022-07-08 08:09:05 by [venurath1](https://twitter.com/venurath1/status/1545235995385163776)
-
-0 videos, 1 photos
-
-```
-
-#gohomegota #EconomicCrisisLK #protest #ika #srilanka #endgame2022 #gohomegota2022 https://t.co/Rtz1qOVs9P
-
-```
-
-![image](https://pbs.twimg.com/media/FXHGloYUsAEfD5t.png)
-
----
-
-2022-07-08 08:07:24 by [karvindass](https://twitter.com/karvindass/status/1545235571617935360)
-
-0 videos, 1 photos
-
-```
-
-Washington #GoHomeGota Protest @ 3025 Whitehaven St NW (Sri Lankan Embassy) at 12pm, #July9th  FB Event link with contact info: https://t.co/rprkmbnWno 4/6 https://t.co/10TeeEJPwo
-
-```
-
-![image](https://pbs.twimg.com/media/FXHEKzUUEAAiOW7.jpg)
-
----
-
-2022-07-08 08:07:24 by [karvindass](https://twitter.com/karvindass/status/1545235575531192321)
-
-0 videos, 1 photos
-
-```
-
-Phoenix (Motorcade) #GoHomeGota Protest @ Grant Street West of Seventh Avenue at 4pm, #July9th  FB Event link with contact info: https://t.co/V3iPuUUvgP 5/6 https://t.co/D7x9CsYFFP
-
-```
-
-![image](https://pbs.twimg.com/media/FXHE-sRUsAA5FTH.jpg)
-
----
-
-2022-07-08 08:07:23 by [karvindass](https://twitter.com/karvindass/status/1545235568044347392)
-
-0 videos, 1 photos
-
-```
-
-Chicago (Warrenville) #GoHomeGota Protest @ Blackwell Forest Preserve Park, Butterfield Rd, Warrenville at 9:30am, #July9th  FB Event link with contact info: https://t.co/48flzOhflY 3/6 https://t.co/X114VM97Eh
-
-```
-
-![image](https://pbs.twimg.com/media/FXHDv0FUcAAFki8.jpg)
-
----
-
-2022-07-08 08:07:22 by [karvindass](https://twitter.com/karvindass/status/1545235563971678209)
-
-0 videos, 1 photos
-
-```
-
-Staten Island  #GoHomeGota Protest @ 10 Richmond Terrace, Borough Hall (In front of ferry terminal exit) at 3pm, #July9th. FB Event link with contact info: https://t.co/ceKxCbu6L8 2/6 https://t.co/IVKjZZo09r
-
-```
-
-![image](https://pbs.twimg.com/media/FXHDiRLVUAAAVga.jpg)
 
 ---
