@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/I_am_Thomi/status/1545412863774208001",
+  "id": 1545412863774208001,
+  "user": "I_am_Thomi",
+  "time_create_ut": 1657290113,
+  "text": "\u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0db4\u0dbd\u0dca\u0dbd\u0dcf \u0db1\u0dd0\u0d9c\u0dd2\u0da7\u0db4\u0dbd\u0dca\u0dbd\u0dcf\n\u0db1\u0dd4\u0db9\u0dbd\u0d9c\u0dda \u0dc0\u0dcf\u0dbb\u0dba \u0d87\u0dc0\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \n\n\u0dbb\u0dd9\u0da7\u0dda\u0db8 \u0d86\u0daf\u0dbb\u0dda #\u0d85\u0db1\u0dca\u0dad\u0dbb\u0dda\u0da7 \n\n#GoHomeGota https://t.co/FycTdFDcQ1",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545412822045179904/pu/vid/398x222/FLAwHAI9F8Xd7ube.mp4"
+  ],
+  "video_file_name": "twtr_data/1545412863774208001.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545412863774208001.video.00.mp4.clip.00.png"
+  ]
+}
