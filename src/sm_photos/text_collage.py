@@ -26,7 +26,7 @@ def get_average(pixels):
         )
         / len(pixels)
     )
-r
+
 
 def build_text_collage(base_image_file, photo_file_list):
     base_image = Image.open(base_image_file)
