@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*410 tweets as of 20220708-110412*
+*411 tweets as of 20220708-111946*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 11:06:06 by [nftarts_design](https://twitter.com/nftarts_design/status/1545280546246459392)
+
+0 videos, 1 photos
+
+```
+
+#අරගලයටජය
+#GoHomeGota 
+#GoHomeRajapakshas 
+#GoHomeRanil https://t.co/9O6irVEcnt
+
+```
+
+![image](https://pbs.twimg.com/media/FXHwd3fXkAElT6p.jpg)
+
+---
 
 2022-07-08 10:59:28 by [Rasiya_Twitz](https://twitter.com/Rasiya_Twitz/status/1545278875801792513)
 
@@ -1656,25 +1673,5 @@ Dhammika Camp #Srilanka #GoHomeGota https://t.co/M1tLgrYZzV
 ```
 
 ![image](https://pbs.twimg.com/media/FXEvWOxX0AA_MOR.jpg)
-
----
-
-2022-07-07 20:47:46 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545064536985980928)
-
-0 videos, 2 photos
-
-```
-
-Warm up for Saturday! 
-
-Lets Do this! 
-
-#GoHomeGota #GoHomeRanil https://t.co/Dl6tqLSI9i
-
-```
-
-![image](https://pbs.twimg.com/media/FXEr_XjaAAAKSuC.jpg)
-
-![image](https://pbs.twimg.com/media/FXEr_XkaQAEWEBP.jpg)
 
 ---
