@@ -1,10 +1,89 @@
 # Social Media Photos
 
-*786 tweets as of 20220709-024154*
+*790 tweets as of 20220709-030259*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 02:46:07 by [sanduabey](https://twitter.com/sanduabey/status/1545517109001695232)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR So you DO get news from Japan. Gono, here's a picture of the Japanese monorail train for you. 
+First, have a good look at it.
+Now, Look outside your window, and then tweet us how SHOCKED you are.
+
+#GoHomeGota2022 #GoHomeGota #Aragalaya https://t.co/UlMJF5Zfgm
+
+```
+
+![image](twtr_data/1545517109001695232.photo.00.jpg)
+
+---
+
+2022-07-09 02:41:34 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1545515963176534016)
+
+0 videos, 4 photos
+
+```
+
+Protest Schedule July 09 - D-Day✊🏾
+
+Everyone to the Streets!
+If stopped, protest whereever you are stopped!
+DO NOT GO BACK HOME!
+
+#EndGame
+#GoHomeGota https://t.co/OU8PDstH0s
+
+```
+
+![image](twtr_data/1545515963176534016.photo.02.jpg)
+
+![image](twtr_data/1545515963176534016.photo.01.jpg)
+
+![image](twtr_data/1545515963176534016.photo.00.jpg)
+
+![image](twtr_data/1545515963176534016.photo.03.jpg)
+
+---
+
+2022-07-09 02:40:10 by [abdulbassith](https://twitter.com/abdulbassith/status/1545515609139576833)
+
+1 videos, 0 photos
+
+```
+
+#SriLanka #lka #අරගලයටජය #අරගලය #GoHomeGota #GoHomeRajapaksas #GoHomeGota2020 https://t.co/7mmPC1cRFu
+
+```
+
+![image](twtr_data/1545515609139576833.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1545515609139576833.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1545515609139576833.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-09 02:40:05 by [abdulbassith](https://twitter.com/abdulbassith/status/1545515590818955264)
+
+0 videos, 1 photos
+
+```
+
+@PresRajapaksa, 
+
+#GoHomeGota #GoHomeRajapaksas #GoHomeGota2020 #අරගලයටජය #අරගලය https://t.co/qIfuiOApIa
+
+```
+
+![image](twtr_data/1545515590818955264.photo.00.jpg)
+
+---
 
 2022-07-09 02:19:58 by [RTR_edirisinghe](https://twitter.com/RTR_edirisinghe/status/1545510527933116421)
 
@@ -1624,74 +1703,5 @@ Bar Association of Sri Lanka has condemned the declaration of police curfew in p
 ```
 
 ![image](twtr_data/1545457701018226688.photo.00.jpg)
-
----
-
-2022-07-08 22:47:01 by [arshadnajudeen](https://twitter.com/arshadnajudeen/status/1545456935931023362)
-
-0 videos, 4 photos
-
-```
-
-More placards from Thummulla for the historic protest march tomorrow. #July09
-
-#endgame2022 #GoHomeGota #GotaGoGama https://t.co/txhvS0vaXy
-
-```
-
-![image](twtr_data/1545456935931023362.photo.00.jpg)
-
-![image](twtr_data/1545456935931023362.photo.02.jpg)
-
-![image](twtr_data/1545456935931023362.photo.03.jpg)
-
-![image](twtr_data/1545456935931023362.photo.01.jpg)
-
----
-
-2022-07-08 22:44:52 by [varnikasoysa](https://twitter.com/varnikasoysa/status/1545456396031782913)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLanka https://t.co/VShczTfcpD
-
-```
-
-![image](twtr_data/1545456396031782913.photo.00.jpg)
-
----
-
-2022-07-08 22:44:14 by [Economynext](https://twitter.com/Economynext/status/1545456237881757696)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka imposes indefinite #police #curfew ahead of #protest to oust #president
-
-#EconomicCrisisLK #ProtestLK #Curfew #President #Colombo #Aragalaya #GoHomeGota #OccupyGalleFace #Gotabaya @GotabayaR 
-
-https://t.co/CS0HjB3H3u https://t.co/2z07f2DApk
-
-```
-
-![image](twtr_data/1545456237881757696.photo.00.jpg)
-
----
-
-2022-07-08 22:44:01 by [Roshenchp](https://twitter.com/Roshenchp/status/1545456182353367040)
-
-0 videos, 1 photos
-
-```
-
-This is the most beautiful thing I see today. Sisters are coming together to save #SriLanka to support the #GoHomeGota. This is a peaceful protest to save this #beautiful #island nation.
-#GoHomeGota #itshappening #gota #lka #nun @hrw @CNN #love #nun #SriLankanpoliticalcrisis https://t.co/ugx7AgtVHn
-
-```
-
-![image](twtr_data/1545456182353367040.photo.00.jpg)
 
 ---
