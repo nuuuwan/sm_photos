@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*464 tweets as of 20220708-152936*
+*466 tweets as of 20220708-154402*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 15:32:45 by [Welikumbura](https://twitter.com/Welikumbura/status/1545347649813217281)
+
+0 videos, 1 photos
+
+```
+
+This is a cowardly act of an unbelievable level by the @GotabayaR &amp; @RW_UNP regime to sabotage tomorrow's protest.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #HumanRights #HumanRightsViolations #ProtestLK #SriLankaProtests #රටමකොළඹට #අරගලයටජය https://t.co/nCINepJ42L
+
+```
+
+![image](https://pbs.twimg.com/media/FXItf0dacAAh1y8.jpg)
+
+---
+
+2022-07-08 15:27:59 by [mohamed_rikas12](https://twitter.com/mohamed_rikas12/status/1545346451655368704)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/Puo5xsuU7n
+
+```
+
+![image](https://pbs.twimg.com/media/FXIsZxdUUAcuEKH.jpg)
+
+---
 
 2022-07-08 15:22:56 by [StefhanJKR](https://twitter.com/StefhanJKR/status/1545345180345450498)
 
@@ -1561,50 +1591,5 @@ Staten Island  #GoHomeGota Protest @ 10 Richmond Terrace, Borough Hall (In front
 ```
 
 ![image](https://pbs.twimg.com/media/FXHDiRLVUAAAVga.jpg)
-
----
-
-2022-07-08 08:04:27 by [ami_anonymous](https://twitter.com/ami_anonymous/status/1545234829679407104)
-
-0 videos, 4 photos
-
-```
-
-Salad Food Processor With Ice Cream Function For Frozen Fruit Fruit Vegetable Shredding Slicing And Potato Mashing Sonifer. 
-Learn More&gt;&gt; https://t.co/R1jEnPYENK
-#Beast #Salad #FuelCrisisLK #GoHomeGota
-#KinnPorscheTheseries #SLvAUS #tellonym
-#TheBoysFinale #ThorLoveAndThunder https://t.co/JTQMV0JYJJ
-
-```
-
-![image](https://pbs.twimg.com/media/FXHGQVsacAAqZ5p.jpg)
-
-![image](https://pbs.twimg.com/media/FXHGQVuakAAVxUF.png)
-
-![image](https://pbs.twimg.com/media/FXHGQV2agAE8fRG.png)
-
-![image](https://pbs.twimg.com/media/FXHGQV3acAA7dUa.png)
-
----
-
-2022-07-08 07:51:11 by [ambikasat](https://twitter.com/ambikasat/status/1545231491365421056)
-
-0 videos, 3 photos
-
-```
-
-#GoHomeGota #GoHomeRanil 
-
-As ppl prepare to protest on 9 July, sharing a community safety toolkit prepared in response to protests in US. Has helpful tips, eg, how to deal with teargas &amp; verbal de-escalation strategies. Thanks to @yalinidream for sharing.
-https://t.co/bHrWN08BdX https://t.co/IGVDnH6WXm
-
-```
-
-![image](https://pbs.twimg.com/media/FXHD2EWX0AE0kxd.jpg)
-
-![image](https://pbs.twimg.com/media/FXHD2EUWAAAS3Ei.jpg)
-
-![image](https://pbs.twimg.com/media/FXHD2ERXkAMuOv8.jpg)
 
 ---
