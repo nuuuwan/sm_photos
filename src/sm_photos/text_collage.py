@@ -26,7 +26,7 @@ def get_average(pixels):
         )
         / len(pixels)
     )
-
+r
 
 def build_text_collage(base_image_file, photo_file_list):
     base_image = Image.open(base_image_file)
@@ -129,7 +129,7 @@ def metarize():
         ),
     )
 
-    N_STEPS = 40
+    N_STEPS = 50
     metarized_item_image_list = []
     for i_step in range(N_STEPS):
         if i_step != 0:
@@ -161,10 +161,10 @@ def metarize():
         DIR_DATA,
         'text_collage_image.animation.gif',
     )
-    DURATION = 0.12
+    DURATION = 0.1
     imageio.mimsave(
         metarized_animation_file,
-        list(reversed(metarized_item_image_list)),
+        metarized_item_image_list,
         duration=DURATION,
     )
     log.info(f'Wrote {metarized_animation_file}')
