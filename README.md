@@ -1,10 +1,74 @@
 # Social Media Photos
 
-*354 tweets as of 20220708-060742*
+*358 tweets as of 20220708-063712*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-08 06:34:26 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545212176499359744)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/DvyxJlnlDK
+ගෝඨාභය ගෙදරයා යුතුමයි මහා සංඝ රත්නයත් මහා  පාරේ උපවාසයක
+#aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota #LKA #VoiceTube #SriLanka #Politics https://t.co/Xo0qtRSqS8
+
+```
+
+![image](https://pbs.twimg.com/media/FXGyRj2agAABpaK.jpg)
+
+---
+
+2022-07-08 06:30:11 by [VoiceTubelk](https://twitter.com/VoiceTubelk/status/1545211110277906432)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/kEyMVYYztL
+අරගලකරුවෝ ජතික ජනබලවේගය හමුවට - අනුරගෙන් ජනතාවට විශේෂ ඉල්ලීමක්
+#anura_kumara_dissanayaka #aragalaya #aragalayatajaya #gohomegota2022 #gohomerajapaksas #gohomegota  #LKA #VoiceTube #SriLanka #Politics https://t.co/pm4IwGupZY
+
+```
+
+![image](https://pbs.twimg.com/media/FXGxTpAaUAAYUAV.jpg)
+
+---
+
+2022-07-08 06:19:47 by [kaushalyaBDe](https://twitter.com/kaushalyaBDe/status/1545208493019639809)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota 
+#GoHomeRajapakshas 
+#GoHomeRanil 
+
+Give us our stolen money back https://t.co/sv5iAdPe9w
+
+```
+
+![image](https://pbs.twimg.com/media/FXGu727aIAAU-f9.jpg)
+
+---
+
+2022-07-08 06:09:12 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545205828562681856)
+
+1 videos, 0 photos
+
+```
+
+Relatable! 
+
+#GoHomeGota #GoHomeRanil #PoliceBrutality https://t.co/AiK98HPYcS
+
+```
+
+---
 
 2022-07-08 06:04:45 by [SriLives](https://twitter.com/SriLives/status/1545204709018959877)
 
@@ -1501,66 +1565,5 @@ Now go eat more mangoes 🥭
 ```
 
 ![image](https://pbs.twimg.com/media/FXDMT4NWAAIgtw_.jpg)
-
----
-
-2022-07-07 13:45:41 by [BannehekaDinesh](https://twitter.com/BannehekaDinesh/status/1544958316710952960)
-
-0 videos, 1 photos
-
-```
-
-මගියාව තුන්වෙනි පංතියෙනුත් පහලට දැමූ කඳුලු කුමාරි
-#SriLanka #GoHomeGota #GotaGoHome2022 #SriLankaEconomicCrisis #රටමකොළඹට https://t.co/JpXST9LSfh
-
-```
-
-![image](https://pbs.twimg.com/media/FXDLZC-WQAIfNVz.jpg)
-
----
-
-2022-07-07 13:27:46 by [nuuuwan](https://twitter.com/nuuuwan/status/1544953807615967232)
-
-0 videos, 1 photos
-
-```
-
-There has been a resurgence of #GoHomeGota tweets, 
-evidently in preparation for July 9th. 
-
-Here's a collage made of the said tweets which contained images. 
-
-#SriLanka #GoHomeGota2022 https://t.co/23wG8lCnza
-
-```
-
-![image](https://pbs.twimg.com/media/FXDHRF9XkAIGdYS.jpg)
-
----
-
-2022-07-07 13:25:08 by [shanoz16](https://twitter.com/shanoz16/status/1544953146057068544)
-
-1 videos, 0 photos
-
-```
-
-#GoHomeGota https://t.co/hVksY4f9Ee
-
-```
-
----
-
-2022-07-07 13:14:52 by [SudathDheera](https://twitter.com/SudathDheera/status/1544950561539244032)
-
-0 videos, 1 photos
-
-```
-
-Let’s raise our voices against injustice! Let’s wake up and stop our country from being destroyed under the rule of a short-sighted, insane, Dictator..! Stop everything you’re doing and get on the streets on July 09th. It’s now or never...! 
-#Gotagojail #GoHomeGota https://t.co/nsCu682y3g
-
-```
-
-![image](https://pbs.twimg.com/media/FXDEWR6XEAAB_Ao.jpg)
 
 ---
