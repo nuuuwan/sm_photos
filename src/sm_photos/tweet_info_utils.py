@@ -75,4 +75,4 @@ def load_tweet_info_list():
         tweet_info_list,
         key=lambda tweet_info: -tweet_info['time_create_ut'],
     )
-    return expand_tweet_info_list(tweet_info_list)
+    return tweet_info_list

@@ -2,7 +2,6 @@ import argparse
 
 from sm_photos import (collage, dedupe, filesys, photos, readme, summary,
                        text_collage, videos)
-from sm_photos._utils import log
 from sm_photos.twtr import TWTR
 
 
@@ -15,11 +14,7 @@ def main(hashtag):
 
     videos.backpopulate_video_clips()
 
-    try:
-        summary.build_summary()
-    except Exception as e:
-        log.error(str(e))
-
+    summary.build_summary()
     collage.build_collage()
 
     base_image_file = 'media/text.sketch.png'
