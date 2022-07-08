@@ -2,7 +2,7 @@ import os
 
 from utils import JSONFile
 
-from sm_photos._constants import DIR_TWTR_DATA
+from sm_photos._constants import DIR_DATA, DIR_TWTR_DATA
 from sm_photos._utils import log
 
 
@@ -76,3 +76,7 @@ def load_tweet_info_list():
         key=lambda tweet_info: -tweet_info['time_create_ut'],
     )
     return tweet_info_list
+
+
+def load_tweet_info_list_expanded():
+    return JSONFile(os.path.join(DIR_DATA, 'tweet_info_list.json')).read()

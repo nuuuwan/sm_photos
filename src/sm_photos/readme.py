@@ -45,7 +45,7 @@ def render_tweet_info(tweet_info):
 
 def build_readme():
     N = 100
-    tweet_info_list = tweet_info_utils.load_tweet_info_list()
+    tweet_info_list = tweet_info_utils.load_tweet_info_list_expanded()
     rendered_last_n_tweets = []
     for tweet_info in tweet_info_list[:N]:
         if tweet_info['user'] in USER_BLACKLIST:
