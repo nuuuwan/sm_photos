@@ -79,9 +79,6 @@ def get_image(photo_video_info):
         fill="white",
     )
 
-    if image.size != (IMAGE_WIDTH, IMAGE_HEIGHT):
-        return None
-
     return numpy.array(image)
 
 
@@ -97,7 +94,7 @@ def build_photo_video(photo_video_info_list):
 
     image_list = list(
         filter(
-            lambda x: isinstance(x, numpy.ndarray),
+            lambda x: x.shape == (360, 640, 3),
             image_list,
         )
     )
