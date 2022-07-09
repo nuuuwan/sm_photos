@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/aifham94/status/1545652880014655489",
+  "id": 1545652880014655489,
+  "user": "aifham94",
+  "time_create_ut": 1657347338,
+  "text": "Massive protest #GoHomeGota https://t.co/bIXRWzmaBm",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545652783336112129/pu/vid/640x360/_O6wMEAMC4qqblTX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545652880014655489.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545652880014655489.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/mdlucias/status/1545652858879496197",
+  "id": 1545652858879496197,
+  "user": "mdlucias",
+  "time_create_ut": 1657347333,
+  "text": "At Chilaw now..\n\n#Srilanka #GoHomeGota #Colombo #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeRanil #lka https://t.co/7PrEUvp57i",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545652695159250944/pu/vid/476x270/jisx6kBEDexxjI9d.mp4"
+  ],
+  "video_file_name": "twtr_data/1545652858879496197.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545652858879496197.video.00.mp4.clip.00.png",
+    "twtr_data/1545652858879496197.video.00.mp4.clip.01.png",
+    "twtr_data/1545652858879496197.video.00.mp4.clip.02.png"
+  ]
+}

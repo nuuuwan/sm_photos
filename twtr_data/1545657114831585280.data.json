@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/FGunasekare/status/1545657114831585280",
+  "id": 1545657114831585280,
+  "user": "FGunasekare",
+  "time_create_ut": 1657348347,
+  "text": "Protest march towards Colombo Fort.\n\n#SriLankaProtests \n#SriLanka \n#GoHomeGota https://t.co/2zMOgjUeD6",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545657036423192578/pu/vid/480x270/6ASc0WFv6wXFQXpS.mp4"
+  ],
+  "video_file_name": "twtr_data/1545657114831585280.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545657114831585280.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Bee_Hi123/status/1545657188005253120",
+  "id": 1545657188005253120,
+  "user": "Bee_Hi123",
+  "time_create_ut": 1657348365,
+  "text": "\u0d86\u0dab\u0dca\u0da9\u0dd4\u0dc0\u0da7 \u0d85\u0db4\u0dd2 \u0db6\u0dba \u0db1\u0dd1 \u0db6\u0dba \u0db1\u0db8\u0dca \u0d85\u0db4\u0dd2 \u0d91\u0db1\u0dca\u0db1\u0dd9\u0dad\u0dca \u0db1\u0dd1 #GoHomeGota #GoHomeGota https://t.co/R9gK6iOTCP",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545656859427713024/pu/vid/320x568/l7QE4GrF0Km8w5-z.mp4"
+  ],
+  "video_file_name": "twtr_data/1545657188005253120.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545657188005253120.video.00.mp4.clip.00.png",
+    "twtr_data/1545657188005253120.video.00.mp4.clip.01.png"
+  ]
+}

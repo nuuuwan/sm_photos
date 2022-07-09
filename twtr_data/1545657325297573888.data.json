@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/iminspark/status/1545657325297573888",
+  "id": 1545657325297573888,
+  "user": "iminspark",
+  "time_create_ut": 1657348397,
+  "text": "Fort railway station * video is not mine \n#GoHomeGota #GoHomeRanil https://t.co/JlkkzkPmRN",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545657190740103169/pu/vid/490x270/MKYRKz5WoTN9Pbud.mp4"
+  ],
+  "video_file_name": "twtr_data/1545657325297573888.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545657325297573888.video.00.mp4.clip.00.png"
+  ]
+}

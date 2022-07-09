@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/perera_yu/status/1545656527201370112",
+  "id": 1545656527201370112,
+  "user": "perera_yu",
+  "time_create_ut": 1657348207,
+  "text": "#GoHomeGota \n#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/N6x0nY9Doe",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545656454396657665/pu/vid/320x568/9PWt9-RL1fWW6T1d.mp4"
+  ],
+  "video_file_name": "twtr_data/1545656527201370112.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545656527201370112.video.00.mp4.clip.00.png"
+  ]
+}

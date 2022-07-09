@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/NHimansi/status/1545655329127821314",
+  "id": 1545655329127821314,
+  "user": "NHimansi",
+  "time_create_ut": 1657347922,
+  "text": "#GoHomeGota #GoHomeGota2022 #GoHomeRanil #SriLanka #SriLankaProtests #sri #lka #GotaGoHome https://t.co/7ytaQTShuE",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545655040895234049/pu/vid/320x480/8RUxdFVyMAEsW0fw.mp4"
+  ],
+  "video_file_name": "twtr_data/1545655329127821314.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545655329127821314.video.00.mp4.clip.00.png",
+    "twtr_data/1545655329127821314.video.00.mp4.clip.01.png",
+    "twtr_data/1545655329127821314.video.00.mp4.clip.02.png"
+  ]
+}

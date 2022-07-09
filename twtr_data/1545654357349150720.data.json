@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/itsyahani/status/1545654357349150720",
+  "id": 1545654357349150720,
+  "user": "itsyahani",
+  "time_create_ut": 1657347690,
+  "text": "The first train to arrive Colombo on the main line. Double set packed with common people determined to send Gota home. #GoHomeGota https://t.co/784pL1aBg4",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545651139718262784/pu/vid/320x568/rzpLGk-S9PAl4FMx.mp4"
+  ],
+  "video_file_name": "twtr_data/1545654357349150720.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545654357349150720.video.00.mp4.clip.00.png",
+    "twtr_data/1545654357349150720.video.00.mp4.clip.01.png",
+    "twtr_data/1545654357349150720.video.00.mp4.clip.02.png"
+  ]
+}
