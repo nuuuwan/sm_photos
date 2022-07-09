@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Ericronaldruler/status/1545643972412035072",
+  "id": 1545643972412035072,
+  "user": "Ericronaldruler",
+  "time_create_ut": 1657345214,
+  "text": "In Ratnapura #GoHomeGota https://t.co/NH5u1PkH3y",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545643881223569408/pu/vid/1280x720/OSa1dg-07bwBorxX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545643972412035072.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545643972412035072.video.00.mp4.clip.00.png",
+    "twtr_data/1545643972412035072.video.00.mp4.clip.01.png"
+  ]
+}

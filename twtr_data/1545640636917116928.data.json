@@ -8,13 +8,5 @@
   "video_url_list": [
     "https://video.twimg.com/ext_tw_video/1545640262663557120/pu/vid/640x360/rqyv3UwVGFFo27At.mp4"
   ],
-  "video_file_name": "twtr_data/1545640636917116928.video.00.mp4",
-  "video_clip_file_list": [
-    "twtr_data/1545640636917116928.video.00.mp4.clip.00.png",
-    "twtr_data/1545640636917116928.video.00.mp4.clip.01.png",
-    "twtr_data/1545640636917116928.video.00.mp4.clip.02.png",
-    "twtr_data/1545640636917116928.video.00.mp4.clip.03.png",
-    "twtr_data/1545640636917116928.video.00.mp4.clip.04.png",
-    "twtr_data/1545640636917116928.video.00.mp4.clip.05.png"
-  ]
+  "video_file_name": "twtr_data/1545640636917116928.video.00.mp4"
 }

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/PrabodaYatagama/status/1545642370137456640",
+  "id": 1545642370137456640,
+  "user": "PrabodaYatagama",
+  "time_create_ut": 1657344832,
+  "text": "Protestors are entering the Galle Fort.\n#lka #GoHomeGota #July9th \n#SLvAUS https://t.co/OBtkzVq91U",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545641677729267712/pu/vid/320x564/tRr9J_un8VMJZJFV.mp4"
+  ],
+  "video_file_name": "twtr_data/1545642370137456640.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545642370137456640.video.00.mp4.clip.00.png",
+    "twtr_data/1545642370137456640.video.00.mp4.clip.01.png"
+  ]
+}
