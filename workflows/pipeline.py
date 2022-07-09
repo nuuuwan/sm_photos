@@ -1,4 +1,5 @@
 import argparse
+import os
 import shutil
 
 from sm_photos import (collage, dedupe, filesys, photo_video, photos, readme,
