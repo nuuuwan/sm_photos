@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/malshani_del/status/1545722488872656896",
+  "id": 1545722488872656896,
+  "user": "malshani_del",
+  "time_create_ut": 1657363934,
+  "text": "#GotaGoHome2022 #GoHomeGota #SriLankaProtests https://t.co/94CCMW5rPB",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545721661730824193/pu/vid/720x1280/SiKjwwoNNtuRjDQb.mp4"
+  ],
+  "video_file_name": "twtr_data/1545722488872656896.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545722488872656896.video.00.mp4.clip.00.png"
+  ]
+}

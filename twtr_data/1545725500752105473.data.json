@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/kaviya_mathu/status/1545725500752105473",
+  "id": 1545725500752105473,
+  "user": "kaviya_mathu",
+  "time_create_ut": 1657364652,
+  "text": "09/07/2022\nOk it's tym to say.....\n #GoHomeGota https://t.co/pqSAu7HGjI",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545725319989977089/pu/vid/692x360/Cg3GeUm_eKdF17CS.mp4"
+  ],
+  "video_file_name": "twtr_data/1545725500752105473.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545725500752105473.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/Shaxishara/status/1545726700017045504",
+  "id": 1545726700017045504,
+  "user": "Shaxishara",
+  "time_create_ut": 1657364938,
+  "text": "#GoHomeGota2022 #GoHomeGota https://t.co/2HQnGMRbTF",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545726673039261696/pu/vid/320x568/8AtUPZ-Tgs7krFiW.mp4"
+  ],
+  "video_file_name": "twtr_data/1545726700017045504.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545726700017045504.video.00.mp4.clip.00.png"
+  ]
+}

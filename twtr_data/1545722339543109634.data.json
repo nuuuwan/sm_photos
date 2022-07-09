@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/EuropeanUnionC/status/1545722339543109634",
+  "id": 1545722339543109634,
+  "user": "EuropeanUnionC",
+  "time_create_ut": 1657363898,
+  "text": "Protesters take advantage of the President's swimming pool of #SriLanka after invading his residence #GoHomeGota #SriLankaProtests https://t.co/lGG6ynVdSN",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545722295033135104/pu/vid/476x270/EiT1mNEDzjxRfcXy.mp4"
+  ],
+  "video_file_name": "twtr_data/1545722339543109634.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545722339543109634.video.00.mp4.clip.00.png"
+  ]
+}

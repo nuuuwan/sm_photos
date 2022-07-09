@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/mysalmanulfaris/status/1545722231866724352",
+  "id": 1545722231866724352,
+  "user": "mysalmanulfaris",
+  "time_create_ut": 1657363872,
+  "text": "Celebration starts from Kalmunai #GoHomeGota #Srilanka #ArrestRajapaksas https://t.co/eA88jYDCh0",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545721642709557250/pu/vid/320x580/LBuKII5gCLVL5OeI.mp4"
+  ],
+  "video_file_name": "twtr_data/1545722231866724352.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545722231866724352.video.00.mp4.clip.00.png",
+    "twtr_data/1545722231866724352.video.00.mp4.clip.01.png",
+    "twtr_data/1545722231866724352.video.00.mp4.clip.02.png"
+  ]
+}
