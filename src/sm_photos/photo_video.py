@@ -11,7 +11,7 @@ from sm_photos._utils import log
 
 IMAGE_WIDTH = 640
 IMAGE_HEIGHT = (int)(IMAGE_WIDTH * 9 / 16)
-TESTING = False
+TESTING = True
 MAX_IMAGES = 10 if TESTING else 2400
 FPS = 1
 
@@ -79,6 +79,9 @@ def get_image(photo_video_info):
         fill="white",
     )
 
+    if image.size != (IMAGE_WIDTH, IMAGE_HEIGHT):
+        return None
+
     return numpy.array(image)
 
 
@@ -89,6 +92,13 @@ def build_photo_video(photo_video_info_list):
         map(
             get_image,
             photo_video_info_list,
+        )
+    )
+
+    image_list = list(
+        filter(
+            lambda x: isinstance(x, numpy.ndarray),
+            image_list,
         )
     )
 
