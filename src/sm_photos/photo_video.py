@@ -25,6 +25,11 @@ def get_photo_video_info_list(tweet_info_list):
                     image_file_only=image_file_only,
                 )
             )
+
+    photo_video_info_list = sorted(
+        photo_video_info_list,
+        key=lambda d: d['time_create_ut'],
+    )
     return photo_video_info_list
 
 
