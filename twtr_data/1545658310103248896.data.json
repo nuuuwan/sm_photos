@@ -1,0 +1,19 @@
+{
+  "tweet_url": "https://twitter.com/Ragulan23S/status/1545658310103248896",
+  "id": 1545658310103248896,
+  "user": "Ragulan23S",
+  "time_create_ut": 1657348632,
+  "text": "#GoHomeGota #lka https://t.co/a5tuLswtsu",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545657880577249280/pu/vid/720x1280/o3b8swaXFzmCIW_t.mp4"
+  ],
+  "video_file_name": "twtr_data/1545658310103248896.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545658310103248896.video.00.mp4.clip.00.png",
+    "twtr_data/1545658310103248896.video.00.mp4.clip.01.png",
+    "twtr_data/1545658310103248896.video.00.mp4.clip.02.png",
+    "twtr_data/1545658310103248896.video.00.mp4.clip.03.png",
+    "twtr_data/1545658310103248896.video.00.mp4.clip.04.png"
+  ]
+}

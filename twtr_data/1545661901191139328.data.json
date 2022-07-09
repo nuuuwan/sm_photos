@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Pagetamil/status/1545661901191139328",
+  "id": 1545661901191139328,
+  "user": "Pagetamil",
+  "time_create_ut": 1657349488,
+  "text": "Outside of Galle cricket ground Big demonstration\n#lka #GoHomeGota #SLvAUS https://t.co/KYlIzSR3Lc",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545661781326307328/pu/vid/636x360/031RaP9SojNzteud.mp4"
+  ],
+  "video_file_name": "twtr_data/1545661901191139328.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545661901191139328.video.00.mp4.clip.00.png",
+    "twtr_data/1545661901191139328.video.00.mp4.clip.01.png"
+  ]
+}

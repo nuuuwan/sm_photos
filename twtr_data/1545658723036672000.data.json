@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/WasaamIsmail/status/1545658723036672000",
+  "id": 1545658723036672000,
+  "user": "WasaamIsmail",
+  "time_create_ut": 1657348731,
+  "text": "Havelock road now. \n\n#GoHomeGota #GoHomeGota2022 #SriLankaProtests https://t.co/lmd6jAW7zV",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545658626198720512/pu/vid/480x852/AKMQdVwnQ8JLOUW1.mp4"
+  ],
+  "video_file_name": "twtr_data/1545658723036672000.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545658723036672000.video.00.mp4.clip.00.png"
+  ]
+}

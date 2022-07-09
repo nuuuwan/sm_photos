@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/PrabodaYatagama/status/1545659136716701696",
+  "id": 1545659136716701696,
+  "user": "PrabodaYatagama",
+  "time_create_ut": 1657348829,
+  "text": "A massive protest currently underway in Galle.\n#lka #GoHomeGota #July9th https://t.co/I1eDcfoe89",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545659091355328512/pu/vid/320x564/JckY-j_dhzOV-dAM.mp4"
+  ],
+  "video_file_name": "twtr_data/1545659136716701696.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545659136716701696.video.00.mp4.clip.00.png",
+    "twtr_data/1545659136716701696.video.00.mp4.clip.01.png"
+  ]
+}

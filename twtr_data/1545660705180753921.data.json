@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/shamithri/status/1545660705180753921",
+  "id": 1545660705180753921,
+  "user": "shamithri",
+  "time_create_ut": 1657349203,
+  "text": "#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeGota https://t.co/dALiKgli8M",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545660307409776642/pu/vid/720x960/gl7J1GIy_yBS7O0c.mp4"
+  ],
+  "video_file_name": "twtr_data/1545660705180753921.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545660705180753921.video.00.mp4.clip.00.png",
+    "twtr_data/1545660705180753921.video.00.mp4.clip.01.png"
+  ]
+}

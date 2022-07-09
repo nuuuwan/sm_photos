@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/malshani_del/status/1545660996584296449",
+  "id": 1545660996584296449,
+  "user": "malshani_del",
+  "time_create_ut": 1657349273,
+  "text": "#GoHomeGota #GotaGoHome2022 at the Rajagiriya fly over https://t.co/QShbzhJaQu",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545660922399793152/pu/vid/480x852/uwh22MuGxeKFf8ap.mp4"
+  ],
+  "video_file_name": "twtr_data/1545660996584296449.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545660996584296449.video.00.mp4.clip.00.png"
+  ]
+}
