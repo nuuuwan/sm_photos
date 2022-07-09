@@ -1,0 +1,20 @@
+{
+  "tweet_url": "https://twitter.com/FMADVOCATE1/status/1545808067429892096",
+  "id": 1545808067429892096,
+  "user": "FMADVOCATE1",
+  "time_create_ut": 1657384337,
+  "text": "#SriLankaCrisis | \"It is so sad to see that this is happening to my country\": Sanath Jayasuriya (@Sanath07), former Sri Lankan cricketer \n\n#GoHomeGota https://t.co/PiH1JLS6EE",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545807979324260352/pu/vid/480x360/iSPuL3YrsuBSTa-X.mp4"
+  ],
+  "video_file_name": "twtr_data/1545808067429892096.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545808067429892096.video.00.mp4.clip.00.png",
+    "twtr_data/1545808067429892096.video.00.mp4.clip.01.png",
+    "twtr_data/1545808067429892096.video.00.mp4.clip.02.png",
+    "twtr_data/1545808067429892096.video.00.mp4.clip.03.png",
+    "twtr_data/1545808067429892096.video.00.mp4.clip.04.png",
+    "twtr_data/1545808067429892096.video.00.mp4.clip.05.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/Irzath_AJ/status/1545804711995260929",
+  "id": 1545804711995260929,
+  "user": "Irzath_AJ",
+  "time_create_ut": 1657383537,
+  "text": "#GoHomeGota \n#GoHomeGota2022 \n\ud83c\uddf1\ud83c\uddf0\u2764\ufe0f https://t.co/RqxNpg8ApQ",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545804563806302208/pu/vid/480x848/92Ao6HTJdG1x3rnt.mp4"
+  ],
+  "video_file_name": "twtr_data/1545804711995260929.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545804711995260929.video.00.mp4.clip.00.png"
+  ]
+}

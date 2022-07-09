@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Irzath_AJ/status/1545804868589617152",
+  "id": 1545804868589617152,
+  "user": "Irzath_AJ",
+  "time_create_ut": 1657383574,
+  "text": "United Sri Lanka \ud83c\uddf1\ud83c\uddf0 \n#GoHomeGota #GoHomeGota2022 https://t.co/jnPWqyxqUi",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545804715782717441/pu/vid/640x352/aSArATPp58FbLM5w.mp4"
+  ],
+  "video_file_name": "twtr_data/1545804868589617152.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545804868589617152.video.00.mp4.clip.00.png",
+    "twtr_data/1545804868589617152.video.00.mp4.clip.01.png"
+  ]
+}

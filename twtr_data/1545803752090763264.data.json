@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/EstherUdinga/status/1545803752090763264",
+  "id": 1545803752090763264,
+  "user": "EstherUdinga",
+  "time_create_ut": 1657383308,
+  "text": "Peaceful protest in Amsterdam today \ud83c\uddf1\ud83c\uddf0\n\n#GoHomeGota #SriLanka #SriLankaProtest #Amsterdam #SriLankaCrisis https://t.co/K3iwl874WS",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545803679458025472/pu/vid/480x270/e6BKWd_DLcWqmoqJ.mp4"
+  ],
+  "video_file_name": "twtr_data/1545803752090763264.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545803752090763264.video.00.mp4.clip.00.png"
+  ]
+}

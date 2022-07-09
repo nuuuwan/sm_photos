@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/AathikH/status/1545800035194916864",
+  "id": 1545800035194916864,
+  "user": "AathikH",
+  "time_create_ut": 1657382422,
+  "text": "#GoHomeGota https://t.co/iULPCA2fh0",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545799772606439426/pu/vid/480x852/9gWzpAlaiMitMdcb.mp4"
+  ],
+  "video_file_name": "twtr_data/1545800035194916864.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545800035194916864.video.00.mp4.clip.00.png",
+    "twtr_data/1545800035194916864.video.00.mp4.clip.01.png",
+    "twtr_data/1545800035194916864.video.00.mp4.clip.02.png"
+  ]
+}
