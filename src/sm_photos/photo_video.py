@@ -97,14 +97,8 @@ def build_photo_video(photo_video_info_list):
 def build_photo_video_all():
     tweet_info_list = tweet_info_utils.load_tweet_info_list_expanded()
     photo_video_info_list = get_photo_video_info_list(tweet_info_list)
-
     build_photo_video(photo_video_info_list)
 
 
 if __name__ == '__main__':
-    import json
-
-    tweet_info_list = tweet_info_utils.load_tweet_info_list_expanded()
-    photo_video_info_list = get_photo_video_info_list(tweet_info_list)
-    print(json.dumps(photo_video_info_list[:10], indent=2))
-    build_photo_video(photo_video_info_list[:20])
+    build_photo_video_all()
