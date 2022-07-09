@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/VikumRaj/status/1545617827972800513",
+  "id": 1545617827972800513,
+  "user": "VikumRaj",
+  "time_create_ut": 1657338981,
+  "text": "People's Protest from Kiribathgoda heading to Colombo\n#GoHomeGota #GoHomeRanil #GoHomeRajapaksas https://t.co/w0ggDxNEES",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545617700638101504/pu/vid/320x568/bOqbBHFcd2i7K4ze.mp4"
+  ],
+  "video_file_name": "twtr_data/1545617827972800513.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545617827972800513.video.00.mp4.clip.00.png"
+  ]
+}
