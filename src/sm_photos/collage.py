@@ -24,7 +24,7 @@ def build_collage():
         iy = (int)(i / dim)
 
         image_collage.paste(image, (ix * WIDTH, iy * HEIGHT))
-    
+
     for width in [640, 1280, 2560]:
         height = (int)(width * 9 / 16)
         image_resized = image_collage.resize((width, height))
