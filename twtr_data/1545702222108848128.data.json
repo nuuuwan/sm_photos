@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/chinpu45/status/1545702222108848128",
+  "id": 1545702222108848128,
+  "user": "chinpu45",
+  "time_create_ut": 1657359102,
+  "text": "galle #GoHomeGota https://t.co/oaXr7LARFH",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545702153691418626/pu/vid/1280x720/I3VoKf5EypgbuOaw.mp4"
+  ],
+  "video_file_name": "twtr_data/1545702222108848128.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545702222108848128.video.00.mp4.clip.00.png",
+    "twtr_data/1545702222108848128.video.00.mp4.clip.01.png"
+  ]
+}

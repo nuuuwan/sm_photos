@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/AnonymeCitoyen/status/1545702162801598464",
+  "id": 1545702162801598464,
+  "user": "AnonymeCitoyen",
+  "time_create_ut": 1657359088,
+  "text": "Le peuple se soul\u00e8ve au #SriLanka !\n\n#GoHomeGota #SriLankaProtests https://t.co/fAbXxeJ03E",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545700506722598914/pu/vid/320x564/5nWeCBBgmGlrV3Ch.mp4"
+  ],
+  "video_file_name": "twtr_data/1545702162801598464.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545702162801598464.video.00.mp4.clip.00.png",
+    "twtr_data/1545702162801598464.video.00.mp4.clip.01.png"
+  ]
+}
