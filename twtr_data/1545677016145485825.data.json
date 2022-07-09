@@ -1,0 +1,18 @@
+{
+  "tweet_url": "https://twitter.com/EranWick/status/1545677016145485825",
+  "id": 1545677016145485825,
+  "user": "EranWick",
+  "time_create_ut": 1657353092,
+  "text": "We are here, and more people are making their way - #GoHomeGota !! #aragalayatajaya #aragalaya #GoHomeGota2022 #lka https://t.co/9DFuNLhnKh",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545676652545449986/pu/vid/720x1280/C_jUbpcoVbNJ81WA.mp4"
+  ],
+  "video_file_name": "twtr_data/1545677016145485825.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545677016145485825.video.00.mp4.clip.00.png",
+    "twtr_data/1545677016145485825.video.00.mp4.clip.01.png",
+    "twtr_data/1545677016145485825.video.00.mp4.clip.02.png",
+    "twtr_data/1545677016145485825.video.00.mp4.clip.03.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/chamalAsela/status/1545678026293121024",
+  "id": 1545678026293121024,
+  "user": "chamalAsela",
+  "time_create_ut": 1657353333,
+  "text": "#GoHomeGota https://t.co/9Ac2xhlBMC",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545677966667124737/pu/vid/720x1280/S3MbHISjvPGNgLdd.mp4"
+  ],
+  "video_file_name": "twtr_data/1545678026293121024.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545678026293121024.video.00.mp4.clip.00.png",
+    "twtr_data/1545678026293121024.video.00.mp4.clip.01.png"
+  ]
+}

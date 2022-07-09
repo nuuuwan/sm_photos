@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/KosPolos/status/1545675754775539713",
+  "id": 1545675754775539713,
+  "user": "KosPolos",
+  "time_create_ut": 1657352791,
+  "text": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \ud83c\uddf1\ud83c\uddf0\u2764\ufe0f #GoHomeGota #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/GaYq089cd1",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545675087784787968/pu/vid/352x640/Jd9hBM7i-otYnwww.mp4"
+  ],
+  "video_file_name": "twtr_data/1545675754775539713.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545675754775539713.video.00.mp4.clip.00.png",
+    "twtr_data/1545675754775539713.video.00.mp4.clip.01.png",
+    "twtr_data/1545675754775539713.video.00.mp4.clip.02.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/PrabodaYatagama/status/1545676049584951296",
+  "id": 1545676049584951296,
+  "user": "PrabodaYatagama",
+  "time_create_ut": 1657352862,
+  "text": "VIDEO - Protestors protesting outside the President's House have entered the premises. \n#lka #GoHomeGota #July9th https://t.co/4fP2JLoA9n",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545675987374989312/pu/vid/848x480/iUc6GhjwomUx54PB.mp4"
+  ],
+  "video_file_name": "twtr_data/1545676049584951296.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545676049584951296.video.00.mp4.clip.00.png",
+    "twtr_data/1545676049584951296.video.00.mp4.clip.01.png"
+  ]
+}

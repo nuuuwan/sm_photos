@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/dinuri_k/status/1545673899077402624",
+  "id": 1545673899077402624,
+  "user": "dinuri_k",
+  "time_create_ut": 1657352349,
+  "text": "Kiribathgoda citizens are on their way! #gohomegota https://t.co/uaVoqVEnG3",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545673721234751488/pu/vid/480x852/jr7Ge1EqgKYGLYgR.mp4"
+  ],
+  "video_file_name": "twtr_data/1545673899077402624.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545673899077402624.video.00.mp4.clip.00.png"
+  ]
+}

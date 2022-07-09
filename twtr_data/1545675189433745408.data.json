@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/afeeffawas/status/1545675189433745408",
+  "id": 1545675189433745408,
+  "user": "afeeffawas",
+  "time_create_ut": 1657352657,
+  "text": "#GoHomeGota https://t.co/h2DVGX82Bi",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545674954095616001/pu/vid/320x568/UTVrwMSirG3uj64z.mp4"
+  ],
+  "video_file_name": "twtr_data/1545675189433745408.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545675189433745408.video.00.mp4.clip.00.png"
+  ]
+}
