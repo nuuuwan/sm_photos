@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/janindudezoysa/status/1545631586561191937",
+  "id": 1545631586561191937,
+  "user": "janindudezoysa",
+  "time_create_ut": 1657342261,
+  "text": "A march passing Horton place\n#GoHomeGota https://t.co/NWtswkkah9",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545631402787770369/pu/vid/480x270/Kd1Y4gP5KA9Bzga8.mp4"
+  ],
+  "video_file_name": "twtr_data/1545631586561191937.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545631586561191937.video.00.mp4.clip.00.png",
+    "twtr_data/1545631586561191937.video.00.mp4.clip.01.png"
+  ]
+}
