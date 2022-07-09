@@ -13,6 +13,9 @@ IMAGE_WIDTH = 640
 IMAGE_HEIGHT = (int)(IMAGE_WIDTH * 9 / 16)
 TESTING = False
 
+MAX_IMAGES = 120
+FPS = 1
+
 
 def get_photo_video_info_list(tweet_info_list):
     photo_video_info_list = []
@@ -87,16 +90,16 @@ def build_photo_video(photo_video_info_list):
         )
     )
 
-    fps = 1
-    clip = ImageSequenceClip(image_list, fps=fps)
+    clip = ImageSequenceClip(image_list, fps=FPS)
     photo_video_file = os.path.join(DIR_DATA, 'photo_video.mp4')
-    clip.write_videofile(photo_video_file, fps=fps)
+    clip.write_videofile(photo_video_file, fps=FPS)
     log.info(f'Wrote {n_clips} clips to {photo_video_file}')
 
 
 def build_photo_video_all():
     tweet_info_list = tweet_info_utils.load_tweet_info_list_expanded()
     photo_video_info_list = get_photo_video_info_list(tweet_info_list)
+    photo_video_info_list = photo_video_info_list[:MAX_IMAGES]
     build_photo_video(photo_video_info_list)
 
 
