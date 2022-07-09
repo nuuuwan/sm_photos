@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/LoeyyLovee/status/1545705941605433344",
+  "id": 1545705941605433344,
+  "user": "LoeyyLovee",
+  "time_create_ut": 1657359988,
+  "text": "People are the most powerful thing in the world\u270a #GoHomeGota #srilanka https://t.co/AAhGOjBAXg",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545705845463597056/pu/vid/320x320/KW0FtjrzjKLHGbx3.mp4"
+  ],
+  "video_file_name": "twtr_data/1545705941605433344.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545705941605433344.video.00.mp4.clip.00.png"
+  ]
+}

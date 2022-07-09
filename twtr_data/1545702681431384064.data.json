@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/PrabodaYatagama/status/1545702681431384064",
+  "id": 1545702681431384064,
+  "user": "PrabodaYatagama",
+  "time_create_ut": 1657359211,
+  "text": "Protesters inside President's house\n#lka #GoHomeGota #July9th https://t.co/5GF8umrCt3",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545702636632129537/pu/vid/320x478/nDlfEX-7qaKPXGG_.mp4"
+  ],
+  "video_file_name": "twtr_data/1545702681431384064.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545702681431384064.video.00.mp4.clip.00.png"
+  ]
+}

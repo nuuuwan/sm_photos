@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/crazyiro/status/1545704684190502912",
+  "id": 1545704684190502912,
+  "user": "crazyiro",
+  "time_create_ut": 1657359689,
+  "text": "Police firing teargas to peaceful protestors #SriLankaProtests #gohomerajapaksas #GoHomeGota https://t.co/GiP2CprP1n",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545704616704315394/pu/vid/320x568/8D-2eoO6Uh9lhKm5.mp4"
+  ],
+  "video_file_name": "twtr_data/1545704684190502912.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545704684190502912.video.00.mp4.clip.00.png",
+    "twtr_data/1545704684190502912.video.00.mp4.clip.01.png"
+  ]
+}

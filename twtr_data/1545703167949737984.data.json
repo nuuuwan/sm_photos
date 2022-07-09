@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/Channel4_sl/status/1545703167949737984",
+  "id": 1545703167949737984,
+  "user": "Channel4_sl",
+  "time_create_ut": 1657359327,
+  "text": "Protesters inside President's house\n#lka #GoHomeGota #July9th https://t.co/9oOjRCaqDx",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545703127189540869/pu/vid/320x478/2q-iY2_UVlZh-q1X.mp4"
+  ],
+  "video_file_name": "twtr_data/1545703167949737984.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545703167949737984.video.00.mp4.clip.00.png"
+  ]
+}

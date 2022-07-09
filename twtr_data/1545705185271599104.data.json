@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Pagetamil/status/1545705185271599104",
+  "id": 1545705185271599104,
+  "user": "Pagetamil",
+  "time_create_ut": 1657359808,
+  "text": "Footage claims that luggage was rushed to SLNS Gajabahu at the Colombo Port\n#lka #GoHomeGota #July9th https://t.co/4w16M9OmHZ",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545704101660467200/pu/vid/320x564/APE6F2wznGjyu0r8.mp4"
+  ],
+  "video_file_name": "twtr_data/1545705185271599104.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545705185271599104.video.00.mp4.clip.00.png",
+    "twtr_data/1545705185271599104.video.00.mp4.clip.01.png"
+  ]
+}

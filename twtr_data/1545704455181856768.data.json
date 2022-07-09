@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/dulanthabrew/status/1545704455181856768",
+  "id": 1545704455181856768,
+  "user": "dulanthabrew",
+  "time_create_ut": 1657359634,
+  "text": "#gohomegota #GoHomeGota #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #\u0d85\u0dbb\u0d9c\u0dbd\u0dba https://t.co/eGq2lFisKv",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545704361183313920/pu/vid/480x852/E_8cBIZF6US5-LXl.mp4"
+  ],
+  "video_file_name": "twtr_data/1545704455181856768.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545704455181856768.video.00.mp4.clip.00.png",
+    "twtr_data/1545704455181856768.video.00.mp4.clip.01.png"
+  ]
+}
