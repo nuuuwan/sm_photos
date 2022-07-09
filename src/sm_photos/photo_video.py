@@ -12,8 +12,7 @@ from sm_photos._utils import log
 IMAGE_WIDTH = 640
 IMAGE_HEIGHT = (int)(IMAGE_WIDTH * 9 / 16)
 TESTING = False
-
-MAX_IMAGES = 2400
+MAX_IMAGES = 10 if TESTING else 2400
 FPS = 1
 
 
@@ -62,9 +61,12 @@ def get_image(photo_video_info):
     image = image.resize((IMAGE_WIDTH, IMAGE_HEIGHT))
 
     time_create_ut = photo_video_info['time_create_ut']
-    time_create = timex.format_time(time_create_ut)
+    time_create = timex.format_time(
+        time_create_ut,
+        timezone=timex.TIMEZONE_OFFSET_LK,
+    )
     user = photo_video_info['user']
-    text = time_create + " @" + user
+    text = time_create + " " + user
 
     draw = ImageDraw.Draw(image)
     draw.rectangle(
