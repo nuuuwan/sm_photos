@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/JayaniFdo/status/1545648209535516673",
+  "id": 1545648209535516673,
+  "user": "JayaniFdo",
+  "time_create_ut": 1657346224,
+  "text": "\ud83d\ude2f\ud83d\ude2f\ud83d\ude2f\n\n#GoHomeGota https://t.co/Ml9VicknBA",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545647836356030464/pu/vid/540x540/6YNGhDv2qffm3M77.mp4"
+  ],
+  "video_file_name": "twtr_data/1545648209535516673.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545648209535516673.video.00.mp4.clip.00.png",
+    "twtr_data/1545648209535516673.video.00.mp4.clip.01.png",
+    "twtr_data/1545648209535516673.video.00.mp4.clip.02.png"
+  ]
+}

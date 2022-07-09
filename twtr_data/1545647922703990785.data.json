@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/arfthh/status/1545647922703990785",
+  "id": 1545647922703990785,
+  "user": "arfthh",
+  "time_create_ut": 1657346156,
+  "text": "suiiiii #GoHomeGota https://t.co/z59IBr9PUZ",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545647850721521664/pu/vid/480x852/m4dbAMOiZ_tzOtOG.mp4"
+  ],
+  "video_file_name": "twtr_data/1545647922703990785.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545647922703990785.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Apelankawe/status/1545647378157355009",
+  "id": 1545647378157355009,
+  "user": "Apelankawe",
+  "time_create_ut": 1657346026,
+  "text": "Scores of tear gas\u2026.. waves of protesters what gives? #GoHomeGota https://t.co/jicEBz7OWZ",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545646909200687105/pu/vid/640x360/PQ4LBYmsCYU5lHFY.mp4"
+  ],
+  "video_file_name": "twtr_data/1545647378157355009.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545647378157355009.video.00.mp4.clip.00.png",
+    "twtr_data/1545647378157355009.video.00.mp4.clip.01.png"
+  ]
+}

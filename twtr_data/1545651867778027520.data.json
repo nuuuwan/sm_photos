@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/kjayawardana2/status/1545651867778027520",
+  "id": 1545651867778027520,
+  "user": "kjayawardana2",
+  "time_create_ut": 1657347096,
+  "text": "Polgahawela train is here\n#GoHomeGota\n#SriLanka https://t.co/ohqICCgrwY",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545650587710001152/pu/vid/480x852/9QRszg6QBGUjlkbN.mp4"
+  ],
+  "video_file_name": "twtr_data/1545651867778027520.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545651867778027520.video.00.mp4.clip.00.png"
+  ]
+}

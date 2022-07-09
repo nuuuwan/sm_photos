@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Channel4_sl/status/1545648345473028096",
+  "id": 1545648345473028096,
+  "user": "Channel4_sl",
+  "time_create_ut": 1657346256,
+  "text": "A police officer supports the protest amidst loud applause from the protestors. \n#lka #GoHomeGota #SriLankaCrisis #July9th https://t.co/lWDMaTBOVT",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545648291458818049/pu/vid/848x480/oQr5Mj0h0CkEOoL3.mp4"
+  ],
+  "video_file_name": "twtr_data/1545648345473028096.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545648345473028096.video.00.mp4.clip.00.png",
+    "twtr_data/1545648345473028096.video.00.mp4.clip.01.png"
+  ]
+}

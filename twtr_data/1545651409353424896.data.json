@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/Channel4_sl/status/1545651409353424896",
+  "id": 1545651409353424896,
+  "user": "Channel4_sl",
+  "time_create_ut": 1657346987,
+  "text": "Outside of Galle cricket ground Big demonstration\n#lka #GoHomeGota #SLvAUS https://t.co/PVZPpECdi3",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545651362561761281/pu/vid/476x270/Ufd7hy-YEp0ECImy.mp4"
+  ],
+  "video_file_name": "twtr_data/1545651409353424896.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545651409353424896.video.00.mp4.clip.00.png",
+    "twtr_data/1545651409353424896.video.00.mp4.clip.01.png"
+  ]
+}

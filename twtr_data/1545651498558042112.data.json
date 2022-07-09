@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/JTCroosMoraes/status/1545651498558042112",
+  "id": 1545651498558042112,
+  "user": "JTCroosMoraes",
+  "time_create_ut": 1657347008,
+  "text": "\u0db8\u0dd9\u0dc4\u0dd9\u0dba\u0dd4\u0db8\u0da7! #GotaGoHome #GotaGoHome2022 #GoHomeGota #GoHomeGota2022 https://t.co/voH2RQbPrV",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545651414151864320/pu/vid/480x270/JNZwCTd-89MXeUS9.mp4"
+  ],
+  "video_file_name": "twtr_data/1545651498558042112.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545651498558042112.video.00.mp4.clip.00.png",
+    "twtr_data/1545651498558042112.video.00.mp4.clip.01.png"
+  ]
+}
