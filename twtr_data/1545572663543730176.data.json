@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/minindu_ddm/status/1545572663543730176",
+  "id": 1545572663543730176,
+  "user": "minindu_ddm",
+  "time_create_ut": 1657328212,
+  "text": "Let's get the party over\u270a\n#GoHomeGota https://t.co/InVVGCiUZB",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545572579179634694/pu/vid/320x568/iYsN0XG1fY6aQcbm.mp4"
+  ],
+  "video_file_name": "twtr_data/1545572663543730176.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545572663543730176.video.00.mp4.clip.00.png"
+  ]
+}
