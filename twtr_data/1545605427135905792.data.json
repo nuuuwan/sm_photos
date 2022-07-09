@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/ihshaniqbal/status/1545605427135905792",
+  "id": 1545605427135905792,
+  "user": "ihshaniqbal",
+  "time_create_ut": 1657336024,
+  "text": "At Fort Railway Station. FYI The Station is closed #SriLankaEconomicCrisis #GoHomeGota https://t.co/cEhr9elvXu",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545605268138242048/pu/vid/640x360/W9-BbIhzY4Rhm7VS.mp4"
+  ],
+  "video_file_name": "twtr_data/1545605427135905792.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545605427135905792.video.00.mp4.clip.00.png"
+  ]
+}
