@@ -1,13 +1,17 @@
 import argparse
+import shutil
 
 from sm_photos import (collage, dedupe, filesys, photo_video, photos, readme,
                        summary, text_collage, videos)
+from sm_photos._constants import DIR_TWTR_DATA
 from sm_photos._utils import log
 from sm_photos.twtr import TWTR
 
 
 def main(hashtag):
     filesys.init()
+
+    shutil.rmtree(DIR_TWTR_DATA)
 
     twtr = TWTR()
     tweet_info_list = twtr.get_tweet_info_list(hashtag)
