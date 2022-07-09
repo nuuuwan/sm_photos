@@ -1,10 +1,447 @@
 # Social Media Photos
 
-*970 tweets as of 20220709-095120*
+*996 tweets as of 20220709-101435*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 10:10:23 by [NethiSJ](https://twitter.com/NethiSJ/status/1545628910721073152)
+
+0 videos, 1 photos
+
+```
+
+නන්දේ get ready ...... 
+#GoHomeGota2022
+#GoHomeRajapakshas
+#GoHomeGota
+#GoHomeRanil https://t.co/HjR9vmVT63
+
+```
+
+![image](twtr_data/1545628910721073152.photo.00.jpg)
+
+---
+
+2022-07-09 10:09:27 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545628674606923776)
+
+1 videos, 0 photos
+
+```
+
+⚡Protest in #Homagama 
+
+#SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/zvdfs3nKxF
+
+```
+
+![image](twtr_data/1545628674606923776.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 10:07:54 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545628287124504581)
+
+1 videos, 0 photos
+
+```
+
+Kiribathgoda gathering pace towards...
+
+#SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/kSsdh17SRF
+
+```
+
+![image](twtr_data/1545628287124504581.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1545628287124504581.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 10:06:23 by [parakramar](https://twitter.com/parakramar/status/1545627904704389120)
+
+1 videos, 0 photos
+
+```
+
+BREAKING! 
+⁦@GotabayaR⁩ joined the protest march! 
+.
+#gohomegota #lka #financialcrisis #gohomegota2022 https://t.co/Eum0QXzr7F
+
+```
+
+![image](twtr_data/1545627904704389120.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 10:06:03 by [PansiluV](https://twitter.com/PansiluV/status/1545627819861893120)
+
+0 videos, 1 photos
+
+```
+
+බත කා ඉවරයි බලමින් උන්නොත්
+ටික කලකින් සිංහල හාලේ
+රාජපක්ෂ පවුලම මේ දීපෙන්
+පන්නන්නට සැරසෙව් රාළේ...
+
+කන්දෙ ගෙදර දුප්පත් නෑදෑයින්
+පෙරමුණකට රැස්වන සද්දේ
+කකුළු ලෙසට නන්දෙලා කෙලියාවේ
+ටිකකට උතුරන තුරු හොද්දේ...
+#GoHomeGota https://t.co/N369SrHSo3
+
+```
+
+![image](twtr_data/1545627819861893120.photo.00.jpg)
+
+---
+
+2022-07-09 10:05:06 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545627581239939072)
+
+0 videos, 1 photos
+
+```
+
+#මොරටුව to #ගෝටාගෝගම 
+
+#GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/LgnIa0GB2w
+
+```
+
+![image](twtr_data/1545627581239939072.photo.00.jpg)
+
+---
+
+2022-07-09 10:04:15 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545627366185046016)
+
+0 videos, 3 photos
+
+```
+
+ගෝටා එලවන්න ගාල්ලෙන් කොළඹට ජන ගඟක්.. 
+
+#Gohomegota https://t.co/Au6jrZlc6r
+
+```
+
+![image](twtr_data/1545627366185046016.photo.00.jpg)
+
+![image](twtr_data/1545627366185046016.photo.02.jpg)
+
+![image](twtr_data/1545627366185046016.photo.01.jpg)
+
+---
+
+2022-07-09 10:03:39 by [prasadsw](https://twitter.com/prasadsw/status/1545627217366896645)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota at #Sydney #Martinplace #Australia started at 2pm #lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaProtests #ProtestLK #අරගලයටජය #රටමකොළඹට https://t.co/TF3qS7xaXD
+
+```
+
+![image](twtr_data/1545627217366896645.photo.00.jpg)
+
+---
+
+2022-07-09 10:02:04 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545626816731561985)
+
+0 videos, 1 photos
+
+```
+
+#July9th Good Morning #SriLanka it’s Game Day. Exercise your Citizens rights. Freedom of speech, expression, movement and peaceful protest 🪧
+
+#GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/scm3YYBzYY
+
+```
+
+![image](twtr_data/1545626816731561985.photo.00.jpg)
+
+---
+
+2022-07-09 10:01:46 by [JayaniFdo](https://twitter.com/JayaniFdo/status/1545626741825482752)
+
+0 videos, 1 photos
+
+```
+
+#මොරටුව to #ගෝටාගෝගම 
+
+#GoHomeGota https://t.co/omNOc0MVht
+
+```
+
+![image](twtr_data/1545626741825482752.photo.00.jpg)
+
+---
+
+2022-07-09 10:00:53 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545626520001351681)
+
+1 videos, 0 photos
+
+```
+
+Based on 919 tweets from the last 72 hours, with photos and videos, tagged #GoHomeGota. 
+
+Retweet This For Help Protest To The Victory....
+
+#SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/lkDPwboVaU
+
+```
+
+![image](twtr_data/1545626520001351681.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 10:00:23 by [pdpcric__](https://twitter.com/pdpcric__/status/1545626393438220288)
+
+0 videos, 3 photos
+
+```
+
+#GoHomeGota protest in Galle city &amp; Colombo #lka #SriLanka
+
+#GoHomeGota2022 https://t.co/RryFB3LNX0
+
+```
+
+![image](twtr_data/1545626393438220288.photo.02.jpg)
+
+![image](twtr_data/1545626393438220288.photo.01.jpg)
+
+![image](twtr_data/1545626393438220288.photo.00.jpg)
+
+---
+
+2022-07-09 10:00:04 by [poojanilakshi](https://twitter.com/poojanilakshi/status/1545626315591925760)
+
+0 videos, 1 photos
+
+```
+
+Have you ever seen the power of the people... If not, please look for live news in Sri Lanka on 09/07/2022. The whole country has gathered as one and “Rajapaksha Murders” will end their era in a very disgusting manner. Victory for Sri Lankans!!! ✌️🇱🇰🙏 #ProudSriLankan #GoHomeGota https://t.co/7e8i7ihgLq
+
+```
+
+![image](twtr_data/1545626315591925760.photo.00.jpg)
+
+---
+
+2022-07-09 09:58:30 by [purpleskiiess](https://twitter.com/purpleskiiess/status/1545625922081918976)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/jEZrUbOJVW
+
+```
+
+![image](twtr_data/1545625922081918976.photo.00.jpg)
+
+---
+
+2022-07-09 09:58:26 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1545625901928517633)
+
+0 videos, 4 photos
+
+```
+
+Same happened in Galle. Lawyer Ajith Kumara did fb live showing thousands of stranded passengers. After negotiating with kindness train left to Colombo. Watch video of passengers chanting #GoHomeGota from the Aragalaya Kumari. https://t.co/9qrfA4nx1u
+You lost Mr President!
+13/ https://t.co/AkLhTpBiFJ
+
+```
+
+![image](twtr_data/1545625901928517633.photo.03.jpg)
+
+![image](twtr_data/1545625901928517633.photo.00.jpg)
+
+![image](twtr_data/1545625901928517633.photo.02.jpg)
+
+![image](twtr_data/1545625901928517633.photo.01.jpg)
+
+---
+
+2022-07-09 09:58:15 by [GlobeSLnews](https://twitter.com/GlobeSLnews/status/1545625857448112128)
+
+1 videos, 0 photos
+
+```
+
+A warm welcome to the people who are coming to the #OccupyGalleface from the #GotaGoGama protesters.
+
+#SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය #රටමකොළඹට https://t.co/DPzZruqU2J
+
+```
+
+![image](twtr_data/1545625857448112128.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 09:54:42 by [AddictiveAds](https://twitter.com/AddictiveAds/status/1545624964178423808)
+
+0 videos, 1 photos
+
+```
+
+Today
+there is nothing left 
+to say
+for actions speak louder than words
+
+අරගලයට  ජය!
+
+#AragalayataJayaWewa #aragalayatajaya #GoHomeGota2022 #GoHomeGota #MentalMayhem #JeremyMuller #TheJamFruitree #SriLanka https://t.co/0xeb8DAX8Z
+
+```
+
+![image](twtr_data/1545624964178423808.photo.00.jpg)
+
+---
+
+2022-07-09 09:54:10 by [Vidiyallk](https://twitter.com/Vidiyallk/status/1545624829574782977)
+
+0 videos, 1 photos
+
+```
+
+From Veyangoda to #Colombo by tipper
+
+#Srilanka #GoHomeGota #Colombo #අරගලයටජය #GoHomeRanil #lka https://t.co/XHjQcKO8Gn
+
+```
+
+![image](twtr_data/1545624829574782977.photo.00.jpg)
+
+---
+
+2022-07-09 09:54:06 by [mdlucias](https://twitter.com/mdlucias/status/1545624814341210112)
+
+0 videos, 1 photos
+
+```
+
+People are comeing on container from Nittambuwa to Colombo
+
+#Srilanka #GoHomeGota #Colombo #අරගලයටජය #GoHomeRanil #lka https://t.co/XTLlFUAyDc
+
+```
+
+![image](twtr_data/1545624814341210112.photo.00.jpg)
+
+---
+
+2022-07-09 09:52:56 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1545624520291229696)
+
+1 videos, 0 photos
+
+```
+
+දුම්රිය දෙකක් එකම අරමුණක් 
+#lka #GoHomeGota #July9th https://t.co/wPRjSm6egR
+
+```
+
+![image](twtr_data/1545624520291229696.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-09 09:52:24 by [asitha__lk](https://twitter.com/asitha__lk/status/1545624385872007168)
+
+0 videos, 1 photos
+
+```
+
+#අරගලයටජය #GoHomeGota2022 #gohomegota #Colombo #GoHomeRajapaksas #aragalaya https://t.co/NcGYqjlM9E
+
+```
+
+![image](twtr_data/1545624385872007168.photo.00.jpg)
+
+---
+
+2022-07-09 09:52:20 by [sanjanah](https://twitter.com/sanjanah/status/1545624368319188992)
+
+0 videos, 1 photos
+
+```
+
+And as proxy indicator of overwhelming public support for #GoHomeGota content, the ~1.2k posts generate ~210.2k interactions, out of which ~91.8k are likes and ~51k are love. The most anger generated is tellingly around a post framing Namal Rajapaksa's family leaving for France. https://t.co/D0mzKlTGX7
+
+```
+
+![image](twtr_data/1545624368319188992.photo.00.jpg)
+
+---
+
+2022-07-09 09:51:40 by [VikumRaj](https://twitter.com/VikumRaj/status/1545624201536475136)
+
+1 videos, 0 photos
+
+```
+
+Kiribathgoda gathering pace towards #Colombo
+#GoHomeGota #GoHomeRanil #GoHomeRajapaksas https://t.co/DTF4jW1rXK
+
+```
+
+![image](twtr_data/1545624201536475136.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1545624201536475136.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-09 09:51:29 by [mdlucias](https://twitter.com/mdlucias/status/1545624153625075712)
+
+0 videos, 1 photos
+
+```
+
+From Veyangoda to Colombo by tipper
+
+#Srilanka #GoHomeGota #Colombo #අරගලයටජය #GoHomeRanil #lka https://t.co/KrEeQrgyYW
+
+```
+
+![image](twtr_data/1545624153625075712.photo.00.jpg)
+
+---
+
+2022-07-09 09:49:06 by [asitha__lk](https://twitter.com/asitha__lk/status/1545623554724483073)
+
+0 videos, 1 photos
+
+```
+
+#අරගලයටජය #Gohomegota #GoHomeGota2022 #Colombo #GoHomeRajapaksas #GoHomeRajapakshas #galleface https://t.co/guCKixiSNF
+
+```
+
+![image](twtr_data/1545623554724483073.photo.00.jpg)
+
+---
+
+2022-07-09 09:48:13 by [zahranifthikar](https://twitter.com/zahranifthikar/status/1545623333798309888)
+
+0 videos, 2 photos
+
+```
+
+We are on our way for the #endgame #EconomicCrisisLK #GoHomeGota #SLvsAUS #GoHomeRajapakshas #GotaGoGama https://t.co/XF3d3uj9sJ
+
+```
+
+![image](twtr_data/1545623333798309888.photo.00.jpg)
+
+![image](twtr_data/1545623333798309888.photo.01.jpg)
+
+---
 
 2022-07-09 09:47:50 by [mohamednafly98](https://twitter.com/mohamednafly98/status/1545623234414247936)
 
@@ -1281,444 +1718,5 @@ Police curfew lifted from 8 am today.
 ```
 
 ![image](twtr_data/1545606179912425472.video.00.mp4.clip.00.png)
-
----
-
-2022-07-09 08:37:17 by [NireshEliatamby](https://twitter.com/NireshEliatamby/status/1545605482643087361)
-
-0 videos, 1 photos
-
-```
-
-Huan Rights Commission blasts IGP &amp; Army. @BotLanka @SLRTBot @619Sniper619Bot #GoHomeGota https://t.co/4SBFzrOHnI
-
-```
-
-![image](twtr_data/1545605482643087361.photo.00.png)
-
----
-
-2022-07-09 08:37:04 by [ihshaniqbal](https://twitter.com/ihshaniqbal/status/1545605427135905792)
-
-1 videos, 0 photos
-
-```
-
-At Fort Railway Station. FYI The Station is closed #SriLankaEconomicCrisis #GoHomeGota https://t.co/cEhr9elvXu
-
-```
-
-![image](twtr_data/1545605427135905792.video.00.mp4.clip.00.png)
-
----
-
-2022-07-09 08:36:13 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1545605215113646080)
-
-0 videos, 1 photos
-
-```
-
-Look at the crowds walking from Moratuwa. A river of people is flowing in the Galle road towards GGG. 
-ජනතා අරගලයට ජයවේවා!
-#powertothepeople 
-You lost Mr President!
-#GoHomeGota 9/ https://t.co/DPBnTPUjx5
-
-```
-
-![image](twtr_data/1545605215113646080.photo.00.jpg)
-
----
-
-2022-07-09 08:35:14 by [MadhushanPerer2](https://twitter.com/MadhushanPerer2/status/1545604965494050816)
-
-1 videos, 0 photos
-
-```
-
-Though this is from a movie, I hope @airforcelk @LkDefence @Sri_Lanka_Army @srilanka_police gets the meaning. It’s not too late to pick choose justice. #Aragalaya #GoHomeGota #GotaGoHome #SriLankaProtests #SriLankaEconomicCrisis #අරගලයටජය #අරගලය https://t.co/iP1B3OjJUf
-
-```
-
-![image](twtr_data/1545604965494050816.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1545604965494050816.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1545604965494050816.video.00.mp4.clip.02.png)
-
----
-
-2022-07-09 08:35:13 by [exfrotezter](https://twitter.com/exfrotezter/status/1545604962935140353)
-
-0 videos, 3 photos
-
-```
-
-The tyrant’s efforts to stop people from travelling to Colombo have failed. The people have spoken and the trains are operating.
-
-#ProtestLK #GoHomeGota https://t.co/8EBgyPGIyy
-
-```
-
-![image](twtr_data/1545604962935140353.photo.02.jpg)
-
-![image](twtr_data/1545604962935140353.photo.00.jpg)
-
-![image](twtr_data/1545604962935140353.photo.01.jpg)
-
----
-
-2022-07-09 08:32:36 by [heavybstyles](https://twitter.com/heavybstyles/status/1545604301405519874)
-
-0 videos, 2 photos
-
-```
-
-RT @MawNews: #Mawanella this morning #SriLankaCrisis #GoHomeGota https://t.co/T7CzPepj5o
-
-```
-
-![image](twtr_data/1545604301405519874.photo.01.jpg)
-
-![image](twtr_data/1545604301405519874.photo.00.jpg)
-
----
-
-2022-07-09 08:32:35 by [heavybstyles](https://twitter.com/heavybstyles/status/1545604297781567489)
-
-0 videos, 1 photos
-
-```
-
-RT @Amaliniii: Some notes for those coming out or wanting to participate in any way today. Nothing that hasn't been said before - just stay safe and if you're participating, do so in a way that feels right to you. #lka #SriLanka #GoHomeGota https://t.co/mlLbJLbPI3
-
-```
-
-![image](twtr_data/1545604297781567489.photo.00.jpg)
-
----
-
-2022-07-09 08:32:35 by [heavybstyles](https://twitter.com/heavybstyles/status/1545604299618750465)
-
-0 videos, 2 photos
-
-```
-
-RT @nomadic_sanjee: "We are on our way...
-We are walking all the way from Batapola
-Those on the way join us!
-You didn't plan enough to stop us."
-You lost Mr President!
-#GoHomeGota 7/ https://t.co/WKBT3i6sWp
-
-```
-
-![image](twtr_data/1545604299618750465.photo.01.jpg)
-
-![image](twtr_data/1545604299618750465.photo.00.jpg)
-
----
-
-2022-07-09 08:32:25 by [rhperera](https://twitter.com/rhperera/status/1545604257231310850)
-
-0 videos, 1 photos
-
-```
-
-Congestion at ticket counters in Kalutara railway station as hundreds of people gather for protests
-#GoHomeGota #GoHomeGota2022 https://t.co/LDptAAE7He
-
-```
-
-![image](twtr_data/1545604257231310850.photo.00.jpg)
-
----
-
-2022-07-09 08:32:04 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1545604167309398017)
-
-0 videos, 1 photos
-
-```
-
-Galle teachers coming to Colombo
-👊🏼🕊👊🏼
-Our amazing Galle teachers managed to organise a bus to go to the protests in Colombo.
-ජනතා අරගලයට ජයවේවා!
-#powertothepeople 
-You lost Mr President!
-#GoHomeGota 
-#GoHomeRanil 
-#gohomerajapaksas 
-#GiveUsOurStolenMoneyBack 8/ https://t.co/i44anT9z4v
-
-```
-
-![image](twtr_data/1545604167309398017.photo.00.jpg)
-
----
-
-2022-07-09 08:24:50 by [pdpcric__](https://twitter.com/pdpcric__/status/1545602349258776576)
-
-0 videos, 2 photos
-
-```
-
-Stand Strong SRI LANKA! #SriLankaProtests #GoHomeGota
-#GoHomeRajapaksas #GoHomeGota2022 https://t.co/PXFfJMQjqY
-
-```
-
-![image](twtr_data/1545602349258776576.photo.01.jpg)
-
-![image](twtr_data/1545602349258776576.photo.00.jpg)
-
----
-
-2022-07-09 08:22:21 by [buddhima_92](https://twitter.com/buddhima_92/status/1545601722881830917)
-
-0 videos, 1 photos
-
-```
-
-Showing our support here from #NZ to kick @GotabayaR and his goons out of office. #GoHomeGota #GoHomeGota2022 https://t.co/7MYUMu9xN4
-
-```
-
-![image](twtr_data/1545601722881830917.photo.00.jpg)
-
----
-
-2022-07-09 08:19:03 by [kosaqsi_tweets](https://twitter.com/kosaqsi_tweets/status/1545600894258974720)
-
-0 videos, 1 photos
-
-```
-
-Let’s bring an end to the corrupt Rajapaksha dynasty. 
-
-It’s now or never. 09.07.2022 ✌️ 🛑 
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #අරගලයටජය #රටමකොළඹට https://t.co/OeBBbnw26H
-
-```
-
-![image](twtr_data/1545600894258974720.photo.00.jpg)
-
----
-
-2022-07-09 08:17:12 by [KalhanRan](https://twitter.com/KalhanRan/status/1545600426048831488)
-
-0 videos, 1 photos
-
-```
-
-U-turn: In some areas, the police curfew has been lifted as of 8 AM !
-#lka #SriLanka #GoHomeGota #GoHomeRanil #අරගලයටජය #රටමක්ප්ළඹට #July9th #CurfewLK 
-https://t.co/xTD8HnlkQx https://t.co/hvc1Ostezg
-
-```
-
-![image](twtr_data/1545600426048831488.photo.00.jpg)
-
----
-
-2022-07-09 08:12:54 by [itzme_wasi](https://twitter.com/itzme_wasi/status/1545599347554861058)
-
-0 videos, 1 photos
-
-```
-
-Good Morning Srilankans…🇱🇰🤗
-“9th July” - Today is a hopeful day. 
-
-#GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapaksas #9thJuly #gotagogama #EconomicCrisisLK #LK https://t.co/ZEK6zRZWe2
-
-```
-
-![image](twtr_data/1545599347554861058.photo.00.jpg)
-
----
-
-2022-07-09 08:12:04 by [iminspark](https://twitter.com/iminspark/status/1545599134672990208)
-
-0 videos, 1 photos
-
-```
-
-Salute 🫡❤️ #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #Srilanka https://t.co/w5A5lrplpc
-
-```
-
-![image](twtr_data/1545599134672990208.photo.00.jpg)
-
----
-
-2022-07-09 08:08:52 by [cheryykoko](https://twitter.com/cheryykoko/status/1545598331115581440)
-
-0 videos, 4 photos
-
-```
-
-Pettah Today at 7.15
-
-Cr - fb 
-#අරගලයටජය #SriLanka #GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapakshas #SriLankaProtests #lka https://t.co/1AYwEE5snR
-
-```
-
-![image](twtr_data/1545598331115581440.photo.01.jpg)
-
-![image](twtr_data/1545598331115581440.photo.00.jpg)
-
-![image](twtr_data/1545598331115581440.photo.02.jpg)
-
-![image](twtr_data/1545598331115581440.photo.03.jpg)
-
----
-
-2022-07-09 08:08:27 by [gihan_dd](https://twitter.com/gihan_dd/status/1545598226929438720)
-
-0 videos, 1 photos
-
-```
-
-මෑණියන්ගෙ වස්ත්‍රය තමා 🤮
-#පම්පෝරිනන්දෙ 
-#GoHomeGota 
-#GoHomeGota2022 
-#GoHomeRajapaksas
-@GotabayaR @PresRajapaksa @RajapaksaNamal https://t.co/ytsg4yIS9F
-
-```
-
-![image](twtr_data/1545598226929438720.photo.00.jpg)
-
----
-
-2022-07-09 08:07:02 by [GayanthaUmesh](https://twitter.com/GayanthaUmesh/status/1545597868828164097)
-
-0 videos, 1 photos
-
-```
-
-we will win protest.revolution began https://t.co/5DWtVy9qeA is the day💪 #GoHomeGota #අරගලයටජය #GoHomeRajapakshas #රටමකොළඹට https://t.co/0gZ25ZHN2E
-
-```
-
-![image](twtr_data/1545597868828164097.photo.00.jpg)
-
----
-
-2022-07-09 08:04:17 by [cheryykoko](https://twitter.com/cheryykoko/status/1545597177975947265)
-
-0 videos, 1 photos
-
-```
-
-Today is that day !! 
-#අරගලයටජය #SriLanka #GoHomeGota #GoHomeGota2022 #GoHomeRanil #GoHomeRajapakshas #SriLankaProtests #lka https://t.co/JvB5ITGXkx
-
-```
-
-![image](twtr_data/1545597177975947265.photo.00.jpg)
-
----
-
-2022-07-09 08:02:58 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545596845178531841)
-
-0 videos, 1 photos
-
-```
-
-Know these Before you go! 
-
-#GoHomeGota @ThyagiR @amnesty https://t.co/GDSVOZR9CG
-
-```
-
-![image](twtr_data/1545596845178531841.photo.00.jpg)
-
----
-
-2022-07-09 08:02:24 by [fan_of_gpm](https://twitter.com/fan_of_gpm/status/1545596703654510595)
-
-0 videos, 1 photos
-
-```
-
-My president is a coward 
-
-#EconomicCrisisLK 
-#GoHomeGota https://t.co/po8UTJZDAC
-
-```
-
-![image](twtr_data/1545596703654510595.photo.00.jpg)
-
----
-
-2022-07-09 08:02:04 by [Chalana_C_A](https://twitter.com/Chalana_C_A/status/1545596621123211265)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRanil #GoHomeRajapaksas 
-#බටනන්දෙ #බටලන්දෙ
-#Shameful #Dusgusting https://t.co/2NSJFRSy4j
-
-```
-
-![image](twtr_data/1545596621123211265.photo.00.jpg)
-
----
-
-2022-07-09 07:59:43 by [Knuwank](https://twitter.com/Knuwank/status/1545596028292075521)
-
-0 videos, 1 photos
-
-```
-
-@RajapaksaNamal @OFII_FRANCE 
-
-#GoHomeGota 
-#GotaGoHome2022 
-
-@OFII_FRANCE you've given a visa to the wife of a well know money laundering corrupt politician. 
-Her name is Limini Rajapaksa and hope you can revoke the visa and deport her. As she might be there in France to hide stolen funds. https://t.co/xzSOeq3VXJ
-
-```
-
-![image](twtr_data/1545596028292075521.photo.00.jpg)
-
----
-
-2022-07-09 07:57:30 by [KasunWimalasena](https://twitter.com/KasunWimalasena/status/1545595468737982464)
-
-0 videos, 1 photos
-
-```
-
-ගෝටා බය 😂🖕
-#GoHomeGota #GoHomeRanil #අරගලයටජය https://t.co/aD7RSrBB6J
-
-```
-
-![image](twtr_data/1545595468737982464.photo.00.jpg)
-
----
-
-2022-07-09 07:56:48 by [Nagahamulle](https://twitter.com/Nagahamulle/status/1545595295668453376)
-
-0 videos, 1 photos
-
-```
-
-Bros, Where you guys today?
-#GoHomeGota #GoHomeRajapakshas https://t.co/1DL4VJzElL
-
-```
-
-![image](twtr_data/1545595295668453376.photo.00.jpg)
 
 ---
