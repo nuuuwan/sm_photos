@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/ASaumyaraj/status/1545638656571977729",
+  "id": 1545638656571977729,
+  "user": "ASaumyaraj",
+  "time_create_ut": 1657343946,
+  "text": "#GoHomeGota #SriLanka #SriLankaCrisis https://t.co/KomnNl5Jeo",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545638578222276609/pu/vid/636x360/Q-9cCwQiK6TIpIm6.mp4"
+  ],
+  "video_file_name": "twtr_data/1545638656571977729.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545638656571977729.video.00.mp4.clip.00.png",
+    "twtr_data/1545638656571977729.video.00.mp4.clip.01.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/ARMYGIR25199144/status/1545638227528142848",
+  "id": 1545638227528142848,
+  "user": "ARMYGIR25199144",
+  "time_create_ut": 1657343844,
+  "text": "#GoHomeGota https://t.co/yPht8keZSw",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545638013732012032/pu/vid/540x960/Ghu29jR1oVj53XTI.mp4"
+  ],
+  "video_file_name": "twtr_data/1545638227528142848.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545638227528142848.video.00.mp4.clip.00.png",
+    "twtr_data/1545638227528142848.video.00.mp4.clip.01.png"
+  ]
+}
