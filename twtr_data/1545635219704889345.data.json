@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/muditha/status/1545635219704889345",
+  "id": 1545635219704889345,
+  "user": "muditha",
+  "time_create_ut": 1657343127,
+  "text": "Train arrival \n#GoHomeGota https://t.co/4t86EckIpI",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545635090109276161/pu/vid/640x360/8Cunopf9nRp2fFke.mp4"
+  ],
+  "video_file_name": "twtr_data/1545635219704889345.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545635219704889345.video.00.mp4.clip.00.png"
+  ]
+}

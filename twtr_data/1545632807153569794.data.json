@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/aselawaid/status/1545632807153569794",
+  "id": 1545632807153569794,
+  "user": "aselawaid",
+  "time_create_ut": 1657342552,
+  "text": "Large crowds seen making their way to #GGG from Dehiwala (footage taken closer the flyover, near Arpico) #GoHomeGota https://t.co/66vgJVVO1t",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545632542694440963/pu/vid/640x360/FOiL9mAl2maSS8VE.mp4"
+  ],
+  "video_file_name": "twtr_data/1545632807153569794.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545632807153569794.video.00.mp4.clip.00.png",
+    "twtr_data/1545632807153569794.video.00.mp4.clip.01.png"
+  ]
+}

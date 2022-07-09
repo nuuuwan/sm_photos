@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/faseehafarhan/status/1545633697730203649",
+  "id": 1545633697730203649,
+  "user": "faseehafarhan",
+  "time_create_ut": 1657342764,
+  "text": "#GoHomeGota https://t.co/j6EulhYygv",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545633591920431106/pu/vid/480x640/m_G0mqomEHwDYca3.mp4"
+  ],
+  "video_file_name": "twtr_data/1545633697730203649.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545633697730203649.video.00.mp4.clip.00.png"
+  ]
+}
