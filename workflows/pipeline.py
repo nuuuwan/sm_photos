@@ -1,7 +1,8 @@
 import argparse
 
-from sm_photos import (collage, dedupe, filesys, photos, readme, summary,
-                       text_collage, videos)
+from sm_photos import (collage, dedupe, filesys, photo_video, photos, readme,
+                       summary, text_collage, videos)
+from sm_photos._utils import log
 from sm_photos.twtr import TWTR
 
 
@@ -21,6 +22,11 @@ def main(hashtag):
     text_collage.build_text_collage(base_image_file, photo_file_list)
     text_collage.metarize()
     readme.build_readme()
+
+    try:
+        photo_video.build_photo_video_all()
+    except Exception:
+        log.error('build_photo_video_all failed')
 
 
 def get_options():
