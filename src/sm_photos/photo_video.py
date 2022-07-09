@@ -11,7 +11,7 @@ from sm_photos._utils import log
 
 IMAGE_WIDTH = 640
 IMAGE_HEIGHT = (int)(IMAGE_WIDTH * 9 / 16)
-TESTING = True
+TESTING = False
 MAX_IMAGES = 10 if TESTING else 2400
 FPS = 1
 
