@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/ConvoyOff/status/1545716961631420418",
+  "id": 1545716961631420418,
+  "user": "ConvoyOff",
+  "time_create_ut": 1657362616,
+  "text": "\ud83d\udd34  Le pr\u00e9sident Sri-lankais, dont le palais a \u00e9t\u00e9 saisi par des manifestants, tentent de quitter le pays en avion.\n#SriLankaProtests #GoHomeGota https://t.co/jDjRuCpAaW",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545716905603960833/pu/vid/494x270/x6DAsS-XKeRYDc2e.mp4"
+  ],
+  "video_file_name": "twtr_data/1545716961631420418.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545716961631420418.video.00.mp4.clip.00.png",
+    "twtr_data/1545716961631420418.video.00.mp4.clip.01.png",
+    "twtr_data/1545716961631420418.video.00.mp4.clip.02.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/prof_aq_/status/1545715222815510528",
+  "id": 1545715222815510528,
+  "user": "prof_aq_",
+  "time_create_ut": 1657362201,
+  "text": "Not #GoHomeGota anymore, #ComeHomeGota \ud83d\ude02\nhttps://t.co/ExG3USNPCg",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545701494783188994/pu/vid/320x478/lMZvnDxYkEBm4tVo.mp4"
+  ],
+  "video_file_name": "twtr_data/1545715222815510528.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545715222815510528.video.00.mp4.clip.00.png"
+  ]
+}

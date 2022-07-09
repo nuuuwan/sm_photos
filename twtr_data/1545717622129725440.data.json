@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/alni_farsi/status/1545717622129725440",
+  "id": 1545717622129725440,
+  "user": "alni_farsi",
+  "time_create_ut": 1657362773,
+  "text": "Protesters take advantage of the President's swimming pool of #SriLanka after invading his residence #GoHomeGota #SriLankaProtests https://t.co/hrH2bC9EUB",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545717581252022272/pu/vid/848x480/rM1uafJ1Yy7ZFIYj.mp4"
+  ],
+  "video_file_name": "twtr_data/1545717622129725440.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545717622129725440.video.00.mp4.clip.00.png"
+  ]
+}

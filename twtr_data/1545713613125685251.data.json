@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/SchnackOnly/status/1545713613125685251",
+  "id": 1545713613125685251,
+  "user": "SchnackOnly",
+  "time_create_ut": 1657361817,
+  "text": "WATCH: Unbelievable scene \nPowerful peoples come powerful places \ud83d\udcaa\ud83c\udffb\ud83d\udd25#SriLankaProtests #GoHomeGota https://t.co/ypIIEfAsAh",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545713357612802048/pu/vid/542x800/xUikwQeenbQNAoln.mp4"
+  ],
+  "video_file_name": "twtr_data/1545713613125685251.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545713613125685251.video.00.mp4.clip.00.png",
+    "twtr_data/1545713613125685251.video.00.mp4.clip.01.png"
+  ]
+}
