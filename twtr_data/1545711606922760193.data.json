@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/lukshayanmuthu/status/1545711606922760193",
+  "id": 1545711606922760193,
+  "user": "lukshayanmuthu",
+  "time_create_ut": 1657361339,
+  "text": "Cooking in president palace is a highlight .#GoHomeGota #gohomeranil https://t.co/MLu5xJcrly",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545711565646639104/pu/vid/352x640/0Z-rTclpxykCPEFD.mp4"
+  ],
+  "video_file_name": "twtr_data/1545711606922760193.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545711606922760193.video.00.mp4.clip.00.png",
+    "twtr_data/1545711606922760193.video.00.mp4.clip.01.png",
+    "twtr_data/1545711606922760193.video.00.mp4.clip.02.png"
+  ]
+}

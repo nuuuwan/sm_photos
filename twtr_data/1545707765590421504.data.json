@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/sachikalam1/status/1545707765590421504",
+  "id": 1545707765590421504,
+  "user": "sachikalam1",
+  "time_create_ut": 1657360423,
+  "text": "More footage, SriLanka protest\n \n#srilanka #lka #GoHomeGota #SriLanka #SriLankaProtests https://t.co/Iaiq8gX1UW",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545706634814451712/pu/vid/320x564/FI-o97Z0Zj-CN27O.mp4"
+  ],
+  "video_file_name": "twtr_data/1545707765590421504.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545707765590421504.video.00.mp4.clip.00.png"
+  ]
+}

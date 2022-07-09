@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/tworldreviews/status/1545708927815659520",
+  "id": 1545708927815659520,
+  "user": "tworldreviews",
+  "time_create_ut": 1657360700,
+  "text": "The people are rising at #SriLanka !\n\n #GoHomeGota #SriLankaProtests https://t.co/LdgA1k9iTP",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545708901014065153/pu/vid/320x564/EjlWvQ7bEYu3dc6o.mp4"
+  ],
+  "video_file_name": "twtr_data/1545708927815659520.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545708927815659520.video.00.mp4.clip.00.png",
+    "twtr_data/1545708927815659520.video.00.mp4.clip.01.png"
+  ]
+}

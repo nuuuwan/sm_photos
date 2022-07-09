@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/onlyoukihyun/status/1545709449259716608",
+  "id": 1545709449259716608,
+  "user": "onlyoukihyun",
+  "time_create_ut": 1657360825,
+  "text": "the Internet is down but we're still here fighting since hours \ud83e\udd27 #Gohomegota https://t.co/9VvbdHMemF",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545688842048442368/pu/vid/480x848/lH5zTefIt-b3umc9.mp4"
+  ],
+  "video_file_name": "twtr_data/1545709449259716608.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545709449259716608.video.00.mp4.clip.00.png",
+    "twtr_data/1545709449259716608.video.00.mp4.clip.01.png"
+  ]
+}

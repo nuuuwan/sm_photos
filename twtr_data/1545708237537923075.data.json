@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/AnonymeCitoyen/status/1545708237537923075",
+  "id": 1545708237537923075,
+  "user": "AnonymeCitoyen",
+  "time_create_ut": 1657360536,
+  "text": "Le d\u00e9put\u00e9 et ancien ministre du #SriLanka Rajitha Senaratne attaqu\u00e9 par la foule alors qu'il tentait de rejoindre une manifestation \u00e0 Colombo #SriLankaProtests #GoHomeGota https://t.co/D8OAyfZrh5",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545707737098719233/pu/vid/448x640/7X5qa26bOz3kGtFd.mp4"
+  ],
+  "video_file_name": "twtr_data/1545708237537923075.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545708237537923075.video.00.mp4.clip.00.png"
+  ]
+}
