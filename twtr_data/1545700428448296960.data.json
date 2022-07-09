@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/AjJaasir/status/1545700428448296960",
+  "id": 1545700428448296960,
+  "user": "AjJaasir",
+  "time_create_ut": 1657358674,
+  "text": "#GoHomeGota\nAlmost over \ud83d\udc94 https://t.co/EGOXrY4OIC",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545700389622009856/pu/vid/480x704/vngF9DSZhYv1Vm5K.mp4"
+  ],
+  "video_file_name": "twtr_data/1545700428448296960.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545700428448296960.video.00.mp4.clip.00.png"
+  ]
+}

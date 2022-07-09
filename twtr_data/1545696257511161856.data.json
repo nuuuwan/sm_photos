@@ -1,0 +1,19 @@
+{
+  "tweet_url": "https://twitter.com/isuru5150/status/1545696257511161856",
+  "id": 1545696257511161856,
+  "user": "isuru5150",
+  "time_create_ut": 1657357680,
+  "text": "Footage from Katunayake airport. #gohomegota #gohomerajapaksas https://t.co/3sMNIJIObd",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545696091437694982/pu/vid/640x368/nZMjl_TITV_QdLzP.mp4"
+  ],
+  "video_file_name": "twtr_data/1545696257511161856.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545696257511161856.video.00.mp4.clip.00.png",
+    "twtr_data/1545696257511161856.video.00.mp4.clip.01.png",
+    "twtr_data/1545696257511161856.video.00.mp4.clip.02.png",
+    "twtr_data/1545696257511161856.video.00.mp4.clip.03.png",
+    "twtr_data/1545696257511161856.video.00.mp4.clip.04.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/peacemaker_d_/status/1545700777225641985",
+  "id": 1545700777225641985,
+  "user": "peacemaker_d_",
+  "time_create_ut": 1657358757,
+  "text": "Video sent by mum at the protest!\n#GoHomeGota\n\n\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0da2\u0dba!\ud83c\uddf1\ud83c\uddf0 https://t.co/HrI0jwQsav",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545700713686343681/pu/vid/320x580/X984BXEzbWxMiveP.mp4"
+  ],
+  "video_file_name": "twtr_data/1545700777225641985.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545700777225641985.video.00.mp4.clip.00.png"
+  ]
+}

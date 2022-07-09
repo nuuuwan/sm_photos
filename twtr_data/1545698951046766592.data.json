@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/mdlucias/status/1545698951046766592",
+  "id": 1545698951046766592,
+  "user": "mdlucias",
+  "time_create_ut": 1657358322,
+  "text": "Escaping from Katunayake airport ..\n\n#Srilanka #GoHomeGota #Colombo #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeRanil #lka https://t.co/hBVdoKsaQK",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545698716652273664/pu/vid/636x360/cYeUIsa7EOPJaP-y.mp4"
+  ],
+  "video_file_name": "twtr_data/1545698951046766592.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545698951046766592.video.00.mp4.clip.00.png",
+    "twtr_data/1545698951046766592.video.00.mp4.clip.01.png",
+    "twtr_data/1545698951046766592.video.00.mp4.clip.02.png"
+  ]
+}

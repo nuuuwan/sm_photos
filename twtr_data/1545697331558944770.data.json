@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/SheharaJayakody/status/1545697331558944770",
+  "id": 1545697331558944770,
+  "user": "SheharaJayakody",
+  "time_create_ut": 1657357936,
+  "text": "Footage from the airport.\n\nWhere exactly is Gota? \n\n#protestsLK #GoHomeGota https://t.co/Bgmxvn9nPL",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545697215649284097/pu/vid/640x368/AB3szFjEyzDZ_H1B.mp4"
+  ],
+  "video_file_name": "twtr_data/1545697331558944770.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545697331558944770.video.00.mp4.clip.00.png",
+    "twtr_data/1545697331558944770.video.00.mp4.clip.01.png",
+    "twtr_data/1545697331558944770.video.00.mp4.clip.02.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/AnonymeCitoyen/status/1545696104720760832",
+  "id": 1545696104720760832,
+  "user": "AnonymeCitoyen",
+  "time_create_ut": 1657357643,
+  "text": "Les manifestants profitent de la piscine du Pr\u00e9sident du #SriLanka apr\u00e8s avoir envahi sa r\u00e9sidence #GoHomeGota #SriLankaProtests https://t.co/i36Mi5mFyZ",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545694454262145026/pu/vid/848x480/WC1zRrQA7XyhPtv1.mp4"
+  ],
+  "video_file_name": "twtr_data/1545696104720760832.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545696104720760832.video.00.mp4.clip.00.png"
+  ]
+}
