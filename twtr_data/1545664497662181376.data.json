@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/Kevinsheno/status/1545664497662181376",
+  "id": 1545664497662181376,
+  "user": "Kevinsheno",
+  "time_create_ut": 1657350107,
+  "text": "#GoHomeGota https://t.co/eBsTPIUyyV",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545664274709811200/pu/vid/320x568/pCly_R1BMEP6P2C0.mp4"
+  ],
+  "video_file_name": "twtr_data/1545664497662181376.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545664497662181376.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/FGunasekare/status/1545663054242799617",
+  "id": 1545663054242799617,
+  "user": "FGunasekare",
+  "time_create_ut": 1657349763,
+  "text": "5th Lane, access to @RW_UNP's residence.\n#SriLankaProtests \n#SriLanka \n#GoHomeGota https://t.co/tq2mAnWKS4",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545662563958104064/pu/vid/640x360/st6tUCkQP-rKIa2z.mp4"
+  ],
+  "video_file_name": "twtr_data/1545663054242799617.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545663054242799617.video.00.mp4.clip.00.png",
+    "twtr_data/1545663054242799617.video.00.mp4.clip.01.png"
+  ]
+}

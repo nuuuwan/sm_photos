@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/IamSivaranjan/status/1545666733121212417",
+  "id": 1545666733121212417,
+  "user": "IamSivaranjan",
+  "time_create_ut": 1657350640,
+  "text": "People are walking along the footpath towards the Galle Face in a throng of people thinking it is a festival\n\n#lka #SriLanka #ProtestLK  #GoHomeGota #GoHomeRanil https://t.co/qjiMmtVjdx",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545666177065955328/pu/vid/480x852/mY1Hvtn8IZkqLkuA.mp4"
+  ],
+  "video_file_name": "twtr_data/1545666733121212417.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545666733121212417.video.00.mp4.clip.00.png",
+    "twtr_data/1545666733121212417.video.00.mp4.clip.01.png",
+    "twtr_data/1545666733121212417.video.00.mp4.clip.02.png"
+  ]
+}

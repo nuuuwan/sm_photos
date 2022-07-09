@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/hiflal/status/1545662534862024704",
+  "id": 1545662534862024704,
+  "user": "hiflal",
+  "time_create_ut": 1657349639,
+  "text": "Roads and rails in Dehiwela just now 1/6  #GoHomeGota #GoHomeRajapakshas #Aragalaya https://t.co/TfzFIzgySE",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545662422081540096/pu/vid/480x270/7JZnOigAasObn53O.mp4"
+  ],
+  "video_file_name": "twtr_data/1545662534862024704.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545662534862024704.video.00.mp4.clip.00.png",
+    "twtr_data/1545662534862024704.video.00.mp4.clip.01.png"
+  ]
+}

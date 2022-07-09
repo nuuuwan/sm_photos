@@ -1,0 +1,20 @@
+{
+  "tweet_url": "https://twitter.com/aroarun/status/1545666469127602176",
+  "id": 1545666469127602176,
+  "user": "aroarun",
+  "time_create_ut": 1657350577,
+  "text": "Gota Go Home .July 9 protests in full swing #GoHomeGota #EconomicCrisisLK #SriLankaCrisis #Srilanka https://t.co/dq2hgcs0r6",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545644429679239168/pu/vid/640x360/qF7xgdI6Dk-WWHGL.mp4"
+  ],
+  "video_file_name": "twtr_data/1545666469127602176.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545666469127602176.video.00.mp4.clip.00.png",
+    "twtr_data/1545666469127602176.video.00.mp4.clip.01.png",
+    "twtr_data/1545666469127602176.video.00.mp4.clip.02.png",
+    "twtr_data/1545666469127602176.video.00.mp4.clip.03.png",
+    "twtr_data/1545666469127602176.video.00.mp4.clip.04.png",
+    "twtr_data/1545666469127602176.video.00.mp4.clip.05.png"
+  ]
+}

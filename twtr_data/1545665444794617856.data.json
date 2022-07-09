@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/YesandiB/status/1545665444794617856",
+  "id": 1545665444794617856,
+  "user": "YesandiB",
+  "time_create_ut": 1657350333,
+  "text": "#GoHomeGota \ud83c\uddf1\ud83c\uddf0\u2764 https://t.co/Nj1zfd9Gh5",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545665296790347776/pu/vid/320x568/u_87Zt0Q2ua9QiWx.mp4"
+  ],
+  "video_file_name": "twtr_data/1545665444794617856.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545665444794617856.video.00.mp4.clip.00.png",
+    "twtr_data/1545665444794617856.video.00.mp4.clip.01.png"
+  ]
+}
