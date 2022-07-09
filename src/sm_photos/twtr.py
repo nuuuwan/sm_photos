@@ -40,6 +40,9 @@ class TWTR:
             user = user_idx[tweet.author_id].username
             tweet_url = f'https://twitter.com/{user}/status/{id}'
 
+            if 'attachments' not in tweet.data:
+                continue
+
             attachments = tweet.data['attachments']
             media_keys = attachments['media_keys']
 
