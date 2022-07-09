@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/eshan_malinda/status/1545646621006131201",
+  "id": 1545646621006131201,
+  "user": "eshan_malinda",
+  "time_create_ut": 1657345845,
+  "text": "\u30c7\u30e2\u306b\u53c2\u52a0\u3059\u308b\u8b66\u5bdf\u5b98\u3002\n\u3042\u308a\u304c\u3068\u3046\u3002\n\n#\u30b9\u30ea\u30e9\u30f3\u30ab #SriLanka #GoHomeGota \n\n https://t.co/oKWg1HHnNy",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545645572094590976/pu/vid/636x360/DD4xaUGrIVlST5In.mp4"
+  ],
+  "video_file_name": "twtr_data/1545646621006131201.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545646621006131201.video.00.mp4.clip.00.png",
+    "twtr_data/1545646621006131201.video.00.mp4.clip.01.png"
+  ]
+}

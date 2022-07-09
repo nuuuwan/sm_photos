@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/kjayawardana2/status/1545646756901183491",
+  "id": 1545646756901183491,
+  "user": "kjayawardana2",
+  "time_create_ut": 1657345878,
+  "text": "#GoHomeGota\n#SriLanka https://t.co/3tbaCUEObP",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545646384874864645/pu/vid/480x852/_PoEws0h9l4lECAJ.mp4"
+  ],
+  "video_file_name": "twtr_data/1545646756901183491.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545646756901183491.video.00.mp4.clip.00.png"
+  ]
+}

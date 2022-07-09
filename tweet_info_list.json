@@ -1,5 +1,486 @@
 [
   {
+    "tweet_url": "https://twitter.com/Rasiya_Twitz/status/1545647096304349184",
+    "id": 1545647096304349184,
+    "user": "Rasiya_Twitz",
+    "time_create_ut": 1657345959,
+    "text": "\u0ba4\u0bb1\u0bcd\u0b9a\u0bae\u0baf\u0bae\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u2013 \u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb0\u0baf\u0bbf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0bbe\u0b95.....\n\n\ud83d\udcf7@Kavinthans\n\n#SriLankaCrisis #GoHomeGota #Colombo #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeRanil https://t.co/5wXyjKkUDh",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM8vbJVUAIGJ7q.jpg",
+      "https://pbs.twimg.com/media/FXM8vcQUcAAdid3.jpg",
+      "https://pbs.twimg.com/media/FXM8vdtVUAAnBoS.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545647096304349184.photo.02.jpg",
+    "local_media": {
+      "photo": [
+        "1545647096304349184.photo.02.jpg",
+        "1545647096304349184.photo.00.jpg",
+        "1545647096304349184.photo.01.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/NHimansi/status/1545647043833901056",
+    "id": 1545647043833901056,
+    "user": "NHimansi",
+    "time_create_ut": 1657345946,
+    "text": "#GoHomeGota2022 #GoHomeGota #GoHomeRanil #SriLanka #SriLankaEconomicCrisis #srilankaprotest #lka https://t.co/hX2ytKyy5X",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545646915987345409/pu/vid/240x426/hq8Rbn8iTQEX4ZbH.mp4"
+    ],
+    "video_file_name": "twtr_data/1545647043833901056.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545647043833901056.video.00.mp4.clip.00.png",
+      "twtr_data/1545647043833901056.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545647043833901056.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545647043833901056.video.00.mp4.clip.01.png",
+        "1545647043833901056.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/_manjitha_d_/status/1545647028268855296",
+    "id": 1545647028268855296,
+    "user": "_manjitha_d_",
+    "time_create_ut": 1657345942,
+    "text": "\ud83c\uddf1\ud83c\uddf0 #GoHomeGota https://t.co/BQneMd3GTN",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM9x52akAAWpUv.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545647028268855296.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545647028268855296.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/__Milo___/status/1545646977186074624",
+    "id": 1545646977186074624,
+    "user": "__Milo___",
+    "time_create_ut": 1657345930,
+    "text": "Today is the day \u270a\ud83c\uddf1\ud83c\uddf0 \n\n#GoHomeGota #GoHomeGota2022 #GoHomeRajapaksas #GotaGoGama #Aragalaya #Protest #SriLanka #lka https://t.co/DRMiwJkk1S",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM9unFXkAEtO5N.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545646977186074624.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545646977186074624.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/jayamini96/status/1545646943644225538",
+    "id": 1545646943644225538,
+    "user": "jayamini96",
+    "time_create_ut": 1657345922,
+    "text": "#GoHomeGota \ud83c\uddf1\ud83c\uddf0\ud83c\uddf1\ud83c\uddf0\ud83c\uddf1\ud83c\uddf0\ud83d\udcaa\ud83c\udffb\ud83d\udcaa\ud83c\udffb\ud83d\ude0d https://t.co/qcOPJHcUv4",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM9sF_XwAAEPzV.jpg",
+      "https://pbs.twimg.com/media/FXM9sGEX0AAwygz.jpg",
+      "https://pbs.twimg.com/media/FXM9sGRXgAEQc6c.jpg",
+      "https://pbs.twimg.com/media/FXM9sGUWAAI5eux.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545646943644225538.photo.03.jpg",
+    "local_media": {
+      "photo": [
+        "1545646943644225538.photo.00.jpg",
+        "1545646943644225538.photo.02.jpg",
+        "1545646943644225538.photo.01.jpg",
+        "1545646943644225538.photo.03.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/kjayawardana2/status/1545646756901183491",
+    "id": 1545646756901183491,
+    "user": "kjayawardana2",
+    "time_create_ut": 1657345878,
+    "text": "#GoHomeGota\n#SriLanka https://t.co/3tbaCUEObP",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545646384874864645/pu/vid/480x852/_PoEws0h9l4lECAJ.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646756901183491.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646756901183491.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646756901183491.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646756901183491.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sunandadesh/status/1545646641046323200",
+    "id": 1545646641046323200,
+    "user": "sunandadesh",
+    "time_create_ut": 1657345850,
+    "text": "#SriLanka day of reckoning has come! \n\u0d9c\u0ddd\u0da7 \u0d91\u0db4\u0dcf \u0d9a\u0dd2\u0dc0\u0dca\u0dc0\u0da7 - \u0d85\u0db4\u0dd2 \u0d91\u0db1\u0dc0\u0dcf \u0d9a\u0ddc\u0dbd\u0db9\u0da7!\u00a0\n\u0da2\u0db1 \u0d9c\u0d9f \u0dc4\u0db8\u0dd4\u0dc0\u0dda \u0d9c\u0ddd\u0da7\u0dcf \u0db4\u0dbd\u0dcf \u0dba\u0dcf\u0db8 \u0dc3\u0dd6\u0daf\u0dcf\u0db1\u0db8\u0dca \u0d9a\u0dbb\u0dba\u0dd2!\u00a0\nwe are coming to Colombo - despite Gota's warning!\n#GoHomeGota #GoHomeRanil https://t.co/Ilsw2PJ0sI",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545645943579607041/pu/vid/352x640/WeyITzKrVLznS19D.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646641046323200.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646641046323200.video.00.mp4.clip.00.png",
+      "twtr_data/1545646641046323200.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646641046323200.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646641046323200.video.00.mp4.clip.01.png",
+        "1545646641046323200.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/eshan_malinda/status/1545646621006131201",
+    "id": 1545646621006131201,
+    "user": "eshan_malinda",
+    "time_create_ut": 1657345845,
+    "text": "\u30c7\u30e2\u306b\u53c2\u52a0\u3059\u308b\u8b66\u5bdf\u5b98\u3002\n\u3042\u308a\u304c\u3068\u3046\u3002\n\n#\u30b9\u30ea\u30e9\u30f3\u30ab #SriLanka #GoHomeGota \n\n https://t.co/oKWg1HHnNy",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545645572094590976/pu/vid/636x360/DD4xaUGrIVlST5In.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646621006131201.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646621006131201.video.00.mp4.clip.00.png",
+      "twtr_data/1545646621006131201.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646621006131201.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646621006131201.video.00.mp4.clip.01.png",
+        "1545646621006131201.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/t_dimpleillegal/status/1545646610432294912",
+    "id": 1545646610432294912,
+    "user": "t_dimpleillegal",
+    "time_create_ut": 1657345843,
+    "text": "#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba \n#GoHomeGota \n#ika \n#July9th https://t.co/j4aJW8EkFd",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545646569143545856/pu/vid/320x746/Jbld3FSj426Oa7v9.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646610432294912.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646610432294912.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646610432294912.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646610432294912.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/jayslovatoo/status/1545646504240508930",
+    "id": 1545646504240508930,
+    "user": "jayslovatoo",
+    "time_create_ut": 1657345817,
+    "text": "yesterday they imposed a \u201cpolice curfew\u201d and terminated public transportation just to stop the protests today against our corrupt government. regardless of these barriers, people have still United to fight for our rights. Power to the people \u270a\ud83c\udffe #GoHomeGota https://t.co/GeNDBuCWl9",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM9S52VUAAbziN.jpg",
+      "https://pbs.twimg.com/media/FXM9S5yUIAE_Ul0.jpg",
+      "https://pbs.twimg.com/media/FXM9S5wUYAAF7D1.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545646504240508930.photo.02.jpg",
+    "local_media": {
+      "photo": [
+        "1545646504240508930.photo.01.jpg",
+        "1545646504240508930.photo.00.jpg",
+        "1545646504240508930.photo.02.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Master2005A/status/1545646307213135872",
+    "id": 1545646307213135872,
+    "user": "Master2005A",
+    "time_create_ut": 1657345771,
+    "text": "\u2764\ufe0f\ud83d\udca5\n\n#GoHomeGota2022 #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #Colombo #GoHomeGota https://t.co/bXFMXsMN5I",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545645096078831616/pu/vid/320x564/LhZtIxwDSaQrHast.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646307213135872.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646307213135872.video.00.mp4.clip.00.png",
+      "twtr_data/1545646307213135872.video.00.mp4.clip.01.png",
+      "twtr_data/1545646307213135872.video.00.mp4.clip.02.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646307213135872.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646307213135872.video.00.mp4.clip.02.png",
+        "1545646307213135872.video.00.mp4.clip.00.png",
+        "1545646307213135872.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/rifadrumi/status/1545646157547704320",
+    "id": 1545646157547704320,
+    "user": "rifadrumi",
+    "time_create_ut": 1657345735,
+    "text": "#GoHomeGota #GoHomeRajapakshas #GoHomeRanil https://t.co/o5lNZ72oqa",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545646068163026945/pu/vid/480x852/Kx7FB2XgwgQbx2kX.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646157547704320.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646157547704320.video.00.mp4.clip.00.png",
+      "twtr_data/1545646157547704320.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646157547704320.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646157547704320.video.00.mp4.clip.00.png",
+        "1545646157547704320.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/SirakukalT/status/1545646021765926918",
+    "id": 1545646021765926918,
+    "user": "SirakukalT",
+    "time_create_ut": 1657345702,
+    "text": "\u0bb5\u0bb0\u0bb2\u0bbe\u0bb1\u0bc1 \u0b95\u0bbe\u0ba3\u0bbe\u0ba4 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bae\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc8 \u0ba8\u0bcb\u0b95\u0bcd\u0b95\u0bbf \u0baa\u0b9f\u0bc8\u0baf\u0bc6\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1 : \u0b95\u0ba3\u0bcd\u0ba3\u0bc0\u0bb0\u0bcd\u0baa\u0baa\u0bc1\u0b95\u0bc8 \u0baa\u0bbf\u0bb0\u0baf\u0bcb\u0b95\u0bae\u0bcd\n\n#SriLanka  | #GotaGoGama  | #GoHomeGota https://t.co/JsTZgjFtBW",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545645787115565056/pu/vid/640x360/xomvWSA5b1EOCDso.mp4"
+    ],
+    "video_file_name": "twtr_data/1545646021765926918.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545646021765926918.video.00.mp4.clip.00.png",
+      "twtr_data/1545646021765926918.video.00.mp4.clip.01.png",
+      "twtr_data/1545646021765926918.video.00.mp4.clip.02.png",
+      "twtr_data/1545646021765926918.video.00.mp4.clip.03.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545646021765926918.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545646021765926918.video.00.mp4.clip.03.png",
+        "1545646021765926918.video.00.mp4.clip.02.png",
+        "1545646021765926918.video.00.mp4.clip.00.png",
+        "1545646021765926918.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/t_dimpleillegal/status/1545645924424511488",
+    "id": 1545645924424511488,
+    "user": "t_dimpleillegal",
+    "time_create_ut": 1657345679,
+    "text": "#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeGota #July9th https://t.co/I0QELuLnWl",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM8xuFaUAAkMJC.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545645924424511488.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545645924424511488.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Judeoff/status/1545645365353148419",
+    "id": 1545645365353148419,
+    "user": "Judeoff",
+    "time_create_ut": 1657345546,
+    "text": "\u2764\ufe0f\ud83d\udca5\n\n#GoHomeGota2022 #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #Colombo #GoHomeGota https://t.co/apEoy3mX19",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545645096078831616/pu/vid/320x564/LhZtIxwDSaQrHast.mp4"
+    ],
+    "video_file_name": "twtr_data/1545645365353148419.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545645365353148419.video.00.mp4.clip.00.png",
+      "twtr_data/1545645365353148419.video.00.mp4.clip.01.png",
+      "twtr_data/1545645365353148419.video.00.mp4.clip.02.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545645365353148419.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545645365353148419.video.00.mp4.clip.01.png",
+        "1545645365353148419.video.00.mp4.clip.00.png",
+        "1545645365353148419.video.00.mp4.clip.02.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/msmsanfer/status/1545645272306679809",
+    "id": 1545645272306679809,
+    "user": "msmsanfer",
+    "time_create_ut": 1657345524,
+    "text": "\u0daf\u0dd4\u0d9a \u0dc4\u0dd2\u0dad\u0dd4\u0db1\u0dcf \u0d92\u0d9a\u0da7 \u0db1\u0db8\u0dca \ud83d\ude44\ud83d\udc94\n\u0dad\u0dd9\u0dbd\u0dca \u0da7\u0dd2\u0d9a \u0db1\u0dd1 \u0dbd\u0dd9\u0da9\u0dd9\u0d9a\u0dca \u0dc4\u0ddc\u0dc3\u0dca\u0db4\u0dd2\u0da7\u0dbd\u0dca \u0d85\u0dbb\u0db1\u0dca \u0dba\u0db1\u0dca\u0db1\u0dc0\u0dad\u0dca \ud83d\udc94\n#GoHomeGota #SriLankaCrisis #lka https://t.co/TIwduo1kGv",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM8Lu1acAIMSZU.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545645272306679809.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545645272306679809.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Rasiya_Twitz/status/1545645259337506816",
+    "id": 1545645259337506816,
+    "user": "Rasiya_Twitz",
+    "time_create_ut": 1657345521,
+    "text": "\u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b95\u0bb2\u0ba8\u0bcd\u0ba4\u0bc1\u0b95\u0bca\u0bb3\u0bcd\u0baa\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4 \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9 \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bc1\u0bb5\u0bb0\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0baf\u0bc8 \u0b8e\u0ba4\u0bcd\u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bcd \u0bb5\u0ba8\u0bcd\u0ba4\u0bbe\u0bb2\u0bc1\u0bae\u0bcd \u0b8f\u0bb1\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd \u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd. \n\n\u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0bae\u0bcd \u0ba8\u0bbf\u0b9a\u0bcd\u0b9a\u0baf\u0bae\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baa\u0bc6\u0bb1\u0bc1\u0bae\u0bcd\n\n\ud83d\udc49 \u0baa\u0bc1\u0b95\u0bc8\u0baf\u0bbf\u0bb0\u0ba4 \u0ba8\u0bbf\u0bb2\u0bc8\u0baf \u0b85\u0ba4\u0bbf\u0baa\u0bb0\u0bcd \u0b9a\u0b99\u0bcd\u0b95\u0bae\u0bcd / virakesari\n\n#SriLankaCrisis #GoHomeGota  #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/uVjfdQZQHJ",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM8EIjUUAAUqBt.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545645259337506816.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545645259337506816.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Economynext/status/1545645137581453312",
+    "id": 1545645137581453312,
+    "user": "Economynext",
+    "time_create_ut": 1657345492,
+    "text": "#SriLanka #EconomicCrisisLK #GoHomeGota #Gotabaya #GotaGoGama #CountryToColombo #ProtestLK #aragalaya https://t.co/13qLwuKzvx",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXM8CrJXEAU5agP.jpg",
+      "https://pbs.twimg.com/media/FXM8DNTXEAMNmPQ.jpg",
+      "https://pbs.twimg.com/media/FXM8DqnWQAEyuyr.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545645137581453312.photo.02.jpg",
+    "local_media": {
+      "photo": [
+        "1545645137581453312.photo.00.jpg",
+        "1545645137581453312.photo.01.jpg",
+        "1545645137581453312.photo.02.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/realJanaka/status/1545645058682245120",
+    "id": 1545645058682245120,
+    "user": "realJanaka",
+    "time_create_ut": 1657345473,
+    "text": "\u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0dd9\u0d9a\u0dca \u0d91\u0dbd\u0dc0\u0db1\u0dca\u0db1 \u0d9a\u0ddc\u0dc5\u0db9 \u0d91\u0db1 \u0d9c\u0db8\u0db1\u0dca\u2026 \ud83d\udeb4\u200d\u2640\ufe0f\ud83d\udeb4#GoHomeGota #GoHomeRanil #GoHomeRajapaksas #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/xKvi6iBGvv",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545644944689430530/pu/vid/640x360/HIVgH8AdoZwjbrvf.mp4"
+    ],
+    "video_file_name": "twtr_data/1545645058682245120.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545645058682245120.video.00.mp4.clip.00.png",
+      "twtr_data/1545645058682245120.video.00.mp4.clip.01.png",
+      "twtr_data/1545645058682245120.video.00.mp4.clip.02.png",
+      "twtr_data/1545645058682245120.video.00.mp4.clip.03.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545645058682245120.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545645058682245120.video.00.mp4.clip.01.png",
+        "1545645058682245120.video.00.mp4.clip.00.png",
+        "1545645058682245120.video.00.mp4.clip.02.png",
+        "1545645058682245120.video.00.mp4.clip.03.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/eshan_malinda/status/1545644538748084224",
+    "id": 1545644538748084224,
+    "user": "eshan_malinda",
+    "time_create_ut": 1657345349,
+    "text": "\u30b9\u30ea\u30e9\u30f3\u30ab\ud83c\uddf1\ud83c\uddf0\n\n#\u30b9\u30ea\u30e9\u30f3\u30ab #GoHomeGota #SriLanka \n\n https://t.co/lPkU6hZKTP",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545641112798363649/pu/vid/480x852/MzGSDImIPtxIvqgz.mp4"
+    ],
+    "video_file_name": "twtr_data/1545644538748084224.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545644538748084224.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545644538748084224.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545644538748084224.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/Rasiya_Twitz/status/1545644182860996610",
     "id": 1545644182860996610,
     "user": "Rasiya_Twitz",
@@ -48,10 +529,6 @@
       "https://video.twimg.com/ext_tw_video/1545643881223569408/pu/vid/1280x720/OSa1dg-07bwBorxX.mp4"
     ],
     "video_file_name": "twtr_data/1545643972412035072.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545643972412035072.video.00.mp4.clip.00.png",
-      "twtr_data/1545643972412035072.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -196,12 +673,6 @@
       "https://video.twimg.com/ext_tw_video/1545643318469607425/pu/vid/800x360/e55RxTyP-vplfPlu.mp4"
     ],
     "video_file_name": "twtr_data/1545643466419425280.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545643466419425280.video.00.mp4.clip.00.png",
-      "twtr_data/1545643466419425280.video.00.mp4.clip.01.png",
-      "twtr_data/1545643466419425280.video.00.mp4.clip.02.png",
-      "twtr_data/1545643466419425280.video.00.mp4.clip.03.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -359,10 +830,6 @@
       "https://video.twimg.com/ext_tw_video/1545642536051556352/pu/vid/480x848/nIUUaHe-G0LM3JQl.mp4"
     ],
     "video_file_name": "twtr_data/1545642585745723392.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545642585745723392.video.00.mp4.clip.00.png",
-      "twtr_data/1545642585745723392.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -442,10 +909,6 @@
       "https://video.twimg.com/ext_tw_video/1545641677729267712/pu/vid/320x564/tRr9J_un8VMJZJFV.mp4"
     ],
     "video_file_name": "twtr_data/1545642370137456640.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545642370137456640.video.00.mp4.clip.00.png",
-      "twtr_data/1545642370137456640.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -468,10 +931,6 @@
       "https://video.twimg.com/ext_tw_video/1545631762130571264/pu/vid/320x564/PV1MSH33Ia1sPFXM.mp4"
     ],
     "video_file_name": "twtr_data/1545642361262604288.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545642361262604288.video.00.mp4.clip.00.png",
-      "twtr_data/1545642361262604288.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -532,10 +991,6 @@
       "https://video.twimg.com/ext_tw_video/1545641841751719942/pu/vid/1280x720/H6IvPvXv6-h-5otP.mp4"
     ],
     "video_file_name": "twtr_data/1545641911138062336.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545641911138062336.video.00.mp4.clip.00.png",
-      "twtr_data/1545641911138062336.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -596,11 +1051,6 @@
       "https://video.twimg.com/ext_tw_video/1545641109569028101/pu/vid/320x568/f4cXP1ZCJiRCktX9.mp4"
     ],
     "video_file_name": "twtr_data/1545641743269625856.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545641743269625856.video.00.mp4.clip.00.png",
-      "twtr_data/1545641743269625856.video.00.mp4.clip.01.png",
-      "twtr_data/1545641743269625856.video.00.mp4.clip.02.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

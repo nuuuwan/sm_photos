@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/rifadrumi/status/1545646157547704320",
+  "id": 1545646157547704320,
+  "user": "rifadrumi",
+  "time_create_ut": 1657345735,
+  "text": "#GoHomeGota #GoHomeRajapakshas #GoHomeRanil https://t.co/o5lNZ72oqa",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545646068163026945/pu/vid/480x852/Kx7FB2XgwgQbx2kX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545646157547704320.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545646157547704320.video.00.mp4.clip.00.png",
+    "twtr_data/1545646157547704320.video.00.mp4.clip.01.png"
+  ]
+}
