@@ -5,7 +5,7 @@ from moviepy.editor import VideoFileClip
 from sm_photos._constants import DIR_TWTR_DATA
 from sm_photos._utils import log
 
-MIN_SECONDS_PER_CLIP = 60
+MIN_SECONDS_PER_CLIP = 20
 MAX_CLIPS = 10
 
 
