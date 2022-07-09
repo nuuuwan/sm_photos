@@ -1,10 +1,29 @@
 # Social Media Photos
 
-*810 tweets as of 20220709-052141*
+*811 tweets as of 20220709-054707*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 05:32:16 by [CeylonNewsRoom](https://twitter.com/CeylonNewsRoom/status/1545558920387002368)
+
+0 videos, 1 photos
+
+```
+
+Midnight of #GoHomeGota #Aragalaya 
+
+Watch—&gt;&gt; 
+https://t.co/FJWRwhJpg5
+
+@Welikumbura @kanchana_wij @NewsWireLK @roelraymond @munza14  @Sanath07 @SriLankaTweet @saliyapieris @MASumanthiran @ambikasat @nkashokbharan #SriLanka #GoHomeGota2022 @hrw  @cijournalism https://t.co/0lc0ZStvMs
+
+```
+
+![image](twtr_data/1545558920387002368.photo.00.jpg)
+
+---
 
 2022-07-09 05:11:31 by [IsharaMadhu](https://twitter.com/IsharaMadhu/status/1545553699073691648)
 
@@ -1798,23 +1817,5 @@ Moments in between trying to wash your face and make sure your lungs are working
 ![image](twtr_data/1545463408832614400.photo.03.jpg)
 
 ![image](twtr_data/1545463408832614400.photo.00.jpg)
-
----
-
-2022-07-08 23:12:43 by [nuzlyMN](https://twitter.com/nuzlyMN/status/1545463405074472961)
-
-1 videos, 0 photos
-
-```
-
-Police Brutality At Its Best today in IUSF Protest! 
-
-WHAT IS STOPPING YOU? YOU STILL SCARED? 
-
-#GoHomeGota #GoHomeRanil https://t.co/U2Hu0ChH9w
-
-```
-
-![image](twtr_data/1545463405074472961.video.00.mp4.clip.00.png)
 
 ---

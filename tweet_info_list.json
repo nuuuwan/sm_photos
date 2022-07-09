@@ -1,5 +1,24 @@
 [
   {
+    "tweet_url": "https://twitter.com/CeylonNewsRoom/status/1545558920387002368",
+    "id": 1545558920387002368,
+    "user": "CeylonNewsRoom",
+    "time_create_ut": 1657324936,
+    "text": "Midnight of #GoHomeGota #Aragalaya \n\nWatch\u2014&gt;&gt; \nhttps://t.co/FJWRwhJpg5\n\n@Welikumbura @kanchana_wij @NewsWireLK @roelraymond @munza14  @Sanath07 @SriLankaTweet @saliyapieris @MASumanthiran @ambikasat @nkashokbharan #SriLanka #GoHomeGota2022 @hrw  @cijournalism https://t.co/0lc0ZStvMs",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXLtomAaIAArf9_.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545558920387002368.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545558920387002368.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/IsharaMadhu/status/1545553699073691648",
     "id": 1545553699073691648,
     "user": "IsharaMadhu",
@@ -10,9 +29,6 @@
       "https://video.twimg.com/ext_tw_video/1545553577610919936/pu/vid/1280x720/zbQ2WRXDCiuy2aKw.mp4"
     ],
     "video_file_name": "twtr_data/1545553699073691648.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1545553699073691648.video.00.mp4.clip.00.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
