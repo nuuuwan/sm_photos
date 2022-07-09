@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/amfirnas22/status/1545718938192994305",
+  "id": 1545718938192994305,
+  "user": "amfirnas22",
+  "time_create_ut": 1657363087,
+  "text": "#GoHomeGota https://t.co/cjzUQuD0yp",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545718644067508225/pu/vid/320x568/4NtLdje1QMGZULxp.mp4"
+  ],
+  "video_file_name": "twtr_data/1545718938192994305.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545718938192994305.video.00.mp4.clip.00.png",
+    "twtr_data/1545718938192994305.video.00.mp4.clip.01.png",
+    "twtr_data/1545718938192994305.video.00.mp4.clip.02.png"
+  ]
+}
