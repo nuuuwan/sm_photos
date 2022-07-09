@@ -1,10 +1,68 @@
 # Social Media Photos
 
-*811 tweets as of 20220709-054707*
+*815 tweets as of 20220709-061209*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-09 06:02:31 by [ASHIKMO94877061](https://twitter.com/ASHIKMO94877061/status/1545566533807616000)
+
+0 videos, 1 photos
+
+```
+
+You swore an oath to protect the people of this country not your self. Do not test the people of this country again as I said before you are sitting on a powder  keg playing with fire ! #GoHomeGota now https://t.co/d3Te915qDf
+
+```
+
+![image](twtr_data/1545566533807616000.photo.00.jpg)
+
+---
+
+2022-07-09 06:01:26 by [TrionicGloble_T](https://twitter.com/TrionicGloble_T/status/1545566261035220992)
+
+0 videos, 1 photos
+
+```
+
+You swore an oath to protect the people of this country not your self. Do not test the people of this country again as I said before you are sitting on a powder  keg playing with fire ! #GoHomeGota now https://t.co/K8BahrM1me
+
+```
+
+![image](twtr_data/1545566261035220992.photo.00.jpg)
+
+---
+
+2022-07-09 05:57:07 by [CitizenSL1](https://twitter.com/CitizenSL1/status/1545565175402893312)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR @PresRajapaksa @NewsfirstSL #SriLankaEconomicCrisis #SriLankaProtests #GoHomeGota #GotaGoHome2022 @ManoGanesan @ShanakiyanR #GOTA🩴🩴🩴  🐈🐈🐈 https://t.co/5tda3Rmmtj
+
+```
+
+![image](twtr_data/1545565175402893312.photo.00.jpg)
+
+---
+
+2022-07-09 05:54:11 by [mudha_ris](https://twitter.com/mudha_ris/status/1545564438316457984)
+
+1 videos, 0 photos
+
+```
+
+අරගලයට ජය 💪🇱🇰♥️
+
+#GoHomeGota https://t.co/QKwxlo2UdL
+
+```
+
+![image](twtr_data/1545564438316457984.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-09 05:32:16 by [CeylonNewsRoom](https://twitter.com/CeylonNewsRoom/status/1545558920387002368)
 
@@ -1741,81 +1799,5 @@ On my way already! Now or never! #GoHomeGota https://t.co/jaUmSkpOBk
 ```
 
 ![image](twtr_data/1545464035256111104.photo.00.jpg)
-
----
-
-2022-07-08 23:15:11 by [smcharukank](https://twitter.com/smcharukank/status/1545464024313516034)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRanil #අරගලයටජය #ProtestLK #EconomicCrisisLK #July9th https://t.co/f6N9rAnNCC
-
-```
-
-![image](twtr_data/1545464024313516034.photo.00.jpg)
-
----
-
-2022-07-08 23:13:27 by [WeAreProtestors](https://twitter.com/WeAreProtestors/status/1545463589582110720)
-
-1 videos, 0 photos
-
-```
-
-Tense situation in Colombo in Sri Lanka, the government has just established a police curfew.
-
-#SriLanka #lka #SriLankaCrisis #FuelCrisisLK #GoHomeGota2022 #GoHomeGota #SriLankaEconomicCrisis https://t.co/i6EOPv5Uf0
-
-```
-
-![image](twtr_data/1545463589582110720.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1545463589582110720.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1545463589582110720.video.00.mp4.clip.01.png)
-
----
-
-2022-07-08 23:13:02 by [I_am_Thomi](https://twitter.com/I_am_Thomi/status/1545463483306635264)
-
-0 videos, 4 photos
-
-```
-
-අන්තරේට කොළඹ අවට  ජනතාවගෙන් ආහාර පාන.
-
-#GoHomeGota https://t.co/oUSSDzBeZx
-
-```
-
-![image](twtr_data/1545463483306635264.photo.01.jpg)
-
-![image](twtr_data/1545463483306635264.photo.00.jpg)
-
-![image](twtr_data/1545463483306635264.photo.02.jpg)
-
-![image](twtr_data/1545463483306635264.photo.03.jpg)
-
----
-
-2022-07-08 23:12:44 by [Amaliniii](https://twitter.com/Amaliniii/status/1545463408832614400)
-
-0 videos, 4 photos
-
-```
-
-Moments in between trying to wash your face and make sure your lungs are working. In the 2nd shot, the guy is running with a canister which he then throws back at the Police. #lka #SriLanka #GoHomeGota https://t.co/LwVgruAgCv
-
-```
-
-![image](twtr_data/1545463408832614400.photo.01.jpg)
-
-![image](twtr_data/1545463408832614400.photo.02.jpg)
-
-![image](twtr_data/1545463408832614400.photo.03.jpg)
-
-![image](twtr_data/1545463408832614400.photo.00.jpg)
 
 ---

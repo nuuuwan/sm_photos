@@ -1,5 +1,86 @@
 [
   {
+    "tweet_url": "https://twitter.com/ASHIKMO94877061/status/1545566533807616000",
+    "id": 1545566533807616000,
+    "user": "ASHIKMO94877061",
+    "time_create_ut": 1657326751,
+    "text": "You swore an oath to protect the people of this country not your self. Do not test the people of this country again as I said before you are sitting on a powder  keg playing with fire ! #GoHomeGota now https://t.co/d3Te915qDf",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXL0j8JWIAInhUj.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545566533807616000.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545566533807616000.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/TrionicGloble_T/status/1545566261035220992",
+    "id": 1545566261035220992,
+    "user": "TrionicGloble_T",
+    "time_create_ut": 1657326686,
+    "text": "You swore an oath to protect the people of this country not your self. Do not test the people of this country again as I said before you are sitting on a powder  keg playing with fire ! #GoHomeGota now https://t.co/K8BahrM1me",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXL0UIrWQAMKr7e.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545566261035220992.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545566261035220992.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/CitizenSL1/status/1545565175402893312",
+    "id": 1545565175402893312,
+    "user": "CitizenSL1",
+    "time_create_ut": 1657326427,
+    "text": "@GotabayaR @PresRajapaksa @NewsfirstSL #SriLankaEconomicCrisis #SriLankaProtests #GoHomeGota #GotaGoHome2022 @ManoGanesan @ShanakiyanR #GOTA\ud83e\ude74\ud83e\ude74\ud83e\ude74  \ud83d\udc08\ud83d\udc08\ud83d\udc08 https://t.co/5tda3Rmmtj",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXLzVR_aQAA6uLo.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1545565175402893312.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1545565175402893312.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/mudha_ris/status/1545564438316457984",
+    "id": 1545564438316457984,
+    "user": "mudha_ris",
+    "time_create_ut": 1657326251,
+    "text": "\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7 \u0da2\u0dba \ud83d\udcaa\ud83c\uddf1\ud83c\uddf0\u2665\ufe0f\n\n#GoHomeGota https://t.co/QKwxlo2UdL",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1545564363162935298/pu/vid/478x270/LVbOZdv-YIUzS8yn.mp4"
+    ],
+    "video_file_name": "twtr_data/1545564438316457984.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1545564438316457984.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1545564438316457984.video.00.mp4"
+      ],
+      "video_clip": [
+        "1545564438316457984.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/CeylonNewsRoom/status/1545558920387002368",
     "id": 1545558920387002368,
     "user": "CeylonNewsRoom",
