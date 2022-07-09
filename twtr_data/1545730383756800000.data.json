@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/i_ashath/status/1545730383756800000",
+  "id": 1545730383756800000,
+  "user": "i_ashath",
+  "time_create_ut": 1657365816,
+  "text": "Match towards victory!!!! \n\n#GoHomeGota #gotabayarajapaksa https://t.co/zMUKSh0NQ4",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545730172863000577/pu/vid/480x848/0s-d1_fejg2iRMqX.mp4"
+  ],
+  "video_file_name": "twtr_data/1545730383756800000.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545730383756800000.video.00.mp4.clip.00.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/mjdilshan_/status/1545732329465090048",
+  "id": 1545732329465090048,
+  "user": "mjdilshan_",
+  "time_create_ut": 1657366280,
+  "text": "#gotabayarajapaksa #GoHomeGota https://t.co/wv37quX4zd",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545732134203441153/pu/vid/704x1280/iTJv7P6GnK7KpTGi.mp4"
+  ],
+  "video_file_name": "twtr_data/1545732329465090048.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545732329465090048.video.00.mp4.clip.00.png",
+    "twtr_data/1545732329465090048.video.00.mp4.clip.01.png"
+  ]
+}

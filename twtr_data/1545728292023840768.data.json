@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/rhperera/status/1545728292023840768",
+  "id": 1545728292023840768,
+  "user": "rhperera",
+  "time_create_ut": 1657365317,
+  "text": "Right after the people raided the president sectraterial building\n#GoHomeGota #GoHomeGota2022 https://t.co/nCqGNTuE9g",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545728197916229632/pu/vid/720x1280/OCGvr63EZue3Cuei.mp4"
+  ],
+  "video_file_name": "twtr_data/1545728292023840768.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545728292023840768.video.00.mp4.clip.00.png",
+    "twtr_data/1545728292023840768.video.00.mp4.clip.01.png"
+  ]
+}

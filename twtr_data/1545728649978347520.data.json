@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/sandunruki/status/1545728649978347520",
+  "id": 1545728649978347520,
+  "user": "sandunruki",
+  "time_create_ut": 1657365403,
+  "text": "Masive crowd. First time in Sri Lankan history. #GoHomeGota https://t.co/YZCdMLZd3f",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1545728504284971008/pu/vid/480x852/GkgnYq0h58wGTXrZ.mp4"
+  ],
+  "video_file_name": "twtr_data/1545728649978347520.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1545728649978347520.video.00.mp4.clip.00.png",
+    "twtr_data/1545728649978347520.video.00.mp4.clip.01.png",
+    "twtr_data/1545728649978347520.video.00.mp4.clip.02.png"
+  ]
+}
