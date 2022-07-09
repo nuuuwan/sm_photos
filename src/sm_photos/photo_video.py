@@ -9,10 +9,10 @@ from sm_photos import tweet_info_utils
 from sm_photos._constants import DIR_DATA, DIR_TWTR_DATA, URL_REMOTE_TWTR_DATA
 from sm_photos._utils import log
 
-IMAGE_WIDTH = 320
+IMAGE_WIDTH = 640
 IMAGE_HEIGHT = (int)(IMAGE_WIDTH * 9 / 16)
 TESTING = False
-MAX_IMAGES = 10 if TESTING else 2400
+MAX_IMAGES = 10 if TESTING else 300
 FPS = 1
 
 

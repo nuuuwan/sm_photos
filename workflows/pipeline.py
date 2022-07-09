@@ -2,6 +2,7 @@ import argparse
 
 from sm_photos import (collage, dedupe, filesys, photo_video, photos, readme,
                        summary, text_collage, videos)
+from sm_photos._utils import log
 from sm_photos.twtr import TWTR
 
 
@@ -23,7 +24,10 @@ def main(hashtag):
     text_collage.metarize()
     readme.build_readme()
 
-    photo_video.build_photo_video_all()
+    try:
+        photo_video.build_photo_video_all()
+    except Exception as e:
+        log.error(str(e))
 
 
 def get_options():
