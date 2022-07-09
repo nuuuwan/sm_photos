@@ -6,3 +6,4 @@ Pillow
 imagehash
 imageio
 moviepy
+numpy

@@ -33,5 +33,6 @@ setuptools.setup(
         'imagehash',
         'imageio',
         'moviepy',
+        'numpy',
     ],
 )
