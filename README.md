@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*218 tweets as of 20220712-140518*
+*220 tweets as of 20220712-143038*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 14:19:29 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546778764004057089)
+
+0 videos, 1 photos
+
+```
+
+BREAKING 🇱🇰 : President Gotabaya Rajapaksa signed his resignation letter, dated for July 13 and the Speaker of Sri Lankan Parliament will publicly announce it to the nation tomorrow.
+
+#SriLanka #අරගලයටජය #GoHomeGota https://t.co/WqieYjw4m2
+
+```
+
+![image](twtr_data/1546778764004057089.photo.00.jpg)
+
+---
+
+2022-07-12 14:19:27 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546778756206907392)
+
+0 videos, 1 photos
+
+```
+
+BREAKING 🇱🇰 : Sri Lankan President Gotabaya Rajapaksa Signs Resignation Letter.
+
+#SriLanka #අරගලයටජය #GoHomeGota https://t.co/GrguqHxME0
+
+```
+
+![image](twtr_data/1546778756206907392.photo.00.jpg)
+
+---
 
 2022-07-12 13:54:18 by [Rizwanhameed27](https://twitter.com/Rizwanhameed27/status/1546772423718100992)
 
@@ -1766,38 +1798,5 @@ We request not to accept them from all other countries.
 ![image](twtr_data/1546692895746297856.photo.01.jpg)
 
 ![image](twtr_data/1546692895746297856.photo.02.jpg)
-
----
-
-2022-07-12 08:32:27 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546691429908758528)
-
-0 videos, 1 photos
-
-```
-
-It has been reported that 8 foreign ships have arrived at the country's ports to transport #Ukraine's agricultural products to countries around the world. 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis https://t.co/OheFnoo8tX
-
-```
-
-![image](twtr_data/1546691429908758528.photo.00.jpg)
-
----
-
-2022-07-12 08:30:56 by [desrealreturns](https://twitter.com/desrealreturns/status/1546691048214495232)
-
-0 videos, 1 photos
-
-```
-
-සේද මාවතත් වහලා
-
-දැන් ඉතිං ගුද මාර්ගවත් ට්‍රයි කරපන් බැසිලෝ 🥴
-#GoHomeGota #අරගලයටජය #GoHomeRajapakshas https://t.co/Nsm33vjOtL
-
-```
-
-![image](twtr_data/1546691048214495232.photo.00.jpg)
 
 ---

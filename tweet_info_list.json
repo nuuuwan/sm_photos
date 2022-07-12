@@ -1,5 +1,43 @@
 [
   {
+    "tweet_url": "https://twitter.com/realzaidzayn/status/1546778764004057089",
+    "id": 1546778764004057089,
+    "user": "realzaidzayn",
+    "time_create_ut": 1657615769,
+    "text": "BREAKING \ud83c\uddf1\ud83c\uddf0 : President Gotabaya Rajapaksa signed his resignation letter, dated for July 13 and the Speaker of Sri Lankan Parliament will publicly announce it to the nation tomorrow.\n\n#SriLanka #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeGota https://t.co/WqieYjw4m2",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdDFpHWIAECW90.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546778764004057089.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546778764004057089.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/realzaidzayn/status/1546778756206907392",
+    "id": 1546778756206907392,
+    "user": "realzaidzayn",
+    "time_create_ut": 1657615767,
+    "text": "BREAKING \ud83c\uddf1\ud83c\uddf0 : Sri Lankan President Gotabaya Rajapaksa Signs Resignation Letter.\n\n#SriLanka #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #GoHomeGota https://t.co/GrguqHxME0",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdDE5-WIAAmIAK.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546778756206907392.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546778756206907392.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/Rizwanhameed27/status/1546772423718100992",
     "id": 1546772423718100992,
     "user": "Rizwanhameed27",
@@ -48,10 +86,6 @@
       "https://video.twimg.com/ext_tw_video/1546770257029009409/pu/vid/720x720/cnlCsJwcpAvxZN2E.mp4"
     ],
     "video_file_name": "twtr_data/1546770669857558528.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546770669857558528.video.00.mp4.clip.00.png",
-      "twtr_data/1546770669857558528.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -74,10 +108,6 @@
       "https://video.twimg.com/ext_tw_video/1546769833085521920/pu/vid/640x360/JuPe_aoyX9OrktYr.mp4"
     ],
     "video_file_name": "twtr_data/1546769953042616320.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546769953042616320.video.00.mp4.clip.00.png",
-      "twtr_data/1546769953042616320.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -100,10 +130,6 @@
       "https://video.twimg.com/ext_tw_video/1546769771126935552/pu/vid/264x480/yFHFs2j6I11vZ1XT.mp4"
     ],
     "video_file_name": "twtr_data/1546769821156593665.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546769821156593665.video.00.mp4.clip.00.png",
-      "twtr_data/1546769821156593665.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
