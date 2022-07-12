@@ -1,10 +1,118 @@
 # Social Media Photos
 
-*282 tweets as of 20220712-185503*
+*289 tweets as of 20220712-192342*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 19:18:09 by [ImeshChathura](https://twitter.com/ImeshChathura/status/1546853923461312514)
+
+0 videos, 1 photos
+
+```
+
+නෑ නෑ දැක්කෙ නෑ. ආයෙ හොදට බලන්න 😂
+
+#GoHomeGota #SriLankaCrisis #SriLankaProtests #SriLanka https://t.co/KzoPcOuQGZ
+
+```
+
+![image](twtr_data/1546853923461312514.photo.00.jpg)
+
+---
+
+2022-07-12 19:17:34 by [vikalpavoices](https://twitter.com/vikalpavoices/status/1546853776719597570)
+
+0 videos, 1 photos
+
+```
+
+Sri Lanka president’s attempts to leave country fail, US visa appeal rejected: sources  Read in full; https://t.co/2VnCbjFNYB by @SBS #srilanka #lka #GoHomeGota #GoHomeGota2022 https://t.co/Dg3UpAQmBJ
+
+```
+
+![image](twtr_data/1546853776719597570.photo.00.jpg)
+
+---
+
+2022-07-12 19:13:44 by [im_devashan](https://twitter.com/im_devashan/status/1546852814936125440)
+
+0 videos, 1 photos
+
+```
+
+நம்ம நந்தசேன க்கு வந்த நிலமைய..🙄😌
+
+#GoHomeGota #SriLankaProtests https://t.co/w66knI4sMT
+
+```
+
+![image](twtr_data/1546852814936125440.photo.00.jpg)
+
+---
+
+2022-07-12 19:10:12 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546851922119999491)
+
+1 videos, 0 photos
+
+```
+
+#மட்டக்களப்பில் எரிபொருள் இன்மை ஆற்றினை கடக்க பாதையினை கயிறுடன் இணைத்து கடக்கும் மக்கள்
+
+  #tamilgenocide #Eelam #SriLankaEconomicCrisis  #tamilNews #tamileelam #tamil #SLnews #lka #LK #NTK #GoHomeGota #vizhi #விழி https://t.co/poKO03hfXB
+
+```
+
+![image](twtr_data/1546851922119999491.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546851922119999491.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 19:09:17 by [toysoldier92](https://twitter.com/toysoldier92/status/1546851695358922755)
+
+0 videos, 1 photos
+
+```
+
+@CNN cannot be more out of touch than this from ground level..  just googled "former central bank governer" ? and asked the guy who had most articles about him on the show? #GoHomeGota https://t.co/juGKYqYPCc
+
+```
+
+![image](twtr_data/1546851695358922755.photo.00.jpg)
+
+---
+
+2022-07-12 19:04:48 by [lahirusena](https://twitter.com/lahirusena/status/1546850565799391232)
+
+0 videos, 1 photos
+
+```
+
+@RealBRajapaksa First class One way is too cheap! #GoHomeGota https://t.co/WkrF0UnTb3
+
+```
+
+![image](twtr_data/1546850565799391232.photo.00.jpg)
+
+---
+
+2022-07-12 18:58:52 by [suba_janan](https://twitter.com/suba_janan/status/1546849072568344576)
+
+1 videos, 0 photos
+
+```
+
+#lka #SriLanka #SLnews #News1st #President #GotabayaRajapaksa #CrisisLK #ProtestLK #Visa #USA #PowerCutLK #SriLankaCrisis #GoHomeGota #GotaResign #fitnesslove #fitness #gym https://t.co/su1urepzip
+
+```
+
+![image](twtr_data/1546849072568344576.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546849072568344576.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 18:52:01 by [jehanssam](https://twitter.com/jehanssam/status/1546847348998909952)
 
@@ -1608,121 +1716,5 @@ Medamulana has fallen
 ```
 
 ![image](twtr_data/1546748473826889728.photo.00.jpg)
-
----
-
-2022-07-12 12:17:16 by [Queeniedd_Queen](https://twitter.com/Queeniedd_Queen/status/1546748008095969280)
-
-0 videos, 2 photos
-
-```
-
-A YouTube comment I made regarding the burning of Ranil Wickremesinghe's house and a Reply by user Imasha Yoshani.
-#GoHomeGota #Ranil #SriLankaProtests #EconomicCrisisLK #SRILanka #lka #SirasaTV https://t.co/ryawHdlrsm
-
-```
-
-![image](twtr_data/1546748008095969280.photo.01.png)
-
-![image](twtr_data/1546748008095969280.photo.00.png)
-
----
-
-2022-07-12 12:10:53 by [cheryykoko](https://twitter.com/cheryykoko/status/1546746401241333760)
-
-0 videos, 1 photos
-
-```
-
-🔴 WARNING 🔴
-
-To the all the leaders Who is waiting to wear next throne in Sri Lanka🤴
-
-#SriLankaProtests #SriLankaCrisis #SRILanka #lka #GoHomeGota #ProtestLK https://t.co/4LqfX5LM79
-
-```
-
-![image](twtr_data/1546746401241333760.photo.00.jpg)
-
----
-
-2022-07-12 11:58:52 by [lankafiles](https://twitter.com/lankafiles/status/1546743376489451521)
-
-0 videos, 1 photos
-
-```
-
-කටුනායක ගුවන් තොටුපළේ ආගමන විගමන නිලධාරින් සේද මාවත, මගී නිශ්කාශන කටයුතුවලින් ඉවත් වෙයි.#lka #Immigration #GoHomeGota https://t.co/JdnM7XpKyX
-
-```
-
-![image](twtr_data/1546743376489451521.photo.00.jpg)
-
----
-
-2022-07-12 11:57:53 by [Rizwanhameed27](https://twitter.com/Rizwanhameed27/status/1546743128178233344)
-
-0 videos, 2 photos
-
-```
-
-SIR...
-Where are you trying to go?😆😆😆
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/2EKsz84Wsx https://t.co/n9GqgmXwOw
-
-```
-
-![image](twtr_data/1546743128178233344.photo.00.jpg)
-
-![image](twtr_data/1546743128178233344.photo.01.jpg)
-
----
-
-2022-07-12 11:51:24 by [smjayasekera](https://twitter.com/smjayasekera/status/1546741497114292224)
-
-0 videos, 1 photos
-
-```
-
-1 Large Business Class and a Thin Crust Economy seat please! @Pizzahutlanka 
-#BasilLeaves 🍃 not
-#GoHomeGota https://t.co/elGtoJQLgu
-
-```
-
-![image](twtr_data/1546741497114292224.photo.00.jpg)
-
----
-
-2022-07-12 11:49:53 by [ShafarSham](https://twitter.com/ShafarSham/status/1546741115616911361)
-
-0 videos, 1 photos
-
-```
-
-1/ 🧵
-Salute 🫡 to all the officers of the immigration officers. Now these #Rajapaksa thieves will somehow try to get the flight using all their powers. #Pilots of any airline pls don’t take off. They will still leave the country be sea to the nearest land… 
-#GoHomeGota  #lka https://t.co/N91zcmu2rS
-
-```
-
-![image](twtr_data/1546741115616911361.photo.00.jpg)
-
----
-
-2022-07-12 11:45:04 by [ZaaLi_0](https://twitter.com/ZaaLi_0/status/1546739903437934592)
-
-0 videos, 1 photos
-
-```
-
-@sajithpremadasa @anuradisanayake @RW_UNP @GotabayaR spotted in a brawl 🤣🤣
-
-#GoHomeGota #GoHomeRanil #SriLankaProtests #SriLanka https://t.co/TkWxV2eytU
-
-```
-
-![image](twtr_data/1546739903437934592.photo.00.jpg)
 
 ---
