@@ -1,5 +1,305 @@
 [
   {
+    "tweet_url": "https://twitter.com/AkielDeen/status/1546785209051676672",
+    "id": 1546785209051676672,
+    "user": "AkielDeen",
+    "time_create_ut": 1657617306,
+    "text": "#SriLanka\n#GoHomeGota https://t.co/CbdUBv4nrd",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdI8zvaQAAw-PH.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546785209051676672.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546785209051676672.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/SamithFernand11/status/1546784809984266240",
+    "id": 1546784809984266240,
+    "user": "SamithFernand11",
+    "time_create_ut": 1657617211,
+    "text": "\u274c\u0d9a\u0dad\u0dd2\u0dbb\u0dd9\u0db1\u0dca \u0d9a\u0dbb\u0db4\u0dd4 \u0dc4\u0ddc\u0dbb\u0d9a\u0db8\u0dca..\u0dad\u0dc0 \u0db6\u0dd1 \u0d89\u0db1\u0dca\u0db1 \u0d89\u0dc0\u0dc3\u0db1\u0dca..\u0d94\u0db6\u0dad\u0dca \u0d91\u0db1\u0dca\u0db1 \u0db8\u0dd2\u0dad\u0dd4\u0dbb\u0dda..\ud83d\udcaa\u2764\ufe0f\ud83c\udfa7\u270c\ufe0f #GoHomeGota #SriLanka @ArtForumSL @Aprodhite_Leo @Maduruwaonline @619Sniper619Bot @_ivon_silva @bfonseka @MayuraSenanaya2 @KanchaLhiru @AzzamAmeen @dead_mans_creed @himalkk @A_Bandara94 https://t.co/yJzQede22w",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546784680728412160/pu/vid/480x270/NJxr3qA7LMj9rUNo.mp4"
+    ],
+    "video_file_name": "twtr_data/1546784809984266240.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546784809984266240.video.00.mp4.clip.00.png",
+      "twtr_data/1546784809984266240.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546784809984266240.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546784809984266240.video.00.mp4.clip.01.png",
+        "1546784809984266240.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/onlanka/status/1546784239701852160",
+    "id": 1546784239701852160,
+    "user": "onlanka",
+    "time_create_ut": 1657617075,
+    "text": "Thousands of Sri Lankan people crowded the capital to take a look into the President's palace three days after protesters stormed into the President's house in #Colombo, #SriLanka.\n\n(Video by Reuters)\n\n#GoHomeGota #ProtestLK #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #SriLankaProtests #SriLankaCrisis https://t.co/Cnd7jB0Zkb",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546783863841882114/pu/vid/480x270/j_lAQdPrrFRR_Nl4.mp4"
+    ],
+    "video_file_name": "twtr_data/1546784239701852160.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546784239701852160.video.00.mp4.clip.00.png",
+      "twtr_data/1546784239701852160.video.00.mp4.clip.01.png",
+      "twtr_data/1546784239701852160.video.00.mp4.clip.02.png",
+      "twtr_data/1546784239701852160.video.00.mp4.clip.03.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546784239701852160.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546784239701852160.video.00.mp4.clip.03.png",
+        "1546784239701852160.video.00.mp4.clip.02.png",
+        "1546784239701852160.video.00.mp4.clip.00.png",
+        "1546784239701852160.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783109932527616",
+    "id": 1546783109932527616,
+    "user": "sanjanah",
+    "time_create_ut": 1657616805,
+    "text": "On 9/7, all public Facebook Pages with admins in Sri Lanka were dominated by #GoHomeGota content, https://t.co/lh53ZRazLO Also ~100k concurrent viewers of just the livestream of News1st that day, https://t.co/I8lD6pfm9x w/ unprecedented view count https://t.co/cTWU9pRx0F https://t.co/ZSM3ZLxpcd",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdC1WUacAAWU4B.png",
+      "https://pbs.twimg.com/media/FXdDFCMacAEJsne.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783109932527616.photo.01.jpg",
+    "local_media": {
+      "photo": [
+        "1546783109932527616.photo.00.png",
+        "1546783109932527616.photo.01.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783099148992512",
+    "id": 1546783099148992512,
+    "user": "sanjanah",
+    "time_create_ut": 1657616803,
+    "text": "I've already published how 9/7 saw unprecedented expansion of Twitter users focussed on, &amp; increase in tweets about the aragalaya, from morning to midnight, around just the #GoHomeGota hashtag's prevalence. https://t.co/TsCJxLRfLc https://t.co/UTW0AzoeAH",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdDXmWaAAMOla1.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783099148992512.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546783099148992512.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783078756253696",
+    "id": 1546783078756253696,
+    "user": "sanjanah",
+    "time_create_ut": 1657616798,
+    "text": "Posts on 9/7 nearly 2X more than 9/5 on junk news &amp; meme accounts. Recall this is just a proxy indicator for what's very likely a significant increase in posts by individual #GoHomeGota protestors, some of whom were also leading influencers, actors, sports stars etc. https://t.co/7NQ3mv384m",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc-mN0aQAAX_uf.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783078756253696.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546783078756253696.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783069931450369",
+    "id": 1546783069931450369,
+    "user": "sanjanah",
+    "time_create_ut": 1657616796,
+    "text": "Interactions across the junk news &amp; meme accounts studied on 9/7 eclipsed 9/5. This cluster dominates engagement, making more partisan accounts statistically irrelevant. Posts on junk news &amp; meme accounts since late-March dominated by #GoHomeGota partial narrative frames. https://t.co/tECZs2sBLE",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc8xrqaIAARaow.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783069931450369.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546783069931450369.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783061219876864",
+    "id": 1546783061219876864,
+    "user": "sanjanah",
+    "time_create_ut": 1657616794,
+    "text": "PhD focused on Facebook Pages &amp; Groups, but I also included relevant Instagram accounts. These clusters from PhD time *don't* reflect much greater diversity of aragalaya protestors on/using the app. Even with these caveats, the data signatures during #GoHomeGota are revealing. https://t.co/NbbCdCpJar",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc8ItYagAAr_2p.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783061219876864.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546783061219876864.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783052663496709",
+    "id": 1546783052663496709,
+    "user": "sanjanah",
+    "time_create_ut": 1657616792,
+    "text": "From 1/5 to 11/7, these Pages &amp; Groups attracted over 9.5 million new likes - a proxy indicator of #GoHomeGota's growing, &amp; widening appeal. Staggering increases on 9/5 &amp; 9/7, led by offline developments. These are data signatures I've never studied the likes of before. https://t.co/DdvyYetE4u",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc7XHRakAEEiBF.jpg",
+      "https://pbs.twimg.com/media/FXc7XIHaUAEI7BS.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783052663496709.photo.01.jpg",
+    "local_media": {
+      "photo": [
+        "1546783052663496709.photo.00.jpg",
+        "1546783052663496709.photo.01.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546783018354102273",
+    "id": 1546783018354102273,
+    "user": "sanjanah",
+    "time_create_ut": 1657616784,
+    "text": "Since late March, I also spent some time crafting new clusters of Pages &amp; Groups publishing #GoHomeGota content. There's overlap with PhD clusters above, but this is far more aragalaya specific, &amp; much larger in number: ~960 Pages &amp; roughly same number of Groups. https://t.co/lm1Hh4Bl2v",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc5OcYagAA_QnU.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546783018354102273.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546783018354102273.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546782992965980160",
+    "id": 1546782992965980160,
+    "user": "sanjanah",
+    "time_create_ut": 1657616778,
+    "text": "PhD studied constellations of junk news &amp; meme Pages. From last week of March '22, junk news ecologies shifted to enduringly feature pro-democratic, #GoHomeGota narrative frames. Likewise with meme pages. Shift was predominantly organic, &amp; sustained. Has never happened before. https://t.co/KWKGef4UTb",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc0rouagAAy94s.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546782992965980160.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546782992965980160.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/sanjanah/status/1546782989996421120",
+    "id": 1546782989996421120,
+    "user": "sanjanah",
+    "time_create_ut": 1657616777,
+    "text": "Following a study of what happened on 9 May 2022, https://t.co/twc28FImc9, what's the impact of 9 July 2022 #GoHomeGota protests on Sri Lanka's social media landscapes? In short, significant, historic and utterly unprecedented. https://t.co/mMqqElmKg1",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXc0mfPakAA4JgY.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546782989996421120.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546782989996421120.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/mrmolombo/status/1546782449610670080",
+    "id": 1546782449610670080,
+    "user": "mrmolombo",
+    "time_create_ut": 1657616648,
+    "text": "Since IT was kicked outta ITs position and IT is officially resigning tomorrow here\u2019s a video I put together \ud83d\ude0f\ud83e\udd21 #GoHomeGota #GotabayaRajapaksa #BasilRajapaksa #kaputas #lka #aragalayatajaya #GotaGoHome2022 #SriLanka #SriLankanpoliticalcrisis https://t.co/xENgXcCHUg",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546782338990112768/pu/vid/480x852/WnD3gD0TWquKbyaB.mp4"
+    ],
+    "video_file_name": "twtr_data/1546782449610670080.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546782449610670080.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546782449610670080.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546782449610670080.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/OneAahad/status/1546781348039311360",
+    "id": 1546781348039311360,
+    "user": "OneAahad",
+    "time_create_ut": 1657616385,
+    "text": "#July9th Sri Lankans done Victory Protests. #GotabayaRajapaksa announced to  #GoHomeGota but it is not enough .Give Our Stolen Money . Long live struggle!!!! #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #\u0dbb\u0da7\u0db8\u0d9a\u0ddc\u0dc5\u0db9\u0da7.\n\n #SriLankaProtests #GoHomeGota #lka #Colombo #FuelCrisisLK #EconomicCrisisLK #SriLankaCrisis https://t.co/d3Stpvgf8H",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546781295522418688/pu/vid/264x480/yJHry9YOA729RzwH.mp4"
+    ],
+    "video_file_name": "twtr_data/1546781348039311360.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546781348039311360.video.00.mp4.clip.00.png",
+      "twtr_data/1546781348039311360.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546781348039311360.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546781348039311360.video.00.mp4.clip.00.png",
+        "1546781348039311360.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/realzaidzayn/status/1546778764004057089",
     "id": 1546778764004057089,
     "user": "realzaidzayn",
@@ -114,8 +414,8 @@
         "1546769953042616320.video.00.mp4"
       ],
       "video_clip": [
-        "1546769953042616320.video.00.mp4.clip.00.png",
-        "1546769953042616320.video.00.mp4.clip.01.png"
+        "1546769953042616320.video.00.mp4.clip.01.png",
+        "1546769953042616320.video.00.mp4.clip.00.png"
       ]
     }
   },
@@ -255,13 +555,13 @@
         "1546760688936226816.video.00.mp4"
       ],
       "video_clip": [
-        "1546760688936226816.video.00.mp4.clip.03.png",
-        "1546760688936226816.video.00.mp4.clip.04.png",
-        "1546760688936226816.video.00.mp4.clip.01.png",
-        "1546760688936226816.video.00.mp4.clip.02.png",
-        "1546760688936226816.video.00.mp4.clip.05.png",
         "1546760688936226816.video.00.mp4.clip.06.png",
-        "1546760688936226816.video.00.mp4.clip.00.png"
+        "1546760688936226816.video.00.mp4.clip.00.png",
+        "1546760688936226816.video.00.mp4.clip.05.png",
+        "1546760688936226816.video.00.mp4.clip.01.png",
+        "1546760688936226816.video.00.mp4.clip.03.png",
+        "1546760688936226816.video.00.mp4.clip.02.png",
+        "1546760688936226816.video.00.mp4.clip.04.png"
       ]
     }
   },
@@ -282,9 +582,9 @@
     "local_media": {
       "photo": [
         "1546760012923637761.photo.01.jpg",
-        "1546760012923637761.photo.00.jpg",
         "1546760012923637761.photo.03.jpg",
-        "1546760012923637761.photo.02.jpg"
+        "1546760012923637761.photo.02.jpg",
+        "1546760012923637761.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -365,8 +665,8 @@
     "photo_file_name": "twtr_data/1546758383746834432.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546758383746834432.photo.01.jpg",
-        "1546758383746834432.photo.00.jpg"
+        "1546758383746834432.photo.00.jpg",
+        "1546758383746834432.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -433,8 +733,8 @@
       ],
       "video_clip": [
         "1546756693769342976.video.00.mp4.clip.02.png",
-        "1546756693769342976.video.00.mp4.clip.01.png",
-        "1546756693769342976.video.00.mp4.clip.00.png"
+        "1546756693769342976.video.00.mp4.clip.00.png",
+        "1546756693769342976.video.00.mp4.clip.01.png"
       ]
     }
   },
@@ -592,9 +892,9 @@
     "local_media": {
       "photo": [
         "1546749765681299456.photo.00.jpg",
+        "1546749765681299456.photo.03.jpg",
         "1546749765681299456.photo.01.jpg",
-        "1546749765681299456.photo.02.jpg",
-        "1546749765681299456.photo.03.jpg"
+        "1546749765681299456.photo.02.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -652,8 +952,8 @@
     "photo_file_name": "twtr_data/1546748008095969280.photo.01.png",
     "local_media": {
       "photo": [
-        "1546748008095969280.photo.00.png",
-        "1546748008095969280.photo.01.png"
+        "1546748008095969280.photo.01.png",
+        "1546748008095969280.photo.00.png"
       ],
       "video": [],
       "video_clip": []
@@ -711,8 +1011,8 @@
     "photo_file_name": "twtr_data/1546743128178233344.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546743128178233344.photo.01.jpg",
-        "1546743128178233344.photo.00.jpg"
+        "1546743128178233344.photo.00.jpg",
+        "1546743128178233344.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -879,10 +1179,10 @@
     "photo_file_name": "twtr_data/1546735383492190210.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546735383492190210.photo.03.jpg",
         "1546735383492190210.photo.00.jpg",
         "1546735383492190210.photo.02.jpg",
-        "1546735383492190210.photo.01.jpg"
+        "1546735383492190210.photo.01.jpg",
+        "1546735383492190210.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -983,9 +1283,9 @@
     "local_media": {
       "photo": [
         "1546733749747953665.photo.03.jpg",
-        "1546733749747953665.photo.02.jpg",
         "1546733749747953665.photo.00.jpg",
-        "1546733749747953665.photo.01.jpg"
+        "1546733749747953665.photo.01.jpg",
+        "1546733749747953665.photo.02.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1026,10 +1326,10 @@
     "photo_file_name": "twtr_data/1546731701715341312.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546731701715341312.photo.03.jpg",
         "1546731701715341312.photo.00.jpg",
         "1546731701715341312.photo.02.jpg",
-        "1546731701715341312.photo.01.jpg"
+        "1546731701715341312.photo.01.jpg",
+        "1546731701715341312.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1051,10 +1351,10 @@
     "photo_file_name": "twtr_data/1546731359086907392.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546731359086907392.photo.01.jpg",
-        "1546731359086907392.photo.02.jpg",
         "1546731359086907392.photo.00.jpg",
-        "1546731359086907392.photo.03.jpg"
+        "1546731359086907392.photo.03.jpg",
+        "1546731359086907392.photo.01.jpg",
+        "1546731359086907392.photo.02.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1075,9 +1375,9 @@
     "photo_file_name": "twtr_data/1546731073932894208.photo.02.jpg",
     "local_media": {
       "photo": [
-        "1546731073932894208.photo.00.jpg",
         "1546731073932894208.photo.02.jpg",
-        "1546731073932894208.photo.01.jpg"
+        "1546731073932894208.photo.01.jpg",
+        "1546731073932894208.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1099,10 +1399,10 @@
     "photo_file_name": "twtr_data/1546730699897507840.photo.03.jpg",
     "local_media": {
       "photo": [
+        "1546730699897507840.photo.00.jpg",
         "1546730699897507840.photo.02.jpg",
         "1546730699897507840.photo.01.jpg",
-        "1546730699897507840.photo.03.jpg",
-        "1546730699897507840.photo.00.jpg"
+        "1546730699897507840.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1164,10 +1464,10 @@
     "photo_file_name": "twtr_data/1546729604307505153.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546729604307505153.photo.00.jpg",
         "1546729604307505153.photo.02.jpg",
         "1546729604307505153.photo.03.jpg",
-        "1546729604307505153.photo.01.jpg"
+        "1546729604307505153.photo.01.jpg",
+        "1546729604307505153.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1268,10 +1568,10 @@
     "photo_file_name": "twtr_data/1546728970711773184.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546728970711773184.photo.03.jpg",
-        "1546728970711773184.photo.00.jpg",
         "1546728970711773184.photo.01.jpg",
-        "1546728970711773184.photo.02.jpg"
+        "1546728970711773184.photo.03.jpg",
+        "1546728970711773184.photo.02.jpg",
+        "1546728970711773184.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1313,8 +1613,8 @@
     "local_media": {
       "photo": [
         "1546728441185062912.photo.02.jpg",
-        "1546728441185062912.photo.01.jpg",
         "1546728441185062912.photo.00.jpg",
+        "1546728441185062912.photo.01.jpg",
         "1546728441185062912.photo.03.jpg"
       ],
       "video": [],
@@ -1337,10 +1637,10 @@
     "photo_file_name": "twtr_data/1546728163333459969.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546728163333459969.photo.03.jpg",
         "1546728163333459969.photo.02.jpg",
+        "1546728163333459969.photo.00.jpg",
         "1546728163333459969.photo.01.jpg",
-        "1546728163333459969.photo.00.jpg"
+        "1546728163333459969.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1362,10 +1662,10 @@
     "photo_file_name": "twtr_data/1546727083077865474.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546727083077865474.photo.00.jpg",
-        "1546727083077865474.photo.01.jpg",
+        "1546727083077865474.photo.02.jpg",
         "1546727083077865474.photo.03.jpg",
-        "1546727083077865474.photo.02.jpg"
+        "1546727083077865474.photo.00.jpg",
+        "1546727083077865474.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1387,10 +1687,10 @@
     "photo_file_name": "twtr_data/1546726610828595202.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546726610828595202.photo.00.jpg",
-        "1546726610828595202.photo.01.jpg",
         "1546726610828595202.photo.03.jpg",
-        "1546726610828595202.photo.02.jpg"
+        "1546726610828595202.photo.01.jpg",
+        "1546726610828595202.photo.02.jpg",
+        "1546726610828595202.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1412,10 +1712,10 @@
     "photo_file_name": "twtr_data/1546725179073605632.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546725179073605632.photo.02.jpg",
         "1546725179073605632.photo.00.jpg",
-        "1546725179073605632.photo.01.jpg",
-        "1546725179073605632.photo.03.jpg"
+        "1546725179073605632.photo.02.jpg",
+        "1546725179073605632.photo.03.jpg",
+        "1546725179073605632.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1482,8 +1782,8 @@
         "1546723417495244800.video.00.mp4"
       ],
       "video_clip": [
-        "1546723417495244800.video.00.mp4.clip.02.png",
         "1546723417495244800.video.00.mp4.clip.01.png",
+        "1546723417495244800.video.00.mp4.clip.02.png",
         "1546723417495244800.video.00.mp4.clip.00.png"
       ]
     }
@@ -1504,10 +1804,10 @@
     "photo_file_name": "twtr_data/1546722937012506624.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546722937012506624.photo.03.jpg",
+        "1546722937012506624.photo.01.jpg",
         "1546722937012506624.photo.02.jpg",
-        "1546722937012506624.photo.00.jpg",
-        "1546722937012506624.photo.01.jpg"
+        "1546722937012506624.photo.03.jpg",
+        "1546722937012506624.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1529,10 +1829,10 @@
     "photo_file_name": "twtr_data/1546722575312556032.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546722575312556032.photo.01.jpg",
-        "1546722575312556032.photo.03.jpg",
+        "1546722575312556032.photo.00.jpg",
         "1546722575312556032.photo.02.jpg",
-        "1546722575312556032.photo.00.jpg"
+        "1546722575312556032.photo.03.jpg",
+        "1546722575312556032.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1573,8 +1873,8 @@
     "photo_file_name": "twtr_data/1546719042849091584.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546719042849091584.photo.02.jpg",
         "1546719042849091584.photo.01.jpg",
+        "1546719042849091584.photo.02.jpg",
         "1546719042849091584.photo.03.jpg",
         "1546719042849091584.photo.00.jpg"
       ],
@@ -1618,8 +1918,8 @@
     "photo_file_name": "twtr_data/1546718316814688257.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546718316814688257.photo.00.jpg",
-        "1546718316814688257.photo.01.jpg"
+        "1546718316814688257.photo.01.jpg",
+        "1546718316814688257.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1642,12 +1942,12 @@
         "1546718289841332224.video.00.mp4"
       ],
       "video_clip": [
+        "1546718289841332224.video.00.mp4.clip.00.png",
+        "1546718289841332224.video.00.mp4.clip.01.png",
+        "1546718289841332224.video.00.mp4.clip.02.png",
+        "1546718289841332224.video.00.mp4.clip.04.png",
         "1546718289841332224.video.00.mp4.clip.06.png",
         "1546718289841332224.video.00.mp4.clip.03.png",
-        "1546718289841332224.video.00.mp4.clip.00.png",
-        "1546718289841332224.video.00.mp4.clip.02.png",
-        "1546718289841332224.video.00.mp4.clip.01.png",
-        "1546718289841332224.video.00.mp4.clip.04.png",
         "1546718289841332224.video.00.mp4.clip.05.png"
       ]
     }
@@ -1669,8 +1969,8 @@
     "local_media": {
       "photo": [
         "1546717901436006401.photo.01.jpg",
-        "1546717901436006401.photo.00.jpg",
         "1546717901436006401.photo.03.jpg",
+        "1546717901436006401.photo.00.jpg",
         "1546717901436006401.photo.02.jpg"
       ],
       "video": [],
@@ -1735,8 +2035,8 @@
       "photo": [
         "1546716844886675457.photo.02.jpg",
         "1546716844886675457.photo.00.jpg",
-        "1546716844886675457.photo.03.jpg",
-        "1546716844886675457.photo.01.jpg"
+        "1546716844886675457.photo.01.jpg",
+        "1546716844886675457.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1759,8 +2059,8 @@
     "local_media": {
       "photo": [
         "1546716196778549248.photo.02.jpg",
-        "1546716196778549248.photo.03.jpg",
         "1546716196778549248.photo.00.jpg",
+        "1546716196778549248.photo.03.jpg",
         "1546716196778549248.photo.01.jpg"
       ],
       "video": [],
@@ -1784,9 +2084,9 @@
     "local_media": {
       "photo": [
         "1546715190405697536.photo.00.jpg",
-        "1546715190405697536.photo.03.jpg",
         "1546715190405697536.photo.02.jpg",
-        "1546715190405697536.photo.01.jpg"
+        "1546715190405697536.photo.01.jpg",
+        "1546715190405697536.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1808,10 +2108,10 @@
     "photo_file_name": "twtr_data/1546714729908826112.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546714729908826112.photo.01.jpg",
-        "1546714729908826112.photo.00.jpg",
+        "1546714729908826112.photo.02.jpg",
         "1546714729908826112.photo.03.jpg",
-        "1546714729908826112.photo.02.jpg"
+        "1546714729908826112.photo.00.jpg",
+        "1546714729908826112.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1869,8 +2169,8 @@
     "photo_file_name": "twtr_data/1546713191278854144.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546713191278854144.photo.00.jpg",
-        "1546713191278854144.photo.01.jpg"
+        "1546713191278854144.photo.01.jpg",
+        "1546713191278854144.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1890,8 +2190,8 @@
     "photo_file_name": "twtr_data/1546713166335414272.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546713166335414272.photo.00.jpg",
-        "1546713166335414272.photo.01.jpg"
+        "1546713166335414272.photo.01.jpg",
+        "1546713166335414272.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -1949,8 +2249,8 @@
     "photo_file_name": "twtr_data/1546708937457664008.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546708937457664008.photo.01.jpg",
-        "1546708937457664008.photo.00.jpg"
+        "1546708937457664008.photo.00.jpg",
+        "1546708937457664008.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -2132,10 +2432,10 @@
     "photo_file_name": "twtr_data/1546692895746297856.photo.03.png",
     "local_media": {
       "photo": [
-        "1546692895746297856.photo.03.png",
         "1546692895746297856.photo.00.jpg",
         "1546692895746297856.photo.01.jpg",
-        "1546692895746297856.photo.02.jpg"
+        "1546692895746297856.photo.02.jpg",
+        "1546692895746297856.photo.03.png"
       ],
       "video": [],
       "video_clip": []
@@ -2235,8 +2535,8 @@
     "photo_file_name": "twtr_data/1546690489897959432.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546690489897959432.photo.01.jpg",
-        "1546690489897959432.photo.00.jpg"
+        "1546690489897959432.photo.00.jpg",
+        "1546690489897959432.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -2334,8 +2634,8 @@
     "photo_file_name": "twtr_data/1546686479971373057.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546686479971373057.photo.00.jpg",
-        "1546686479971373057.photo.01.jpg"
+        "1546686479971373057.photo.01.jpg",
+        "1546686479971373057.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -2395,10 +2695,10 @@
     "photo_file_name": "twtr_data/1546683551701012480.photo.03.jpg",
     "local_media": {
       "photo": [
+        "1546683551701012480.photo.00.jpg",
         "1546683551701012480.photo.03.jpg",
-        "1546683551701012480.photo.01.jpg",
         "1546683551701012480.photo.02.jpg",
-        "1546683551701012480.photo.00.jpg"
+        "1546683551701012480.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -2537,10 +2837,10 @@
     "photo_file_name": "twtr_data/1546674941508038656.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546674941508038656.photo.02.jpg",
-        "1546674941508038656.photo.00.jpg",
+        "1546674941508038656.photo.01.jpg",
         "1546674941508038656.photo.03.jpg",
-        "1546674941508038656.photo.01.jpg"
+        "1546674941508038656.photo.02.jpg",
+        "1546674941508038656.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -3081,8 +3381,8 @@
         "1546574101279809536.video.00.mp4"
       ],
       "video_clip": [
-        "1546574101279809536.video.00.mp4.clip.01.png",
-        "1546574101279809536.video.00.mp4.clip.00.png"
+        "1546574101279809536.video.00.mp4.clip.00.png",
+        "1546574101279809536.video.00.mp4.clip.01.png"
       ]
     }
   },
@@ -3236,9 +3536,9 @@
     "local_media": {
       "photo": [
         "1546558831697825792.photo.02.jpg",
-        "1546558831697825792.photo.03.jpg",
+        "1546558831697825792.photo.00.jpg",
         "1546558831697825792.photo.01.jpg",
-        "1546558831697825792.photo.00.jpg"
+        "1546558831697825792.photo.03.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -3261,9 +3561,9 @@
         "1546557385040609280.video.00.mp4"
       ],
       "video_clip": [
-        "1546557385040609280.video.00.mp4.clip.00.png",
         "1546557385040609280.video.00.mp4.clip.01.png",
-        "1546557385040609280.video.00.mp4.clip.02.png"
+        "1546557385040609280.video.00.mp4.clip.02.png",
+        "1546557385040609280.video.00.mp4.clip.00.png"
       ]
     }
   },
@@ -3379,8 +3679,8 @@
     "photo_file_name": "twtr_data/1546544958341107716.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546544958341107716.photo.00.jpg",
-        "1546544958341107716.photo.01.jpg"
+        "1546544958341107716.photo.01.jpg",
+        "1546544958341107716.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -3500,8 +3800,8 @@
         "1546532422505881603.video.00.mp4"
       ],
       "video_clip": [
-        "1546532422505881603.video.00.mp4.clip.01.png",
         "1546532422505881603.video.00.mp4.clip.02.png",
+        "1546532422505881603.video.00.mp4.clip.01.png",
         "1546532422505881603.video.00.mp4.clip.00.png"
       ]
     }
@@ -3522,9 +3822,9 @@
     "photo_file_name": "twtr_data/1546529555736772609.photo.03.jpg",
     "local_media": {
       "photo": [
-        "1546529555736772609.photo.02.jpg",
-        "1546529555736772609.photo.03.jpg",
         "1546529555736772609.photo.01.jpg",
+        "1546529555736772609.photo.03.jpg",
+        "1546529555736772609.photo.02.jpg",
         "1546529555736772609.photo.00.jpg"
       ],
       "video": [],
@@ -3548,9 +3848,9 @@
     "local_media": {
       "photo": [
         "1546529504880758784.photo.01.jpg",
-        "1546529504880758784.photo.00.jpg",
+        "1546529504880758784.photo.02.jpg",
         "1546529504880758784.photo.03.jpg",
-        "1546529504880758784.photo.02.jpg"
+        "1546529504880758784.photo.00.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -3630,11 +3930,11 @@
         "1546520829973897216.video.00.mp4"
       ],
       "video_clip": [
-        "1546520829973897216.video.00.mp4.clip.04.png",
-        "1546520829973897216.video.00.mp4.clip.01.png",
         "1546520829973897216.video.00.mp4.clip.02.png",
         "1546520829973897216.video.00.mp4.clip.00.png",
-        "1546520829973897216.video.00.mp4.clip.03.png"
+        "1546520829973897216.video.00.mp4.clip.03.png",
+        "1546520829973897216.video.00.mp4.clip.04.png",
+        "1546520829973897216.video.00.mp4.clip.01.png"
       ]
     }
   },
@@ -4117,10 +4417,10 @@
         "1546497782051389442.video.00.mp4"
       ],
       "video_clip": [
-        "1546497782051389442.video.00.mp4.clip.03.png",
-        "1546497782051389442.video.00.mp4.clip.02.png",
         "1546497782051389442.video.00.mp4.clip.00.png",
-        "1546497782051389442.video.00.mp4.clip.01.png"
+        "1546497782051389442.video.00.mp4.clip.02.png",
+        "1546497782051389442.video.00.mp4.clip.01.png",
+        "1546497782051389442.video.00.mp4.clip.03.png"
       ]
     }
   },
@@ -4172,11 +4472,11 @@
         "1546497415498563584.video.00.mp4"
       ],
       "video_clip": [
+        "1546497415498563584.video.00.mp4.clip.02.png",
+        "1546497415498563584.video.00.mp4.clip.00.png",
         "1546497415498563584.video.00.mp4.clip.01.png",
         "1546497415498563584.video.00.mp4.clip.03.png",
-        "1546497415498563584.video.00.mp4.clip.04.png",
-        "1546497415498563584.video.00.mp4.clip.02.png",
-        "1546497415498563584.video.00.mp4.clip.00.png"
+        "1546497415498563584.video.00.mp4.clip.04.png"
       ]
     }
   },
@@ -4219,8 +4519,8 @@
     "photo_file_name": "twtr_data/1546495679035367427.photo.02.jpg",
     "local_media": {
       "photo": [
-        "1546495679035367427.photo.00.jpg",
         "1546495679035367427.photo.01.jpg",
+        "1546495679035367427.photo.00.jpg",
         "1546495679035367427.photo.02.jpg"
       ],
       "video": [],
@@ -4262,8 +4562,8 @@
     "photo_file_name": "twtr_data/1546490483618336768.photo.01.jpg",
     "local_media": {
       "photo": [
-        "1546490483618336768.photo.01.jpg",
-        "1546490483618336768.photo.00.jpg"
+        "1546490483618336768.photo.00.jpg",
+        "1546490483618336768.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -4362,9 +4662,9 @@
     "local_media": {
       "photo": [
         "1546483477251497984.photo.02.jpg",
+        "1546483477251497984.photo.03.jpg",
         "1546483477251497984.photo.00.jpg",
-        "1546483477251497984.photo.01.jpg",
-        "1546483477251497984.photo.03.jpg"
+        "1546483477251497984.photo.01.jpg"
       ],
       "video": [],
       "video_clip": []
@@ -4452,8 +4752,8 @@
         "1546478496356401153.video.00.mp4"
       ],
       "video_clip": [
-        "1546478496356401153.video.00.mp4.clip.00.png",
-        "1546478496356401153.video.00.mp4.clip.01.png"
+        "1546478496356401153.video.00.mp4.clip.01.png",
+        "1546478496356401153.video.00.mp4.clip.00.png"
       ]
     }
   },
@@ -4517,8 +4817,8 @@
         "1546476565604667392.video.00.mp4"
       ],
       "video_clip": [
-        "1546476565604667392.video.00.mp4.clip.02.png",
         "1546476565604667392.video.00.mp4.clip.00.png",
+        "1546476565604667392.video.00.mp4.clip.02.png",
         "1546476565604667392.video.00.mp4.clip.01.png"
       ]
     }
@@ -4563,8 +4863,8 @@
         "1546476367394607105.video.00.mp4"
       ],
       "video_clip": [
-        "1546476367394607105.video.00.mp4.clip.01.png",
-        "1546476367394607105.video.00.mp4.clip.00.png"
+        "1546476367394607105.video.00.mp4.clip.00.png",
+        "1546476367394607105.video.00.mp4.clip.01.png"
       ]
     }
   }
