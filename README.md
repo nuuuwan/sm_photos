@@ -1,10 +1,47 @@
 # Social Media Photos
 
-*305 tweets as of 20220712-211026*
+*307 tweets as of 20220712-211731*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 21:15:05 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546883353475174400)
+
+0 videos, 1 photos
+
+```
+
+Will he be given a chance to become the President of Sri Lanka?
+
+ 1 educated
+ 2 Disciplined
+ 3 He gave equal rights to all religions
+ 4 He who felt the hardships of the poor and spent his money
+ and more... #GoHomeGota #kumarsangakkara #rohitsharma #souravganguly #gautamgambhir https://t.co/AqLzaH7Rmm
+
+```
+
+![image](twtr_data/1546883353475174400.photo.00.jpg)
+
+---
+
+2022-07-12 21:12:17 by [vikalpavoices](https://twitter.com/vikalpavoices/status/1546882647208648704)
+
+0 videos, 2 photos
+
+```
+
+Basil paid Rs. 5.3mn in cash to leave for Washington_
+Return ticket scheduled to reach Colombo on March 2. 2023 https://t.co/jmKQSjvKmI by @Dailymirror_SL  #srilanka #lka #GoHomeGota https://t.co/9SgpCiYMKZ
+
+```
+
+![image](twtr_data/1546882647208648704.photo.01.jpg)
+
+![image](twtr_data/1546882647208648704.photo.00.jpg)
+
+---
 
 2022-07-12 20:48:29 by [tokkalk](https://twitter.com/tokkalk/status/1546876659403395072)
 
@@ -1671,47 +1708,5 @@ Deleted the previous one coz the full clip wasn't shared.
 ![image](twtr_data/1546760688936226816.video.00.mp4.clip.02.png)
 
 ![image](twtr_data/1546760688936226816.video.00.mp4.clip.04.png)
-
----
-
-2022-07-12 13:04:59 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1546760012923637761)
-
-0 videos, 4 photos
-
-```
-
-Basil tried to go abroad
-It is reported that former Finance Minister Basil Rajapaksa has arrived at Katunayake Airport early today (12) to go abroad. https://t.co/4feypLho2A #protest #viralnews #srilanka #gohomegota #gohomeranil #lk #poltical #news #worldnews #fyp #colombo https://t.co/2Fnut1WO45
-
-```
-
-![image](twtr_data/1546760012923637761.photo.01.jpg)
-
-![image](twtr_data/1546760012923637761.photo.03.jpg)
-
-![image](twtr_data/1546760012923637761.photo.02.jpg)
-
-![image](twtr_data/1546760012923637761.photo.00.jpg)
-
----
-
-2022-07-12 13:04:03 by [kasunraja82](https://twitter.com/kasunraja82/status/1546759781414748160)
-
-0 videos, 2 photos
-
-```
-
-So happy to join the course by distributing 200 lunch packets to our brothers and sisters at #GotaGoGama
-#aragalayatajaya 
-#SriLanka
-#GoHomeGota
-@GotaGoGamaNews 
-@GotaGoGamaMedia https://t.co/Yfhul4VimE
-
-```
-
-![image](twtr_data/1546759781414748160.photo.01.jpg)
-
-![image](twtr_data/1546759781414748160.photo.00.jpg)
 
 ---
