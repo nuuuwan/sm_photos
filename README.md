@@ -1,10 +1,104 @@
 # Social Media Photos
 
-*212 tweets as of 20220712-134009*
+*218 tweets as of 20220712-140518*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 13:54:18 by [Rizwanhameed27](https://twitter.com/Rizwanhameed27/status/1546772423718100992)
+
+0 videos, 1 photos
+
+```
+
+I foresee a deadlock here.....
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/JBLMRKtTkk https://t.co/QC2FaVjxJU
+
+```
+
+![image](twtr_data/1546772423718100992.photo.00.png)
+
+---
+
+2022-07-12 13:51:59 by [Justice4Tamil](https://twitter.com/Justice4Tamil/status/1546771841674399745)
+
+0 videos, 1 photos
+
+```
+
+#Review of #Srilanka Presidential Sec taken over  #GoHomeGota protestors while #GotabayaRajapaksa is still on hiding , brilliant #review 😂 https://t.co/Q1Fb9PrsCs
+
+```
+
+![image](twtr_data/1546771841674399745.photo.00.jpg)
+
+---
+
+2022-07-12 13:47:19 by [gctamil_news](https://twitter.com/gctamil_news/status/1546770669857558528)
+
+1 videos, 0 photos
+
+```
+
+#SriLankaProtests #gotagogama #gohomegota2022 #gohomegota #arrestrajapakshas #gohomerajapaksas #srilanka #srilankaprotests #tamil #tamilnews #eelam #eelamtamil #lanka #ceylon #tn #gcnews #tnpsc https://t.co/6tvR5DbehC
+
+```
+
+![image](twtr_data/1546770669857558528.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546770669857558528.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 13:44:29 by [janindudezoysa](https://twitter.com/janindudezoysa/status/1546769953042616320)
+
+1 videos, 0 photos
+
+```
+
+Extinguishing tear gas at York Street/ Baron Jayathilake Mawatha area on 9th July 😎
+#gohomegota
+#9thjulyLK https://t.co/QjkcWIHL0J
+
+```
+
+![image](twtr_data/1546769953042616320.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546769953042616320.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 13:43:57 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1546769821156593665)
+
+1 videos, 0 photos
+
+```
+
+Give Our Stolen Money. Long live struggle!!!! #SriLankaProtests #GoHomeGota https://t.co/9MhvBoC9IW
+
+```
+
+![image](twtr_data/1546769821156593665.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546769821156593665.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 13:41:52 by [RoshiniWijesin3](https://twitter.com/RoshiniWijesin3/status/1546769294348124161)
+
+0 videos, 1 photos
+
+```
+
+Although victory seem so distant,  years of struggle to overcome this economic crisis,  never felt so genuinely hopeful for the future of this country, fellow citizens and our children. love to all ❤️🇱🇰🇱🇰 #GoHomeGota #SriLanka #lka https://t.co/W0357BQwhO
+
+```
+
+![image](twtr_data/1546769294348124161.photo.00.jpg)
+
+---
 
 2022-07-12 13:20:41 by [geethmaa](https://twitter.com/geethmaa/status/1546763967468642304)
 
@@ -1705,107 +1799,5 @@ It has been reported that 8 foreign ships have arrived at the country's ports to
 ```
 
 ![image](twtr_data/1546691048214495232.photo.00.jpg)
-
----
-
-2022-07-12 08:28:45 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546690499540824065)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by awanthaartigala 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/MjoYS1r40e #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/f5wbxLFdsJ
-
-```
-
-![image](twtr_data/1546690499540824065.photo.00.jpg)
-
-![image](twtr_data/1546690499540824065.photo.01.jpg)
-
----
-
-2022-07-12 08:28:44 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546690495656730624)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by tmdsbekanayaka 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/UiyegGuDkJ #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorn https://t.co/msjIaKf5bj
-
-```
-
-![image](twtr_data/1546690495656730624.photo.00.jpg)
-
-![image](twtr_data/1546690495656730624.photo.01.jpg)
-
----
-
-2022-07-12 08:28:43 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546690489897959432)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/DoxqtYVCYH #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/43C7CmOQTJ
-
-```
-
-![image](twtr_data/1546690489897959432.photo.01.jpg)
-
-![image](twtr_data/1546690489897959432.photo.00.jpg)
-
----
-
-2022-07-12 08:28:12 by [cartoonlka](https://twitter.com/cartoonlka/status/1546690361464360961)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/BdVRlMRaSH
-
-```
-
-![image](twtr_data/1546690361464360961.photo.00.jpg)
-
----
-
-2022-07-12 08:27:01 by [cartoonlka](https://twitter.com/cartoonlka/status/1546690061814886400)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @tmdsbekanayaka 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota https://t.co/EyrOQjm59o
-
-```
-
-![image](twtr_data/1546690061814886400.photo.00.jpg)
-
----
-
-2022-07-12 08:25:16 by [cartoonlka](https://twitter.com/cartoonlka/status/1546689619689115648)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @awanthaartigala 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/vBcUHtWjag
-
-```
-
-![image](twtr_data/1546689619689115648.photo.00.jpg)
 
 ---
