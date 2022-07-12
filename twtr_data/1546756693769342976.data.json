@@ -1,0 +1,17 @@
+{
+  "tweet_url": "https://twitter.com/jessiefer/status/1546756693769342976",
+  "id": 1546756693769342976,
+  "user": "jessiefer",
+  "time_create_ut": 1657610507,
+  "text": "2nd best thing I saw the whole day \ud83d\ude02\nOriginal Credit: r.mix.bro\n#GoHomeRajapakshas #GoHomeGota #GoHomeRanil https://t.co/AHJA6Dy69x",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1546756399723646977/pu/vid/480x360/6K2v_GIoowZSB3Mb.mp4"
+  ],
+  "video_file_name": "twtr_data/1546756693769342976.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1546756693769342976.video.00.mp4.clip.00.png",
+    "twtr_data/1546756693769342976.video.00.mp4.clip.01.png",
+    "twtr_data/1546756693769342976.video.00.mp4.clip.02.png"
+  ]
+}

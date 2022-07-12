@@ -1,10 +1,220 @@
 # Social Media Photos
 
-*100 tweets as of 20220712-122131*
+*202 tweets as of 20220712-125943*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 12:55:20 by [cartoonlka](https://twitter.com/cartoonlka/status/1546757587403788288)
+
+0 videos, 1 photos
+
+```
+
+Lankadeepa cartoon by Dasa Hapuwalana
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/dE1Qo9gnou
+
+```
+
+![image](twtr_data/1546757587403788288.photo.00.jpg)
+
+---
+
+2022-07-12 12:54:08 by [Roshan_15](https://twitter.com/Roshan_15/status/1546757283727626241)
+
+0 videos, 1 photos
+
+```
+
+அந்த ராஜினாமாக் கடிதம்.. #lka #GoHomeGota https://t.co/OijqERzKrT
+
+```
+
+![image](twtr_data/1546757283727626241.photo.00.jpg)
+
+---
+
+2022-07-12 12:51:47 by [jessiefer](https://twitter.com/jessiefer/status/1546756693769342976)
+
+1 videos, 0 photos
+
+```
+
+2nd best thing I saw the whole day 😂
+Original Credit: r.mix.bro
+#GoHomeRajapakshas #GoHomeGota #GoHomeRanil https://t.co/AHJA6Dy69x
+
+```
+
+![image](twtr_data/1546756693769342976.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546756693769342976.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546756693769342976.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 12:49:37 by [RNAmbuldeniya](https://twitter.com/RNAmbuldeniya/status/1546756146639273986)
+
+0 videos, 1 photos
+
+```
+
+people's Power ❤️🇱🇰💪 
+#SriLankaProtests #SriLankaEconomicCrisis #Srilanka #SriLankaCrisis #SriLankanpoliticalcrisis #GoHomeGota #GotabayaRajapaksa #gota https://t.co/kiRd7CTPKH
+
+```
+
+![image](twtr_data/1546756146639273986.photo.00.jpg)
+
+---
+
+2022-07-12 12:43:53 by [cartoonlka](https://twitter.com/cartoonlka/status/1546754702506876928)
+
+0 videos, 1 photos
+
+```
+
+Mawbima cartoon 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/jxHHBv0zVv
+
+```
+
+![image](twtr_data/1546754702506876928.photo.00.jpg)
+
+---
+
+2022-07-12 12:43:34 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546754624178323456)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka Dinamaina cartoon by Anjana Indrajith
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/MZsvTbzjQ9 #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorn https://t.co/yLnuzO5XYy
+
+```
+
+![image](twtr_data/1546754624178323456.photo.01.jpg)
+
+![image](twtr_data/1546754624178323456.photo.00.jpg)
+
+---
+
+2022-07-12 12:43:17 by [cartoonlka](https://twitter.com/cartoonlka/status/1546754551327457283)
+
+0 videos, 1 photos
+
+```
+
+Dinamaina cartoon by Anjana Indrajith
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/Y7fyUR0L6U
+
+```
+
+![image](twtr_data/1546754551327457283.photo.00.jpg)
+
+---
+
+2022-07-12 12:32:19 by [heavybstyles](https://twitter.com/heavybstyles/status/1546751793052504067)
+
+0 videos, 1 photos
+
+```
+
+RT @aruni_t: Best one yet. ☺️#SriLanka #SriLankaCrisis #GoHomeGota https://t.co/Du3RJn9reF
+
+```
+
+![image](twtr_data/1546751793052504067.photo.00.jpg)
+
+---
+
+2022-07-12 12:32:15 by [heavybstyles](https://twitter.com/heavybstyles/status/1546751777189527552)
+
+0 videos, 1 photos
+
+```
+
+RT @sanjeays: ✅ Ran away during the War
+✅ Ran away during අරගලය
+
+Goes to prove no matter how good your marketing is; a shit product will always be a shit product 😂
+
+#GoHomeGota
+#GoHomeGota2022
+#lka https://t.co/25y7I6qTNz
+
+```
+
+![image](twtr_data/1546751777189527552.photo.00.jpg)
+
+---
+
+2022-07-12 12:29:38 by [Pratheesh889](https://twitter.com/Pratheesh889/status/1546751118062940160)
+
+1 videos, 0 photos
+
+```
+
+If someone had asked me a couple of years back would nearing close to a gas lorry give you life time happiness I would have laughed my ass off then
+But now 
+@GotabayaR 
+#SriLankaProtests 
+#GoHomeGota https://t.co/sFUdZCeO3e
+
+```
+
+![image](twtr_data/1546751118062940160.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 12:24:16 by [MrPerera10](https://twitter.com/MrPerera10/status/1546749765681299456)
+
+0 videos, 4 photos
+
+```
+
+මේ වගේ උන් ඇරෙන්න අද ඉයේ   හැමෝම අරගලේ ලස්සන පොටො දාලා 🙂👍 
+
+මට ලස්සනම සෙනග පිරුනු ඩ්‍රෝන් ශොට් නෙවේ.
+
+තමන්ගේ ජීවිතේ ගැන නොහිතා උබලා ගැන හිතලා ඉස්සරහට ගිය,
+
+මුන්ගේ ලේ 🥺🇱🇰#SriLankaProtests #GoHomeGota #අරගලයටජය #President #LK #SirasaTV #sinhala #DailyMirror #news #Aragalaya https://t.co/eKhCdFJd7D
+
+```
+
+![image](twtr_data/1546749765681299456.photo.00.jpg)
+
+![image](twtr_data/1546749765681299456.photo.03.jpg)
+
+![image](twtr_data/1546749765681299456.photo.01.jpg)
+
+![image](twtr_data/1546749765681299456.photo.02.jpg)
+
+---
+
+2022-07-12 12:20:50 by [MrPerera10](https://twitter.com/MrPerera10/status/1546748903915397125)
+
+0 videos, 1 photos
+
+```
+
+කොටු ගහලා හරි ඉරි ඇදලා හරි ඕන විදියකට ගණන් කරගන්න..මේ බස් වලින් ඇදපු සෙනග නෙමෙයි .. තෙල් නැති කාලෙක තමන්ගෙ හෙට දවසෙ ජීවිතය ගැන විශ්වාසයක් නැතිව ආපු මිනිස්සු. 
+
+මතු උපදින දරුවන්ට පෙන්නන්න සංරක්ශණය කල යුතු ඡායාරූප 👇 #SriLankaProtests #GoHomeGota #අරගලයටජය #President #LK #SirasaTV https://t.co/9qVgWT2rD9
+
+```
+
+![image](twtr_data/1546748903915397125.photo.00.jpg)
+
+---
 
 2022-07-12 12:19:08 by [raizmeyen](https://twitter.com/raizmeyen/status/1546748473826889728)
 
@@ -33,9 +243,9 @@ A YouTube comment I made regarding the burning of Ranil Wickremesinghe's house a
 
 ```
 
-![image](twtr_data/1546748008095969280.photo.00.png)
-
 ![image](twtr_data/1546748008095969280.photo.01.png)
+
+![image](twtr_data/1546748008095969280.photo.00.png)
 
 ---
 
@@ -84,9 +294,9 @@ Where are you trying to go?😆😆😆
 
 ```
 
-![image](twtr_data/1546743128178233344.photo.01.jpg)
-
 ![image](twtr_data/1546743128178233344.photo.00.jpg)
+
+![image](twtr_data/1546743128178233344.photo.01.jpg)
 
 ---
 
@@ -135,6 +345,33 @@ Salute 🫡 to all the officers of the immigration officers. Now these #Rajapaks
 ```
 
 ![image](twtr_data/1546739903437934592.photo.00.jpg)
+
+---
+
+2022-07-12 11:36:35 by [MrPerera10](https://twitter.com/MrPerera10/status/1546737767027052544)
+
+0 videos, 4 photos
+
+```
+
+මේ වගේ උන් ඇරෙන්න අද ඉයේ   හැමෝම අරගලේ ලස්සන පොටො දාලා 🙂👍 
+
+මට ලස්සනම සෙනග පිරුනු ඩ්‍රෝන් ශොට් නෙවේ.
+
+තමන්ගේ ජීවිතේ ගැන නොහිතා උබලා ගැන හිතලා ඉස්සරහට ගිය,
+
+මුන්ගේ ලේ 🥺🇱🇰
+#GoHomeGota #SriLankaProtests #අරගලයටජය #Shame #FuleCrisisLK #asia #SirasaTV #sinhala #DailyMirror #Colombo https://t.co/4vzdMIrAwG
+
+```
+
+![image](twtr_data/1546737767027052544.photo.00.jpg)
+
+![image](twtr_data/1546737767027052544.photo.03.jpg)
+
+![image](twtr_data/1546737767027052544.photo.01.jpg)
+
+![image](twtr_data/1546737767027052544.photo.02.jpg)
 
 ---
 
@@ -200,13 +437,13 @@ PS 3 - Not sure what will happen tomorrow or how long these will be open. Hearin
 
 ```
 
-![image](twtr_data/1546735383492190210.photo.03.jpg)
-
 ![image](twtr_data/1546735383492190210.photo.00.jpg)
 
 ![image](twtr_data/1546735383492190210.photo.02.jpg)
 
 ![image](twtr_data/1546735383492190210.photo.01.jpg)
+
+![image](twtr_data/1546735383492190210.photo.03.jpg)
 
 ---
 
@@ -286,11 +523,11 @@ And in the last photo, 'let's end the 74-year curse'. #lka #SriLanka #GoHomeGota
 
 ![image](twtr_data/1546733749747953665.photo.03.jpg)
 
-![image](twtr_data/1546733749747953665.photo.02.jpg)
-
 ![image](twtr_data/1546733749747953665.photo.00.jpg)
 
 ![image](twtr_data/1546733749747953665.photo.01.jpg)
+
+![image](twtr_data/1546733749747953665.photo.02.jpg)
 
 ---
 
@@ -322,13 +559,13 @@ No seriously, it's just lovely. #lka #SriLanka #GoHomeGota https://t.co/Pp3BdO67
 
 ```
 
-![image](twtr_data/1546731701715341312.photo.03.jpg)
-
 ![image](twtr_data/1546731701715341312.photo.00.jpg)
 
 ![image](twtr_data/1546731701715341312.photo.02.jpg)
 
 ![image](twtr_data/1546731701715341312.photo.01.jpg)
+
+![image](twtr_data/1546731701715341312.photo.03.jpg)
 
 ---
 
@@ -342,13 +579,13 @@ Going weak in the knees at all this greenery and foliage. #lka #SriLanka #GoHome
 
 ```
 
-![image](twtr_data/1546731359086907392.photo.01.jpg)
-
-![image](twtr_data/1546731359086907392.photo.02.jpg)
-
 ![image](twtr_data/1546731359086907392.photo.00.jpg)
 
 ![image](twtr_data/1546731359086907392.photo.03.jpg)
+
+![image](twtr_data/1546731359086907392.photo.01.jpg)
+
+![image](twtr_data/1546731359086907392.photo.02.jpg)
 
 ---
 
@@ -362,11 +599,11 @@ Community kitchen and picnics in the main garden area. #lka #srilanka #GoHomeGot
 
 ```
 
-![image](twtr_data/1546731073932894208.photo.00.jpg)
-
 ![image](twtr_data/1546731073932894208.photo.02.jpg)
 
 ![image](twtr_data/1546731073932894208.photo.01.jpg)
+
+![image](twtr_data/1546731073932894208.photo.00.jpg)
 
 ---
 
@@ -380,13 +617,13 @@ Community kitchen and picnics in the main garden area. #lka #srilanka #GoHomeGot
 
 ```
 
+![image](twtr_data/1546730699897507840.photo.00.jpg)
+
 ![image](twtr_data/1546730699897507840.photo.02.jpg)
 
 ![image](twtr_data/1546730699897507840.photo.01.jpg)
 
 ![image](twtr_data/1546730699897507840.photo.03.jpg)
-
-![image](twtr_data/1546730699897507840.photo.00.jpg)
 
 ---
 
@@ -436,13 +673,13 @@ Again, the small fence has been dismantled. Crowds line the main walls and No De
 
 ```
 
-![image](twtr_data/1546729604307505153.photo.00.jpg)
-
 ![image](twtr_data/1546729604307505153.photo.02.jpg)
 
 ![image](twtr_data/1546729604307505153.photo.03.jpg)
 
 ![image](twtr_data/1546729604307505153.photo.01.jpg)
+
+![image](twtr_data/1546729604307505153.photo.00.jpg)
 
 ---
 
@@ -518,13 +755,13 @@ Around the grounds of the 'Secretariat' - people rest while a few armed men stil
 
 ```
 
-![image](twtr_data/1546728970711773184.photo.03.jpg)
-
-![image](twtr_data/1546728970711773184.photo.00.jpg)
-
 ![image](twtr_data/1546728970711773184.photo.01.jpg)
 
+![image](twtr_data/1546728970711773184.photo.03.jpg)
+
 ![image](twtr_data/1546728970711773184.photo.02.jpg)
+
+![image](twtr_data/1546728970711773184.photo.00.jpg)
 
 ---
 
@@ -556,9 +793,9 @@ Books from the library that was built over these three months at #Gotagogama wer
 
 ![image](twtr_data/1546728441185062912.photo.02.jpg)
 
-![image](twtr_data/1546728441185062912.photo.01.jpg)
-
 ![image](twtr_data/1546728441185062912.photo.00.jpg)
+
+![image](twtr_data/1546728441185062912.photo.01.jpg)
 
 ![image](twtr_data/1546728441185062912.photo.03.jpg)
 
@@ -574,13 +811,13 @@ Signs in Sinhala and Tamil explaining the history of the building, built in 1930
 
 ```
 
-![image](twtr_data/1546728163333459969.photo.03.jpg)
-
 ![image](twtr_data/1546728163333459969.photo.02.jpg)
+
+![image](twtr_data/1546728163333459969.photo.00.jpg)
 
 ![image](twtr_data/1546728163333459969.photo.01.jpg)
 
-![image](twtr_data/1546728163333459969.photo.00.jpg)
+![image](twtr_data/1546728163333459969.photo.03.jpg)
 
 ---
 
@@ -594,13 +831,13 @@ Entrance to this supposed/former 'high-security zone'. #lka #SriLanka #GoHomeGot
 
 ```
 
-![image](twtr_data/1546727083077865474.photo.00.jpg)
-
-![image](twtr_data/1546727083077865474.photo.01.jpg)
+![image](twtr_data/1546727083077865474.photo.02.jpg)
 
 ![image](twtr_data/1546727083077865474.photo.03.jpg)
 
-![image](twtr_data/1546727083077865474.photo.02.jpg)
+![image](twtr_data/1546727083077865474.photo.00.jpg)
+
+![image](twtr_data/1546727083077865474.photo.01.jpg)
 
 ---
 
@@ -614,13 +851,13 @@ In almost all rooms and in the gardens, these signs remind people that this is a
 
 ```
 
-![image](twtr_data/1546726610828595202.photo.00.jpg)
+![image](twtr_data/1546726610828595202.photo.03.jpg)
 
 ![image](twtr_data/1546726610828595202.photo.01.jpg)
 
-![image](twtr_data/1546726610828595202.photo.03.jpg)
-
 ![image](twtr_data/1546726610828595202.photo.02.jpg)
+
+![image](twtr_data/1546726610828595202.photo.00.jpg)
 
 ---
 
@@ -634,13 +871,13 @@ The garden and the trees are spectacular. We overhear many folks say they don't 
 
 ```
 
-![image](twtr_data/1546725179073605632.photo.02.jpg)
-
 ![image](twtr_data/1546725179073605632.photo.00.jpg)
 
-![image](twtr_data/1546725179073605632.photo.01.jpg)
+![image](twtr_data/1546725179073605632.photo.02.jpg)
 
 ![image](twtr_data/1546725179073605632.photo.03.jpg)
+
+![image](twtr_data/1546725179073605632.photo.01.jpg)
 
 ---
 
@@ -690,9 +927,9 @@ We Won ❤️
 
 ```
 
-![image](twtr_data/1546723417495244800.video.00.mp4.clip.02.png)
-
 ![image](twtr_data/1546723417495244800.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546723417495244800.video.00.mp4.clip.02.png)
 
 ![image](twtr_data/1546723417495244800.video.00.mp4.clip.00.png)
 
@@ -708,13 +945,13 @@ Scene of the iconic pool party. First shot taken from where that one guy did a p
 
 ```
 
-![image](twtr_data/1546722937012506624.photo.03.jpg)
+![image](twtr_data/1546722937012506624.photo.01.jpg)
 
 ![image](twtr_data/1546722937012506624.photo.02.jpg)
 
-![image](twtr_data/1546722937012506624.photo.00.jpg)
+![image](twtr_data/1546722937012506624.photo.03.jpg)
 
-![image](twtr_data/1546722937012506624.photo.01.jpg)
+![image](twtr_data/1546722937012506624.photo.00.jpg)
 
 ---
 
@@ -730,13 +967,13 @@ Military men still watching in the hallways. In Photo 4, officers are standing n
 
 ```
 
-![image](twtr_data/1546722575312556032.photo.01.jpg)
-
-![image](twtr_data/1546722575312556032.photo.03.jpg)
+![image](twtr_data/1546722575312556032.photo.00.jpg)
 
 ![image](twtr_data/1546722575312556032.photo.02.jpg)
 
-![image](twtr_data/1546722575312556032.photo.00.jpg)
+![image](twtr_data/1546722575312556032.photo.03.jpg)
+
+![image](twtr_data/1546722575312556032.photo.01.jpg)
 
 ---
 
@@ -766,9 +1003,9 @@ Selfies in the halls, some light times at the piano, picnics in the garden, Live
 
 ```
 
-![image](twtr_data/1546719042849091584.photo.02.jpg)
-
 ![image](twtr_data/1546719042849091584.photo.01.jpg)
+
+![image](twtr_data/1546719042849091584.photo.02.jpg)
 
 ![image](twtr_data/1546719042849091584.photo.03.jpg)
 
@@ -808,9 +1045,9 @@ Sign in Sinhala and Tamil explaining that the building, now in the public's hand
 
 ```
 
-![image](twtr_data/1546718316814688257.photo.00.jpg)
-
 ![image](twtr_data/1546718316814688257.photo.01.jpg)
+
+![image](twtr_data/1546718316814688257.photo.00.jpg)
 
 ---
 
@@ -824,17 +1061,17 @@ Sign in Sinhala and Tamil explaining that the building, now in the public's hand
 
 ```
 
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.06.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.03.png)
-
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.02.png)
 
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.01.png)
 
+![image](twtr_data/1546718289841332224.video.00.mp4.clip.02.png)
+
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.04.png)
+
+![image](twtr_data/1546718289841332224.video.00.mp4.clip.06.png)
+
+![image](twtr_data/1546718289841332224.video.00.mp4.clip.03.png)
 
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.05.png)
 
@@ -854,9 +1091,9 @@ I was thrilled at these scenes of folks curiously and excitedly exploring these 
 
 ![image](twtr_data/1546717901436006401.photo.01.jpg)
 
-![image](twtr_data/1546717901436006401.photo.00.jpg)
-
 ![image](twtr_data/1546717901436006401.photo.03.jpg)
+
+![image](twtr_data/1546717901436006401.photo.00.jpg)
 
 ![image](twtr_data/1546717901436006401.photo.02.jpg)
 
@@ -908,9 +1145,9 @@ This was really quite the moment. The grand structure, the art placed around it,
 
 ![image](twtr_data/1546716844886675457.photo.00.jpg)
 
-![image](twtr_data/1546716844886675457.photo.03.jpg)
-
 ![image](twtr_data/1546716844886675457.photo.01.jpg)
+
+![image](twtr_data/1546716844886675457.photo.03.jpg)
 
 ---
 
@@ -926,9 +1163,9 @@ Mad at how much I'm loving these wrap-around verandahs and walkways. #lka #srila
 
 ![image](twtr_data/1546716196778549248.photo.02.jpg)
 
-![image](twtr_data/1546716196778549248.photo.03.jpg)
-
 ![image](twtr_data/1546716196778549248.photo.00.jpg)
+
+![image](twtr_data/1546716196778549248.photo.03.jpg)
 
 ![image](twtr_data/1546716196778549248.photo.01.jpg)
 
@@ -948,11 +1185,11 @@ Only one small door open into this little residential wing, so the crowd push is
 
 ![image](twtr_data/1546715190405697536.photo.00.jpg)
 
-![image](twtr_data/1546715190405697536.photo.03.jpg)
-
 ![image](twtr_data/1546715190405697536.photo.02.jpg)
 
 ![image](twtr_data/1546715190405697536.photo.01.jpg)
+
+![image](twtr_data/1546715190405697536.photo.03.jpg)
 
 ---
 
@@ -970,13 +1207,13 @@ Clearly, don't underestimate Lankans. And these images are just at the entrances
 
 ```
 
-![image](twtr_data/1546714729908826112.photo.01.jpg)
-
-![image](twtr_data/1546714729908826112.photo.00.jpg)
+![image](twtr_data/1546714729908826112.photo.02.jpg)
 
 ![image](twtr_data/1546714729908826112.photo.03.jpg)
 
-![image](twtr_data/1546714729908826112.photo.02.jpg)
+![image](twtr_data/1546714729908826112.photo.00.jpg)
+
+![image](twtr_data/1546714729908826112.photo.01.jpg)
 
 ---
 
@@ -1024,9 +1261,9 @@ Political Cartoons of Sri Lanka Ceylon Today cartoon
 
 ```
 
-![image](twtr_data/1546713191278854144.photo.00.jpg)
-
 ![image](twtr_data/1546713191278854144.photo.01.jpg)
+
+![image](twtr_data/1546713191278854144.photo.00.jpg)
 
 ---
 
@@ -1042,9 +1279,9 @@ Political Cartoons of Sri Lanka . virakesari_lk cartoon by Selvan
 
 ```
 
-![image](twtr_data/1546713166335414272.photo.00.jpg)
-
 ![image](twtr_data/1546713166335414272.photo.01.jpg)
+
+![image](twtr_data/1546713166335414272.photo.00.jpg)
 
 ---
 
@@ -1092,9 +1329,9 @@ Political Cartoons of Sri Lanka . DailyNews_lk cartoon by Anjana Indrajith
 
 ```
 
-![image](twtr_data/1546708937457664008.photo.01.jpg)
-
 ![image](twtr_data/1546708937457664008.photo.00.jpg)
+
+![image](twtr_data/1546708937457664008.photo.01.jpg)
 
 ---
 
@@ -1242,13 +1479,13 @@ We request not to accept them from all other countries.
 
 ```
 
-![image](twtr_data/1546692895746297856.photo.03.png)
-
 ![image](twtr_data/1546692895746297856.photo.00.jpg)
 
 ![image](twtr_data/1546692895746297856.photo.01.jpg)
 
 ![image](twtr_data/1546692895746297856.photo.02.jpg)
+
+![image](twtr_data/1546692895746297856.photo.03.png)
 
 ---
 
@@ -1333,9 +1570,9 @@ Political Cartoons of Sri Lanka Cartoon by NamalAmarasing
 
 ```
 
-![image](twtr_data/1546690489897959432.photo.01.jpg)
-
 ![image](twtr_data/1546690489897959432.photo.00.jpg)
+
+![image](twtr_data/1546690489897959432.photo.01.jpg)
 
 ---
 
@@ -1418,9 +1655,9 @@ Political Cartoons of Sri Lanka Cartoon by RcSullan
 
 ```
 
-![image](twtr_data/1546686479971373057.photo.00.jpg)
-
 ![image](twtr_data/1546686479971373057.photo.01.jpg)
+
+![image](twtr_data/1546686479971373057.photo.00.jpg)
 
 ---
 
@@ -1479,13 +1716,13 @@ Remember The Historical Day!🫡❤️🇱🇰
 
 ```
 
-![image](twtr_data/1546683551701012480.photo.03.jpg)
+![image](twtr_data/1546683551701012480.photo.00.jpg)
 
-![image](twtr_data/1546683551701012480.photo.01.jpg)
+![image](twtr_data/1546683551701012480.photo.03.jpg)
 
 ![image](twtr_data/1546683551701012480.photo.02.jpg)
 
-![image](twtr_data/1546683551701012480.photo.00.jpg)
+![image](twtr_data/1546683551701012480.photo.01.jpg)
 
 ---
 
@@ -1564,220 +1801,5 @@ Passenger at Katunayake airport protest over Basil Rajapaksa #අරගලයට
 ![image](twtr_data/1546677152090767360.video.00.mp4.clip.00.png)
 
 ![image](twtr_data/1546677152090767360.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 07:27:38 by [visurav](https://twitter.com/visurav/status/1546675115739402240)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeGota2022 https://t.co/YrGlM5vYev
-
-```
-
-![image](twtr_data/1546675115739402240.photo.00.jpg)
-
----
-
-2022-07-12 07:26:56 by [visurav](https://twitter.com/visurav/status/1546674941508038656)
-
-0 videos, 4 photos
-
-```
-
-#GoHomeGota #GoHomeGota2022 https://t.co/KtfbACIavQ
-
-```
-
-![image](twtr_data/1546674941508038656.photo.02.jpg)
-
-![image](twtr_data/1546674941508038656.photo.00.jpg)
-
-![image](twtr_data/1546674941508038656.photo.03.jpg)
-
-![image](twtr_data/1546674941508038656.photo.01.jpg)
-
----
-
-2022-07-12 07:10:26 by [MNMINSHAF5](https://twitter.com/MNMINSHAF5/status/1546670787397971968)
-
-0 videos, 1 photos
-
-```
-
-🔥pepole powers srilanka #PRACIDENT home sarounding ⚔️ innecent pepole #GOHOMEGOTA 🔥 https://t.co/Z6JIlUAEEa
-
-```
-
-![image](twtr_data/1546670787397971968.photo.00.jpg)
-
----
-
-2022-07-12 07:00:39 by [lukshayanmuthu](https://twitter.com/lukshayanmuthu/status/1546668325375057921)
-
-0 videos, 1 photos
-
-```
-
-Whole family running away from SriLanka in MK 9935 to Dubai ?. #GoHomeGota #GoHomeRanil #srilanka #EconomicCrisisLK @munza14 @rangaba https://t.co/ykabL84Cm2
-
-```
-
-![image](twtr_data/1546668325375057921.photo.00.jpg)
-
----
-
-2022-07-12 06:10:47 by [aruni_t](https://twitter.com/aruni_t/status/1546655775958765568)
-
-0 videos, 1 photos
-
-```
-
-Best one yet. ☺️#SriLanka #SriLankaCrisis #GoHomeGota https://t.co/9z8lrhhDxD
-
-```
-
-![image](twtr_data/1546655775958765568.photo.00.jpg)
-
----
-
-2022-07-12 05:59:21 by [varnikasoysa](https://twitter.com/varnikasoysa/status/1546652901174558727)
-
-0 videos, 1 photos
-
-```
-
-All d kings’ thieves in a single frame!
-#SriLanka #GoHomeGota https://t.co/9nw3c0FH88
-
-```
-
-![image](twtr_data/1546652901174558727.photo.00.jpg)
-
----
-
-2022-07-12 05:32:17 by [MayuranOfficial](https://twitter.com/MayuranOfficial/status/1546646088483950592)
-
-0 videos, 1 photos
-
-```
-
-අද රට මුහුණ දී ඇති අර්බුදයට හේතුව යුද මානසිකත්වයකින් යුත් කෙනෙකු තේරී පත්වීම නිසා බව අමතක කර ඔවුන් නැවතත් එම මානසිකත්වයෙන් ක්‍රියා කරන බවට මේ චිත්‍රපටිය හොඳ උදාහරණයක්.
-
- #lka #SriLanka #GoHomeGota
-@vajirasumeda @Jamz5251 @Welikumbura @roelraymond @SriLankaTweet @Dailymirror_SL https://t.co/51kcYZO0Ia
-
-```
-
-![image](twtr_data/1546646088483950592.photo.00.jpg)
-
----
-
-2022-07-12 05:11:16 by [TamilChina2](https://twitter.com/TamilChina2/status/1546640801152659456)
-
-0 videos, 1 photos
-
-```
-
-Anyone seen @RajapaksaNamal @Media_NR  ? We need the stolen money 💰 
-#GoHomeGota #SriLanka #SriLankaProtests #SriLankaEconomicCrisis https://t.co/uX2uPAEXxK
-
-```
-
-![image](twtr_data/1546640801152659456.photo.00.jpg)
-
----
-
-2022-07-12 04:02:51 by [nation_ruined](https://twitter.com/nation_ruined/status/1546623580888510465)
-
-0 videos, 1 photos
-
-```
-
-දීලා බලමු. හොද ආතල් එකක් අරන් රණවිරුගායයි, සමාජවාදී පුකේ අමාරුවයි වත් හොඳ කරගන්න පුළුවන් වෙයි.
-
-#SriLanka #lka #SriLankaCrisis #SriLankaProtests #GotaGoHome #GoHomeGota #අරගලයටජය #Aragalaya https://t.co/JjE1Os4Nip
-
-```
-
-![image](twtr_data/1546623580888510465.photo.00.jpg)
-
----
-
-2022-07-12 03:36:51 by [mrdeveloperlk](https://twitter.com/mrdeveloperlk/status/1546617040915828736)
-
-0 videos, 1 photos
-
-```
-
-இவ்ளோ உயரமா ? | Leisure World பாகம் 2 | AJ Vlogs - ft. Everybody Loves MC
-
-Link : https://t.co/qfj0kVqiV4
-
-Subscribe &amp; Support 👍
-
-#ajvlogs #srilanka #gohomegota #gohomegota2022 #srilankabreakingnews #srilankanews #colombo #tamilvlogger #traveller #foodreview #srilanka https://t.co/u4vQSY7zLm
-
-```
-
-![image](twtr_data/1546617040915828736.photo.00.jpg)
-
----
-
-2022-07-12 03:35:58 by [mrdeveloperlk](https://twitter.com/mrdeveloperlk/status/1546616818294755328)
-
-0 videos, 1 photos
-
-```
-
-உயிருக்கு உத்தரவாதம் இல்ல | Leisure World பாகம் 1 | AJ Vlogs - ft. Everybody Loves MC
-
-https://t.co/NUayD5R8Qy
-
-Subscribe &amp; Support 👍
-
-#ajvlogs #srilanka #gohomegota #gohomegota2022 #srilankabreakingnews #srilankanews #colombo #tamilvlogger #traveller #foodreview #srilanka https://t.co/JX16FN7oBR
-
-```
-
-![image](twtr_data/1546616818294755328.photo.00.jpg)
-
----
-
-2022-07-12 02:10:41 by [emillia01](https://twitter.com/emillia01/status/1546595356393123842)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #ronald https://t.co/OdHC2JmqK0
-
-```
-
-![image](twtr_data/1546595356393123842.photo.00.jpg)
-
----
-
-2022-07-12 02:10:18 by [BelaLina8](https://twitter.com/BelaLina8/status/1546595257826979840)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #Ronald https://t.co/K7cdBNuWXX
-
-```
-
-![image](twtr_data/1546595257826979840.photo.00.jpg)
 
 ---
