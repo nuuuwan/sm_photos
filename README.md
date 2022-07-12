@@ -1,10 +1,280 @@
 # Social Media Photos
 
-*165 tweets as of 20220712-110623*
+*180 tweets as of 20220712-113423*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 11:30:12 by [Amaliniii](https://twitter.com/Amaliniii/status/1546736160084348929)
+
+0 videos, 4 photos
+
+```
+
+Military still watching in the hallways. In Photo 4, officers were standing near a verse from the Dhammapada:
+
+'Hatred is never appeased by hatred in this world - It is appeased only by loving-kindness. This is an ancient law.' #lka #SriLanka #GoHomeGota https://t.co/MacwTrpWWW
+
+```
+
+![image](twtr_data/1546736160084348929.photo.00.jpg)
+
+![image](twtr_data/1546736160084348929.photo.03.jpg)
+
+![image](twtr_data/1546736160084348929.photo.02.jpg)
+
+![image](twtr_data/1546736160084348929.photo.01.jpg)
+
+---
+
+2022-07-12 11:28:54 by [Amaliniii](https://twitter.com/Amaliniii/status/1546735833293602816)
+
+0 videos, 1 photos
+
+```
+
+PS 4 - These spaces have housed war criminals and thieves. They made those decisions sitting in these rooms. For all the public money spent on maintaining them, they probably pocketed more. Important to not forget that as we see these visuals. #lka #SriLanka #GoHomeGota https://t.co/ucr2fqrUG8
+
+```
+
+![image](twtr_data/1546735833293602816.photo.00.jpg)
+
+---
+
+2022-07-12 11:27:07 by [Amaliniii](https://twitter.com/Amaliniii/status/1546735383492190210)
+
+0 videos, 4 photos
+
+```
+
+PS 3 - Not sure what will happen tomorrow or how long these will be open. Hearing folks say they had to come even with crowds, because they never thought they'd see inside these places with their own eyes. The excitement is electric. #lka #SriLanka #GoHomeGota https://t.co/9ay4iI6BoU
+
+```
+
+![image](twtr_data/1546735383492190210.photo.03.jpg)
+
+![image](twtr_data/1546735383492190210.photo.00.jpg)
+
+![image](twtr_data/1546735383492190210.photo.02.jpg)
+
+![image](twtr_data/1546735383492190210.photo.01.jpg)
+
+---
+
+2022-07-12 11:25:38 by [Amaliniii](https://twitter.com/Amaliniii/status/1546735013076512770)
+
+0 videos, 1 photos
+
+```
+
+PS 2 - Protestors are trying to make people aware to not damage the properties &amp; allow crowds in an orderly manner. More Tamil language signs are needed, though. The 'main ones' are covered but these smaller ones should be too. #lka #SriLanka #GoHomeGota https://t.co/G2kHL3ovmq
+
+```
+
+![image](twtr_data/1546735013076512770.photo.00.jpg)
+
+---
+
+2022-07-12 11:24:44 by [KoDilshan](https://twitter.com/KoDilshan/status/1546734785870962688)
+
+1 videos, 0 photos
+
+```
+
+Long queues to see the president’s house on a Tuesday morning. Meanwhile @CSE_Media ASPI up by 100+ points. 
+
+&amp; some complain the rich is getting richer!!
+
+#gohomegota #lka #SriLankaProtests #SriLankaCrisis #CSE https://t.co/65C2DqWbFi
+
+```
+
+![image](twtr_data/1546734785870962688.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 11:23:59 by [EvilExecutor](https://twitter.com/EvilExecutor/status/1546734595042844672)
+
+0 videos, 1 photos
+
+```
+
+Spotted at https://t.co/eDJ0rSy927
+
+#SriLanka #LKA #FuelCrisisLK #EconomicCrisisLK #SriLankaCrisis #GoHomeGota #GotaGoHome #GoHomeGota2022  #GoHomeRanil #GoHomeRajapakshas #SriLankaProtests #July9th  #අරගලයටජය https://t.co/u5UCSMKT8H
+
+```
+
+![image](twtr_data/1546734595042844672.photo.00.png)
+
+---
+
+2022-07-12 11:23:34 by [Amaliniii](https://twitter.com/Amaliniii/status/1546734492374614018)
+
+0 videos, 1 photos
+
+```
+
+PS 1 - At all 3 locations, there are big garden spaces &amp; corridors but most of the staircases and inner rooms aren't very accessible for people with disabilities or the elderly. There's a small toilet open at Temple Trees. Consider this when visiting. #lka #SriLanka #GoHomeGota https://t.co/uZHYgDNVhR
+
+```
+
+![image](twtr_data/1546734492374614018.photo.00.jpg)
+
+---
+
+2022-07-12 11:20:37 by [Amaliniii](https://twitter.com/Amaliniii/status/1546733749747953665)
+
+0 videos, 4 photos
+
+```
+
+More signs reminding people that this is a public space, paid for with taxes and it's everyone's duty to take care of it.
+
+And in the last photo, 'let's end the 74-year curse'. #lka #SriLanka #GoHomeGota https://t.co/bplROdVbM0
+
+```
+
+![image](twtr_data/1546733749747953665.photo.03.jpg)
+
+![image](twtr_data/1546733749747953665.photo.02.jpg)
+
+![image](twtr_data/1546733749747953665.photo.00.jpg)
+
+![image](twtr_data/1546733749747953665.photo.01.jpg)
+
+---
+
+2022-07-12 11:16:48 by [draven_4252_](https://twitter.com/draven_4252_/status/1546732788036128768)
+
+0 videos, 1 photos
+
+```
+
+Be wise enough and join $Marvin and keep bagging #MarvinInu now!!!
+
+Visit: https://t.co/ydbJtv0mHQ
+
+#NFT #BinanceSmartChain #BTC  #BSC #ETH #Metaverse #NFTMarketplace @Walknonthemoon #LALISA #BibleBuild #GoHomeGota #bachelorette #PrimeDay #krsna #heatwave https://t.co/27oql91v2H
+
+```
+
+![image](twtr_data/1546732788036128768.photo.00.jpg)
+
+---
+
+2022-07-12 11:12:29 by [Amaliniii](https://twitter.com/Amaliniii/status/1546731701715341312)
+
+0 videos, 4 photos
+
+```
+
+No seriously, it's just lovely. #lka #SriLanka #GoHomeGota https://t.co/Pp3BdO67kh
+
+```
+
+![image](twtr_data/1546731701715341312.photo.03.jpg)
+
+![image](twtr_data/1546731701715341312.photo.00.jpg)
+
+![image](twtr_data/1546731701715341312.photo.02.jpg)
+
+![image](twtr_data/1546731701715341312.photo.01.jpg)
+
+---
+
+2022-07-12 11:11:07 by [Amaliniii](https://twitter.com/Amaliniii/status/1546731359086907392)
+
+0 videos, 4 photos
+
+```
+
+Going weak in the knees at all this greenery and foliage. #lka #SriLanka #GoHomeGota https://t.co/0F0hwyXBdd
+
+```
+
+![image](twtr_data/1546731359086907392.photo.01.jpg)
+
+![image](twtr_data/1546731359086907392.photo.02.jpg)
+
+![image](twtr_data/1546731359086907392.photo.00.jpg)
+
+![image](twtr_data/1546731359086907392.photo.03.jpg)
+
+---
+
+2022-07-12 11:09:59 by [Amaliniii](https://twitter.com/Amaliniii/status/1546731073932894208)
+
+0 videos, 3 photos
+
+```
+
+Community kitchen and picnics in the main garden area. #lka #srilanka #GoHomeGota https://t.co/D3tCyGBpql
+
+```
+
+![image](twtr_data/1546731073932894208.photo.00.jpg)
+
+![image](twtr_data/1546731073932894208.photo.02.jpg)
+
+![image](twtr_data/1546731073932894208.photo.01.jpg)
+
+---
+
+2022-07-12 11:08:30 by [Amaliniii](https://twitter.com/Amaliniii/status/1546730699897507840)
+
+0 videos, 4 photos
+
+```
+
+'Until Gota-Ranil are ousted, we are not leaving' - carrom games and political awareness inside one main hall. #lka #srilanka #GoHomeGota https://t.co/9dyzlxlA4S
+
+```
+
+![image](twtr_data/1546730699897507840.photo.02.jpg)
+
+![image](twtr_data/1546730699897507840.photo.01.jpg)
+
+![image](twtr_data/1546730699897507840.photo.03.jpg)
+
+![image](twtr_data/1546730699897507840.photo.00.jpg)
+
+---
+
+2022-07-12 11:07:34 by [Sara_Tassera](https://twitter.com/Sara_Tassera/status/1546730463808536576)
+
+0 videos, 1 photos
+
+```
+
+@BimlaRuwan If you don't have the power to cut the chain of slavery, then cut the chained person because the disability of freedom is a million times better than the health of slavery. 
+
+#SriLankaProtests 
+#GoHomeGota 
+#SilkRoute https://t.co/vJx6RnpKm6
+
+```
+
+![image](twtr_data/1546730463808536576.photo.00.jpg)
+
+---
+
+2022-07-12 11:06:53 by [Amaliniii](https://twitter.com/Amaliniii/status/1546730294090158080)
+
+0 videos, 2 photos
+
+```
+
+Plaques explain the significance of two temple trees - planted by the first private owner in British colonial times and by Premadasa when he took office. New signs by protestors read 'these are ancient trees - touching these are prohibited'. #lka #srilanka #GoHomeGota https://t.co/jubQBUicWy
+
+```
+
+![image](twtr_data/1546730294090158080.photo.01.jpg)
+
+![image](twtr_data/1546730294090158080.photo.00.jpg)
+
+---
 
 2022-07-12 11:04:09 by [Amaliniii](https://twitter.com/Amaliniii/status/1546729604307505153)
 
@@ -1510,253 +1780,5 @@ When your aragalaya cheered and welcome by a CIA agent #SriLanka #GoHomeGota ක
 ![image](twtr_data/1546582859204333568.photo.01.jpg)
 
 ![image](twtr_data/1546582859204333568.photo.00.jpg)
-
----
-
-2022-07-12 01:14:45 by [WeAreProtestors](https://twitter.com/WeAreProtestors/status/1546581278140821504)
-
-1 videos, 0 photos
-
-```
-
-Long queues form to visit the residence of the President of Sri Lanka, which has been occupied for three days by demonstrators.
-
-#SriLanka #lka #SriLankaCrisis #FuelCrisisLK #GoHomeGota2022 #GoHomeGota #SriLankaEconomicCrisis #SriLankaProtests https://t.co/bHbjSf7Ha0
-
-```
-
-![image](twtr_data/1546581278140821504.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546581278140821504.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 01:11:56 by [KaviStudioMast1](https://twitter.com/KaviStudioMast1/status/1546580568648732675)
-
-0 videos, 1 photos
-
-```
-
-නැවත පන ගැන්වෙන ජන අරගලය 💪❤️😈
-FB page -https://t.co/3aExIYUFls...
-❤️🇱🇰Kavi Studio Master Photography ❤️
-@KaviStudioMast1
-
-ජනතා අරගලයට ජය ❤️💪
-#GoHomeGota2022 #gohomerajapaksas #gohomerajapaksas2022 #GoHomeGota #SaveSriLanka #Kavistudiomasterphotography
- #අරගලේ #ගෝඨා #අරගලයටජය https://t.co/6DOIRQ5CaJ
-
-```
-
-![image](twtr_data/1546580568648732675.photo.00.jpg)
-
----
-
-2022-07-12 01:06:09 by [tharindu_o_](https://twitter.com/tharindu_o_/status/1546579114974277632)
-
-0 videos, 1 photos
-
-```
-
-ගෙදරට වෙලා හොදට නිදාගන්න පුලුවන්කම තියෙද්දිත් මුන් මේ කට්ට කන්නෙ ඔබ අප හැම දෙනාම වෙනුවෙන්....🥺♥️
-#SriLanka #SriLankaEconomicCrisis #SriLankaCrisis #SriLankaProtest #ProtestLK #protesters #srilankacan #GoHomeGota #GotaGoHome2022 
-
-11.07.2022 https://t.co/zuybU9k3U5
-
-```
-
-![image](twtr_data/1546579114974277632.photo.00.jpg)
-
----
-
-2022-07-12 00:59:44 by [CristDilan29](https://twitter.com/CristDilan29/status/1546577498850242560)
-
-0 videos, 1 photos
-
-```
-
-#today #SriLanka #GoHomeGota #SriLankaProtest பதவி விலகும் வரை போராட்டம் தொடரும். #PeoplePower July 11 https://t.co/6ddps6tmHs
-
-```
-
-![image](twtr_data/1546577498850242560.photo.00.jpg)
-
----
-
-2022-07-12 00:59:18 by [RajievRanasing1](https://twitter.com/RajievRanasing1/status/1546577392285585409)
-
-0 videos, 1 photos
-
-```
-
-This is what how we travel now @GotabayaR @kanchana_wij @RW_UNP
-
-Please Step Down. Enough is Enough.
-#GoHomeGota #GoHomeRanil
-#lk #lkcrisis https://t.co/3i4XkrFoWW
-
-```
-
-![image](twtr_data/1546577392285585409.photo.00.jpg)
-
----
-
-2022-07-12 00:54:37 by [Koldxr](https://twitter.com/Koldxr/status/1546576210682998784)
-
-0 videos, 1 photos
-
-```
-
-When the flag falls down, a nation will rise. Not resigned but chased away. 09th of July 2022
-#gohomegota2022 #GoHomeGota #ceylon #SriLanka https://t.co/o0lTASTOPh
-
-```
-
-![image](twtr_data/1546576210682998784.photo.00.jpg)
-
----
-
-2022-07-12 00:46:57 by [Welikumbura](https://twitter.com/Welikumbura/status/1546574280426934272)
-
-0 videos, 1 photos
-
-```
-
-Basil Rajapaksha is fleeing the country. 
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #අරගලයටජය https://t.co/tLhyEoLxTR
-
-```
-
-![image](twtr_data/1546574280426934272.photo.00.jpg)
-
----
-
-2022-07-12 00:46:14 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546574101279809536)
-
-1 videos, 0 photos
-
-```
-
-මේවා අපේ ඒවා වස්තු.. අපිට ඕනේ විදිහට කඩනවා.. ලෝකෙට පෙන්නවා ඇයි අවුල්ද? සැපක් ගන්න ඕනේ කාලේ ගන්න ඕනේ
-@indika27 @UNOPS @USAmbSL @induinduu @OfficialSLC @GayanNishan @thivanka_isuru @unknownman1000 
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/10hJ9NUnSD
-
-```
-
-![image](twtr_data/1546574101279809536.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546574101279809536.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 00:40:20 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546572615091122177)
-
-0 videos, 1 photos
-
-```
-
-අපි වෙනුවෙන් ලෝකය..අපරාධ අරගලය සැපායි.
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/x3ryqodSSD
-
-```
-
-![image](twtr_data/1546572615091122177.photo.00.jpg)
-
----
-
-2022-07-12 00:38:50 by [She_is_Nu](https://twitter.com/She_is_Nu/status/1546572241118171137)
-
-0 videos, 1 photos
-
-```
-
-Thanks to my childhood superhero @KumarSanga2 to like this tweet. One I got these Pictures, one boy told me "අක්කා ෆොටොස් ටික fb දාන්න... අපිට අරගලෙට යන්න නෑ. කොළඹ අපිට ගොඩක් දුරයි! ඒත් අපිත් අරගලේ එක්ක ඉන්නවා!" 
-I wish I could see this ss to them. ♥️✨️✊
-#අරගලයටජය #GoHomeGota https://t.co/WWZTrkc6ok
-
-```
-
-![image](twtr_data/1546572241118171137.photo.00.jpg)
-
----
-
-2022-07-12 00:24:54 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546568733447008256)
-
-0 videos, 1 photos
-
-```
-
-1990 Suvaseriya Ambulance Service has announced suspension of ambulance service in 14 districts due to current fuel shortage 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news https://t.co/z6GcNPLZls
-
-```
-
-![image](twtr_data/1546568733447008256.photo.00.jpg)
-
----
-
-2022-07-12 00:12:14 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546565544299466752)
-
-0 videos, 1 photos
-
-```
-
-Tomorrow (12) has been declared as a national day of mourning in #Japan to commemorate the death of former Prime Minister #ShinzoAbe 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews https://t.co/Ynj7mjitOs
-
-```
-
-![image](twtr_data/1546565544299466752.photo.00.jpg)
-
----
-
-2022-07-12 00:00:08 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546562498660147200)
-
-0 videos, 1 photos
-
-```
-
-Appoint Sri Lankan Bar Association President and President's Counsel Saliya Peiris as President of the Interim Government - Former Provincial Governors Maithiri Gunaratne, Keerthi Thennakone and Asad Sali said 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS https://t.co/BVphcBE7eu
-
-```
-
-![image](twtr_data/1546562498660147200.photo.00.jpg)
-
----
-
-2022-07-11 23:48:00 by [sanjanah](https://twitter.com/sanjanah/status/1546559446301941760)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota inspired events at home drove significant search interest on Google, globally. But Americans have no bloody clue where Sri Lanka is... 😆🤦‍♂️ https://t.co/ZkAqF3P8mA
-
-```
-
-![image](twtr_data/1546559446301941760.photo.00.jpg)
-
----
-
-2022-07-11 23:47:23 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546559289736986624)
-
-0 videos, 1 photos
-
-```
-
-Trincomalee - One person has died and another has been seriously injured in an accident that took place in the Kannia area under the Upluveli police division, the police said 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests https://t.co/MNdy51jKtK
-
-```
-
-![image](twtr_data/1546559289736986624.photo.00.jpg)
 
 ---
