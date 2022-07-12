@@ -1,10 +1,44 @@
 # Social Media Photos
 
-*307 tweets as of 20220712-211731*
+*309 tweets as of 20220712-213724*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 21:32:01 by [beingrahman2000](https://twitter.com/beingrahman2000/status/1546887614111764480)
+
+1 videos, 0 photos
+
+```
+
+#SriLanka #lka #GoHomeGota #SriLankaEconomicCrisis #SriLankaProtests @Dailymirror_SL @Jamz5251 @NewsfirstSL @AzzamAmeen @AJEnglish https://t.co/3C9LBCCr9Z
+
+```
+
+![image](twtr_data/1546887614111764480.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546887614111764480.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 21:17:36 by [mdlucias](https://twitter.com/mdlucias/status/1546883987078909952)
+
+1 videos, 0 photos
+
+```
+
+People are waiting almost more than 15 hours in gas polim at modera Colombo... Still continues..
+
+#Srilanka #GoHomeGota #Colombo #අරගලයටජය #GoHomeRanil #lka https://t.co/D5azy6xv6M
+
+```
+
+![image](twtr_data/1546883987078909952.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546883987078909952.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 21:15:05 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546883353475174400)
 
@@ -1660,53 +1694,5 @@ Although victory seem so distant,  years of struggle to overcome this economic c
 ```
 
 ![image](twtr_data/1546763063386316801.photo.00.jpg)
-
----
-
-2022-07-12 13:13:43 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546762211535818755)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Divaina cartoon
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/md0GvsmhpZ #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/TMrO63GUCM
-
-```
-
-![image](twtr_data/1546762211535818755.photo.01.jpg)
-
-![image](twtr_data/1546762211535818755.photo.00.jpg)
-
----
-
-2022-07-12 13:07:40 by [jessiefer](https://twitter.com/jessiefer/status/1546760688936226816)
-
-1 videos, 0 photos
-
-```
-
-2nd best thing I saw the whole day 😂
-Original Credit: r.mix.bro
-
-Deleted the previous one coz the full clip wasn't shared. 
-#GoHomeRajapakshas #GoHomeGota #GoHomeRanil https://t.co/dVWY30DRVK
-
-```
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.06.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.05.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.03.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546760688936226816.video.00.mp4.clip.04.png)
 
 ---
