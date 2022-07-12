@@ -1,5 +1,24 @@
 [
   {
+    "tweet_url": "https://twitter.com/cartoonlka/status/1547002495049748480",
+    "id": 1547002495049748480,
+    "user": "cartoonlka",
+    "time_create_ut": 1657669111,
+    "text": "Cartoon by @ChickeraGihan \n\n#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/6G7nYndq56",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXgOj-KXgAUDVYZ.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547002495049748480.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547002495049748480.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/Chukkiiiiiii/status/1546999397627854848",
     "id": 1546999397627854848,
     "user": "Chukkiiiiiii",
@@ -69,9 +88,6 @@
       "https://video.twimg.com/ext_tw_video/1546995915071815685/pu/vid/720x720/H7PTVZ3bC8pgtBjx.mp4"
     ],
     "video_file_name": "twtr_data/1546995949007937537.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546995949007937537.video.00.mp4.clip.00.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

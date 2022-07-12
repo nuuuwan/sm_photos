@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*379 tweets as of 20220713-045901*
+*380 tweets as of 20220713-051539*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 05:08:31 by [cartoonlka](https://twitter.com/cartoonlka/status/1547002495049748480)
+
+0 videos, 1 photos
+
+```
+
+Cartoon by @ChickeraGihan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/6G7nYndq56
+
+```
+
+![image](twtr_data/1547002495049748480.photo.00.jpg)
+
+---
 
 2022-07-13 04:56:12 by [Chukkiiiiiii](https://twitter.com/Chukkiiiiiii/status/1546999397627854848)
 
@@ -1718,21 +1734,5 @@ Let’s make a documentary that brings fear to all the corrupt politicians throu
 ```
 
 ![image](twtr_data/1546846089222860801.photo.00.jpg)
-
----
-
-2022-07-12 18:45:39 by [_Luka_Ar](https://twitter.com/_Luka_Ar/status/1546845747038932994)
-
-0 videos, 1 photos
-
-```
-
-9 වෙනිදා සහ 12 වෙනිදා වෙද්දි වෙලා තියන දේ පේනව නේද!!!. කොටසක් ඉන්නවනෙ ඕන තැනක මේවගේ… හිරිකිතයි කියන්නත්…
-
-#GoHomeGota https://t.co/1V8dqUuVzF
-
-```
-
-![image](twtr_data/1546845747038932994.photo.00.jpg)
 
 ---
