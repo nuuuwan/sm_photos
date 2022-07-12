@@ -1,10 +1,130 @@
 # Social Media Photos
 
-*257 tweets as of 20220712-171508*
+*263 tweets as of 20220712-174006*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 17:28:32 by [pasindujr](https://twitter.com/pasindujr/status/1546826339952775169)
+
+0 videos, 1 photos
+
+```
+
+bruh moment 😂 #GoHomeGota https://t.co/TThaueMd3q
+
+```
+
+![image](twtr_data/1546826339952775169.photo.00.jpg)
+
+---
+
+2022-07-12 17:23:50 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546825157653708800)
+
+0 videos, 2 photos
+
+```
+
+கோத்தபாயவின் இராணுவ வெற்றி பதக்கங்கள், பெண்களது  உள்ளாடையில்   ஜனாதிபதி மாளிகையில் மக்கள் பார்வைக்கு     வைக்கப்பட்டுள்ளதாக  இணையத்தில் பரவுகிறது  
+ #தமிழினஅழிப்பு #tamilgenocide #Eelam #தமிழ்த்தேசியம் #tamilNews #tamileelam #tamil #SLnews #lka #LK #NTK #GoHomeGota #vizhi #விழி https://t.co/5cnyLHLPUW
+
+```
+
+![image](twtr_data/1546825157653708800.photo.01.jpg)
+
+![image](twtr_data/1546825157653708800.photo.00.jpg)
+
+---
+
+2022-07-12 17:23:41 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546825119112523777)
+
+0 videos, 1 photos
+
+```
+
+A railway track caught fire in the heat of the sun in England 
+
+#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #LocalNews #Trending   #LatestNews  #lka #viral  #politics  #memes https://t.co/dt0ka2on4m
+
+```
+
+![image](twtr_data/1546825119112523777.photo.00.jpg)
+
+---
+
+2022-07-12 17:16:34 by [MrPerera10](https://twitter.com/MrPerera10/status/1546823327196631040)
+
+0 videos, 4 photos
+
+```
+
+මෙය නම් අරගලය, 😠
+අපි පරාදයි...... අබයන්ත්ර කුමන්ත්‍රණ ද මන්දා 🥺
+
+🥺🇱🇰#SriLankaProtests #GoHomeGota #අරගලයටජය #President #LK #SirasaTV #sinhala #DailyMirror #news #Aragalaya #aragalayatajaya https://t.co/4z2hH5yMR2
+
+```
+
+![image](twtr_data/1546823327196631040.photo.03.jpg)
+
+![image](twtr_data/1546823327196631040.photo.01.jpg)
+
+![image](twtr_data/1546823327196631040.photo.00.jpg)
+
+![image](twtr_data/1546823327196631040.photo.02.jpg)
+
+---
+
+2022-07-12 17:15:30 by [nastyapeclub](https://twitter.com/nastyapeclub/status/1546823059054546945)
+
+0 videos, 4 photos
+
+```
+
+@Stake @Drake Help Srilanka 🇱🇰 
+#EconomicCrisisLK #GoHomeGota #GoHomeGota2022 https://t.co/LIOiNqRg73
+
+```
+
+![image](twtr_data/1546823059054546945.photo.00.jpg)
+
+![image](twtr_data/1546823059054546945.photo.03.jpg)
+
+![image](twtr_data/1546823059054546945.photo.02.jpg)
+
+![image](twtr_data/1546823059054546945.photo.01.jpg)
+
+---
+
+2022-07-12 17:15:00 by [OneAahad](https://twitter.com/OneAahad/status/1546822932046831616)
+
+1 videos, 0 photos
+
+```
+
+#July9th #SriLankaProtests stormed into the Prime minister's official house called as Temple Trees  in #Colombo, #SriLanka.Now it is Open for Public.
+#අරගලයටජය
+
+ #SriLankaProtests #GoHomeGota #lka #SriLanka  #EconomicCrisisLK #SriLankaCrisis #SriLankaCrisis https://t.co/zm4u5fwYkD
+
+```
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.05.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.03.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.06.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.04.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546822932046831616.video.00.mp4.clip.02.png)
+
+---
 
 2022-07-12 17:14:45 by [Infodataa](https://twitter.com/Infodataa/status/1546822868784521216)
 
@@ -1618,109 +1738,5 @@ Again, the small fence has been dismantled. Crowds line the main walls and No De
 ```
 
 ![image](twtr_data/1546729601681960966.photo.00.jpg)
-
----
-
-2022-07-12 11:03:58 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1546729558409220096)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeRajapakshas #gohomerajapaksas #GoHomeGota2022 #SriLankaProtests #SriLankaCrisis #SriLanka #Anonymous #gohomerajapaksha #GoHomeGota https://t.co/MkBojxFScR
-
-```
-
-![image](twtr_data/1546729558409220096.photo.00.jpg)
-
----
-
-2022-07-12 11:03:20 by [cartoonlka](https://twitter.com/cartoonlka/status/1546729400531841025)
-
-0 videos, 1 photos
-
-```
-
-“It is okay for leaders to come to people's houses.. But when people think about leaders coming to their houses, the Romas get angry” - @GoogleTranslatr 
-
-Cartoon: @bbcnewstelugu 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/gpKfmWwYAP
-
-```
-
-![image](twtr_data/1546729400531841025.photo.00.jpg)
-
----
-
-2022-07-12 11:02:47 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1546729262962835462)
-
-1 videos, 0 photos
-
-```
-
-"අරගල ආතල්." 😆#SriLankaProtest #GoHomeGota https://t.co/HlqWrlyM64
-
-```
-
-![image](twtr_data/1546729262962835462.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546729262962835462.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 11:01:38 by [Amaliniii](https://twitter.com/Amaliniii/status/1546728970711773184)
-
-0 videos, 4 photos
-
-```
-
-Around the grounds of the 'Secretariat' - people rest while a few armed men still patrol the area. Can see crowds freely walking around the Port City as well. #lka #SriLanka #GoHomeGota https://t.co/IFjO6lt8z9
-
-```
-
-![image](twtr_data/1546728970711773184.photo.01.jpg)
-
-![image](twtr_data/1546728970711773184.photo.03.jpg)
-
-![image](twtr_data/1546728970711773184.photo.02.jpg)
-
-![image](twtr_data/1546728970711773184.photo.00.jpg)
-
----
-
-2022-07-12 10:59:52 by [NomicOli](https://twitter.com/NomicOli/status/1546728526321045509)
-
-0 videos, 1 photos
-
-```
-
-කපුටා ඇමතිකම් අතහැර MCU විශ්වයට පා තබයිද?  MCU එකටත් හරි🤔🥲🥲🥲🥲
-#GoHomeGota
-#GoHomeRajapakshas https://t.co/MIh1MSv9jH
-
-```
-
-![image](twtr_data/1546728526321045509.photo.00.jpg)
-
----
-
-2022-07-12 10:59:31 by [Amaliniii](https://twitter.com/Amaliniii/status/1546728441185062912)
-
-0 videos, 4 photos
-
-```
-
-Books from the library that was built over these three months at #Gotagogama were moved into this room. They accept book donations and also send boxes of books to other libraries outside. #lka #SriLanka #GoHomeGota https://t.co/zfeRzR5AM0
-
-```
-
-![image](twtr_data/1546728441185062912.photo.02.jpg)
-
-![image](twtr_data/1546728441185062912.photo.00.jpg)
-
-![image](twtr_data/1546728441185062912.photo.01.jpg)
-
-![image](twtr_data/1546728441185062912.photo.03.jpg)
 
 ---
