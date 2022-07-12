@@ -1,5 +1,43 @@
 [
   {
+    "tweet_url": "https://twitter.com/vikalpavoices/status/1546855893555466240",
+    "id": 1546855893555466240,
+    "user": "vikalpavoices",
+    "time_create_ut": 1657634158,
+    "text": "\u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 @GotabayaR  \u0dc3\u0dd2\u0dba \u0db0\u0dd6\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0dd3\u0db8 \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0daf, \u0db4\u0dc3\u0dd4\u0d9c\u0dd2\u0dba \u0db4\u0dd0\u0dba 24\u0dad\u0dd4\u0dc5 #TwitterPoll \u0dc4\u0dbb\u0dc4\u0dcf \u0dc3\u0dd2\u0daf\u0dd4\u0d9a\u0dbd \u0db8\u0dad \u0dc0\u0dd2\u0db8\u0dc3\u0dd4\u0db8\u0da7 55 \u0daf\u0dd9\u0db1\u0dd9\u0d9a\u0dca \u0dc3\u0dc4\u0db7\u0dcf\u0d9c\u0dd3 \u0dc0\u0dd3 \u0dc3\u0dd2\u0da7\u0dd2 \u0d85\u0dad\u0dbb, \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dd9\u0db1\u0dca 43.6% \u0d9a\u0dca \u0db4\u0dc0\u0dc3\u0dcf \u0d87\u0dad\u0dca\u0dad\u0dda \u0d9c\u0ddd\u0da8\u0dcf\u0db6\u0dba \u0dbb\u0dcf\u0da2\u0db4\u0d9a\u0dca\u0dc2 \u0dc3\u0dd2\u0dba \u0db0\u0dd6\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dca\u0dbd\u0dcf \u0d85\u0dc3\u0dca\u0dc0\u0db1 \u0db6\u0dc0\u0dad\u0dca, '\u0d9a\u0dd2\u0dc3\u0dd2\u0dc0\u0d9a\u0dca \u0d9a\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2\u0dba\u0dd2' 38.2% \u0d9a\u0dca \u0db4\u0dc0\u0dc3\u0dcf \u0dc3\u0dd2\u0da7\u0dd2\u0dba\u0dd2.  #lka #GoHomeGota https://t.co/FvfbZPE0XY https://t.co/Oip13TMCc8",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeJOQhWAAM6I5W.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546855893555466240.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546855893555466240.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/lahirusena/status/1546855559709700097",
+    "id": 1546855559709700097,
+    "user": "lahirusena",
+    "time_create_ut": 1657634079,
+    "text": "\u0db8\u0dbb\u0dab\u0dba\u0da7 \u0d9a\u0dd0\u0db4 \u0dc0\u0dd6 \u0d9c\u0dc0\u0dba\u0dcf !#GoHomeGota https://t.co/rISFMvBgAy",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeI7iyUsAA7eLL.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546855559709700097.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546855559709700097.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/ImeshChathura/status/1546853923461312514",
     "id": 1546853923461312514,
     "user": "ImeshChathura",
@@ -67,10 +105,6 @@
       "https://video.twimg.com/ext_tw_video/1546851891237339136/pu/vid/426x240/qI092_sIHdfXd2wj.mp4"
     ],
     "video_file_name": "twtr_data/1546851922119999491.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546851922119999491.video.00.mp4.clip.00.png",
-      "twtr_data/1546851922119999491.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -131,10 +165,6 @@
       "https://video.twimg.com/ext_tw_video/1546848926833250306/pu/vid/480x848/LKdbX-g-jT4eeEpg.mp4"
     ],
     "video_file_name": "twtr_data/1546849072568344576.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546849072568344576.video.00.mp4.clip.00.png",
-      "twtr_data/1546849072568344576.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
