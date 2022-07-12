@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*360 tweets as of 20220713-031525*
+*361 tweets as of 20220713-033643*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 03:31:18 by [imayshan](https://twitter.com/imayshan/status/1546978028328259585)
+
+0 videos, 2 photos
+
+```
+
+This is Air Marshal Sudarshana Karagoda Pathirana, who authorized the illegal use of AN-32 to privately transport GR and 3 others to the Maldives. He has over 3,500 flying hours. Let's see how many hours he has to clock at Welikada for this treason  #slk #GoHomeGota #Aragalaya https://t.co/CYmbsUmHlY
+
+```
+
+![image](twtr_data/1546978028328259585.photo.01.jpg)
+
+![image](twtr_data/1546978028328259585.photo.00.jpg)
+
+---
 
 2022-07-13 02:53:47 by [KaputaHitPlane](https://twitter.com/KaputaHitPlane/status/1546968587721744385)
 
@@ -1710,21 +1726,5 @@ bruh moment 😂 #GoHomeGota https://t.co/TThaueMd3q
 ![image](twtr_data/1546825157653708800.photo.01.jpg)
 
 ![image](twtr_data/1546825157653708800.photo.00.jpg)
-
----
-
-2022-07-12 17:23:41 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546825119112523777)
-
-0 videos, 1 photos
-
-```
-
-A railway track caught fire in the heat of the sun in England 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #LocalNews #Trending   #LatestNews  #lka #viral  #politics  #memes https://t.co/dt0ka2on4m
-
-```
-
-![image](twtr_data/1546825119112523777.photo.00.jpg)
 
 ---
