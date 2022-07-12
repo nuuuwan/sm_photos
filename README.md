@@ -1,10 +1,45 @@
 # Social Media Photos
 
-*297 tweets as of 20220712-200321*
+*299 tweets as of 20220712-202022*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 20:08:23 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546866567786668032)
+
+0 videos, 1 photos
+
+```
+
+අරගලට ජය වේවා හුත්තෝ 🤣🤣🤣 පාන් 200 හුත්තෝ
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/Agnhcp2e06
+
+```
+
+![image](twtr_data/1546866567786668032.photo.00.jpg)
+
+---
+
+2022-07-12 20:06:44 by [SrivastvaSaloni](https://twitter.com/SrivastvaSaloni/status/1546866149329346561)
+
+1 videos, 0 photos
+
+```
+
+ग़ुस्से से धधकती “लंका”
+#SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #GoHomeGota #GotabayaRajapaksha #GoGotaHome https://t.co/nL1C9QsG7s
+
+```
+
+![image](twtr_data/1546866149329346561.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546866149329346561.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546866149329346561.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-12 20:01:39 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546864873895632897)
 
@@ -1667,36 +1702,5 @@ Original Credit: r.mix.bro
 ![image](twtr_data/1546756693769342976.video.00.mp4.clip.00.png)
 
 ![image](twtr_data/1546756693769342976.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 12:49:37 by [RNAmbuldeniya](https://twitter.com/RNAmbuldeniya/status/1546756146639273986)
-
-0 videos, 1 photos
-
-```
-
-people's Power ❤️🇱🇰💪 
-#SriLankaProtests #SriLankaEconomicCrisis #Srilanka #SriLankaCrisis #SriLankanpoliticalcrisis #GoHomeGota #GotabayaRajapaksa #gota https://t.co/kiRd7CTPKH
-
-```
-
-![image](twtr_data/1546756146639273986.photo.00.jpg)
-
----
-
-2022-07-12 12:43:53 by [cartoonlka](https://twitter.com/cartoonlka/status/1546754702506876928)
-
-0 videos, 1 photos
-
-```
-
-Mawbima cartoon 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/jxHHBv0zVv
-
-```
-
-![image](twtr_data/1546754702506876928.photo.00.jpg)
 
 ---
