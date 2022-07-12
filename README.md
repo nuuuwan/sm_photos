@@ -1,10 +1,109 @@
 # Social Media Photos
 
-*362 tweets as of 20220713-035916*
+*367 tweets as of 20220713-041538*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 04:14:23 by [AhamedIshthiyaq](https://twitter.com/AhamedIshthiyaq/status/1546988870797242368)
+
+0 videos, 2 photos
+
+```
+
+#GoHomeGota https://t.co/MeeTBPp28M
+
+```
+
+![image](twtr_data/1546988870797242368.photo.00.jpg)
+
+![image](twtr_data/1546988870797242368.photo.01.jpg)
+
+---
+
+2022-07-13 04:09:31 by [Gobinath79](https://twitter.com/Gobinath79/status/1546987648971116549)
+
+0 videos, 1 photos
+
+```
+
+#failedpresident 
+#GotabayaRajapaksha 
+#GiveUsBackOurStolenMoney
+#SriLankaEconomicCrisis 
+#gohomemahinda2022
+#gohomerajapaksas 
+#GotaGoHome2022 
+#gohomegota2022
+#gohomemahinda  
+#GotaGoHome 
+#GoHomeGota 
+#FuelCrisisLK 
+#අරගලයටජය
+#srilankacrisis 
+#SriLanka 
+#lka 🇱🇰 https://t.co/VwRAEK7AAK
+
+```
+
+![image](twtr_data/1546987648971116549.photo.00.jpg)
+
+---
+
+2022-07-13 04:07:37 by [Chukkaaaa](https://twitter.com/Chukkaaaa/status/1546987168216018944)
+
+0 videos, 2 photos
+
+```
+
+What a fvckn coward you Gotabaya Rajapaksha? 
+And out of all on a military jet?
+Women in airports had more backbone than you guys in the military. You betrayed the whole nation
+So shame of you all.😑
+#gojailrajapakshas #GoHomeGota #srilankaprotests #lka #aragalayatajaya https://t.co/5MkjKtjVoY
+
+```
+
+![image](twtr_data/1546987168216018944.photo.01.jpg)
+
+![image](twtr_data/1546987168216018944.photo.00.jpg)
+
+---
+
+2022-07-13 04:02:33 by [auxamu](https://twitter.com/auxamu/status/1546985893973467138)
+
+1 videos, 0 photos
+
+```
+
+Gotabaya Rajapaksa in #maldives #GotaGoHome #GoHomeGota #GotabayaRajapaksa https://t.co/u0ZUspQOX3
+
+```
+
+![image](twtr_data/1546985893973467138.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546985893973467138.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-13 04:00:31 by [CeylonNewsFact](https://twitter.com/CeylonNewsFact/status/1546985381605908480)
+
+1 videos, 0 photos
+
+```
+
+UPDATE: Plane carrying President #GotabayaRajapaksha, who fled Sri Lanka amid economic crisis and protests, arrives in #Maldives
+
+@GotabayaR #lka #news #SriLankaCrisis  #GoHomeGota2022 #GoHomeGota https://t.co/Bnoq1UZo0k
+
+```
+
+![image](twtr_data/1546985381605908480.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546985381605908480.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-13 03:43:09 by [imayshan](https://twitter.com/imayshan/status/1546981012156071939)
 
@@ -1647,81 +1746,5 @@ Keep your distance from the art at the President's residence.
 ![image](twtr_data/1546836205957816326.photo.01.jpg)
 
 ![image](twtr_data/1546836205957816326.photo.00.jpg)
-
----
-
-2022-07-12 17:50:11 by [KlintenACruz](https://twitter.com/KlintenACruz/status/1546831785430241280)
-
-0 videos, 1 photos
-
-```
-
-@GotabayaR @RW_UNP
-
-#lka #SriLanka #SriLankaCrisis #SriLankaProtests #GoHomeRanil #GoHomeGota #FuelShortage #අරගලයටජය https://t.co/LwnSw39nux
-
-```
-
-![image](twtr_data/1546831785430241280.photo.00.jpg)
-
----
-
-2022-07-12 17:45:52 by [ExcuzeMiii](https://twitter.com/ExcuzeMiii/status/1546830699340378119)
-
-0 videos, 1 photos
-
-```
-
-BREAKING :
-
-"Gotabaya Rajapaksa’s attempt to secure a US visa was rejected, a US embassy representative confirmed.
-ඇමරිකාවට පලා යාමේ අරමුණින් ගෝඨාභය කල visa ඉල්ලීම ඇමරිකානු එම්බසිය විසින් ප්‍රතික්ෂේප කර ඇති බවට SBS වෙබ් අඩවිය තහවුරු කරයි" #GoHomeGota #GoHomeGota2022 https://t.co/I6QuIbjzV2
-
-```
-
-![image](twtr_data/1546830699340378119.photo.00.jpg)
-
----
-
-2022-07-12 17:43:30 by [wepowerred](https://twitter.com/wepowerred/status/1546830103682097154)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka can take a chance and use the moment and make a currency backed by tea because Ceylon tea is known all over the world. Commodity-backed currency is always growing, unlike fiat currencies which are based on belief in promises politicians! 🇱🇰  #GotaGoGama #GoHomeGota https://t.co/kN34ngeGp0
-
-```
-
-![image](twtr_data/1546830103682097154.photo.00.png)
-
----
-
-2022-07-12 17:42:18 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546829802807631872)
-
-0 videos, 1 photos
-
-```
-
-இவர்களில் 18,083 பேர் தாங்களாகவே வேலை வாய்ப்புகளை தேடிக்கொண்டதாகவும், 9,854 நபர்கள் உரிமம் பெற்ற வெளிநாட்டு வேலைவாய்ப்பு முகவர் மூலம் சென்றதாகவும் தெரிவிக்கப்பட்டுள்ளது. 
-#SriLankaCrisis  #Eelam #tamilNews #tamil #SLnews #lka #LK #GoHomeGota #tamileelam https://t.co/BbQMz3Cf3z
-
-```
-
-![image](twtr_data/1546829802807631872.photo.00.jpg)
-
----
-
-2022-07-12 17:28:32 by [pasindujr](https://twitter.com/pasindujr/status/1546826339952775169)
-
-0 videos, 1 photos
-
-```
-
-bruh moment 😂 #GoHomeGota https://t.co/TThaueMd3q
-
-```
-
-![image](twtr_data/1546826339952775169.photo.00.jpg)
 
 ---

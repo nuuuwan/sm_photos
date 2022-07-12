@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/auxamu/status/1546985893973467138",
+  "id": 1546985893973467138,
+  "user": "auxamu",
+  "time_create_ut": 1657665153,
+  "text": "Gotabaya Rajapaksa in #maldives #GotaGoHome #GoHomeGota #GotabayaRajapaksa https://t.co/u0ZUspQOX3",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1546985776113627136/pu/vid/480x852/toGgFy2rnrU70E-n.mp4"
+  ],
+  "video_file_name": "twtr_data/1546985893973467138.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1546985893973467138.video.00.mp4.clip.00.png",
+    "twtr_data/1546985893973467138.video.00.mp4.clip.01.png"
+  ]
+}
