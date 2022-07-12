@@ -1,10 +1,89 @@
 # Social Media Photos
 
-*330 tweets as of 20220712-231623*
+*335 tweets as of 20220712-233831*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 23:38:12 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546919370277920768)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka Cartoon by NamalAmarasing 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GoHomeRajapaksas https://t.co/S8ihFx3BBO #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස # https://t.co/s0RMSBfEJA
+
+```
+
+![image](twtr_data/1546919370277920768.photo.00.jpg)
+
+![image](twtr_data/1546919370277920768.photo.01.jpg)
+
+---
+
+2022-07-12 23:36:35 by [AUD1SL](https://twitter.com/AUD1SL/status/1546918963145166848)
+
+0 videos, 1 photos
+
+```
+
+Resign already.
+#GoHomeGota https://t.co/IIpgZz2mqk
+
+```
+
+![image](twtr_data/1546918963145166848.photo.00.jpg)
+
+---
+
+2022-07-12 23:31:02 by [cartoonlka](https://twitter.com/cartoonlka/status/1546917566848716800)
+
+0 videos, 1 photos
+
+```
+
+Cartoon by @NamalAmarasing 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GoHomeRajapaksas https://t.co/knd4rRvxBx
+
+```
+
+![image](twtr_data/1546917566848716800.photo.00.jpg)
+
+---
+
+2022-07-12 23:30:08 by [fradicioni](https://twitter.com/fradicioni/status/1546917339681411072)
+
+1 videos, 0 photos
+
+```
+
+L’occupazione dei palazzi del potere di Colombo funziona così. Ovunque cartelli in singalese e tamil: “Tutto questo ha una storia ed è stato pagato con le nostre tasse. Bisogna proteggerlo”. Tranne qualche raro graffito sui muri #GoHomeGota, non c’è alcun segno di vandalismo. https://t.co/r5fRw9KKhk
+
+```
+
+![image](twtr_data/1546917339681411072.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 23:24:30 by [Welikumbura](https://twitter.com/Welikumbura/status/1546915919968223232)
+
+0 videos, 1 photos
+
+```
+
+.@GotabayaR keep making wrong decisions &amp; slowly working towards an end similar to Mu'ammar Al-Qadhdhāfī.
+
+#lka #SriLankaProtests #SriLankaCrisis #GoHomeGota #GoHomeRanil #අරගලයටජය https://t.co/XCGiZTwAzK
+
+```
+
+![image](twtr_data/1546915919968223232.photo.00.jpg)
+
+---
 
 2022-07-12 22:44:45 by [jessiefer](https://twitter.com/jessiefer/status/1546905916120805377)
 
@@ -1655,92 +1734,5 @@ After this, there is tension there. https://t.co/4feypLho2A abroad #protest #vir
 ![image](twtr_data/1546789837159776258.video.00.mp4.clip.00.png)
 
 ![image](twtr_data/1546789837159776258.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 14:48:17 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546786010989678593)
-
-0 videos, 1 photos
-
-```
-
-BREAKING 🇱🇰 : Motion filed in Sri Lankan Supreme Court to impose travel ban on former Prime Minister, Finance Minister and Central Bank Governor
-
-#SriLanka #GoHomeGota #අරගලයටජය https://t.co/XljDGpIPmm
-
-```
-
-![image](twtr_data/1546786010989678593.photo.00.jpg)
-
----
-
-2022-07-12 14:45:06 by [AkielDeen](https://twitter.com/AkielDeen/status/1546785209051676672)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka
-#GoHomeGota https://t.co/CbdUBv4nrd
-
-```
-
-![image](twtr_data/1546785209051676672.photo.00.jpg)
-
----
-
-2022-07-12 14:43:31 by [SamithFernand11](https://twitter.com/SamithFernand11/status/1546784809984266240)
-
-1 videos, 0 photos
-
-```
-
-❌කතිරෙන් කරපු හොරකම්..තව බෑ ඉන්න ඉවසන්..ඔබත් එන්න මිතුරේ..💪❤️🎧✌️ #GoHomeGota #SriLanka @ArtForumSL @Aprodhite_Leo @Maduruwaonline @619Sniper619Bot @_ivon_silva @bfonseka @MayuraSenanaya2 @KanchaLhiru @AzzamAmeen @dead_mans_creed @himalkk @A_Bandara94 https://t.co/yJzQede22w
-
-```
-
-![image](twtr_data/1546784809984266240.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546784809984266240.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 14:41:15 by [onlanka](https://twitter.com/onlanka/status/1546784239701852160)
-
-1 videos, 0 photos
-
-```
-
-Thousands of Sri Lankan people crowded the capital to take a look into the President's palace three days after protesters stormed into the President's house in #Colombo, #SriLanka.
-
-(Video by Reuters)
-
-#GoHomeGota #ProtestLK #අරගලයටජය #SriLankaProtests #SriLankaCrisis https://t.co/Cnd7jB0Zkb
-
-```
-
-![image](twtr_data/1546784239701852160.video.00.mp4.clip.03.png)
-
-![image](twtr_data/1546784239701852160.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546784239701852160.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546784239701852160.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 14:36:45 by [sanjanah](https://twitter.com/sanjanah/status/1546783109932527616)
-
-0 videos, 2 photos
-
-```
-
-On 9/7, all public Facebook Pages with admins in Sri Lanka were dominated by #GoHomeGota content, https://t.co/lh53ZRazLO Also ~100k concurrent viewers of just the livestream of News1st that day, https://t.co/I8lD6pfm9x w/ unprecedented view count https://t.co/cTWU9pRx0F https://t.co/ZSM3ZLxpcd
-
-```
-
-![image](twtr_data/1546783109932527616.photo.00.png)
-
-![image](twtr_data/1546783109932527616.photo.01.jpg)
 
 ---
