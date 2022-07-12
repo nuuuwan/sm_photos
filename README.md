@@ -1,10 +1,49 @@
 # Social Media Photos
 
-*354 tweets as of 20220713-013657*
+*356 tweets as of 20220713-020056*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 01:57:54 by [Pathumwijerath1](https://twitter.com/Pathumwijerath1/status/1546954527144046592)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota https://t.co/hnoaeKC2xn
+
+```
+
+![image](twtr_data/1546954527144046592.photo.00.jpg)
+
+---
+
+2022-07-13 01:40:10 by [DanushkaCF](https://twitter.com/DanushkaCF/status/1546950062924001280)
+
+1 videos, 0 photos
+
+```
+
+රටම කොළඹට | July 09 ✊❤️🇱🇰 
+
+Song: Ayomaya!  
+@drillteamwestna
+
+#powertothepeople #Peoplepower #GoHomeGota #gotagohome2022 #future #giveusourstolenmoneyback #corruptionsystem #srilankan #SriLanka #newssrilanka #struggle  #srilankacrisis https://t.co/BZhgtSagzc
+
+```
+
+![image](twtr_data/1546950062924001280.video.00.mp4.clip.03.png)
+
+![image](twtr_data/1546950062924001280.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546950062924001280.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546950062924001280.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-13 01:19:58 by [Abddd1999](https://twitter.com/Abddd1999/status/1546944978794184705)
 
@@ -1708,41 +1747,5 @@ A railway track caught fire in the heat of the sun in England
 ```
 
 ![image](twtr_data/1546822868784521216.photo.00.jpg)
-
----
-
-2022-07-12 17:12:37 by [nastyapeclub](https://twitter.com/nastyapeclub/status/1546822332169089025)
-
-0 videos, 4 photos
-
-```
-
-@stevewilldoit @Stake #EconomicCrisisLK #GoHomeRajapaksas #EconomicCrisis #GoHomeGota 🇱🇰 https://t.co/RdepErSWMt
-
-```
-
-![image](twtr_data/1546822332169089025.photo.00.jpg)
-
-![image](twtr_data/1546822332169089025.photo.03.jpg)
-
-![image](twtr_data/1546822332169089025.photo.02.jpg)
-
-![image](twtr_data/1546822332169089025.photo.01.jpg)
-
----
-
-2022-07-12 17:12:20 by [Judeoff](https://twitter.com/Judeoff/status/1546822263890411521)
-
-0 videos, 1 photos
-
-```
-
-Sri Lanka 🇱🇰🏏💚
-
-#SriLankaProtests #ProtestLK #Aragalaya #SriLankaCrisis #SriLanka #GoHomeGota #GoHomeGota2022 #Cricket https://t.co/8xf6zxwSK4
-
-```
-
-![image](twtr_data/1546822263890411521.photo.00.jpg)
 
 ---
