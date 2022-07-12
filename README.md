@@ -1,10 +1,61 @@
 # Social Media Photos
 
-*335 tweets as of 20220712-233831*
+*338 tweets as of 20220713-000249*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 00:00:30 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546924979886772224)
+
+1 videos, 0 photos
+
+```
+
+අපි අපරාධ කරන අරගල කාරයෝ කියලා මුළු ලෝකෙම දන්නවා අයියෝ
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/RfljqD50pW
+
+```
+
+![image](twtr_data/1546924979886772224.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546924979886772224.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-13 00:00:07 by [NMP_Tweets](https://twitter.com/NMP_Tweets/status/1546924885909405696)
+
+0 videos, 1 photos
+
+```
+
+It’s July 13 2022 🇱🇰
+
+#GoHomeGota #SriLanka https://t.co/zSdxQGyAox
+
+```
+
+![image](twtr_data/1546924885909405696.photo.00.jpg)
+
+---
+
+2022-07-12 23:49:23 by [lasankaOnIine](https://twitter.com/lasankaOnIine/status/1546922184584486914)
+
+1 videos, 0 photos
+
+```
+
+මම මේක හරී කියන්නෑ ඒත් මේවා ලොකුවට වෙයි ඉස්සරහට. දෙපැත්තම තේරුම් ගන්න ඕන එවුන්ට ඕනත් මේක කියලා. අපි මරාගන්න එක තමයි එයාලට ඕන. 
+#GoHomeGota https://t.co/qrCAv9wAaD https://t.co/GjKGLZkZwy
+
+```
+
+![image](twtr_data/1546922184584486914.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546922184584486914.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 23:38:12 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546919370277920768)
 
@@ -1688,51 +1739,5 @@ Resharing this as we get ready to push the home stretch
 ![image](twtr_data/1546796825788678144.video.00.mp4.clip.00.png)
 
 ![image](twtr_data/1546796825788678144.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 15:22:26 by [RegularReh](https://twitter.com/RegularReh/status/1546794603546054657)
-
-0 videos, 1 photos
-
-```
-
-Question: why hasn't this blue private jet from Uganda come to whisk the Rajapaksas off? No jet fuel to refuel? 🤔
-#SriLanka #GoHomeGota #ArrestRajapaksas https://t.co/jnhLXEnhFY
-
-```
-
-![image](twtr_data/1546794603546054657.photo.00.jpg)
-
----
-
-2022-07-12 15:22:15 by [Tharind60519114](https://twitter.com/Tharind60519114/status/1546794558205612032)
-
-0 videos, 1 photos
-
-```
-
-කොරියාවෙ ගෙ ඉස්සරහ කොච්චර ලස්සන උනත් සිරිලක තරම් වෙන කොයින්ද අපි ලංකාවත් කොරියාවක් කරමු #GoHomeGota https://t.co/dsL2BL64A5
-
-```
-
-![image](twtr_data/1546794558205612032.photo.00.jpg)
-
----
-
-2022-07-12 15:03:29 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1546789837159776258)
-
-1 videos, 0 photos
-
-```
-
-Basil Rajapaksa has arrived at Katunayake Airport the immigration officials refused to examine his documents.
-After this, there is tension there. https://t.co/4feypLho2A abroad #protest #viralnews #srilanka #gohomegota #gohomeranil #lk #poltical #news #worldnews #fyp #colombo https://t.co/ZtfeAqiKFo
-
-```
-
-![image](twtr_data/1546789837159776258.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546789837159776258.video.00.mp4.clip.01.png)
 
 ---
