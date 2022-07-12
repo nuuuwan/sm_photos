@@ -1,10 +1,44 @@
 # Social Media Photos
 
-*356 tweets as of 20220713-021656*
+*358 tweets as of 20220713-023708*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 02:35:40 by [walterministry](https://twitter.com/walterministry/status/1546964030052392960)
+
+0 videos, 1 photos
+
+```
+
+கோட்டபாய ராஜபக்ஷ சிறீலங்காவை‌ விட்டு பறந்தோடி, மாலை தீவு, வெலெனா சர்வதேச விமான நிலையத்தில் காலை 2.50 க்கு தரையிறங்க தயார் என்று தகவல்.
+
+#LKA #SriLanka #GoHomeGota https://t.co/rY8OYRZLzC
+
+```
+
+![image](twtr_data/1546964030052392960.photo.00.jpg)
+
+---
+
+2022-07-13 02:25:25 by [Welikumbura](https://twitter.com/Welikumbura/status/1546961451415642112)
+
+1 videos, 0 photos
+
+```
+
+#SriLankan president @GotabayaR fled to #Maldivas🇲🇻. But still, he is the president &amp; he has to resign.
+
+#GoHomeGota #GoHomeRanil #lka #SriLanka https://t.co/2JccjC5NHS
+
+```
+
+![image](twtr_data/1546961451415642112.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546961451415642112.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-13 01:57:54 by [Pathumwijerath1](https://twitter.com/Pathumwijerath1/status/1546954527144046592)
 
@@ -1699,53 +1733,5 @@ A railway track caught fire in the heat of the sun in England
 ![image](twtr_data/1546823059054546945.photo.02.jpg)
 
 ![image](twtr_data/1546823059054546945.photo.01.jpg)
-
----
-
-2022-07-12 17:15:00 by [OneAahad](https://twitter.com/OneAahad/status/1546822932046831616)
-
-1 videos, 0 photos
-
-```
-
-#July9th #SriLankaProtests stormed into the Prime minister's official house called as Temple Trees  in #Colombo, #SriLanka.Now it is Open for Public.
-#අරගලයටජය
-
- #SriLankaProtests #GoHomeGota #lka #SriLanka  #EconomicCrisisLK #SriLankaCrisis #SriLankaCrisis https://t.co/zm4u5fwYkD
-
-```
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.05.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.03.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.06.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.04.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546822932046831616.video.00.mp4.clip.02.png)
-
----
-
-2022-07-12 17:14:45 by [Infodataa](https://twitter.com/Infodataa/status/1546822868784521216)
-
-0 videos, 1 photos
-
-```
-
-හොරාකාපු ටික රටට දීලා,
-
-උඹ "තොලන්ජීවෙලා"  පලයන්.
-
-#aragalayatajaya
-#Aragalaya #SriLanka #SriLankaCrisis #SriLankanpoliticalcrisis #lka #SLnews #Colombo #GoHomeGota  #GotaGoGama https://t.co/670xaxAhSZ
-
-```
-
-![image](twtr_data/1546822868784521216.photo.00.jpg)
 
 ---
