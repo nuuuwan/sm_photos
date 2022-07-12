@@ -1,0 +1,2 @@
+photo_video.mp4 filter=lfs diff=lfs merge=lfs -text
+text_collage_image.animation.gif filter=lfs diff=lfs merge=lfs -text
