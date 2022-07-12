@@ -1,10 +1,74 @@
 # Social Media Photos
 
-*236 tweets as of 20220712-151944*
+*240 tweets as of 20220712-154100*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 15:36:29 by [Iam_Aathi](https://twitter.com/Iam_Aathi/status/1546798140430622721)
+
+0 videos, 1 photos
+
+```
+
+@KumarSanga2you Is it possible for you to come lead our country once more ? 
+#sangaforpresident 
+#SriLankaCrisis 
+#srilankaprotest 
+#GoHomeGota https://t.co/tl7E8QKd7M
+
+```
+
+![image](twtr_data/1546798140430622721.photo.00.jpg)
+
+---
+
+2022-07-12 15:31:16 by [thila794](https://twitter.com/thila794/status/1546796825788678144)
+
+1 videos, 0 photos
+
+```
+
+Resharing this as we get ready to push the home stretch
+#GoHomeGota https://t.co/UnkfABbBho
+
+```
+
+![image](twtr_data/1546796825788678144.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546796825788678144.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 15:22:26 by [RegularReh](https://twitter.com/RegularReh/status/1546794603546054657)
+
+0 videos, 1 photos
+
+```
+
+Question: why hasn't this blue private jet from Uganda come to whisk the Rajapaksas off? No jet fuel to refuel? 🤔
+#SriLanka #GoHomeGota #ArrestRajapaksas https://t.co/jnhLXEnhFY
+
+```
+
+![image](twtr_data/1546794603546054657.photo.00.jpg)
+
+---
+
+2022-07-12 15:22:15 by [Tharind60519114](https://twitter.com/Tharind60519114/status/1546794558205612032)
+
+0 videos, 1 photos
+
+```
+
+කොරියාවෙ ගෙ ඉස්සරහ කොච්චර ලස්සන උනත් සිරිලක තරම් වෙන කොයින්ද අපි ලංකාවත් කොරියාවක් කරමු #GoHomeGota https://t.co/dsL2BL64A5
+
+```
+
+![image](twtr_data/1546794558205612032.photo.00.jpg)
+
+---
 
 2022-07-12 15:03:29 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1546789837159776258)
 
@@ -1690,91 +1754,5 @@ Taking a moment to note the small group of Galle Face protestors who were attemp
 ```
 
 ![image](twtr_data/1546717331581112321.photo.00.jpg)
-
----
-
-2022-07-12 10:13:27 by [Amaliniii](https://twitter.com/Amaliniii/status/1546716844886675457)
-
-0 videos, 4 photos
-
-```
-
-This was really quite the moment. The grand structure, the art placed around it, the chandelier shining over it all and this immense crowd enthusiastic to get in. Stressful, but also fascinating. #lka #SriLanka #GoHomeGota https://t.co/a8nBy00qTt
-
-```
-
-![image](twtr_data/1546716844886675457.photo.02.jpg)
-
-![image](twtr_data/1546716844886675457.photo.00.jpg)
-
-![image](twtr_data/1546716844886675457.photo.01.jpg)
-
-![image](twtr_data/1546716844886675457.photo.03.jpg)
-
----
-
-2022-07-12 10:10:52 by [Amaliniii](https://twitter.com/Amaliniii/status/1546716196778549248)
-
-0 videos, 4 photos
-
-```
-
-Mad at how much I'm loving these wrap-around verandahs and walkways. #lka #srilanka #GoHomeGota https://t.co/t8GnDVWsZq
-
-```
-
-![image](twtr_data/1546716196778549248.photo.02.jpg)
-
-![image](twtr_data/1546716196778549248.photo.00.jpg)
-
-![image](twtr_data/1546716196778549248.photo.03.jpg)
-
-![image](twtr_data/1546716196778549248.photo.01.jpg)
-
----
-
-2022-07-12 10:06:52 by [Amaliniii](https://twitter.com/Amaliniii/status/1546715190405697536)
-
-0 videos, 4 photos
-
-```
-
-Only one small door open into this little residential wing, so the crowd push is messy. Once inside, people are making/have made themselves at home.
-
-#lka #srilanka #GoHomeGota https://t.co/NHEeG4XJNH
-
-```
-
-![image](twtr_data/1546715190405697536.photo.00.jpg)
-
-![image](twtr_data/1546715190405697536.photo.02.jpg)
-
-![image](twtr_data/1546715190405697536.photo.01.jpg)
-
-![image](twtr_data/1546715190405697536.photo.03.jpg)
-
----
-
-2022-07-12 10:05:02 by [Amaliniii](https://twitter.com/Amaliniii/status/1546714729908826112)
-
-0 videos, 4 photos
-
-```
-
-President's official residence 
-
-Assumed that on 9am on a Monday, the crowd would be a little less. 
-
-Clearly, don't underestimate Lankans. And these images are just at the entrances. #lka #srilanka #GoHomeGota https://t.co/RbFghD2FrT
-
-```
-
-![image](twtr_data/1546714729908826112.photo.02.jpg)
-
-![image](twtr_data/1546714729908826112.photo.03.jpg)
-
-![image](twtr_data/1546714729908826112.photo.00.jpg)
-
-![image](twtr_data/1546714729908826112.photo.01.jpg)
 
 ---
