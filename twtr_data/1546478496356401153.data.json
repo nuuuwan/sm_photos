@@ -1,0 +1,16 @@
+{
+  "tweet_url": "https://twitter.com/justsomesugar/status/1546478496356401153",
+  "id": 1546478496356401153,
+  "user": "justsomesugar",
+  "time_create_ut": 1657544180,
+  "text": "Gotagogama today\ud83d\udd25 #SriLankaProtests #GoHomeGota https://t.co/Iw3pFO30dN",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1546477869752545285/pu/vid/640x360/fNEi8bqyNdGlZ18f.mp4"
+  ],
+  "video_file_name": "twtr_data/1546478496356401153.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1546478496356401153.video.00.mp4.clip.00.png",
+    "twtr_data/1546478496356401153.video.00.mp4.clip.01.png"
+  ]
+}
