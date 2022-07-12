@@ -22,3 +22,5 @@ twtr_data/1546520829973897216.video.00.mp4 filter=lfs diff=lfs merge=lfs -text
 twtr_data/1546495776989122563.video.00.mp4 filter=lfs diff=lfs merge=lfs -text
 twtr_data/1546532422505881603.video.00.mp4 filter=lfs diff=lfs merge=lfs -text
 twtr_data/1546553657738596355.video.00.mp4 filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
