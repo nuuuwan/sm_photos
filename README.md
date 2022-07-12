@@ -1,10 +1,59 @@
 # Social Media Photos
 
-*327 tweets as of 20220712-224050*
+*330 tweets as of 20220712-230014*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 22:44:45 by [jessiefer](https://twitter.com/jessiefer/status/1546905916120805377)
+
+1 videos, 0 photos
+
+```
+
+The Tamil Sinhala multilingual representation we love and live to see in our chants! ✊🏿
+
+#GoHomeGota #GoHomeRanil
+#protestslk https://t.co/nY9fb0AZHf
+
+```
+
+![image](twtr_data/1546905916120805377.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546905916120805377.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 22:43:37 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546905630199652352)
+
+0 videos, 1 photos
+
+```
+
+There is no limit to their jokes 🤪🤪
+
+#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #LocalNews #Trending   #LatestNews  #lka #viral  #politics  #memes #tv  #sports #business https://t.co/kjgFWZkpeO
+
+```
+
+![image](twtr_data/1546905630199652352.photo.00.jpg)
+
+---
+
+2022-07-12 22:42:43 by [dillovesred](https://twitter.com/dillovesred/status/1546905406160527360)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #GoHomeRanil #aragalayatajaya #SriLankaProtests https://t.co/ucZJwtCLQf
+
+```
+
+![image](twtr_data/1546905406160527360.photo.00.jpg)
+
+---
 
 2022-07-12 22:23:49 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546900648176029696)
 
@@ -1693,47 +1742,5 @@ On 9/7, all public Facebook Pages with admins in Sri Lanka were dominated by #Go
 ![image](twtr_data/1546783109932527616.photo.00.png)
 
 ![image](twtr_data/1546783109932527616.photo.01.jpg)
-
----
-
-2022-07-12 14:36:43 by [sanjanah](https://twitter.com/sanjanah/status/1546783099148992512)
-
-0 videos, 1 photos
-
-```
-
-I've already published how 9/7 saw unprecedented expansion of Twitter users focussed on, &amp; increase in tweets about the aragalaya, from morning to midnight, around just the #GoHomeGota hashtag's prevalence. https://t.co/TsCJxLRfLc https://t.co/UTW0AzoeAH
-
-```
-
-![image](twtr_data/1546783099148992512.photo.00.jpg)
-
----
-
-2022-07-12 14:36:38 by [sanjanah](https://twitter.com/sanjanah/status/1546783078756253696)
-
-0 videos, 1 photos
-
-```
-
-Posts on 9/7 nearly 2X more than 9/5 on junk news &amp; meme accounts. Recall this is just a proxy indicator for what's very likely a significant increase in posts by individual #GoHomeGota protestors, some of whom were also leading influencers, actors, sports stars etc. https://t.co/7NQ3mv384m
-
-```
-
-![image](twtr_data/1546783078756253696.photo.00.jpg)
-
----
-
-2022-07-12 14:36:36 by [sanjanah](https://twitter.com/sanjanah/status/1546783069931450369)
-
-0 videos, 1 photos
-
-```
-
-Interactions across the junk news &amp; meme accounts studied on 9/7 eclipsed 9/5. This cluster dominates engagement, making more partisan accounts statistically irrelevant. Posts on junk news &amp; meme accounts since late-March dominated by #GoHomeGota partial narrative frames. https://t.co/tECZs2sBLE
-
-```
-
-![image](twtr_data/1546783069931450369.photo.00.jpg)
 
 ---
