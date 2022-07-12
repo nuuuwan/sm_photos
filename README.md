@@ -1,10 +1,44 @@
 # Social Media Photos
 
-*348 tweets as of 20220713-001932*
+*350 tweets as of 20220713-003707*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 00:35:44 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546933845924409344)
+
+0 videos, 1 photos
+
+```
+
+මෙන්න සාක්ෂි අයියෝ..දැන් අපිට ගහනවා ලු අයියෝ...අපි පව් අයියෝ
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/5yKJ1Vobck https://t.co/w2KsD5ifAX
+
+```
+
+![image](twtr_data/1546933845924409344.photo.00.jpg)
+
+---
+
+2022-07-13 00:24:09 by [Judeoff](https://twitter.com/Judeoff/status/1546930933273853952)
+
+1 videos, 0 photos
+
+```
+
+Sri Lankan Right Now 🇱🇰🥳
+
+#GoHomeGota2022 #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/6XmIPTnoPC
+
+```
+
+![image](twtr_data/1546930933273853952.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546930933273853952.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-13 00:19:15 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546929700148195330)
 
@@ -1691,45 +1725,5 @@ Sri Lanka 🇱🇰🏏💚
 ![image](twtr_data/1546814437507891202.video.00.mp4.clip.01.png)
 
 ![image](twtr_data/1546814437507891202.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 16:35:00 by [OneAahad](https://twitter.com/OneAahad/status/1546812866187108353)
-
-1 videos, 0 photos
-
-```
-
-Thousands of Sri Lankan people crowded the capital to take a look into the President's palace after  #July9th #SriLankaProtests stormed into the President's house in #Colombo, #SriLanka.
- #අරගලයටජය
-
- #SriLankaProtests #GoHomeGota #lka #SriLanka  #EconomicCrisisLK #SriLankaCrisis https://t.co/3S58Y2IsV6
-
-```
-
-![image](twtr_data/1546812866187108353.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546812866187108353.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546812866187108353.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546812866187108353.video.00.mp4.clip.03.png)
-
----
-
-2022-07-12 16:24:04 by [vizhi_media](https://twitter.com/vizhi_media/status/1546810117424914432)
-
-0 videos, 1 photos
-
-```
-
-காணொளி 👇Video Link https://t.co/4WFGMHfyqC
-#TamilNews 
-#TamilNewsSrilanka #Tamil #VelTharma #அரசியல்களம் #TamilNewsSrilanka #tamileelam #colombotamilnews ​#தமிழ்த்தேசியம் #LK #eelam #justice4tamilgenocide #SriLankaCrisis 
-@veltharma #RanilWickremesinghe #GoHomeGota #vizhi #விழி https://t.co/Nh5lvoVKYY
-
-```
-
-![image](twtr_data/1546810117424914432.photo.00.jpg)
 
 ---
