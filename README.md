@@ -1,10 +1,68 @@
 # Social Media Photos
 
-*240 tweets as of 20220712-154100*
+*243 tweets as of 20220712-160205*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 15:55:26 by [fradicioni](https://twitter.com/fradicioni/status/1546802910566445056)
+
+1 videos, 0 photos
+
+```
+
+Dopo le imponenti proteste del week-end in #SriLanka, i manifestanti #GoHomeGota continuano a occupare i palazzi del potere di Colombo. Per entrare nella residenza del presidente Gotabaya Rajapaksa - sì, quella dei tuffi in piscina - c’è una fila lunghissima e ordinatissima. https://t.co/Vq8jDsWR8M
+
+```
+
+![image](twtr_data/1546802910566445056.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546802910566445056.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 15:52:34 by [Judeoff](https://twitter.com/Judeoff/status/1546802187774619649)
+
+0 videos, 3 photos
+
+```
+
+Current Situation of them.
+
+#GoHomeGota2022 #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/Zy8LuMctfc
+
+```
+
+![image](twtr_data/1546802187774619649.photo.02.jpg)
+
+![image](twtr_data/1546802187774619649.photo.00.jpg)
+
+![image](twtr_data/1546802187774619649.photo.01.jpg)
+
+---
+
+2022-07-12 15:41:33 by [MBKariyawasam](https://twitter.com/MBKariyawasam/status/1546799413707689984)
+
+0 videos, 2 photos
+
+```
+
+The first photo was taken on 07/09 
+
+The second photo was taken on 07/12 
+
+The people who came to see the house are responsible for all of this damage. 
+
+#GoHomeGota #lka https://t.co/iDiijtRS1d
+
+```
+
+![image](twtr_data/1546799413707689984.photo.01.jpg)
+
+![image](twtr_data/1546799413707689984.photo.00.jpg)
+
+---
 
 2022-07-12 15:36:29 by [Iam_Aathi](https://twitter.com/Iam_Aathi/status/1546798140430622721)
 
@@ -1700,59 +1758,5 @@ Sign in Sinhala and Tamil explaining that the building, now in the public's hand
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.03.png)
 
 ![image](twtr_data/1546718289841332224.video.00.mp4.clip.05.png)
-
----
-
-2022-07-12 10:17:38 by [Amaliniii](https://twitter.com/Amaliniii/status/1546717901436006401)
-
-0 videos, 4 photos
-
-```
-
-I was thrilled at these scenes of folks curiously and excitedly exploring these spaces. Lots of exclamations at the finery and opulence that the powerful enjoy.
-
-'This is our tax money - don't destroy it' - will talk more about these signs later. #lka #SriLanka #GoHomeGota https://t.co/nJPbjyLOKp
-
-```
-
-![image](twtr_data/1546717901436006401.photo.01.jpg)
-
-![image](twtr_data/1546717901436006401.photo.03.jpg)
-
-![image](twtr_data/1546717901436006401.photo.00.jpg)
-
-![image](twtr_data/1546717901436006401.photo.02.jpg)
-
----
-
-2022-07-12 10:16:05 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546717511277748226)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka . DeccanHerald cartoon by sajithkumar 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #අරගලයටජය #GoHomeGota https://t.co/NHg5L1WZMl #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා https://t.co/Ls3GTrkWUA
-
-```
-
-![image](twtr_data/1546717511277748226.photo.01.jpg)
-
-![image](twtr_data/1546717511277748226.photo.00.jpg)
-
----
-
-2022-07-12 10:15:23 by [Amaliniii](https://twitter.com/Amaliniii/status/1546717331581112321)
-
-0 videos, 1 photos
-
-```
-
-Taking a moment to note the small group of Galle Face protestors who were attempting to control the crowd in here - no megaphones (yet), shouting to ensure that people didn't push, that folks were taken in batches to maintain some order. Difficult task. #lka #SriLanka #GoHomeGota https://t.co/nY5Oz4bKte
-
-```
-
-![image](twtr_data/1546717331581112321.photo.00.jpg)
 
 ---
