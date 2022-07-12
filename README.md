@@ -1,10 +1,245 @@
 # Social Media Photos
 
-*314 tweets as of 20220712-220531*
+*327 tweets as of 20220712-222430*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 22:23:49 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546900648176029696)
+
+0 videos, 1 photos
+
+```
+
+ඊයා නෙහේ ෆෙන් 😂😂😂 අපරාධ අරගලයට ජය වේවා
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/BQrDo6JkR3
+
+```
+
+![image](twtr_data/1546900648176029696.photo.00.jpg)
+
+---
+
+2022-07-12 22:23:07 by [munza14](https://twitter.com/munza14/status/1546900473034092546)
+
+0 videos, 1 photos
+
+```
+
+I am ready with the chocolates to stress eat tomorrow if Gotabaya Rajapaksa does not resign.
+Go home @GotabayaR!
+#LKA #SriLanka #GoHomeGota https://t.co/pucbg1Afyv
+
+```
+
+![image](twtr_data/1546900473034092546.photo.00.jpg)
+
+---
+
+2022-07-12 22:21:57 by [jessiefer](https://twitter.com/jessiefer/status/1546900179881586688)
+
+1 videos, 0 photos
+
+```
+
+The energy up in here is insane tonight! 😭
+
+#ProtestLK #GoHomeGota #GoHomeRanil https://t.co/Gnk9dU5Dra
+
+```
+
+![image](twtr_data/1546900179881586688.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-12 22:18:46 by [aqeel_ghouzul](https://twitter.com/aqeel_ghouzul/status/1546899379226697728)
+
+0 videos, 1 photos
+
+```
+
+Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam,says it is essential to obtain the ʀᴇꜱɪɢɴᴀᴛɪᴏɴ Of The Prime Minister @RW_UNP , alongside that of President @GotabayaR ..
+
+#GoHomeRajapaksas 
+#GoHomeRanil 
+#GoHomeGota https://t.co/ZWTIsItRJ9
+
+```
+
+![image](twtr_data/1546899379226697728.photo.00.png)
+
+---
+
+2022-07-12 22:18:26 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1546899293339992064)
+
+0 videos, 1 photos
+
+```
+
+🔥🔥🔥🔥 #GoHomeGota https://t.co/WpwE90wa5w
+
+```
+
+![image](twtr_data/1546899293339992064.photo.00.jpg)
+
+---
+
+2022-07-12 22:18:15 by [adopteeslk](https://twitter.com/adopteeslk/status/1546899250298044416)
+
+0 videos, 4 photos
+
+```
+
+Adorable 2 month old kittens up for free adoption at Borelasgamuwa. Boy (ginger) &amp; girl. Affectionate &amp; playful.
+
+Contact: Jayathilaka - 070 252 0791
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/hugoQ248GY
+
+```
+
+![image](twtr_data/1546899250298044416.photo.03.jpg)
+
+![image](twtr_data/1546899250298044416.photo.00.jpg)
+
+![image](twtr_data/1546899250298044416.photo.02.jpg)
+
+![image](twtr_data/1546899250298044416.photo.01.jpg)
+
+---
+
+2022-07-12 22:17:59 by [Judeoff](https://twitter.com/Judeoff/status/1546899183004962816)
+
+0 videos, 4 photos
+
+```
+
+Superb 👏❤️ 🙏
+
+#GoHomeGota2022 #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/piFE3ajMqx
+
+```
+
+![image](twtr_data/1546899183004962816.photo.01.jpg)
+
+![image](twtr_data/1546899183004962816.photo.03.jpg)
+
+![image](twtr_data/1546899183004962816.photo.00.jpg)
+
+![image](twtr_data/1546899183004962816.photo.02.jpg)
+
+---
+
+2022-07-12 22:17:52 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546899153498030080)
+
+0 videos, 1 photos
+
+```
+
+මේක බෞද්ධ රාජ්ජයක් නෙමෙයි යකෝ..අපිට අපරාධ කරන්න ඕනේ රාජ්ජයක්.
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/11iBkQZtb2
+
+```
+
+![image](twtr_data/1546899153498030080.photo.00.jpg)
+
+---
+
+2022-07-12 22:16:16 by [sana09796326](https://twitter.com/sana09796326/status/1546898750706044928)
+
+0 videos, 1 photos
+
+```
+
+🔴 Racial Divide ?! 😐
+#SriLankaProtests #SriLankaCrisis #SRILanka #lka #GoHomeGota #ProtestLK https://t.co/tYailSb07m https://t.co/oBud7j9Tzf
+
+```
+
+![image](twtr_data/1546898750706044928.photo.00.jpg)
+
+---
+
+2022-07-12 22:16:06 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546898706406215680)
+
+0 videos, 2 photos
+
+```
+
+අපිට අතීතයේ ඒවා වැඩක් නෑ.. අපිට ඕනේ රටම විනාශ කරන්න.අරගලයට ජය වේවා
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/7FLWEBhO2f
+
+```
+
+![image](twtr_data/1546898706406215680.photo.00.jpg)
+
+![image](twtr_data/1546898706406215680.photo.01.jpg)
+
+---
+
+2022-07-12 22:15:03 by [adopteeslk](https://twitter.com/adopteeslk/status/1546898444966457344)
+
+0 videos, 3 photos
+
+```
+
+Adorable 4 month old boy up for free adoption at Wellampitiya. Affectionate &amp; playful. Love to cuddle. Vaccinated. Can deliver within Colombo.
+
+Contact: Vajira - 071 760 0562
+
+#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/UZVufBjFrj
+
+```
+
+![image](twtr_data/1546898444966457344.photo.00.jpg)
+
+![image](twtr_data/1546898444966457344.photo.01.jpg)
+
+![image](twtr_data/1546898444966457344.photo.02.jpg)
+
+---
+
+2022-07-12 22:14:37 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546898335419998208)
+
+0 videos, 2 photos
+
+```
+
+ඔයේ..අරගලයට ජය වේවා.කොහොමද අපේ කපා කොටා ගැනිල්ල
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/sUtlgOW2Dz
+
+```
+
+![image](twtr_data/1546898335419998208.photo.01.jpg)
+
+![image](twtr_data/1546898335419998208.photo.00.jpg)
+
+---
+
+2022-07-12 22:11:52 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546897643288563714)
+
+1 videos, 0 photos
+
+```
+
+සුවද සබන් ඇග ගාලා හායි හායි.
+ජොකා ගලවන්න ඕනේ මෙහෙම මෙහෙම හායි හායි🤣🤣🤣
+අපේ අපරාධ අරගලයට ජය වේවා
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/akeuYjABIB
+
+```
+
+![image](twtr_data/1546897643288563714.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546897643288563714.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-12 21:54:24 by [AaqifAhamed](https://twitter.com/AaqifAhamed/status/1546893247003623424)
 
@@ -1500,205 +1735,5 @@ Interactions across the junk news &amp; meme accounts studied on 9/7 eclipsed 9/
 ```
 
 ![image](twtr_data/1546783069931450369.photo.00.jpg)
-
----
-
-2022-07-12 14:36:34 by [sanjanah](https://twitter.com/sanjanah/status/1546783061219876864)
-
-0 videos, 1 photos
-
-```
-
-PhD focused on Facebook Pages &amp; Groups, but I also included relevant Instagram accounts. These clusters from PhD time *don't* reflect much greater diversity of aragalaya protestors on/using the app. Even with these caveats, the data signatures during #GoHomeGota are revealing. https://t.co/NbbCdCpJar
-
-```
-
-![image](twtr_data/1546783061219876864.photo.00.jpg)
-
----
-
-2022-07-12 14:36:32 by [sanjanah](https://twitter.com/sanjanah/status/1546783052663496709)
-
-0 videos, 2 photos
-
-```
-
-From 1/5 to 11/7, these Pages &amp; Groups attracted over 9.5 million new likes - a proxy indicator of #GoHomeGota's growing, &amp; widening appeal. Staggering increases on 9/5 &amp; 9/7, led by offline developments. These are data signatures I've never studied the likes of before. https://t.co/DdvyYetE4u
-
-```
-
-![image](twtr_data/1546783052663496709.photo.00.jpg)
-
-![image](twtr_data/1546783052663496709.photo.01.jpg)
-
----
-
-2022-07-12 14:36:24 by [sanjanah](https://twitter.com/sanjanah/status/1546783018354102273)
-
-0 videos, 1 photos
-
-```
-
-Since late March, I also spent some time crafting new clusters of Pages &amp; Groups publishing #GoHomeGota content. There's overlap with PhD clusters above, but this is far more aragalaya specific, &amp; much larger in number: ~960 Pages &amp; roughly same number of Groups. https://t.co/lm1Hh4Bl2v
-
-```
-
-![image](twtr_data/1546783018354102273.photo.00.jpg)
-
----
-
-2022-07-12 14:36:18 by [sanjanah](https://twitter.com/sanjanah/status/1546782992965980160)
-
-0 videos, 1 photos
-
-```
-
-PhD studied constellations of junk news &amp; meme Pages. From last week of March '22, junk news ecologies shifted to enduringly feature pro-democratic, #GoHomeGota narrative frames. Likewise with meme pages. Shift was predominantly organic, &amp; sustained. Has never happened before. https://t.co/KWKGef4UTb
-
-```
-
-![image](twtr_data/1546782992965980160.photo.00.jpg)
-
----
-
-2022-07-12 14:36:17 by [sanjanah](https://twitter.com/sanjanah/status/1546782989996421120)
-
-0 videos, 1 photos
-
-```
-
-Following a study of what happened on 9 May 2022, https://t.co/twc28FImc9, what's the impact of 9 July 2022 #GoHomeGota protests on Sri Lanka's social media landscapes? In short, significant, historic and utterly unprecedented. https://t.co/mMqqElmKg1
-
-```
-
-![image](twtr_data/1546782989996421120.photo.00.jpg)
-
----
-
-2022-07-12 14:34:08 by [mrmolombo](https://twitter.com/mrmolombo/status/1546782449610670080)
-
-1 videos, 0 photos
-
-```
-
-Since IT was kicked outta ITs position and IT is officially resigning tomorrow here’s a video I put together 😏🤡 #GoHomeGota #GotabayaRajapaksa #BasilRajapaksa #kaputas #lka #aragalayatajaya #GotaGoHome2022 #SriLanka #SriLankanpoliticalcrisis https://t.co/xENgXcCHUg
-
-```
-
-![image](twtr_data/1546782449610670080.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 14:29:45 by [OneAahad](https://twitter.com/OneAahad/status/1546781348039311360)
-
-1 videos, 0 photos
-
-```
-
-#July9th Sri Lankans done Victory Protests. #GotabayaRajapaksa announced to  #GoHomeGota but it is not enough .Give Our Stolen Money . Long live struggle!!!! #අරගලයටජය #රටමකොළඹට.
-
- #SriLankaProtests #GoHomeGota #lka #Colombo #FuelCrisisLK #EconomicCrisisLK #SriLankaCrisis https://t.co/d3Stpvgf8H
-
-```
-
-![image](twtr_data/1546781348039311360.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546781348039311360.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 14:19:29 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546778764004057089)
-
-0 videos, 1 photos
-
-```
-
-BREAKING 🇱🇰 : President Gotabaya Rajapaksa signed his resignation letter, dated for July 13 and the Speaker of Sri Lankan Parliament will publicly announce it to the nation tomorrow.
-
-#SriLanka #අරගලයටජය #GoHomeGota https://t.co/WqieYjw4m2
-
-```
-
-![image](twtr_data/1546778764004057089.photo.00.jpg)
-
----
-
-2022-07-12 14:19:27 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546778756206907392)
-
-0 videos, 1 photos
-
-```
-
-BREAKING 🇱🇰 : Sri Lankan President Gotabaya Rajapaksa Signs Resignation Letter.
-
-#SriLanka #අරගලයටජය #GoHomeGota https://t.co/GrguqHxME0
-
-```
-
-![image](twtr_data/1546778756206907392.photo.00.jpg)
-
----
-
-2022-07-12 13:54:18 by [Rizwanhameed27](https://twitter.com/Rizwanhameed27/status/1546772423718100992)
-
-0 videos, 1 photos
-
-```
-
-I foresee a deadlock here.....
-
-#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/JBLMRKtTkk https://t.co/QC2FaVjxJU
-
-```
-
-![image](twtr_data/1546772423718100992.photo.00.png)
-
----
-
-2022-07-12 13:51:59 by [Justice4Tamil](https://twitter.com/Justice4Tamil/status/1546771841674399745)
-
-0 videos, 1 photos
-
-```
-
-#Review of #Srilanka Presidential Sec taken over  #GoHomeGota protestors while #GotabayaRajapaksa is still on hiding , brilliant #review 😂 https://t.co/Q1Fb9PrsCs
-
-```
-
-![image](twtr_data/1546771841674399745.photo.00.jpg)
-
----
-
-2022-07-12 13:47:19 by [gctamil_news](https://twitter.com/gctamil_news/status/1546770669857558528)
-
-1 videos, 0 photos
-
-```
-
-#SriLankaProtests #gotagogama #gohomegota2022 #gohomegota #arrestrajapakshas #gohomerajapaksas #srilanka #srilankaprotests #tamil #tamilnews #eelam #eelamtamil #lanka #ceylon #tn #gcnews #tnpsc https://t.co/6tvR5DbehC
-
-```
-
-![image](twtr_data/1546770669857558528.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546770669857558528.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 13:44:29 by [janindudezoysa](https://twitter.com/janindudezoysa/status/1546769953042616320)
-
-1 videos, 0 photos
-
-```
-
-Extinguishing tear gas at York Street/ Baron Jayathilake Mawatha area on 9th July 😎
-#gohomegota
-#9thjulyLK https://t.co/QjkcWIHL0J
-
-```
-
-![image](twtr_data/1546769953042616320.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546769953042616320.video.00.mp4.clip.00.png)
 
 ---
