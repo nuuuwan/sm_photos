@@ -1,5 +1,24 @@
 [
   {
+    "tweet_url": "https://twitter.com/realzaidzayn/status/1546786010989678593",
+    "id": 1546786010989678593,
+    "user": "realzaidzayn",
+    "time_create_ut": 1657617497,
+    "text": "BREAKING \ud83c\uddf1\ud83c\uddf0 : Motion filed in Sri Lankan Supreme Court to impose travel ban on former Prime Minister, Finance Minister and Central Bank Governor\n\n#SriLanka #GoHomeGota #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/XljDGpIPmm",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdJrDmXwAE_NHd.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546786010989678593.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546786010989678593.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/AkielDeen/status/1546785209051676672",
     "id": 1546785209051676672,
     "user": "AkielDeen",
@@ -29,10 +48,6 @@
       "https://video.twimg.com/ext_tw_video/1546784680728412160/pu/vid/480x270/NJxr3qA7LMj9rUNo.mp4"
     ],
     "video_file_name": "twtr_data/1546784809984266240.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546784809984266240.video.00.mp4.clip.00.png",
-      "twtr_data/1546784809984266240.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -55,12 +70,6 @@
       "https://video.twimg.com/ext_tw_video/1546783863841882114/pu/vid/480x270/j_lAQdPrrFRR_Nl4.mp4"
     ],
     "video_file_name": "twtr_data/1546784239701852160.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546784239701852160.video.00.mp4.clip.00.png",
-      "twtr_data/1546784239701852160.video.00.mp4.clip.01.png",
-      "twtr_data/1546784239701852160.video.00.mp4.clip.02.png",
-      "twtr_data/1546784239701852160.video.00.mp4.clip.03.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -260,9 +269,6 @@
       "https://video.twimg.com/ext_tw_video/1546782338990112768/pu/vid/480x852/WnD3gD0TWquKbyaB.mp4"
     ],
     "video_file_name": "twtr_data/1546782449610670080.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546782449610670080.video.00.mp4.clip.00.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -284,10 +290,6 @@
       "https://video.twimg.com/ext_tw_video/1546781295522418688/pu/vid/264x480/yJHry9YOA729RzwH.mp4"
     ],
     "video_file_name": "twtr_data/1546781348039311360.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546781348039311360.video.00.mp4.clip.00.png",
-      "twtr_data/1546781348039311360.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

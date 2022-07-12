@@ -1,10 +1,26 @@
 # Social Media Photos
 
-*234 tweets as of 20220712-144824*
+*235 tweets as of 20220712-150025*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 14:48:17 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546786010989678593)
+
+0 videos, 1 photos
+
+```
+
+BREAKING 🇱🇰 : Motion filed in Sri Lankan Supreme Court to impose travel ban on former Prime Minister, Finance Minister and Central Bank Governor
+
+#SriLanka #GoHomeGota #අරගලයටජය https://t.co/XljDGpIPmm
+
+```
+
+![image](twtr_data/1546786010989678593.photo.00.jpg)
+
+---
 
 2022-07-12 14:45:06 by [AkielDeen](https://twitter.com/AkielDeen/status/1546785209051676672)
 
@@ -1759,21 +1775,5 @@ Scenes from a walk around three spaces in Colombo, reclaimed for the public on J
 ```
 
 ![image](twtr_data/1546714109193793536.photo.00.jpg)
-
----
-
-2022-07-12 09:59:09 by [cartoonlka](https://twitter.com/cartoonlka/status/1546713246312579072)
-
-0 videos, 1 photos
-
-```
-
-. @DeccanHerald cartoon by @sajithkumar 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #අරගලයටජය #GoHomeGota https://t.co/3LcNMozkgn
-
-```
-
-![image](twtr_data/1546713246312579072.photo.00.jpg)
 
 ---
