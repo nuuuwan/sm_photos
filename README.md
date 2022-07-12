@@ -1,10 +1,76 @@
 # Social Media Photos
 
-*367 tweets as of 20220713-041538*
+*371 tweets as of 20220713-043657*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 04:23:28 by [Judeoff](https://twitter.com/Judeoff/status/1546991158496460800)
+
+1 videos, 0 photos
+
+```
+
+Gotabaya Rajapaksa in #maldives 🇲🇻
+
+#GotaGoHome #GoHomeGota #GotabayaRajapaksa #SriLanka 
+#GoHomeGota2022 #Colombo https://t.co/8Iixb1rCA3
+
+```
+
+![image](twtr_data/1546991158496460800.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546991158496460800.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 04:21:04 by [auxamu](https://twitter.com/auxamu/status/1546990553773928448)
+
+1 videos, 0 photos
+
+```
+
+Gotabaya Rajapaksa in #maldives  Capital Malé City
+
+#GotaGoHome #GoHomeGota #GotabayaRajapaksa @GotabayaR https://t.co/hPFJIbnPZI
+
+```
+
+![image](twtr_data/1546990553773928448.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 04:20:28 by [dumi_perera](https://twitter.com/dumi_perera/status/1546990404209352706)
+
+1 videos, 0 photos
+
+```
+
+SL President, #GotabayaRajapaksha just arrives Male
+#LKA #SriLanka #Gotabaya #GoHomeGota #SriLankaCrisis #SriLanka https://t.co/QTMiMks9PZ
+
+```
+
+![image](twtr_data/1546990404209352706.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546990404209352706.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-13 04:19:53 by [Nature202003](https://twitter.com/Nature202003/status/1546990258104983552)
+
+0 videos, 1 photos
+
+```
+
+මාස දෙකක් ඇතුළත ශ්‍රී ලංකාව නැවත ගොඩනඟනවා. රනිල් වික්‍රමසිංහ ජනාධිපති නම්. High-Speed Economic System #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis @RW_UNP @SLRTBot @hirunews @NewsWireLK @NewsfirstSL @ParliamentLK #GoHomeGota https://t.co/eDY6LTe43g
+
+```
+
+![image](twtr_data/1546990258104983552.photo.00.jpg)
+
+---
 
 2022-07-13 04:14:23 by [AhamedIshthiyaq](https://twitter.com/AhamedIshthiyaq/status/1546988870797242368)
 
@@ -1659,92 +1725,5 @@ BREAKING :
 ```
 
 ![image](twtr_data/1546838065963864067.photo.00.jpg)
-
----
-
-2022-07-12 18:15:03 by [sukunplay](https://twitter.com/sukunplay/status/1546838046095527936)
-
-1 videos, 0 photos
-
-```
-
-ލަންކާގެ ރައީސް ގޮތަބާޔަ ރާޖަޕަކްސާ ލަންކާ ދޫކޮށްދާން އުޅުމުން އެއާޕޯޓް އޮފިޝަލުން އޭނާ ހުއްޓުވައިފި
-#Maldives #GoHomeGota #SriLankaCrisis https://t.co/B2TGX5GtnF
-
-```
-
-![image](twtr_data/1546838046095527936.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546838046095527936.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546838046095527936.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 18:13:48 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546837731757678593)
-
-0 videos, 3 photos
-
-```
-
-மாறு வேடத்தில் கூட தப்பிக்க விட கூடாது!
-உயிரே உயிரே தப்பிச்சு எப்படியாவது ஓடி விடு😜 இணையத்தில் பரவுகிறது
- #தமிழினஅழிப்பு #tamilgenocide #Eelam #SriLankaEconomicCrisis  #tamilNews #tamileelam #tamil #SLnews #lka #LK #NTK #GoHomeGota #vizhi #விழி https://t.co/jfnOGnXGLv
-
-```
-
-![image](twtr_data/1546837731757678593.photo.00.jpg)
-
-![image](twtr_data/1546837731757678593.photo.02.jpg)
-
-![image](twtr_data/1546837731757678593.photo.01.jpg)
-
----
-
-2022-07-12 18:13:00 by [WNOW_NEWS](https://twitter.com/WNOW_NEWS/status/1546837531215691776)
-
-1 videos, 0 photos
-
-```
-
-අරගලය මෙන්ම දේපළත් සුරැකිය යුතු ද?
-
-#whatsnext #SriLankaEconomicCrisis #SriLanka #GoHomeGota #gohomerajapaksas #EconomicCrisis #wnow #lka https://t.co/qRTT8OoWyB
-
-```
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.06.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.04.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.05.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.07.png)
-
-![image](twtr_data/1546837531215691776.video.00.mp4.clip.03.png)
-
----
-
-2022-07-12 18:07:44 by [SajiniKW_97](https://twitter.com/SajiniKW_97/status/1546836205957816326)
-
-0 videos, 2 photos
-
-```
-
-Keep your distance from the art at the President's residence. 
-
-#lka #SriLankaCrisis #SRILanka #SriLankaProtests #GoHomeGota2022 #GoHomeGota https://t.co/QqEjwvbVtO
-
-```
-
-![image](twtr_data/1546836205957816326.photo.01.jpg)
-
-![image](twtr_data/1546836205957816326.photo.00.jpg)
 
 ---

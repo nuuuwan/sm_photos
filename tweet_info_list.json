@@ -1,5 +1,100 @@
 [
   {
+    "tweet_url": "https://twitter.com/Judeoff/status/1546991158496460800",
+    "id": 1546991158496460800,
+    "user": "Judeoff",
+    "time_create_ut": 1657666408,
+    "text": "Gotabaya Rajapaksa in #maldives \ud83c\uddf2\ud83c\uddfb\n\n#GotaGoHome #GoHomeGota #GotabayaRajapaksa #SriLanka \n#GoHomeGota2022 #Colombo https://t.co/8Iixb1rCA3",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546991095372206080/pu/vid/320x486/WLGKDTO3XdyXU0Em.mp4"
+    ],
+    "video_file_name": "twtr_data/1546991158496460800.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546991158496460800.video.00.mp4.clip.00.png",
+      "twtr_data/1546991158496460800.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546991158496460800.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546991158496460800.video.00.mp4.clip.01.png",
+        "1546991158496460800.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/auxamu/status/1546990553773928448",
+    "id": 1546990553773928448,
+    "user": "auxamu",
+    "time_create_ut": 1657666264,
+    "text": "Gotabaya Rajapaksa in #maldives  Capital Mal\u00e9 City\n\n#GotaGoHome #GoHomeGota #GotabayaRajapaksa @GotabayaR https://t.co/hPFJIbnPZI",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546990499621310465/pu/vid/320x404/CML8m4fI4d3unL1X.mp4"
+    ],
+    "video_file_name": "twtr_data/1546990553773928448.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546990553773928448.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546990553773928448.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546990553773928448.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/dumi_perera/status/1546990404209352706",
+    "id": 1546990404209352706,
+    "user": "dumi_perera",
+    "time_create_ut": 1657666228,
+    "text": "SL President, #GotabayaRajapaksha just arrives Male\n#LKA #SriLanka #Gotabaya #GoHomeGota #SriLankaCrisis #SriLanka https://t.co/QTMiMks9PZ",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1546989652850184192/pu/vid/320x320/xycj_m8o0ufDFgWV.mp4"
+    ],
+    "video_file_name": "twtr_data/1546990404209352706.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1546990404209352706.video.00.mp4.clip.00.png",
+      "twtr_data/1546990404209352706.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1546990404209352706.video.00.mp4"
+      ],
+      "video_clip": [
+        "1546990404209352706.video.00.mp4.clip.00.png",
+        "1546990404209352706.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Nature202003/status/1546990258104983552",
+    "id": 1546990258104983552,
+    "user": "Nature202003",
+    "time_create_ut": 1657666193,
+    "text": "\u0db8\u0dcf\u0dc3 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0db1\u0dd0\u0dc0\u0dad \u0d9c\u0ddc\u0da9\u0db1\u0d9f\u0db1\u0dc0\u0dcf. \u0dbb\u0db1\u0dd2\u0dbd\u0dca \u0dc0\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0db8\u0dc3\u0dd2\u0d82\u0dc4 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db1\u0db8\u0dca. High-Speed Economic System #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis @RW_UNP @SLRTBot @hirunews @NewsWireLK @NewsfirstSL @ParliamentLK #GoHomeGota https://t.co/eDY6LTe43g",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXgB7nNX0AEPdrg.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546990258104983552.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546990258104983552.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/AhamedIshthiyaq/status/1546988870797242368",
     "id": 1546988870797242368,
     "user": "AhamedIshthiyaq",
@@ -71,10 +166,6 @@
       "https://video.twimg.com/ext_tw_video/1546985776113627136/pu/vid/480x852/toGgFy2rnrU70E-n.mp4"
     ],
     "video_file_name": "twtr_data/1546985893973467138.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546985893973467138.video.00.mp4.clip.00.png",
-      "twtr_data/1546985893973467138.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -97,10 +188,6 @@
       "https://video.twimg.com/ext_tw_video/1546984438978023425/pu/vid/480x730/1aKBcoMSb9z6Oz7P.mp4"
     ],
     "video_file_name": "twtr_data/1546985381605908480.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546985381605908480.video.00.mp4.clip.00.png",
-      "twtr_data/1546985381605908480.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
