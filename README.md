@@ -1,10 +1,75 @@
 # Social Media Photos
 
-*183 tweets as of 20220712-114753*
+*100 tweets as of 20220712-120449*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 11:58:52 by [lankafiles](https://twitter.com/lankafiles/status/1546743376489451521)
+
+0 videos, 1 photos
+
+```
+
+කටුනායක ගුවන් තොටුපළේ ආගමන විගමන නිලධාරින් සේද මාවත, මගී නිශ්කාශන කටයුතුවලින් ඉවත් වෙයි.#lka #Immigration #GoHomeGota https://t.co/JdnM7XpKyX
+
+```
+
+![image](twtr_data/1546743376489451521.photo.00.jpg)
+
+---
+
+2022-07-12 11:57:53 by [Rizwanhameed27](https://twitter.com/Rizwanhameed27/status/1546743128178233344)
+
+0 videos, 2 photos
+
+```
+
+SIR...
+Where are you trying to go?😆😆😆
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #ProtestLK #SriLankaProtests #අරගලයටජය https://t.co/2EKsz84Wsx https://t.co/n9GqgmXwOw
+
+```
+
+![image](twtr_data/1546743128178233344.photo.01.jpg)
+
+![image](twtr_data/1546743128178233344.photo.00.jpg)
+
+---
+
+2022-07-12 11:51:24 by [smjayasekera](https://twitter.com/smjayasekera/status/1546741497114292224)
+
+0 videos, 1 photos
+
+```
+
+1 Large Business Class and a Thin Crust Economy seat please! @Pizzahutlanka 
+#BasilLeaves 🍃 not
+#GoHomeGota https://t.co/elGtoJQLgu
+
+```
+
+![image](twtr_data/1546741497114292224.photo.00.jpg)
+
+---
+
+2022-07-12 11:49:53 by [ShafarSham](https://twitter.com/ShafarSham/status/1546741115616911361)
+
+0 videos, 1 photos
+
+```
+
+1/ 🧵
+Salute 🫡 to all the officers of the immigration officers. Now these #Rajapaksa thieves will somehow try to get the flight using all their powers. #Pilots of any airline pls don’t take off. They will still leave the country be sea to the nearest land… 
+#GoHomeGota  #lka https://t.co/N91zcmu2rS
+
+```
+
+![image](twtr_data/1546741115616911361.photo.00.jpg)
+
+---
 
 2022-07-12 11:45:04 by [ZaaLi_0](https://twitter.com/ZaaLi_0/status/1546739903437934592)
 
@@ -687,7 +752,7 @@ Selfies in the halls, some light times at the piano, picnics in the garden, Live
 
 ---
 
-2022-07-12 10:21:18 by [Anoja_BTSARMY](https://twitter.com/Anoja_BTSARMY/status/1546718821435596803)
+2022-07-12 10:21:18 by [Ano2k7_BTSArmy](https://twitter.com/Ano2k7_BTSArmy/status/1546718821435596803)
 
 1 videos, 0 photos
 
@@ -1726,70 +1791,5 @@ Subscribe &amp; Support 👍
 ```
 
 ![image](twtr_data/1546594964938715136.photo.00.jpg)
-
----
-
-2022-07-12 02:08:31 by [AranzaIris1](https://twitter.com/AranzaIris1/status/1546594810986840064)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #ronald https://t.co/iJIikrbDHS
-
-```
-
-![image](twtr_data/1546594810986840064.photo.00.jpg)
-
----
-
-2022-07-12 02:07:52 by [LunaMadelyn3](https://twitter.com/LunaMadelyn3/status/1546594644904923136)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #ronald https://t.co/oigsgUmUTR
-
-```
-
-![image](twtr_data/1546594644904923136.photo.00.jpg)
-
----
-
-2022-07-12 01:38:07 by [DhanukaDickwel1](https://twitter.com/DhanukaDickwel1/status/1546587156717633536)
-
-0 videos, 1 photos
-
-```
-
-Adieus Les Rajapaksa’s by Dhanuka Dickwella https://t.co/XIqYY9WRqV #Colombo #lka #SriLanka #GoHomeGota #GoHomeGota2022 #Aragalaya #GR #SriLankaCrisis #PoliticsLive #China #India #PoliticsToday  #SriLankaEconomicCrisis #SriLankaProtests #SriLankan #Russian  #GotabayaRajapaksa https://t.co/TZrb9wr2jr
-
-```
-
-![image](twtr_data/1546587156717633536.photo.00.jpg)
-
----
-
-2022-07-12 01:31:51 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1546585579625775104)
-
-0 videos, 1 photos
-
-```
-
-ඒකට කමක් නෑ නුහුකා යන්න ගෙදර බලු ගෝඨා
-#GoHomeGota2022 #GoHomeGota https://t.co/v5BE3eDmoI
-
-```
-
-![image](twtr_data/1546585579625775104.photo.00.jpg)
 
 ---
