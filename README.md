@@ -1,10 +1,61 @@
 # Social Media Photos
 
-*100 tweets as of 20220712-120449*
+*100 tweets as of 20220712-122131*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 12:19:08 by [raizmeyen](https://twitter.com/raizmeyen/status/1546748473826889728)
+
+0 videos, 1 photos
+
+```
+
+Medamulana has fallen
+
+#GoHomeGota #අරගලයටජය #Revolution #SriLanka https://t.co/VKp0in9VZZ
+
+```
+
+![image](twtr_data/1546748473826889728.photo.00.jpg)
+
+---
+
+2022-07-12 12:17:16 by [Queeniedd_Queen](https://twitter.com/Queeniedd_Queen/status/1546748008095969280)
+
+0 videos, 2 photos
+
+```
+
+A YouTube comment I made regarding the burning of Ranil Wickremesinghe's house and a Reply by user Imasha Yoshani.
+#GoHomeGota #Ranil #SriLankaProtests #EconomicCrisisLK #SRILanka #lka #SirasaTV https://t.co/ryawHdlrsm
+
+```
+
+![image](twtr_data/1546748008095969280.photo.00.png)
+
+![image](twtr_data/1546748008095969280.photo.01.png)
+
+---
+
+2022-07-12 12:10:53 by [cheryykoko](https://twitter.com/cheryykoko/status/1546746401241333760)
+
+0 videos, 1 photos
+
+```
+
+🔴 WARNING 🔴
+
+To the all the leaders Who is waiting to wear next throne in Sri Lanka🤴
+
+#SriLankaProtests #SriLankaCrisis #SRILanka #lka #GoHomeGota #ProtestLK https://t.co/4LqfX5LM79
+
+```
+
+![image](twtr_data/1546746401241333760.photo.00.jpg)
+
+---
 
 2022-07-12 11:58:52 by [lankafiles](https://twitter.com/lankafiles/status/1546743376489451521)
 
@@ -84,33 +135,6 @@ Salute 🫡 to all the officers of the immigration officers. Now these #Rajapaks
 ```
 
 ![image](twtr_data/1546739903437934592.photo.00.jpg)
-
----
-
-2022-07-12 11:36:35 by [MrPerera10](https://twitter.com/MrPerera10/status/1546737767027052544)
-
-0 videos, 4 photos
-
-```
-
-මේ වගේ උන් ඇරෙන්න අද ඉයේ   හැමෝම අරගලේ ලස්සන පොටො දාලා 🙂👍 
-
-මට ලස්සනම සෙනග පිරුනු ඩ්‍රෝන් ශොට් නෙවේ.
-
-තමන්ගේ ජීවිතේ ගැන නොහිතා උබලා ගැන හිතලා ඉස්සරහට ගිය,
-
-මුන්ගේ ලේ 🥺🇱🇰
-#GoHomeGota #SriLankaProtests #අරගලයටජය #Shame #FuleCrisisLK #asia #SirasaTV #sinhala #DailyMirror #Colombo https://t.co/4vzdMIrAwG
-
-```
-
-![image](twtr_data/1546737767027052544.photo.00.jpg)
-
-![image](twtr_data/1546737767027052544.photo.03.jpg)
-
-![image](twtr_data/1546737767027052544.photo.01.jpg)
-
-![image](twtr_data/1546737767027052544.photo.02.jpg)
 
 ---
 
@@ -1755,41 +1779,5 @@ Subscribe &amp; Support 👍
 ```
 
 ![image](twtr_data/1546595257826979840.photo.00.jpg)
-
----
-
-2022-07-12 02:09:41 by [bella_emillia](https://twitter.com/bella_emillia/status/1546595100804796416)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #ronald https://t.co/CFVRasm843
-
-```
-
-![image](twtr_data/1546595100804796416.photo.00.jpg)
-
----
-
-2022-07-12 02:09:08 by [AnnaEmmalli](https://twitter.com/AnnaEmmalli/status/1546594964938715136)
-
-0 videos, 1 photos
-
-```
-
-#Good_evening #Sweet_Nicholas_Day #wellness #FeelingMyself 
-#sleeping #shopping #traveling #Reading #Swimming #yoga #gymgirl 
-#GoHomeGota #BLACKPINK #JustinBieber #Ronaldo 
-#messi #Neymar #drinks #HappyEid #Yash19 #WhyHerEp12 
-#quackity #ElonMusk #RSAvWAL #TejRan #triples #ronald https://t.co/pqS09wAk2O
-
-```
-
-![image](twtr_data/1546594964938715136.photo.00.jpg)
 
 ---
