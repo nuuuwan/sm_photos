@@ -1,5 +1,68 @@
 [
   {
+    "tweet_url": "https://twitter.com/ZaaLi_0/status/1546739903437934592",
+    "id": 1546739903437934592,
+    "user": "ZaaLi_0",
+    "time_create_ut": 1657606504,
+    "text": "@sajithpremadasa @anuradisanayake @RW_UNP @GotabayaR spotted in a brawl \ud83e\udd23\ud83e\udd23\n\n#GoHomeGota #GoHomeRanil #SriLankaProtests #SriLanka https://t.co/TkWxV2eytU",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXcfbGbWYAASx-y.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546739903437934592.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546739903437934592.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/MrPerera10/status/1546737767027052544",
+    "id": 1546737767027052544,
+    "user": "MrPerera10",
+    "time_create_ut": 1657605995,
+    "text": "\u0db8\u0dda \u0dc0\u0d9c\u0dda \u0d8b\u0db1\u0dca \u0d87\u0dbb\u0dd9\u0db1\u0dca\u0db1 \u0d85\u0daf \u0d89\u0dba\u0dda   \u0dc4\u0dd0\u0db8\u0ddd\u0db8 \u0d85\u0dbb\u0d9c\u0dbd\u0dda \u0dbd\u0dc3\u0dca\u0dc3\u0db1 \u0db4\u0ddc\u0da7\u0ddc \u0daf\u0dcf\u0dbd\u0dcf \ud83d\ude42\ud83d\udc4d \n\n\u0db8\u0da7 \u0dbd\u0dc3\u0dca\u0dc3\u0db1\u0db8 \u0dc3\u0dd9\u0db1\u0d9c \u0db4\u0dd2\u0dbb\u0dd4\u0db1\u0dd4 \u0da9\u0dca\u200d\u0dbb\u0ddd\u0db1\u0dca \u0dc1\u0ddc\u0da7\u0dca \u0db1\u0dd9\u0dc0\u0dda.\n\n\u0dad\u0db8\u0db1\u0dca\u0d9c\u0dda \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dda \u0d9c\u0dd0\u0db1 \u0db1\u0ddc\u0dc4\u0dd2\u0dad\u0dcf \u0d8b\u0db6\u0dbd\u0dcf \u0d9c\u0dd0\u0db1 \u0dc4\u0dd2\u0dad\u0dbd\u0dcf \u0d89\u0dc3\u0dca\u0dc3\u0dbb\u0dc4\u0da7 \u0d9c\u0dd2\u0dba,\n\n\u0db8\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dbd\u0dda \ud83e\udd7a\ud83c\uddf1\ud83c\uddf0\n#GoHomeGota #SriLankaProtests #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #Shame #FuleCrisisLK #asia #SirasaTV #sinhala #DailyMirror #Colombo https://t.co/4vzdMIrAwG",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXcbyGvVQAAb7OI.jpg",
+      "https://pbs.twimg.com/media/FXcbyGsVEAI_Hun.jpg",
+      "https://pbs.twimg.com/media/FXcbyN4UUAAkOCo.jpg",
+      "https://pbs.twimg.com/media/FXcbyXRUYAE99ei.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546737767027052544.photo.03.jpg",
+    "local_media": {
+      "photo": [
+        "1546737767027052544.photo.00.jpg",
+        "1546737767027052544.photo.03.jpg",
+        "1546737767027052544.photo.01.jpg",
+        "1546737767027052544.photo.02.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/realzaidzayn/status/1546737739374112769",
+    "id": 1546737739374112769,
+    "user": "realzaidzayn",
+    "time_create_ut": 1657605988,
+    "text": "BREAKING \ud83c\uddf1\ud83c\uddf0 : Sri Lankan Immigration and Emigration officers withdrew from their duties after Basil Rajapaksa had arrived at the terminal to leave to the #USA via Dubai as a mark of protest.\n\n#SriLanka #GoHomeGota https://t.co/4ODNyM89eN",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXcdxt_XEAAUlmw.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546737739374112769.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546737739374112769.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/Amaliniii/status/1546736160084348929",
     "id": 1546736160084348929,
     "user": "Amaliniii",
@@ -98,9 +161,6 @@
       "https://video.twimg.com/ext_tw_video/1546734749112307712/pu/vid/320x564/gEDmp5sgLzSvfDcD.mp4"
     ],
     "video_file_name": "twtr_data/1546734785870962688.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546734785870962688.video.00.mp4.clip.00.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

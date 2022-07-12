@@ -1,10 +1,69 @@
 # Social Media Photos
 
-*180 tweets as of 20220712-113423*
+*183 tweets as of 20220712-114753*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 11:45:04 by [ZaaLi_0](https://twitter.com/ZaaLi_0/status/1546739903437934592)
+
+0 videos, 1 photos
+
+```
+
+@sajithpremadasa @anuradisanayake @RW_UNP @GotabayaR spotted in a brawl 🤣🤣
+
+#GoHomeGota #GoHomeRanil #SriLankaProtests #SriLanka https://t.co/TkWxV2eytU
+
+```
+
+![image](twtr_data/1546739903437934592.photo.00.jpg)
+
+---
+
+2022-07-12 11:36:35 by [MrPerera10](https://twitter.com/MrPerera10/status/1546737767027052544)
+
+0 videos, 4 photos
+
+```
+
+මේ වගේ උන් ඇරෙන්න අද ඉයේ   හැමෝම අරගලේ ලස්සන පොටො දාලා 🙂👍 
+
+මට ලස්සනම සෙනග පිරුනු ඩ්‍රෝන් ශොට් නෙවේ.
+
+තමන්ගේ ජීවිතේ ගැන නොහිතා උබලා ගැන හිතලා ඉස්සරහට ගිය,
+
+මුන්ගේ ලේ 🥺🇱🇰
+#GoHomeGota #SriLankaProtests #අරගලයටජය #Shame #FuleCrisisLK #asia #SirasaTV #sinhala #DailyMirror #Colombo https://t.co/4vzdMIrAwG
+
+```
+
+![image](twtr_data/1546737767027052544.photo.00.jpg)
+
+![image](twtr_data/1546737767027052544.photo.03.jpg)
+
+![image](twtr_data/1546737767027052544.photo.01.jpg)
+
+![image](twtr_data/1546737767027052544.photo.02.jpg)
+
+---
+
+2022-07-12 11:36:28 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546737739374112769)
+
+0 videos, 1 photos
+
+```
+
+BREAKING 🇱🇰 : Sri Lankan Immigration and Emigration officers withdrew from their duties after Basil Rajapaksa had arrived at the terminal to leave to the #USA via Dubai as a mark of protest.
+
+#SriLanka #GoHomeGota https://t.co/4ODNyM89eN
+
+```
+
+![image](twtr_data/1546737739374112769.photo.00.jpg)
+
+---
 
 2022-07-12 11:30:12 by [Amaliniii](https://twitter.com/Amaliniii/status/1546736160084348929)
 
@@ -1732,53 +1791,5 @@ Adieus Les Rajapaksa’s by Dhanuka Dickwella https://t.co/XIqYY9WRqV #Colombo #
 ```
 
 ![image](twtr_data/1546585579625775104.photo.00.jpg)
-
----
-
-2022-07-12 01:27:10 by [impramuditha](https://twitter.com/impramuditha/status/1546584401601245184)
-
-0 videos, 1 photos
-
-```
-
-9 වෙනිදා අරගයට ආපු මිනිස්සුගෙයි දැන් එන මිනිස්සුන්ගේයි (සමහර) වෙනසක් තියෙනවද?
-#LKA #GoHomeGota https://t.co/KK616PSxDb
-
-```
-
-![image](twtr_data/1546584401601245184.photo.00.jpg)
-
----
-
-2022-07-12 01:24:11 by [MarcMartinn](https://twitter.com/MarcMartinn/status/1546583651571437569)
-
-0 videos, 1 photos
-
-```
-
-When your aragalaya cheered and welcome by a CIA agent #SriLanka #GoHomeGota කොම්පියුස් උනා බම් 😂😂 https://t.co/pB7ZppMcGH
-
-```
-
-![image](twtr_data/1546583651571437569.photo.00.jpg)
-
----
-
-2022-07-12 01:21:02 by [RajievRanasing1](https://twitter.com/RajievRanasing1/status/1546582859204333568)
-
-0 videos, 2 photos
-
-```
-
-ඌ යන්නේ නැති හින්දා
-අපිට යන්න වෙලා තියෙන විදිය
-
-#GoHomeGota because #WeCantGoHome https://t.co/4qeoZoPS1i
-
-```
-
-![image](twtr_data/1546582859204333568.photo.01.jpg)
-
-![image](twtr_data/1546582859204333568.photo.00.jpg)
 
 ---
