@@ -1,10 +1,60 @@
 # Social Media Photos
 
-*302 tweets as of 20220712-203752*
+*305 tweets as of 20220712-211026*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 20:48:29 by [tokkalk](https://twitter.com/tokkalk/status/1546876659403395072)
+
+0 videos, 1 photos
+
+```
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil https://t.co/u9Kd1vJfMn
+
+```
+
+![image](twtr_data/1546876659403395072.photo.00.png)
+
+---
+
+2022-07-12 20:46:56 by [surenmcj](https://twitter.com/surenmcj/status/1546876269282861056)
+
+0 videos, 1 photos
+
+```
+
+திருடர்கள் * #GoHomeGota #GoHomeRanil https://t.co/6sx0Phyf0K
+
+```
+
+![image](twtr_data/1546876269282861056.photo.00.jpg)
+
+---
+
+2022-07-12 20:46:14 by [Welikumbura](https://twitter.com/Welikumbura/status/1546876090731626496)
+
+1 videos, 0 photos
+
+```
+
+So, AM is back &amp; endorsing @RW_UNP's administration capabilities. I think we can be hopeful about our future.
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaEconomicCrisis #corruption https://t.co/aJfL1IvYg1
+
+```
+
+![image](twtr_data/1546876090731626496.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546876090731626496.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546876090731626496.video.00.mp4.clip.03.png)
+
+![image](twtr_data/1546876090731626496.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-12 20:33:45 by [WNOW_NEWS](https://twitter.com/WNOW_NEWS/status/1546872948212264960)
 
@@ -1663,57 +1713,5 @@ So happy to join the course by distributing 200 lunch packets to our brothers an
 ![image](twtr_data/1546759781414748160.photo.01.jpg)
 
 ![image](twtr_data/1546759781414748160.photo.00.jpg)
-
----
-
-2022-07-12 13:02:07 by [cartoonlka](https://twitter.com/cartoonlka/status/1546759291633278981)
-
-0 videos, 1 photos
-
-```
-
-Divaina cartoon
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/Ox0quV5qQ9
-
-```
-
-![image](twtr_data/1546759291633278981.photo.00.jpg)
-
----
-
-2022-07-12 12:58:36 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546758410061889536)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Mawbima cartoon 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/eiHp14THAU #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/Y0iOH6zget
-
-```
-
-![image](twtr_data/1546758410061889536.photo.01.jpg)
-
-![image](twtr_data/1546758410061889536.photo.00.jpg)
-
----
-
-2022-07-12 12:58:30 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546758383746834432)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Lankadeepa cartoon by Dasa Hapuwalana
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/gVSfVrUjMX #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorn https://t.co/ZUBOXUv7Ag
-
-```
-
-![image](twtr_data/1546758383746834432.photo.00.jpg)
-
-![image](twtr_data/1546758383746834432.photo.01.jpg)
 
 ---
