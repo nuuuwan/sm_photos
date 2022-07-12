@@ -12,9 +12,6 @@ from sm_photos.twtr import TWTR
 def main(hashtag):
     filesys.init()
 
-#     shutil.rmtree(DIR_TWTR_DATA)
-#     os.mkdir(DIR_TWTR_DATA)
-
     twtr = TWTR()
     tweet_info_list = twtr.get_tweet_info_list(hashtag)
     for tweet_info in tweet_info_list:
