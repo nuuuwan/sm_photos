@@ -1,10 +1,29 @@
 # Social Media Photos
 
-*353 tweets as of 20220713-011525*
+*354 tweets as of 20220713-013657*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 01:19:58 by [Abddd1999](https://twitter.com/Abddd1999/status/1546944978794184705)
+
+0 videos, 1 photos
+
+```
+
+July 13
+✊🇱🇰
+
+#GoHomeGota
+#GoHomeRanil #July13 
+#EconomicCrisisLK https://t.co/TtXsCyObev
+
+```
+
+![image](twtr_data/1546944978794184705.photo.00.jpg)
+
+---
 
 2022-07-13 01:04:00 by [NAVODYA_J](https://twitter.com/NAVODYA_J/status/1546940959598182401)
 
@@ -1725,21 +1744,5 @@ Sri Lanka 🇱🇰🏏💚
 ```
 
 ![image](twtr_data/1546822263890411521.photo.00.jpg)
-
----
-
-2022-07-12 17:11:49 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546822130628952065)
-
-0 videos, 1 photos
-
-```
-
-74 years of family politics pushed the country backward-Chandrasekaran worried
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #covid #india  #follow #media #like  #trending https://t.co/BNPi1Z6Tc2
-
-```
-
-![image](twtr_data/1546822130628952065.photo.00.jpg)
 
 ---
