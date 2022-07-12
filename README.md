@@ -1,10 +1,95 @@
 # Social Media Photos
 
-*252 tweets as of 20220712-165904*
+*257 tweets as of 20220712-171508*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 17:14:45 by [Infodataa](https://twitter.com/Infodataa/status/1546822868784521216)
+
+0 videos, 1 photos
+
+```
+
+හොරාකාපු ටික රටට දීලා,
+
+උඹ "තොලන්ජීවෙලා"  පලයන්.
+
+#aragalayatajaya
+#Aragalaya #SriLanka #SriLankaCrisis #SriLankanpoliticalcrisis #lka #SLnews #Colombo #GoHomeGota  #GotaGoGama https://t.co/670xaxAhSZ
+
+```
+
+![image](twtr_data/1546822868784521216.photo.00.jpg)
+
+---
+
+2022-07-12 17:12:37 by [nastyapeclub](https://twitter.com/nastyapeclub/status/1546822332169089025)
+
+0 videos, 4 photos
+
+```
+
+@stevewilldoit @Stake #EconomicCrisisLK #GoHomeRajapaksas #EconomicCrisis #GoHomeGota 🇱🇰 https://t.co/RdepErSWMt
+
+```
+
+![image](twtr_data/1546822332169089025.photo.00.jpg)
+
+![image](twtr_data/1546822332169089025.photo.03.jpg)
+
+![image](twtr_data/1546822332169089025.photo.02.jpg)
+
+![image](twtr_data/1546822332169089025.photo.01.jpg)
+
+---
+
+2022-07-12 17:12:20 by [Judeoff](https://twitter.com/Judeoff/status/1546822263890411521)
+
+0 videos, 1 photos
+
+```
+
+Sri Lanka 🇱🇰🏏💚
+
+#SriLankaProtests #ProtestLK #Aragalaya #SriLankaCrisis #SriLanka #GoHomeGota #GoHomeGota2022 #Cricket https://t.co/8xf6zxwSK4
+
+```
+
+![image](twtr_data/1546822263890411521.photo.00.jpg)
+
+---
+
+2022-07-12 17:11:49 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546822130628952065)
+
+0 videos, 1 photos
+
+```
+
+74 years of family politics pushed the country backward-Chandrasekaran worried
+
+#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #covid #india  #follow #media #like  #trending https://t.co/BNPi1Z6Tc2
+
+```
+
+![image](twtr_data/1546822130628952065.photo.00.jpg)
+
+---
+
+2022-07-12 16:57:46 by [dillovesred](https://twitter.com/dillovesred/status/1546818597476937729)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #SriLankaProtests #aragalayatajaya #SriLankaCrisis https://t.co/dO46Nt83kf
+
+```
+
+![image](twtr_data/1546818597476937729.photo.00.jpg)
+
+---
 
 2022-07-12 16:50:00 by [OneAahad](https://twitter.com/OneAahad/status/1546816640607731712)
 
@@ -1637,105 +1722,5 @@ Books from the library that was built over these three months at #Gotagogama wer
 ![image](twtr_data/1546728441185062912.photo.01.jpg)
 
 ![image](twtr_data/1546728441185062912.photo.03.jpg)
-
----
-
-2022-07-12 10:58:25 by [Amaliniii](https://twitter.com/Amaliniii/status/1546728163333459969)
-
-0 videos, 4 photos
-
-```
-
-Signs in Sinhala and Tamil explaining the history of the building, built in 1930 before Parliament moved to its current location in Sri JP. Signs also saying this is now a library - there are only books inside. #lka #SriLanka #GoHomeGota https://t.co/Bx1gzjDtqo
-
-```
-
-![image](twtr_data/1546728163333459969.photo.02.jpg)
-
-![image](twtr_data/1546728163333459969.photo.00.jpg)
-
-![image](twtr_data/1546728163333459969.photo.01.jpg)
-
-![image](twtr_data/1546728163333459969.photo.03.jpg)
-
----
-
-2022-07-12 10:54:08 by [Amaliniii](https://twitter.com/Amaliniii/status/1546727083077865474)
-
-0 videos, 4 photos
-
-```
-
-Entrance to this supposed/former 'high-security zone'. #lka #SriLanka #GoHomeGota https://t.co/RuytczaCsn
-
-```
-
-![image](twtr_data/1546727083077865474.photo.02.jpg)
-
-![image](twtr_data/1546727083077865474.photo.03.jpg)
-
-![image](twtr_data/1546727083077865474.photo.00.jpg)
-
-![image](twtr_data/1546727083077865474.photo.01.jpg)
-
----
-
-2022-07-12 10:52:15 by [Amaliniii](https://twitter.com/Amaliniii/status/1546726610828595202)
-
-0 videos, 4 photos
-
-```
-
-In almost all rooms and in the gardens, these signs remind people that this is all made from their tax money, so not to destroy it. Gota didn't paint these pictures do don't mess with them. Effort put in by protestors to keep the place intact. #lka #SriLanka #GoHomeGota https://t.co/XaJu8pY6Da
-
-```
-
-![image](twtr_data/1546726610828595202.photo.03.jpg)
-
-![image](twtr_data/1546726610828595202.photo.01.jpg)
-
-![image](twtr_data/1546726610828595202.photo.02.jpg)
-
-![image](twtr_data/1546726610828595202.photo.00.jpg)
-
----
-
-2022-07-12 10:46:34 by [Amaliniii](https://twitter.com/Amaliniii/status/1546725179073605632)
-
-0 videos, 4 photos
-
-```
-
-The garden and the trees are spectacular. We overhear many folks say they don't need to go to Peradeniya anymore, with these gardens right here in town. Hope the folks who took care of and maintained this were paid well. #lka #srilanka #GoHomeGota https://t.co/r98QO4PCg7
-
-```
-
-![image](twtr_data/1546725179073605632.photo.00.jpg)
-
-![image](twtr_data/1546725179073605632.photo.02.jpg)
-
-![image](twtr_data/1546725179073605632.photo.03.jpg)
-
-![image](twtr_data/1546725179073605632.photo.01.jpg)
-
----
-
-2022-07-12 10:43:31 by [Amaliniii](https://twitter.com/Amaliniii/status/1546724414368075778)
-
-0 videos, 4 photos
-
-```
-
-It's wild inside the gym. Folks experimenting with a wide range of equipment, one uncle showing someone on a video call the place while two guys are actually getting a serious workout in. #lka #SriLanka #GoHomeGota https://t.co/rNcMsqn6Ry
-
-```
-
-![image](twtr_data/1546724414368075778.photo.02.jpg)
-
-![image](twtr_data/1546724414368075778.photo.00.jpg)
-
-![image](twtr_data/1546724414368075778.photo.01.jpg)
-
-![image](twtr_data/1546724414368075778.photo.03.jpg)
 
 ---
