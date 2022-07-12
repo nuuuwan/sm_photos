@@ -1,10 +1,24 @@
 # Social Media Photos
 
-*361 tweets as of 20220713-033643*
+*362 tweets as of 20220713-035916*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 03:43:09 by [imayshan](https://twitter.com/imayshan/status/1546981012156071939)
+
+0 videos, 1 photos
+
+```
+
+@airforcelk is he allowed to come back to Sri Lanka ? #Aragalaya #GoHomeGota #lka #shameonyouRANIL https://t.co/vhjCJQWcz5
+
+```
+
+![image](twtr_data/1546981012156071939.photo.00.jpg)
+
+---
 
 2022-07-13 03:31:18 by [imayshan](https://twitter.com/imayshan/status/1546978028328259585)
 
@@ -1709,22 +1723,5 @@ bruh moment 😂 #GoHomeGota https://t.co/TThaueMd3q
 ```
 
 ![image](twtr_data/1546826339952775169.photo.00.jpg)
-
----
-
-2022-07-12 17:23:50 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546825157653708800)
-
-0 videos, 2 photos
-
-```
-
-கோத்தபாயவின் இராணுவ வெற்றி பதக்கங்கள், பெண்களது  உள்ளாடையில்   ஜனாதிபதி மாளிகையில் மக்கள் பார்வைக்கு     வைக்கப்பட்டுள்ளதாக  இணையத்தில் பரவுகிறது  
- #தமிழினஅழிப்பு #tamilgenocide #Eelam #தமிழ்த்தேசியம் #tamilNews #tamileelam #tamil #SLnews #lka #LK #NTK #GoHomeGota #vizhi #விழி https://t.co/5cnyLHLPUW
-
-```
-
-![image](twtr_data/1546825157653708800.photo.01.jpg)
-
-![image](twtr_data/1546825157653708800.photo.00.jpg)
 
 ---
