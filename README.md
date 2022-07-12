@@ -1,10 +1,158 @@
 # Social Media Photos
 
-*371 tweets as of 20220713-043657*
+*379 tweets as of 20220713-045901*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 04:56:12 by [Chukkiiiiiii](https://twitter.com/Chukkiiiiiii/status/1546999397627854848)
+
+0 videos, 2 photos
+
+```
+
+What a fvckn coward you Gotabaya Rajapaksha? 😑
+And out of all on a military jet?
+Women in airports had more backbone than you guys in the military. You betrayed the whole nation
+So shame of you all.😑
+#gojailrajapakshas #GoHomeGota #srilankaprotests #lka #aragalayatajaya https://t.co/scp0JNsKaw
+
+```
+
+![image](twtr_data/1546999397627854848.photo.00.jpg)
+
+![image](twtr_data/1546999397627854848.photo.01.jpg)
+
+---
+
+2022-07-13 04:52:16 by [MayuranOfficial](https://twitter.com/MayuranOfficial/status/1546998406337404928)
+
+0 videos, 1 photos
+
+```
+
+இலங்கை ஜனாதிபதி கோட்டாபய ராஜபக்ச, புதன்கிழமை அதிகாலை இராணுவ விமானத்தில் அண்டை நாடான மாலத்தீவுக்கு புறப்பட்டுச் சென்றதாக உள்ளூர் அதிகாரிகளை மேற்கோள் காட்டி AFP செய்தி நிறுவனம் தெரிவித்துள்ளது.
+
+#BREAKING #SriLankaCrisis #GoHomeGota https://t.co/LGe8dAqfmG
+
+```
+
+![image](twtr_data/1546998406337404928.photo.00.jpg)
+
+---
+
+2022-07-13 04:48:51 by [NimeshKasun](https://twitter.com/NimeshKasun/status/1546997547457253378)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka will keep remembered that #Maldives helped a #traitor and will be written in history! #MaldivesBetraySriLanka 
+
+@presidencymv @ibusolih @abdulla_shahid
+#GoHomeGota2022 #GoHomeRajapaksas #GoHomeGota #LKA #SriLankaCrisis #SriLankaProtest #History #betrayal #shame #Gota https://t.co/BM65rP1RpX
+
+```
+
+![image](twtr_data/1546997547457253378.photo.00.jpg)
+
+---
+
+2022-07-13 04:42:30 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546995949007937537)
+
+1 videos, 0 photos
+
+```
+
+மாலைத் தீவில் தரையிறங்கிய தமிழ் இனப்படுகொலையாளி #கோட்டாபய  ராஜபக்ச
+
+#தமிழினஅழிப்பு #tamilgenocide #Eelam #justice4tamilgenocide #தமிழ்த்தேசியம் #NTK #TamilNews 
+#TamilNewsSrilanka #Tamil #அரசியல்களம் #tamileelam ​#தமிழ்த்தேசியம் #LK #eelam #SriLankaCrisis #TamilNadu
+ #GoHomeGota https://t.co/1EtYFFQT2e
+
+```
+
+![image](twtr_data/1546995949007937537.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 04:37:07 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1546994593073438721)
+
+0 videos, 2 photos
+
+```
+
+July 12, 2022
+#Maldives #SriLanka 
+#GoHomeGota 5
+Violation of Air Force Act
+Misuse of public property for a collateral purpose likely in furtherance of escaping justice. @saliyapieris @BASLSl @anuradisanayake @ShanakiyanR @MASumanthiran @HarshadeSilvaMP https://t.co/AHrWNwSQgQ
+
+```
+
+![image](twtr_data/1546994593073438721.photo.00.jpg)
+
+![image](twtr_data/1546994593073438721.photo.01.jpg)
+
+---
+
+2022-07-13 04:37:05 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1546994583178985472)
+
+0 videos, 2 photos
+
+```
+
+BBC July 12 , 2022 
+#Maldives #SriLanka #GoHomeGota 4 https://t.co/c3hNYJZ6kv
+
+```
+
+![image](twtr_data/1546994583178985472.photo.01.jpg)
+
+![image](twtr_data/1546994583178985472.photo.00.jpg)
+
+---
+
+2022-07-13 04:36:58 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1546994553806266368)
+
+0 videos, 4 photos
+
+```
+
+July 2022
+#Maldives #SriLanka #GoHomeGota 2/ https://t.co/CI5yd6GBZH
+
+```
+
+![image](twtr_data/1546994553806266368.photo.00.jpg)
+
+![image](twtr_data/1546994553806266368.photo.03.jpg)
+
+![image](twtr_data/1546994553806266368.photo.02.jpg)
+
+![image](twtr_data/1546994553806266368.photo.01.jpg)
+
+---
+
+2022-07-13 04:36:53 by [nomadic_sanjee](https://twitter.com/nomadic_sanjee/status/1546994536580370432)
+
+0 videos, 3 photos
+
+```
+
+May 2022
+#Maldives #SriLanka #GoHomeGota  1/ https://t.co/ES34NNL09r
+
+```
+
+![image](twtr_data/1546994536580370432.photo.00.jpg)
+
+![image](twtr_data/1546994536580370432.photo.01.jpg)
+
+![image](twtr_data/1546994536580370432.photo.02.jpg)
+
+---
 
 2022-07-13 04:23:28 by [Judeoff](https://twitter.com/Judeoff/status/1546991158496460800)
 
@@ -1586,144 +1734,5 @@ Let’s make a documentary that brings fear to all the corrupt politicians throu
 ```
 
 ![image](twtr_data/1546845747038932994.photo.00.jpg)
-
----
-
-2022-07-12 18:39:47 by [Judeoff](https://twitter.com/Judeoff/status/1546844271034376192)
-
-0 videos, 3 photos
-
-```
-
-who cleaned the swimming pool of the Presidential Palace at his own expense, salute you 🙌❤️
-
-#GoHomeGota2022 #අරගලයටජය #Colombo #GoHomeGota https://t.co/ufx4YQLFrN
-
-```
-
-![image](twtr_data/1546844271034376192.photo.00.jpg)
-
-![image](twtr_data/1546844271034376192.photo.02.jpg)
-
-![image](twtr_data/1546844271034376192.photo.01.jpg)
-
----
-
-2022-07-12 18:29:51 by [ReporterAnkitG](https://twitter.com/ReporterAnkitG/status/1546841768364494849)
-
-0 videos, 1 photos
-
-```
-
-"Power to the people beyond parliament"
-
-#SriLankaCrisis #SriLankanpoliticalcrisis #SRILanka #GoHomeGota #GotabayaRajapaksa #Gotabaya https://t.co/DeRSouIDat
-
-```
-
-![image](twtr_data/1546841768364494849.photo.00.jpg)
-
----
-
-2022-07-12 18:29:14 by [SLKILLER8](https://twitter.com/SLKILLER8/status/1546841614835924993)
-
-0 videos, 1 photos
-
-```
-
-විරැවාට දැන් බොක ගිහින් තියෙන්නේ 
-#GoHomeGota  #GoHomeGota2022 https://t.co/Vt3MO2Gw27
-
-```
-
-![image](twtr_data/1546841614835924993.photo.00.png)
-
----
-
-2022-07-12 18:25:32 by [hatheek4u](https://twitter.com/hatheek4u/status/1546840681477312512)
-
-1 videos, 0 photos
-
-```
-
-கோத்தா: අපි තමයි හොදට කරල තියෙන්නෙ
-👇👇
-வைடா ங்கோத்தா 😁😁
-#SriLankaCrisis #Lka #SriLanka #GoHomeGota https://t.co/7KoAZamedn
-
-```
-
-![image](twtr_data/1546840681477312512.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546840681477312512.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 18:18:50 by [SrivastvaSaloni](https://twitter.com/SrivastvaSaloni/status/1546838998860984320)
-
-1 videos, 0 photos
-
-```
-
-सिंहासन खाली करो कि जनता आती है…
-#Colombo #SriLankaCrisis #lanka #SriLankanpoliticalcrisis #GotabayaRajapaksa #GoHomeGota https://t.co/G1Nv0hBeOs
-
-```
-
-![image](twtr_data/1546838998860984320.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546838998860984320.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546838998860984320.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 18:18:19 by [VikumRaj](https://twitter.com/VikumRaj/status/1546838866459447296)
-
-1 videos, 0 photos
-
-```
-
-#Kiribathgoda continues its People's Protest because this struggle isn't over still. 
-#GoHomeGota #GoHomeRajapaksas #GoHomeRanil https://t.co/YF3KvyhR0Y
-
-```
-
-![image](twtr_data/1546838866459447296.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546838866459447296.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 18:18:07 by [MaatramSL](https://twitter.com/MaatramSL/status/1546838815599460352)
-
-0 videos, 1 photos
-
-```
-
-U.S. ‘rejects’ Gotabaya’s visa request after recent ousting by mass protests https://t.co/ydWYC6SjzO via @the_hindu + @Meerasrini 
-
-#lka #SriLanka #GoHomeGota #SriLankaEconomicCrisis #SriLankaProtests https://t.co/kEQONX1Yel
-
-```
-
-![image](twtr_data/1546838815599460352.photo.00.jpg)
-
----
-
-2022-07-12 18:15:08 by [mrmarkil](https://twitter.com/mrmarkil/status/1546838065963864067)
-
-0 videos, 1 photos
-
-```
-
-BREAKING :
-
-"Gotabaya Rajapaksa’s attempt to secure a US visa was rejected, a US embassy representative confirmed.
-ඇමරිකාවට පලා යාමේ අරමුණින් ගෝඨාභය කල visa ඉල්ලීම ඇමරිකානු එම්බසිය විසින් ප්‍රතික්ෂේප කර ඇති බවට SBS වෙබ් අඩවිය තහවුරු කරයි" #GoHomeGota  https://t.co/up9Z0McIyK
-
-```
-
-![image](twtr_data/1546838065963864067.photo.00.jpg)
 
 ---
