@@ -1,10 +1,83 @@
 # Social Media Photos
 
-*246 tweets as of 20220712-161811*
+*250 tweets as of 20220712-163824*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 16:35:00 by [OneAahad](https://twitter.com/OneAahad/status/1546812866187108353)
+
+1 videos, 0 photos
+
+```
+
+Thousands of Sri Lankan people crowded the capital to take a look into the President's palace after  #July9th #SriLankaProtests stormed into the President's house in #Colombo, #SriLanka.
+ #අරගලයටජය
+
+ #SriLankaProtests #GoHomeGota #lka #SriLanka  #EconomicCrisisLK #SriLankaCrisis https://t.co/3S58Y2IsV6
+
+```
+
+![image](twtr_data/1546812866187108353.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546812866187108353.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546812866187108353.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546812866187108353.video.00.mp4.clip.03.png)
+
+---
+
+2022-07-12 16:24:04 by [vizhi_media](https://twitter.com/vizhi_media/status/1546810117424914432)
+
+0 videos, 1 photos
+
+```
+
+காணொளி 👇Video Link https://t.co/4WFGMHfyqC
+#TamilNews 
+#TamilNewsSrilanka #Tamil #VelTharma #அரசியல்களம் #TamilNewsSrilanka #tamileelam #colombotamilnews ​#தமிழ்த்தேசியம் #LK #eelam #justice4tamilgenocide #SriLankaCrisis 
+@veltharma #RanilWickremesinghe #GoHomeGota #vizhi #விழி https://t.co/Nh5lvoVKYY
+
+```
+
+![image](twtr_data/1546810117424914432.photo.00.jpg)
+
+---
+
+2022-07-12 16:23:02 by [KalhanRan](https://twitter.com/KalhanRan/status/1546809856576745472)
+
+0 videos, 1 photos
+
+```
+
+People Wait Endless Hours to Obtain Their Cooking Gas @ Mirihana Grounds 
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #ProtestLK #GoHomeGota #Mirihana https://t.co/cWb4rOpDVG
+
+```
+
+![image](twtr_data/1546809856576745472.photo.00.jpg)
+
+---
+
+2022-07-12 16:20:33 by [IMAlanka](https://twitter.com/IMAlanka/status/1546809230635720704)
+
+0 videos, 2 photos
+
+```
+
+Internet Media Action(IMA) Statement on Internet, web and #socialmedia disruption during peoples’ protest on 9 July 2022  #srilanka  #GoHomeGota #GotaGoHome2022 #lka #EngageSMinSL #Internet 
+@IFEX @CPJAsia @ifjasiapacific @RSF_en @RSF_inter
+ @CIMA_Media @UNSriLanka @InternetFF https://t.co/Z2UCBjopAW
+
+```
+
+![image](twtr_data/1546809230635720704.photo.01.jpg)
+
+![image](twtr_data/1546809230635720704.photo.00.jpg)
+
+---
 
 2022-07-12 16:15:40 by [OneAahad](https://twitter.com/OneAahad/status/1546808002568548352)
 
@@ -1666,83 +1739,5 @@ We Won ❤️
 ![image](twtr_data/1546723417495244800.video.00.mp4.clip.02.png)
 
 ![image](twtr_data/1546723417495244800.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 10:37:39 by [Amaliniii](https://twitter.com/Amaliniii/status/1546722937012506624)
-
-0 videos, 4 photos
-
-```
-
-Scene of the iconic pool party. First shot taken from where that one guy did a perfect somersault into the water. #lka #SriLanka #GoHomeGota https://t.co/9hMyPpTGCd
-
-```
-
-![image](twtr_data/1546722937012506624.photo.01.jpg)
-
-![image](twtr_data/1546722937012506624.photo.02.jpg)
-
-![image](twtr_data/1546722937012506624.photo.03.jpg)
-
-![image](twtr_data/1546722937012506624.photo.00.jpg)
-
----
-
-2022-07-12 10:36:13 by [Amaliniii](https://twitter.com/Amaliniii/status/1546722575312556032)
-
-0 videos, 4 photos
-
-```
-
-Military men still watching in the hallways. In Photo 4, officers are standing near a verse from the Dhammapada: 
-
-'Hatred is never appeased by hatred in this world - It is appeased only by loving-kindness. This is an ancient law.' #lka #SriLanka #GoHomeGota https://t.co/ZqeqZKW6Y6
-
-```
-
-![image](twtr_data/1546722575312556032.photo.00.jpg)
-
-![image](twtr_data/1546722575312556032.photo.02.jpg)
-
-![image](twtr_data/1546722575312556032.photo.03.jpg)
-
-![image](twtr_data/1546722575312556032.photo.01.jpg)
-
----
-
-2022-07-12 10:29:22 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546720853840515072)
-
-0 videos, 1 photos
-
-```
-
-The Ministry of Agriculture has informed that the amount of Urea fertilizer received by the Government of India will be distributed from today 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday https://t.co/YOY3uE7Ecj
-
-```
-
-![image](twtr_data/1546720853840515072.photo.00.jpg)
-
----
-
-2022-07-12 10:22:11 by [Amaliniii](https://twitter.com/Amaliniii/status/1546719042849091584)
-
-0 videos, 4 photos
-
-```
-
-Selfies in the halls, some light times at the piano, picnics in the garden, Live videos being narrated in all languages. #lka #srilanka #GoHomeGota https://t.co/biwmTO9fQj
-
-```
-
-![image](twtr_data/1546719042849091584.photo.01.jpg)
-
-![image](twtr_data/1546719042849091584.photo.02.jpg)
-
-![image](twtr_data/1546719042849091584.photo.03.jpg)
-
-![image](twtr_data/1546719042849091584.photo.00.jpg)
 
 ---
