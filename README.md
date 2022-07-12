@@ -1,10 +1,47 @@
 # Social Media Photos
 
-*358 tweets as of 20220713-023708*
+*360 tweets as of 20220713-025835*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 02:53:47 by [KaputaHitPlane](https://twitter.com/KaputaHitPlane/status/1546968587721744385)
+
+1 videos, 0 photos
+
+```
+
+@MohamedNasheed has pressured Maldives President Solih to grant clearance for President Gotabaya Rajapaksa who is on the run to land in Maldives. 
+@GotabayaR to stay in a resort, and then head to UAE.
+High security at the Velana International Airport. 
+#LKA #SriLanka #GoHomeGota https://t.co/19F6KYuV4Y
+
+```
+
+![image](twtr_data/1546968587721744385.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546968587721744385.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 02:37:31 by [paasam1](https://twitter.com/paasam1/status/1546964495850930178)
+
+1 videos, 0 photos
+
+```
+
+கோத்தபாய ராஜபக்ச இன்று நாட்டை விட்டு வெளியேறி விட்டதாக AFP செய்தி நிறுவனம் தெரிவித்துள்ளது.
+கோட்டபாய குழுவினரின் விமானம் தரையிறங்க முதலில் அனுமதி மறுத்த மாலைதீவு சில பேச்சுவார்த்தைகளை அடுத்து அனுமதி வழங்கியது...?
+#LKA #SriLanka #GoHomeGota https://t.co/kWEgiZi0Pg
+
+```
+
+![image](twtr_data/1546964495850930178.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546964495850930178.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-13 02:35:40 by [walterministry](https://twitter.com/walterministry/status/1546964030052392960)
 
@@ -1689,49 +1726,5 @@ A railway track caught fire in the heat of the sun in England
 ```
 
 ![image](twtr_data/1546825119112523777.photo.00.jpg)
-
----
-
-2022-07-12 17:16:34 by [MrPerera10](https://twitter.com/MrPerera10/status/1546823327196631040)
-
-0 videos, 4 photos
-
-```
-
-මෙය නම් අරගලය, 😠
-අපි පරාදයි...... අබයන්ත්ර කුමන්ත්‍රණ ද මන්දා 🥺
-
-🥺🇱🇰#SriLankaProtests #GoHomeGota #අරගලයටජය #President #LK #SirasaTV #sinhala #DailyMirror #news #Aragalaya #aragalayatajaya https://t.co/4z2hH5yMR2
-
-```
-
-![image](twtr_data/1546823327196631040.photo.03.jpg)
-
-![image](twtr_data/1546823327196631040.photo.01.jpg)
-
-![image](twtr_data/1546823327196631040.photo.00.jpg)
-
-![image](twtr_data/1546823327196631040.photo.02.jpg)
-
----
-
-2022-07-12 17:15:30 by [nastyapeclub](https://twitter.com/nastyapeclub/status/1546823059054546945)
-
-0 videos, 4 photos
-
-```
-
-@Stake @Drake Help Srilanka 🇱🇰 
-#EconomicCrisisLK #GoHomeGota #GoHomeGota2022 https://t.co/LIOiNqRg73
-
-```
-
-![image](twtr_data/1546823059054546945.photo.00.jpg)
-
-![image](twtr_data/1546823059054546945.photo.03.jpg)
-
-![image](twtr_data/1546823059054546945.photo.02.jpg)
-
-![image](twtr_data/1546823059054546945.photo.01.jpg)
 
 ---
