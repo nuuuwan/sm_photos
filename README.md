@@ -1,10 +1,54 @@
 # Social Media Photos
 
-*209 tweets as of 20220712-131639*
+*212 tweets as of 20220712-134009*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 13:20:41 by [geethmaa](https://twitter.com/geethmaa/status/1546763967468642304)
+
+0 videos, 1 photos
+
+```
+
+@emirates  we cannot express our thankfulness on you and your brave crew in Sri Lanka ❤️ Respect 🙏 #GoHomeGota #GoHomeRajapakshas https://t.co/BjgeElw4bJ
+
+```
+
+![image](twtr_data/1546763967468642304.photo.00.jpg)
+
+---
+
+2022-07-12 13:18:37 by [geethmaa](https://twitter.com/geethmaa/status/1546763445047107584)
+
+0 videos, 1 photos
+
+```
+
+@qatarairways Love and respect ❤️ 
+#GoHomeGota #GoHomeRajapakshas #gohomeGota2022 https://t.co/Qrh79bMUZH
+
+```
+
+![image](twtr_data/1546763445047107584.photo.00.jpg)
+
+---
+
+2022-07-12 13:17:06 by [geethmaa](https://twitter.com/geethmaa/status/1546763063386316801)
+
+0 videos, 1 photos
+
+```
+
+@flysrilankan hats off ❤️
+#GoHomeGota #GoHomeRajapakshas #gohomegota2022 https://t.co/8utbBV96G8
+
+```
+
+![image](twtr_data/1546763063386316801.photo.00.jpg)
+
+---
 
 2022-07-12 13:13:43 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546762211535818755)
 
@@ -1763,58 +1807,5 @@ Cartoon by @awanthaartigala
 ```
 
 ![image](twtr_data/1546689619689115648.photo.00.jpg)
-
----
-
-2022-07-12 08:16:17 by [CIddawela](https://twitter.com/CIddawela/status/1546687359986864129)
-
-1 videos, 0 photos
-
-```
-
-Always set an example. 😷 
-
-All the statues in front of the the Presidential Secretariat are wearing masks now. 
-
-📍 Video recorded at GotaGoGama
-#GoHomeGota2022 #GoHomeGota https://t.co/ywTXMG2kQC
-
-```
-
-![image](twtr_data/1546687359986864129.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 08:12:47 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546686479971373057)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by RcSullan 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota https://t.co/rQKs7BhXAP #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/pRaQFjYGEj
-
-```
-
-![image](twtr_data/1546686479971373057.photo.00.jpg)
-
-![image](twtr_data/1546686479971373057.photo.01.jpg)
-
----
-
-2022-07-12 08:10:15 by [cartoonlka](https://twitter.com/cartoonlka/status/1546685843183923201)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @RcSullan 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #GoHomeGota https://t.co/Hb2CaNJJc3
-
-```
-
-![image](twtr_data/1546685843183923201.photo.00.jpg)
 
 ---
