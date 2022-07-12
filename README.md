@@ -1,10 +1,77 @@
 # Social Media Photos
 
-*278 tweets as of 20220712-183433*
+*282 tweets as of 20220712-185503*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 18:52:01 by [jehanssam](https://twitter.com/jehanssam/status/1546847348998909952)
+
+0 videos, 1 photos
+
+```
+
+Let’s make a documentary that brings fear to all the corrupt politicians throughout the world @netflix 
+#GoHomeGota #EconomicCrisisLK #ProtestLK #DutchFarmersProtest https://t.co/8KpLtfDIBd
+
+```
+
+![image](twtr_data/1546847348998909952.photo.00.jpg)
+
+---
+
+2022-07-12 18:47:01 by [KanishkaAbeysi1](https://twitter.com/KanishkaAbeysi1/status/1546846089222860801)
+
+0 videos, 1 photos
+
+```
+
+මන්දිරේ දැක බලා සාගිනි නිවා ගන්නා මහජනයා.
+
+#lka #GoHomeGota https://t.co/0kr72XAYsf
+
+```
+
+![image](twtr_data/1546846089222860801.photo.00.jpg)
+
+---
+
+2022-07-12 18:45:39 by [_Luka_Ar](https://twitter.com/_Luka_Ar/status/1546845747038932994)
+
+0 videos, 1 photos
+
+```
+
+9 වෙනිදා සහ 12 වෙනිදා වෙද්දි වෙලා තියන දේ පේනව නේද!!!. කොටසක් ඉන්නවනෙ ඕන තැනක මේවගේ… හිරිකිතයි කියන්නත්…
+
+#GoHomeGota https://t.co/1V8dqUuVzF
+
+```
+
+![image](twtr_data/1546845747038932994.photo.00.jpg)
+
+---
+
+2022-07-12 18:39:47 by [Judeoff](https://twitter.com/Judeoff/status/1546844271034376192)
+
+0 videos, 3 photos
+
+```
+
+who cleaned the swimming pool of the Presidential Palace at his own expense, salute you 🙌❤️
+
+#GoHomeGota2022 #අරගලයටජය #Colombo #GoHomeGota https://t.co/ufx4YQLFrN
+
+```
+
+![image](twtr_data/1546844271034376192.photo.00.jpg)
+
+![image](twtr_data/1546844271034376192.photo.02.jpg)
+
+![image](twtr_data/1546844271034376192.photo.01.jpg)
+
+---
 
 2022-07-12 18:29:51 by [ReporterAnkitG](https://twitter.com/ReporterAnkitG/status/1546841768364494849)
 
@@ -1657,84 +1724,5 @@ Salute 🫡 to all the officers of the immigration officers. Now these #Rajapaks
 ```
 
 ![image](twtr_data/1546739903437934592.photo.00.jpg)
-
----
-
-2022-07-12 11:36:35 by [MrPerera10](https://twitter.com/MrPerera10/status/1546737767027052544)
-
-0 videos, 4 photos
-
-```
-
-මේ වගේ උන් ඇරෙන්න අද ඉයේ   හැමෝම අරගලේ ලස්සන පොටො දාලා 🙂👍 
-
-මට ලස්සනම සෙනග පිරුනු ඩ්‍රෝන් ශොට් නෙවේ.
-
-තමන්ගේ ජීවිතේ ගැන නොහිතා උබලා ගැන හිතලා ඉස්සරහට ගිය,
-
-මුන්ගේ ලේ 🥺🇱🇰
-#GoHomeGota #SriLankaProtests #අරගලයටජය #Shame #FuleCrisisLK #asia #SirasaTV #sinhala #DailyMirror #Colombo https://t.co/4vzdMIrAwG
-
-```
-
-![image](twtr_data/1546737767027052544.photo.00.jpg)
-
-![image](twtr_data/1546737767027052544.photo.03.jpg)
-
-![image](twtr_data/1546737767027052544.photo.01.jpg)
-
-![image](twtr_data/1546737767027052544.photo.02.jpg)
-
----
-
-2022-07-12 11:36:28 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546737739374112769)
-
-0 videos, 1 photos
-
-```
-
-BREAKING 🇱🇰 : Sri Lankan Immigration and Emigration officers withdrew from their duties after Basil Rajapaksa had arrived at the terminal to leave to the #USA via Dubai as a mark of protest.
-
-#SriLanka #GoHomeGota https://t.co/4ODNyM89eN
-
-```
-
-![image](twtr_data/1546737739374112769.photo.00.jpg)
-
----
-
-2022-07-12 11:30:12 by [Amaliniii](https://twitter.com/Amaliniii/status/1546736160084348929)
-
-0 videos, 4 photos
-
-```
-
-Military still watching in the hallways. In Photo 4, officers were standing near a verse from the Dhammapada:
-
-'Hatred is never appeased by hatred in this world - It is appeased only by loving-kindness. This is an ancient law.' #lka #SriLanka #GoHomeGota https://t.co/MacwTrpWWW
-
-```
-
-![image](twtr_data/1546736160084348929.photo.00.jpg)
-
-![image](twtr_data/1546736160084348929.photo.03.jpg)
-
-![image](twtr_data/1546736160084348929.photo.02.jpg)
-
-![image](twtr_data/1546736160084348929.photo.01.jpg)
-
----
-
-2022-07-12 11:28:54 by [Amaliniii](https://twitter.com/Amaliniii/status/1546735833293602816)
-
-0 videos, 1 photos
-
-```
-
-PS 4 - These spaces have housed war criminals and thieves. They made those decisions sitting in these rooms. For all the public money spent on maintaining them, they probably pocketed more. Important to not forget that as we see these visuals. #lka #SriLanka #GoHomeGota https://t.co/ucr2fqrUG8
-
-```
-
-![image](twtr_data/1546735833293602816.photo.00.jpg)
 
 ---
