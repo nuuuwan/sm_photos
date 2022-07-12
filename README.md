@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*250 tweets as of 20220712-163824*
+*252 tweets as of 20220712-165904*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 16:50:00 by [OneAahad](https://twitter.com/OneAahad/status/1546816640607731712)
+
+0 videos, 1 photos
+
+```
+
+#July9th 2022 #SriLanka  has starts #Protest. after  #albania Now  #Argentina Thousands of people Start Protests. We wish them to show people power is much better .
+#අරගලයටජය #SriLankaProtests #GoHomeGota #SriLankaCrisis https://t.co/3qeXCUXtbu
+
+```
+
+![image](twtr_data/1546816640607731712.photo.00.png)
+
+---
+
+2022-07-12 16:41:14 by [lankasri_fm](https://twitter.com/lankasri_fm/status/1546814437507891202)
+
+1 videos, 0 photos
+
+```
+
+பெசில் எடுத்த முயற்சி தோல்வி!
+#besilrajapaksha #GoHomeGota #GoHomeRajapaksa #SriLanka #SriLankaProtests #SriLankaCrisis #SriLanka #SriLankaNews #GotabayaRajapaksha https://t.co/6NnxrM6jQr
+
+```
+
+![image](twtr_data/1546814437507891202.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1546814437507891202.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 16:35:00 by [OneAahad](https://twitter.com/OneAahad/status/1546812866187108353)
 
@@ -1705,39 +1737,5 @@ It's wild inside the gym. Folks experimenting with a wide range of equipment, on
 ![image](twtr_data/1546724414368075778.photo.01.jpg)
 
 ![image](twtr_data/1546724414368075778.photo.03.jpg)
-
----
-
-2022-07-12 10:40:14 by [Judeoff](https://twitter.com/Judeoff/status/1546723586974818304)
-
-0 videos, 1 photos
-
-```
-
-We Won ❤️
-
-#GoHomeGota2022 #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/gqrt39e2Kt
-
-```
-
-![image](twtr_data/1546723586974818304.photo.00.jpg)
-
----
-
-2022-07-12 10:39:34 by [gctamil_news](https://twitter.com/gctamil_news/status/1546723417495244800)
-
-1 videos, 0 photos
-
-```
-
-#moneyheisttamil #moneyheistkorea #moneyheistberlin #moneyheistprofessor #berlin #professor #tokyo #tamil #spanish #india   #hollywood #bollywood #gohomegota #gohomegota2022 #srilanka #lk #srilankaprotests #gohomerajapaksas  #moneyheist #bellaciao https://t.co/xKfM2IGe2Z
-
-```
-
-![image](twtr_data/1546723417495244800.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546723417495244800.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546723417495244800.video.00.mp4.clip.00.png)
 
 ---
