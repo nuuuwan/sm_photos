@@ -1,10 +1,108 @@
 # Social Media Photos
 
-*121 tweets as of 20220712-084838*
+*127 tweets as of 20220712-094015*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 09:23:06 by [gctamil_news](https://twitter.com/gctamil_news/status/1546704174926114816)
+
+0 videos, 1 photos
+
+```
+
+https://t.co/JrydDPVl6s
+
+#gotagogama #gohomegota2022 #gohomegota #gohomerajapaksas #tamil #tamilnews #eelam #eelamtamil #lanka #tn #tnpsc https://t.co/DqazTnpv3Q
+
+```
+
+![image](twtr_data/1546704174926114816.photo.00.jpg)
+
+---
+
+2022-07-12 09:11:50 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546701340251930624)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka . theisland_lk cartoon by Jeffrey
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/QIz8Kgupt5 #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorningl https://t.co/WOet5EtoRa
+
+```
+
+![image](twtr_data/1546701340251930624.photo.01.jpg)
+
+![image](twtr_data/1546701340251930624.photo.00.jpg)
+
+---
+
+2022-07-12 09:11:49 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546701337693503488)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka Cartoon: Indian cartoonist CartoonistSan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/TTJINjiIt8 #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #the https://t.co/i82Ehr9x9w
+
+```
+
+![image](twtr_data/1546701337693503488.photo.01.jpg)
+
+![image](twtr_data/1546701337693503488.photo.00.jpg)
+
+---
+
+2022-07-12 09:07:54 by [cartoonlka](https://twitter.com/cartoonlka/status/1546700351117889536)
+
+0 videos, 1 photos
+
+```
+
+Cartoon: Indian cartoonist @CartoonistSan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/ter3oiR1tn
+
+```
+
+![image](twtr_data/1546700351117889536.photo.00.jpg)
+
+---
+
+2022-07-12 09:04:11 by [cartoonlka](https://twitter.com/cartoonlka/status/1546699415670636545)
+
+0 videos, 1 photos
+
+```
+
+. @theisland_lk cartoon by Jeffrey
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/MOLAsweeGu
+
+```
+
+![image](twtr_data/1546699415670636545.photo.00.jpg)
+
+---
+
+2022-07-12 09:02:39 by [iantheskies](https://twitter.com/iantheskies/status/1546699031237124096)
+
+1 videos, 0 photos
+
+```
+
+@Swamy39 When state and justice fail us; as the Rajapakse family shamelessly and very openly break the law, spend our money, ignore advise from IMF and others, whilst our economy has COLLAPSED, it should not be your prerogative to defend and threaten our people with force. #GoHomeGota 👇 https://t.co/K2ZtQxow2R
+
+```
+
+![image](twtr_data/1546699031237124096.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 08:38:17 by [pawie0729](https://twitter.com/pawie0729/status/1546692895746297856)
 
@@ -1632,99 +1730,5 @@ Cursed Tweet
 ```
 
 ![image](twtr_data/1546502775022186501.photo.00.jpg)
-
----
-
-2022-07-11 20:01:27 by [minuk_weerakoon](https://twitter.com/minuk_weerakoon/status/1546502435375497216)
-
-0 videos, 1 photos
-
-```
-
-Who the hell make these 😂😂😂
-#GoHomeGota https://t.co/o9uSSDA1ow
-
-```
-
-![image](twtr_data/1546502435375497216.photo.00.jpg)
-
----
-
-2022-07-11 20:00:54 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546502294639783936)
-
-0 videos, 1 photos
-
-```
-
-அதிகாரத்தில் இருந்து வெளியேற்றப்பட்டுள்ள ஜனாதிபதி கோட்டாபய ராஜபக்ஷ நாட்டிலிருந்து வெளியேறியுள்ளதாக தகவல்கள் வெளியாகி உள்ளது. 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news https://t.co/vM1s7YNoBe
-
-```
-
-![image](twtr_data/1546502294639783936.photo.00.jpg)
-
----
-
-2022-07-11 19:58:18 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546501639476879360)
-
-0 videos, 1 photos
-
-```
-
-වීරයෙකුගේ නික්ම යෑම 🥺💔
-අරගල නිම කර නිවසට යන විට දුම්රියෙන් ඇද වැටි මිය ගිය අලව්ව කොහොලාන ප්‍රදේශයේ පදිංච් චමින්ද සොහොයුරානෙනි ඔබට 
-නිවන්සුව ලැබේවා..  #GoHomeGota  #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday https://t.co/nuTQ4yszr0
-
-```
-
-![image](twtr_data/1546501639476879360.photo.00.jpg)
-
----
-
-2022-07-11 19:56:23 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546501157001891840)
-
-0 videos, 1 photos
-
-```
-
-It has been reported that the price of Litro cooking gas has been increased by Rs 50 and this price increase will be effective from today 
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews https://t.co/HTEedwaQFq
-
-```
-
-![image](twtr_data/1546501157001891840.photo.00.jpg)
-
----
-
-2022-07-11 19:56:14 by [Praveen_D_B](https://twitter.com/Praveen_D_B/status/1546501118947368962)
-
-0 videos, 1 photos
-
-```
-
-Sajith Premadasa's mean face is hilarious. He always celebrates too early. This time his so-called ආර්යාව remains silent. LOL
-#GoHomeGota #අරගලයටජය https://t.co/1tJqpkjR0N
-
-```
-
-![image](twtr_data/1546501118947368962.photo.00.jpg)
-
----
-
-2022-07-11 19:53:56 by [RusiruMr](https://twitter.com/RusiruMr/status/1546500542691569669)
-
-0 videos, 1 photos
-
-```
-
-"පෙරේත කාක්කා" the Greedy Crow by @mangachan
-#srilanka #travelsrilanka #visitsrilanka #srilankadaily #everydaysrilanka #srilankatrip #srilankadiaries #colombo #gohomegota #giveusourstolenmoneyback #colomboprotest #gotagohome2022 #galleface #greedycrow #perethakakka
-#srilankadaily https://t.co/Ag6jlgEs3o
-
-```
-
-![image](twtr_data/1546500542691569669.photo.00.jpg)
 
 ---
