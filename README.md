@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*351 tweets as of 20220713-005650*
+*353 tweets as of 20220713-011525*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 01:04:00 by [NAVODYA_J](https://twitter.com/NAVODYA_J/status/1546940959598182401)
+
+0 videos, 1 photos
+
+```
+
+13th Of July 2022
+
+#GoHomeGota #GoHomeRajapakshas #GoHomeRanil #ArrestRajapaksas #SriLankaCrisis #SriLankaEconomicCrisis #SRILanka https://t.co/EYRCwuyEmv
+
+```
+
+![image](twtr_data/1546940959598182401.photo.00.jpg)
+
+---
+
+2022-07-13 00:57:47 by [ihshaniqbal](https://twitter.com/ihshaniqbal/status/1546939398306267136)
+
+0 videos, 1 photos
+
+```
+
+#theend #Rajapaksas #GoHomeGota https://t.co/proITJ4frV
+
+```
+
+![image](twtr_data/1546939398306267136.photo.00.jpg)
+
+---
 
 2022-07-13 00:45:20 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1546936263210463232)
 
@@ -1711,34 +1741,5 @@ Sri Lanka 🇱🇰🏏💚
 ```
 
 ![image](twtr_data/1546822130628952065.photo.00.jpg)
-
----
-
-2022-07-12 16:57:46 by [dillovesred](https://twitter.com/dillovesred/status/1546818597476937729)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #SriLankaProtests #aragalayatajaya #SriLankaCrisis https://t.co/dO46Nt83kf
-
-```
-
-![image](twtr_data/1546818597476937729.photo.00.jpg)
-
----
-
-2022-07-12 16:50:00 by [OneAahad](https://twitter.com/OneAahad/status/1546816640607731712)
-
-0 videos, 1 photos
-
-```
-
-#July9th 2022 #SriLanka  has starts #Protest. after  #albania Now  #Argentina Thousands of people Start Protests. We wish them to show people power is much better .
-#අරගලයටජය #SriLankaProtests #GoHomeGota #SriLankaCrisis https://t.co/3qeXCUXtbu
-
-```
-
-![image](twtr_data/1546816640607731712.photo.00.png)
 
 ---

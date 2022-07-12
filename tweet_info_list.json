@@ -1,5 +1,43 @@
 [
   {
+    "tweet_url": "https://twitter.com/NAVODYA_J/status/1546940959598182401",
+    "id": 1546940959598182401,
+    "user": "NAVODYA_J",
+    "time_create_ut": 1657654440,
+    "text": "13th Of July 2022\n\n#GoHomeGota #GoHomeRajapakshas #GoHomeRanil #ArrestRajapaksas #SriLankaCrisis #SriLankaEconomicCrisis #SRILanka https://t.co/EYRCwuyEmv",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXfWPzTakAA8eL9.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546940959598182401.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546940959598182401.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/ihshaniqbal/status/1546939398306267136",
+    "id": 1546939398306267136,
+    "user": "ihshaniqbal",
+    "time_create_ut": 1657654067,
+    "text": "#theend #Rajapaksas #GoHomeGota https://t.co/proITJ4frV",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXfVLavXkAAchg2.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546939398306267136.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546939398306267136.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/EmDeeS11/status/1546936263210463232",
     "id": 1546936263210463232,
     "user": "EmDeeS11",
