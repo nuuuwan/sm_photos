@@ -1,10 +1,72 @@
 # Social Media Photos
 
-*263 tweets as of 20220712-174006*
+*267 tweets as of 20220712-180526*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 17:50:11 by [KlintenACruz](https://twitter.com/KlintenACruz/status/1546831785430241280)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR @RW_UNP
+
+#lka #SriLanka #SriLankaCrisis #SriLankaProtests #GoHomeRanil #GoHomeGota #FuelShortage #අරගලයටජය https://t.co/LwnSw39nux
+
+```
+
+![image](twtr_data/1546831785430241280.photo.00.jpg)
+
+---
+
+2022-07-12 17:45:52 by [ExcuzeMiii](https://twitter.com/ExcuzeMiii/status/1546830699340378119)
+
+0 videos, 1 photos
+
+```
+
+BREAKING :
+
+"Gotabaya Rajapaksa’s attempt to secure a US visa was rejected, a US embassy representative confirmed.
+ඇමරිකාවට පලා යාමේ අරමුණින් ගෝඨාභය කල visa ඉල්ලීම ඇමරිකානු එම්බසිය විසින් ප්‍රතික්ෂේප කර ඇති බවට SBS වෙබ් අඩවිය තහවුරු කරයි" #GoHomeGota #GoHomeGota2022 https://t.co/I6QuIbjzV2
+
+```
+
+![image](twtr_data/1546830699340378119.photo.00.jpg)
+
+---
+
+2022-07-12 17:43:30 by [wepowerred](https://twitter.com/wepowerred/status/1546830103682097154)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka can take a chance and use the moment and make a currency backed by tea because Ceylon tea is known all over the world. Commodity-backed currency is always growing, unlike fiat currencies which are based on belief in promises politicians! 🇱🇰  #GotaGoGama #GoHomeGota https://t.co/kN34ngeGp0
+
+```
+
+![image](twtr_data/1546830103682097154.photo.00.png)
+
+---
+
+2022-07-12 17:42:18 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546829802807631872)
+
+0 videos, 1 photos
+
+```
+
+இவர்களில் 18,083 பேர் தாங்களாகவே வேலை வாய்ப்புகளை தேடிக்கொண்டதாகவும், 9,854 நபர்கள் உரிமம் பெற்ற வெளிநாட்டு வேலைவாய்ப்பு முகவர் மூலம் சென்றதாகவும் தெரிவிக்கப்பட்டுள்ளது. 
+#SriLankaCrisis  #Eelam #tamilNews #tamil #SLnews #lka #LK #GoHomeGota #tamileelam https://t.co/BbQMz3Cf3z
+
+```
+
+![image](twtr_data/1546829802807631872.photo.00.jpg)
+
+---
 
 2022-07-12 17:28:32 by [pasindujr](https://twitter.com/pasindujr/status/1546826339952775169)
 
@@ -1668,75 +1730,5 @@ Community kitchen and picnics in the main garden area. #lka #srilanka #GoHomeGot
 ![image](twtr_data/1546730699897507840.photo.01.jpg)
 
 ![image](twtr_data/1546730699897507840.photo.03.jpg)
-
----
-
-2022-07-12 11:07:34 by [Sara_Tassera](https://twitter.com/Sara_Tassera/status/1546730463808536576)
-
-0 videos, 1 photos
-
-```
-
-@BimlaRuwan If you don't have the power to cut the chain of slavery, then cut the chained person because the disability of freedom is a million times better than the health of slavery. 
-
-#SriLankaProtests 
-#GoHomeGota 
-#SilkRoute https://t.co/vJx6RnpKm6
-
-```
-
-![image](twtr_data/1546730463808536576.photo.00.jpg)
-
----
-
-2022-07-12 11:06:53 by [Amaliniii](https://twitter.com/Amaliniii/status/1546730294090158080)
-
-0 videos, 2 photos
-
-```
-
-Plaques explain the significance of two temple trees - planted by the first private owner in British colonial times and by Premadasa when he took office. New signs by protestors read 'these are ancient trees - touching these are prohibited'. #lka #srilanka #GoHomeGota https://t.co/jubQBUicWy
-
-```
-
-![image](twtr_data/1546730294090158080.photo.01.jpg)
-
-![image](twtr_data/1546730294090158080.photo.00.jpg)
-
----
-
-2022-07-12 11:04:09 by [Amaliniii](https://twitter.com/Amaliniii/status/1546729604307505153)
-
-0 videos, 4 photos
-
-```
-
-Temple Trees, Prime Minister's official residence
-
-Again, the small fence has been dismantled. Crowds line the main walls and No Deal Gama across the road is still going strong. #lka #SriLanka #GoHomeGota https://t.co/2zY7IzTBEV
-
-```
-
-![image](twtr_data/1546729604307505153.photo.02.jpg)
-
-![image](twtr_data/1546729604307505153.photo.03.jpg)
-
-![image](twtr_data/1546729604307505153.photo.01.jpg)
-
-![image](twtr_data/1546729604307505153.photo.00.jpg)
-
----
-
-2022-07-12 11:04:08 by [PraveenNimroth](https://twitter.com/PraveenNimroth/status/1546729601681960966)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeRajapakshas #gohomerajapaksas #GoHomeGota2022 #SriLankaProtests #SriLankaCrisis #SriLanka #Anonymous #gohomerajapaksha #GoHomeGota https://t.co/iuztoa9xBJ
-
-```
-
-![image](twtr_data/1546729601681960966.photo.00.jpg)
 
 ---
