@@ -1,10 +1,60 @@
 # Social Media Photos
 
-*243 tweets as of 20220712-160205*
+*246 tweets as of 20220712-161811*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 16:15:40 by [OneAahad](https://twitter.com/OneAahad/status/1546808002568548352)
+
+0 videos, 2 photos
+
+```
+
+After #July9th #SriLankaProtests  Sri Lanka Presidential Secretariat now became a library. There are only books.
+ #අරගලයටජය #රටමකොළඹට.
+
+ #SriLankaProtests #GoHomeGota #lka #Colombo #SriLanka  #EconomicCrisisLK #SriLankaCrisis https://t.co/vkOCDg66yh
+
+```
+
+![image](twtr_data/1546808002568548352.photo.00.jpg)
+
+![image](twtr_data/1546808002568548352.photo.01.jpg)
+
+---
+
+2022-07-12 16:03:33 by [tr_firefly](https://twitter.com/tr_firefly/status/1546804950872645632)
+
+0 videos, 1 photos
+
+```
+
+My god just resign resign resign you MF!!!😖😖😖😖 
+#SriLankaCrisis 
+#GoHomeGota https://t.co/ItOQ9gTOfH
+
+```
+
+![image](twtr_data/1546804950872645632.photo.00.jpg)
+
+---
+
+2022-07-12 16:02:36 by [UdaniNisansa](https://twitter.com/UdaniNisansa/status/1546804712007077888)
+
+0 videos, 1 photos
+
+```
+
+යනවකෝ වදේ😭😭
+#GoHomeGota https://t.co/ECqnkLE5bz
+
+```
+
+![image](twtr_data/1546804712007077888.photo.00.jpg)
+
+---
 
 2022-07-12 15:55:26 by [fradicioni](https://twitter.com/fradicioni/status/1546802910566445056)
 
@@ -1694,69 +1744,5 @@ Selfies in the halls, some light times at the piano, picnics in the garden, Live
 ![image](twtr_data/1546719042849091584.photo.03.jpg)
 
 ![image](twtr_data/1546719042849091584.photo.00.jpg)
-
----
-
-2022-07-12 10:21:18 by [Ano2k7_BTSArmy](https://twitter.com/Ano2k7_BTSArmy/status/1546718821435596803)
-
-1 videos, 0 photos
-
-```
-
-#Srilankans have shown the world that the power in the country rests with the citizens. 
-They have taught every wrong ruler in the world a great lesson 🇱🇰🌎
-
-HistoricalDay 09.07.2022
-
-#GoHomeGota #GoHomeRanil
-#GoHomeGota2022 #SriLankaProtests #ProtestLK https://t.co/hq9xxeM7VE
-
-```
-
-![image](twtr_data/1546718821435596803.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546718821435596803.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 10:19:18 by [Amaliniii](https://twitter.com/Amaliniii/status/1546718316814688257)
-
-0 videos, 2 photos
-
-```
-
-Sign in Sinhala and Tamil explaining that the building, now in the public's hands, is more than 300 years old; that we should be responsible and take care of it. #lka #SriLanka #GoHomeGota https://t.co/WtsufQgxiW
-
-```
-
-![image](twtr_data/1546718316814688257.photo.01.jpg)
-
-![image](twtr_data/1546718316814688257.photo.00.jpg)
-
----
-
-2022-07-12 10:19:11 by [lankafiles](https://twitter.com/lankafiles/status/1546718289841332224)
-
-1 videos, 0 photos
-
-```
-
-පොලිස් ප්‍රචණ්ඩත්වයට විරෝධය පාමින්  වෘත්තීය සමිති සහ බහුජන සංවිධාන එකමුතුව ශ්‍රී ලංකා පොලිස් මූලස්ථානය ඉදිරිපිටදී විරෝධතා දක්වයි.#lka #police #Journalist #GoHomeGota https://t.co/Hd0b8jJwrW
-
-```
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.04.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.06.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.03.png)
-
-![image](twtr_data/1546718289841332224.video.00.mp4.clip.05.png)
 
 ---

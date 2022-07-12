@@ -1,5 +1,64 @@
 [
   {
+    "tweet_url": "https://twitter.com/OneAahad/status/1546808002568548352",
+    "id": 1546808002568548352,
+    "user": "OneAahad",
+    "time_create_ut": 1657622740,
+    "text": "After #July9th #SriLankaProtests  Sri Lanka Presidential Secretariat now became a library. There are only books.\n #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba #\u0dbb\u0da7\u0db8\u0d9a\u0ddc\u0dc5\u0db9\u0da7.\n\n #SriLankaProtests #GoHomeGota #lka #Colombo #SriLanka  #EconomicCrisisLK #SriLankaCrisis https://t.co/vkOCDg66yh",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXddf-MVEAAFGOv.jpg",
+      "https://pbs.twimg.com/media/FXddnvoVsAAHNfW.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546808002568548352.photo.01.jpg",
+    "local_media": {
+      "photo": [
+        "1546808002568548352.photo.00.jpg",
+        "1546808002568548352.photo.01.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/tr_firefly/status/1546804950872645632",
+    "id": 1546804950872645632,
+    "user": "tr_firefly",
+    "time_create_ut": 1657622013,
+    "text": "My god just resign resign resign you MF!!!\ud83d\ude16\ud83d\ude16\ud83d\ude16\ud83d\ude16 \n#SriLankaCrisis \n#GoHomeGota https://t.co/ItOQ9gTOfH",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXda550WAAEaAlQ.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546804950872645632.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546804950872645632.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/UdaniNisansa/status/1546804712007077888",
+    "id": 1546804712007077888,
+    "user": "UdaniNisansa",
+    "time_create_ut": 1657621956,
+    "text": "\u0dba\u0db1\u0dc0\u0d9a\u0ddd \u0dc0\u0daf\u0dda\ud83d\ude2d\ud83d\ude2d\n#GoHomeGota https://t.co/ECqnkLE5bz",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXdarz3UIAE1qtC.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546804712007077888.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546804712007077888.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/fradicioni/status/1546802910566445056",
     "id": 1546802910566445056,
     "user": "fradicioni",
@@ -10,10 +69,6 @@
       "https://video.twimg.com/ext_tw_video/1546802680534028288/pu/vid/640x360/_4aVzXCKuHtMxrKW.mp4"
     ],
     "video_file_name": "twtr_data/1546802910566445056.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546802910566445056.video.00.mp4.clip.00.png",
-      "twtr_data/1546802910566445056.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
