@@ -1,10 +1,73 @@
 # Social Media Photos
 
-*299 tweets as of 20220712-202022*
+*302 tweets as of 20220712-203752*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 20:33:45 by [WNOW_NEWS](https://twitter.com/WNOW_NEWS/status/1546872948212264960)
+
+1 videos, 0 photos
+
+```
+
+Should the property be protected as well as the struggle?
+
+#whatsnext #SriLankaEconomicCrisis #SriLanka #GoHomeGota #gohomerajapaksas #EconomicCrisis #wnow #lka https://t.co/rPJgJPIjnA
+
+```
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.05.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.07.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.04.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.03.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.06.png)
+
+![image](twtr_data/1546872948212264960.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-12 20:32:35 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546872657530204161)
+
+0 videos, 1 photos
+
+```
+
+#Corona for #TamilNadu #CM @mkstalin   Posting on #Twitter that he immediately isolated himself after the infection was confirmed
+#Corona #COVID19 #covidindia 
+
+#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis https://t.co/mCwDFjakHy
+
+```
+
+![image](twtr_data/1546872657530204161.photo.00.jpg)
+
+---
+
+2022-07-12 20:20:11 by [Indooshan](https://twitter.com/Indooshan/status/1546869535776854016)
+
+1 videos, 0 photos
+
+```
+
+Did a time lapse walking through the President Residence area while reporting work this morning! 
+Sri Lankans are flocking in numbers and Queues go beyond 2-3 km to get to all three sites! 
+This could be the unexpected twist in the 90+ days struggle in the #GoHomeGota protest https://t.co/BkYc6qnTgm
+
+```
+
+![image](twtr_data/1546869535776854016.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-12 20:08:23 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546866567786668032)
 
@@ -1652,55 +1715,5 @@ Political Cartoons of Sri Lanka Lankadeepa cartoon by Dasa Hapuwalana
 ![image](twtr_data/1546758383746834432.photo.00.jpg)
 
 ![image](twtr_data/1546758383746834432.photo.01.jpg)
-
----
-
-2022-07-12 12:55:20 by [cartoonlka](https://twitter.com/cartoonlka/status/1546757587403788288)
-
-0 videos, 1 photos
-
-```
-
-Lankadeepa cartoon by Dasa Hapuwalana
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/dE1Qo9gnou
-
-```
-
-![image](twtr_data/1546757587403788288.photo.00.jpg)
-
----
-
-2022-07-12 12:54:08 by [Roshan_15](https://twitter.com/Roshan_15/status/1546757283727626241)
-
-0 videos, 1 photos
-
-```
-
-அந்த ராஜினாமாக் கடிதம்.. #lka #GoHomeGota https://t.co/OijqERzKrT
-
-```
-
-![image](twtr_data/1546757283727626241.photo.00.jpg)
-
----
-
-2022-07-12 12:51:47 by [jessiefer](https://twitter.com/jessiefer/status/1546756693769342976)
-
-1 videos, 0 photos
-
-```
-
-2nd best thing I saw the whole day 😂
-Original Credit: r.mix.bro
-#GoHomeRajapakshas #GoHomeGota #GoHomeRanil https://t.co/AHJA6Dy69x
-
-```
-
-![image](twtr_data/1546756693769342976.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546756693769342976.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546756693769342976.video.00.mp4.clip.01.png)
 
 ---
