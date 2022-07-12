@@ -1,10 +1,90 @@
 # Social Media Photos
 
-*309 tweets as of 20220712-213724*
+*314 tweets as of 20220712-220531*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 21:54:24 by [AaqifAhamed](https://twitter.com/AaqifAhamed/status/1546893247003623424)
+
+0 videos, 4 photos
+
+```
+
+#GoHomeGota #අරගලයටජය https://t.co/p9sy6W5wwA
+
+```
+
+![image](twtr_data/1546893247003623424.photo.01.jpg)
+
+![image](twtr_data/1546893247003623424.photo.03.jpg)
+
+![image](twtr_data/1546893247003623424.photo.02.jpg)
+
+![image](twtr_data/1546893247003623424.photo.00.jpg)
+
+---
+
+2022-07-12 21:43:41 by [RiyashaTweets](https://twitter.com/RiyashaTweets/status/1546890548253847553)
+
+0 videos, 1 photos
+
+```
+
+Tomorrow is the day...13th July...💪
+
+#GoHomeGota #GoHomeRanil #SriLanka #lka https://t.co/RHDw3bvfEF
+
+```
+
+![image](twtr_data/1546890548253847553.photo.00.jpg)
+
+---
+
+2022-07-12 21:43:37 by [rabithtweet](https://twitter.com/rabithtweet/status/1546890534362710021)
+
+0 videos, 1 photos
+
+```
+
+One last help from my president @GotabayaR 🙏 
+#GoHomeGota #GotaGoHome #GoHomeRajapaksas #lka #SriLankaProtests #SriLanka https://t.co/A3d9zXqU61
+
+```
+
+![image](twtr_data/1546890534362710021.photo.00.jpg)
+
+---
+
+2022-07-12 21:41:38 by [MrPerera10](https://twitter.com/MrPerera10/status/1546890035001458688)
+
+0 videos, 1 photos
+
+```
+
+ඕන තරම් මෝඩ වැඩ කරන්න.. හැබැයි ගෙදරක බිත්තියි, පුටුයි, පූල් එකයි පොතුයි බලන්න අතින් සල්ලි දීලා , මහ අව්වේ හිටගෙන පෝලිම් වල ඉන්න තරම් මෝඩ වෙන්න එපා.!!!
+ඇත්තටම තොපිට පිස්සු හැදීගෙන එනවද බන් #SriLankaProtests #GoHomeGota #අරගලයටජය  #sinhala #DailyMirror #news #aragalayatajaya https://t.co/vYhjODyYxT
+
+```
+
+![image](twtr_data/1546890035001458688.photo.00.jpg)
+
+---
+
+2022-07-12 21:39:43 by [MusicloverDML](https://twitter.com/MusicloverDML/status/1546889552689631232)
+
+0 videos, 1 photos
+
+```
+
+Sorry I didn’t ask your name 🙏  Thank  you bro god bless you ❤️❤️ #GoHomeRanil #GoHomeRajapaksas #GoHomeGota https://t.co/YhIoD6Nqdn
+
+```
+
+![image](twtr_data/1546889552689631232.photo.00.jpg)
+
+---
 
 2022-07-12 21:32:01 by [beingrahman2000](https://twitter.com/beingrahman2000/status/1546887614111764480)
 
@@ -1620,79 +1700,5 @@ Extinguishing tear gas at York Street/ Baron Jayathilake Mawatha area on 9th Jul
 ![image](twtr_data/1546769953042616320.video.00.mp4.clip.01.png)
 
 ![image](twtr_data/1546769953042616320.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 13:43:57 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1546769821156593665)
-
-1 videos, 0 photos
-
-```
-
-Give Our Stolen Money. Long live struggle!!!! #SriLankaProtests #GoHomeGota https://t.co/9MhvBoC9IW
-
-```
-
-![image](twtr_data/1546769821156593665.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546769821156593665.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 13:41:52 by [RoshiniWijesin3](https://twitter.com/RoshiniWijesin3/status/1546769294348124161)
-
-0 videos, 1 photos
-
-```
-
-Although victory seem so distant,  years of struggle to overcome this economic crisis,  never felt so genuinely hopeful for the future of this country, fellow citizens and our children. love to all ❤️🇱🇰🇱🇰 #GoHomeGota #SriLanka #lka https://t.co/W0357BQwhO
-
-```
-
-![image](twtr_data/1546769294348124161.photo.00.jpg)
-
----
-
-2022-07-12 13:20:41 by [geethmaa](https://twitter.com/geethmaa/status/1546763967468642304)
-
-0 videos, 1 photos
-
-```
-
-@emirates  we cannot express our thankfulness on you and your brave crew in Sri Lanka ❤️ Respect 🙏 #GoHomeGota #GoHomeRajapakshas https://t.co/BjgeElw4bJ
-
-```
-
-![image](twtr_data/1546763967468642304.photo.00.jpg)
-
----
-
-2022-07-12 13:18:37 by [geethmaa](https://twitter.com/geethmaa/status/1546763445047107584)
-
-0 videos, 1 photos
-
-```
-
-@qatarairways Love and respect ❤️ 
-#GoHomeGota #GoHomeRajapakshas #gohomeGota2022 https://t.co/Qrh79bMUZH
-
-```
-
-![image](twtr_data/1546763445047107584.photo.00.jpg)
-
----
-
-2022-07-12 13:17:06 by [geethmaa](https://twitter.com/geethmaa/status/1546763063386316801)
-
-0 videos, 1 photos
-
-```
-
-@flysrilankan hats off ❤️
-#GoHomeGota #GoHomeRajapakshas #gohomegota2022 https://t.co/8utbBV96G8
-
-```
-
-![image](twtr_data/1546763063386316801.photo.00.jpg)
 
 ---

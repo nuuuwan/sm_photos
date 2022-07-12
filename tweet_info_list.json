@@ -1,5 +1,106 @@
 [
   {
+    "tweet_url": "https://twitter.com/AaqifAhamed/status/1546893247003623424",
+    "id": 1546893247003623424,
+    "user": "AaqifAhamed",
+    "time_create_ut": 1657643064,
+    "text": "#GoHomeGota #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/p9sy6W5wwA",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeqyOGakAApl2I.jpg",
+      "https://pbs.twimg.com/media/FXeqyTsaMAUGDVF.jpg",
+      "https://pbs.twimg.com/media/FXeqyVvaMAAydRt.jpg",
+      "https://pbs.twimg.com/media/FXeqyZyaUAIvK_w.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546893247003623424.photo.03.jpg",
+    "local_media": {
+      "photo": [
+        "1546893247003623424.photo.01.jpg",
+        "1546893247003623424.photo.03.jpg",
+        "1546893247003623424.photo.02.jpg",
+        "1546893247003623424.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/RiyashaTweets/status/1546890548253847553",
+    "id": 1546890548253847553,
+    "user": "RiyashaTweets",
+    "time_create_ut": 1657642421,
+    "text": "Tomorrow is the day...13th July...\ud83d\udcaa\n\n#GoHomeGota #GoHomeRanil #SriLanka #lka https://t.co/RHDw3bvfEF",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeowW-VsAIqrx6.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546890548253847553.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546890548253847553.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/rabithtweet/status/1546890534362710021",
+    "id": 1546890534362710021,
+    "user": "rabithtweet",
+    "time_create_ut": 1657642417,
+    "text": "One last help from my president @GotabayaR \ud83d\ude4f \n#GoHomeGota #GotaGoHome #GoHomeRajapaksas #lka #SriLankaProtests #SriLanka https://t.co/A3d9zXqU61",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeovgZaQAAjoEO.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546890534362710021.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546890534362710021.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/MrPerera10/status/1546890035001458688",
+    "id": 1546890035001458688,
+    "user": "MrPerera10",
+    "time_create_ut": 1657642298,
+    "text": "\u0d95\u0db1 \u0dad\u0dbb\u0db8\u0dca \u0db8\u0ddd\u0da9 \u0dc0\u0dd0\u0da9 \u0d9a\u0dbb\u0db1\u0dca\u0db1.. \u0dc4\u0dd0\u0db6\u0dd0\u0dba\u0dd2 \u0d9c\u0dd9\u0daf\u0dbb\u0d9a \u0db6\u0dd2\u0dad\u0dca\u0dad\u0dd2\u0dba\u0dd2, \u0db4\u0dd4\u0da7\u0dd4\u0dba\u0dd2, \u0db4\u0dd6\u0dbd\u0dca \u0d91\u0d9a\u0dba\u0dd2 \u0db4\u0ddc\u0dad\u0dd4\u0dba\u0dd2 \u0db6\u0dbd\u0db1\u0dca\u0db1 \u0d85\u0dad\u0dd2\u0db1\u0dca \u0dc3\u0dbd\u0dca\u0dbd\u0dd2 \u0daf\u0dd3\u0dbd\u0dcf , \u0db8\u0dc4 \u0d85\u0dc0\u0dca\u0dc0\u0dda \u0dc4\u0dd2\u0da7\u0d9c\u0dd9\u0db1 \u0db4\u0ddd\u0dbd\u0dd2\u0db8\u0dca \u0dc0\u0dbd \u0d89\u0db1\u0dca\u0db1 \u0dad\u0dbb\u0db8\u0dca \u0db8\u0ddd\u0da9 \u0dc0\u0dd9\u0db1\u0dca\u0db1 \u0d91\u0db4\u0dcf.!!!\n\u0d87\u0dad\u0dca\u0dad\u0da7\u0db8 \u0dad\u0ddc\u0db4\u0dd2\u0da7 \u0db4\u0dd2\u0dc3\u0dca\u0dc3\u0dd4 \u0dc4\u0dd0\u0daf\u0dd3\u0d9c\u0dd9\u0db1 \u0d91\u0db1\u0dc0\u0daf \u0db6\u0db1\u0dca #SriLankaProtests #GoHomeGota #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba  #sinhala #DailyMirror #news #aragalayatajaya https://t.co/vYhjODyYxT",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXeoPCYaAAAXdce.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546890035001458688.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546890035001458688.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/MusicloverDML/status/1546889552689631232",
+    "id": 1546889552689631232,
+    "user": "MusicloverDML",
+    "time_create_ut": 1657642183,
+    "text": "Sorry I didn\u2019t ask your name \ud83d\ude4f  Thank  you bro god bless you \u2764\ufe0f\u2764\ufe0f #GoHomeRanil #GoHomeRajapaksas #GoHomeGota https://t.co/YhIoD6Nqdn",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXen13TX0AA5hoP.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1546889552689631232.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1546889552689631232.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/beingrahman2000/status/1546887614111764480",
     "id": 1546887614111764480,
     "user": "beingrahman2000",
@@ -10,10 +111,6 @@
       "https://video.twimg.com/ext_tw_video/1546886937247682561/pu/vid/720x1280/FRqAUAncZnZRyTaQ.mp4"
     ],
     "video_file_name": "twtr_data/1546887614111764480.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546887614111764480.video.00.mp4.clip.00.png",
-      "twtr_data/1546887614111764480.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -36,10 +133,6 @@
       "https://video.twimg.com/ext_tw_video/1546883869579919360/pu/vid/480x852/twWypwMkAtPdWbPh.mp4"
     ],
     "video_file_name": "twtr_data/1546883987078909952.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1546883987078909952.video.00.mp4.clip.00.png",
-      "twtr_data/1546883987078909952.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
