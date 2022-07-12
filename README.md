@@ -1,10 +1,27 @@
 # Social Media Photos
 
-*235 tweets as of 20220712-150025*
+*236 tweets as of 20220712-151944*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-12 15:03:29 by [bestbuyers7](https://twitter.com/bestbuyers7/status/1546789837159776258)
+
+1 videos, 0 photos
+
+```
+
+Basil Rajapaksa has arrived at Katunayake Airport the immigration officials refused to examine his documents.
+After this, there is tension there. https://t.co/4feypLho2A abroad #protest #viralnews #srilanka #gohomegota #gohomeranil #lk #poltical #news #worldnews #fyp #colombo https://t.co/ZtfeAqiKFo
+
+```
+
+![image](twtr_data/1546789837159776258.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1546789837159776258.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-12 14:48:17 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1546786010989678593)
 
@@ -1759,21 +1776,5 @@ Clearly, don't underestimate Lankans. And these images are just at the entrances
 ![image](twtr_data/1546714729908826112.photo.00.jpg)
 
 ![image](twtr_data/1546714729908826112.photo.01.jpg)
-
----
-
-2022-07-12 10:02:34 by [Amaliniii](https://twitter.com/Amaliniii/status/1546714109193793536)
-
-0 videos, 1 photos
-
-```
-
-මහජනතාව සඳහා විවෘතයි | பொது மக்களுக்காக திறந்திருக்கும் | Open for the people
-
-Scenes from a walk around three spaces in Colombo, reclaimed for the public on July 9th. #lka #srilanka #GoHomeGota https://t.co/2OmXBvuxtR
-
-```
-
-![image](twtr_data/1546714109193793536.photo.00.jpg)
 
 ---
