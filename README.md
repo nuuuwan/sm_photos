@@ -1,10 +1,42 @@
 # Social Media Photos
 
-*350 tweets as of 20220713-003707*
+*351 tweets as of 20220713-005650*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 00:45:20 by [EmDeeS11](https://twitter.com/EmDeeS11/status/1546936263210463232)
+
+0 videos, 4 photos
+
+```
+
+Protest Schedule July 13th;
+
+COME TO GGG TODAY!
+Let’s finish what we started!
+Let’s kick out Gota &amp; Ranil!
+The struggle is not over!
+
+#powertothepeople✊🏾
+#ResignGota
+#ResignRanil
+#GoHomeGota 
+#GoHomeRajapaksas 
+#GoHomeRanil https://t.co/JgY4HuBRVJ
+
+```
+
+![image](twtr_data/1546936263210463232.photo.01.jpg)
+
+![image](twtr_data/1546936263210463232.photo.00.jpg)
+
+![image](twtr_data/1546936263210463232.photo.02.jpg)
+
+![image](twtr_data/1546936263210463232.photo.03.jpg)
+
+---
 
 2022-07-13 00:35:44 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546933845924409344)
 
@@ -1708,22 +1740,5 @@ Sri Lanka 🇱🇰🏏💚
 ```
 
 ![image](twtr_data/1546816640607731712.photo.00.png)
-
----
-
-2022-07-12 16:41:14 by [lankasri_fm](https://twitter.com/lankasri_fm/status/1546814437507891202)
-
-1 videos, 0 photos
-
-```
-
-பெசில் எடுத்த முயற்சி தோல்வி!
-#besilrajapaksha #GoHomeGota #GoHomeRajapaksa #SriLanka #SriLankaProtests #SriLankaCrisis #SriLanka #SriLankaNews #GotabayaRajapaksha https://t.co/6NnxrM6jQr
-
-```
-
-![image](twtr_data/1546814437507891202.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546814437507891202.video.00.mp4.clip.00.png)
 
 ---
