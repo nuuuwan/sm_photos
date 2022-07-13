@@ -1,10 +1,35 @@
 # Social Media Photos
 
-*438 tweets as of 20220713-102640*
+*439 tweets as of 20220713-104021*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 10:35:03 by [hatheek4u](https://twitter.com/hatheek4u/status/1547084670474416128)
+
+1 videos, 0 photos
+
+```
+
+No LEADERS fled the country except GOTA 👇
+
+👉MahathirMuhammad 
+👉lee kuan u
+👉Vladimir putin 
+👉Jawaharlal Nehru 
+👉fidel castro
+
+ @UPGammanpila said that if you blend together above all world leaders skills blend in one person he will be @GotabayaR
+ #lka #GoHomeGota https://t.co/f7OnOoeQNk
+
+```
+
+![image](twtr_data/1547084670474416128.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1547084670474416128.video.00.mp4.clip.01.png)
+
+---
 
 2022-07-13 10:25:54 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1547082365817610240)
 
@@ -1716,23 +1741,5 @@ How can @MASumanthiran bring diaspora money when he getting this level of respec
 ```
 
 ![image](twtr_data/1546927398372814848.photo.00.jpg)
-
----
-
-2022-07-13 00:09:09 by [RJesuthasan](https://twitter.com/RJesuthasan/status/1546927156646879233)
-
-0 videos, 1 photos
-
-```
-
-New dawn. New Day. New Beginning. 🇱🇰
-
-Stay strong Sri Lanka. Truth will prevail. Together United... 🙏
-
-#srilanka #SriLankaCrisis #SriLankaProtests #GoHomeGota #SriLankaCrisis #Aragalaya  #SriLankaEconomicCrisis https://t.co/7JHVm9uCYV
-
-```
-
-![image](twtr_data/1546927156646879233.photo.00.jpg)
 
 ---
