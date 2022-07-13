@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/az_journalist/status/1547072573267095552",
+  "id": 1547072573267095552,
+  "user": "az_journalist",
+  "time_create_ut": 1657685819,
+  "text": "#GoHomeGota Protesters queuing for a self guided tour of the Presidential Secretariat building https://t.co/CAjPgnD4ZT",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1547072379137826816/pu/vid/1280x720/-p8A-hVsq_fTNTZz.mp4"
+  ],
+  "video_file_name": "twtr_data/1547072573267095552.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1547072573267095552.video.00.mp4.clip.00.png"
+  ]
+}

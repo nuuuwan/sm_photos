@@ -1,10 +1,141 @@
 # Social Media Photos
 
-*419 tweets as of 20220713-092120*
+*427 tweets as of 20220713-094939*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 09:47:26 by [exfrotezter](https://twitter.com/exfrotezter/status/1547072686329049088)
+
+1 videos, 0 photos
+
+```
+
+Appoint a clown and you get a circus.
+🤡 🎪 
+
+Let’s pressurise the government to abolish the executive presidency so we may never endure such clownery and tyranny again.
+
+#AbolishEPlk #SriLanka #GoHomeGota https://t.co/WzaRoTaSCU
+
+```
+
+![image](twtr_data/1547072686329049088.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 09:46:59 by [az_journalist](https://twitter.com/az_journalist/status/1547072573267095552)
+
+1 videos, 0 photos
+
+```
+
+#GoHomeGota Protesters queuing for a self guided tour of the Presidential Secretariat building https://t.co/CAjPgnD4ZT
+
+```
+
+![image](twtr_data/1547072573267095552.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 09:43:11 by [Krys_Types](https://twitter.com/Krys_Types/status/1547071616865419264)
+
+0 videos, 1 photos
+
+```
+
+#GoHomeGota #ArrestRajapaksas #PeoplesProtest #July13 #EndGameOn #EndTheDynasty #රෙද්ද🧣 #අරගලයටජය✊ https://t.co/9DoGlyaudb
+
+```
+
+![image](twtr_data/1547071616865419264.photo.00.jpg)
+
+---
+
+2022-07-13 09:41:40 by [Rasiya_Twitz](https://twitter.com/Rasiya_Twitz/status/1547071235594788864)
+
+0 videos, 1 photos
+
+```
+
+@TheMorningLK Cartoon by  @RcSullan
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/Z48og93nMR
+
+```
+
+![image](twtr_data/1547071235594788864.photo.00.jpg)
+
+---
+
+2022-07-13 09:38:32 by [Tamizhan_memez](https://twitter.com/Tamizhan_memez/status/1547070448218902528)
+
+0 videos, 1 photos
+
+```
+
+விடாது துரத்தும் ஈழம்.. 
+
+செய்த பாவம் விடாது.. சொந்த இன மக்களாலே விரட்டி அடிக்கப்படும் கொலைகார குடும்பம்.
+
+#GoHomeGota2022 #GoHomeGota https://t.co/8IER7JocsT
+
+```
+
+![image](twtr_data/1547070448218902528.photo.00.jpg)
+
+---
+
+2022-07-13 09:34:46 by [Ruwanb](https://twitter.com/Ruwanb/status/1547069501153644547)
+
+0 videos, 2 photos
+
+```
+
+Does no one talk about @PresRajapaksa and @RajapaksaNamal? Equally responsible for all things that happened. @Namal used social media along with @irajonline to create the mess. Are we going to be cry babies after they escape? Or take action now? #GoHomeGota #EconomicCrisisLK https://t.co/gA6J2XBu4i
+
+```
+
+![image](twtr_data/1547069501153644547.photo.01.jpg)
+
+![image](twtr_data/1547069501153644547.photo.00.jpg)
+
+---
+
+2022-07-13 09:32:34 by [kavinuishere](https://twitter.com/kavinuishere/status/1547068945278021633)
+
+0 videos, 1 photos
+
+```
+
+Hello @netflix, something to consider !!! 😅❤
+"Man who ran for president now running from presidency..."
+
+#GOHOMEGOTA https://t.co/iDUqvogfLV
+
+```
+
+![image](twtr_data/1547068945278021633.photo.00.jpg)
+
+---
+
+2022-07-13 09:27:38 by [Sampath_101](https://twitter.com/Sampath_101/status/1547067702409367552)
+
+1 videos, 0 photos
+
+```
+
+රට රකින විරුවා ඉස් ඔන් ද රන්...
+#Runningවිරුවා
+
+#රටමකොළඹට #අරගලයටජය #SriLanka #GoHomeGota #GoHomeRajapakshas  #GotaGoHome2022  #ProtestLK  #EconomicCrisisLK #FuelCrisisLK #SLnews #July9th #Maldives https://t.co/6MZCF1lRpI
+
+```
+
+![image](twtr_data/1547067702409367552.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-13 09:16:02 by [Shaanttey](https://twitter.com/Shaanttey/status/1547064783979282432)
 
@@ -1587,147 +1718,5 @@ There is no limit to their jokes 🤪🤪
 ```
 
 ![image](twtr_data/1546905406160527360.photo.00.jpg)
-
----
-
-2022-07-12 22:23:49 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546900648176029696)
-
-0 videos, 1 photos
-
-```
-
-ඊයා නෙහේ ෆෙන් 😂😂😂 අපරාධ අරගලයට ජය වේවා
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/BQrDo6JkR3
-
-```
-
-![image](twtr_data/1546900648176029696.photo.00.jpg)
-
----
-
-2022-07-12 22:23:07 by [munza14](https://twitter.com/munza14/status/1546900473034092546)
-
-0 videos, 1 photos
-
-```
-
-I am ready with the chocolates to stress eat tomorrow if Gotabaya Rajapaksa does not resign.
-Go home @GotabayaR!
-#LKA #SriLanka #GoHomeGota https://t.co/pucbg1Afyv
-
-```
-
-![image](twtr_data/1546900473034092546.photo.00.jpg)
-
----
-
-2022-07-12 22:21:57 by [jessiefer](https://twitter.com/jessiefer/status/1546900179881586688)
-
-1 videos, 0 photos
-
-```
-
-The energy up in here is insane tonight! 😭
-
-#ProtestLK #GoHomeGota #GoHomeRanil https://t.co/Gnk9dU5Dra
-
-```
-
-![image](twtr_data/1546900179881586688.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 22:18:46 by [aqeel_ghouzul](https://twitter.com/aqeel_ghouzul/status/1546899379226697728)
-
-0 videos, 1 photos
-
-```
-
-Tamil National Alliance (TNA) MP Shanakiyan Rasamanickam,says it is essential to obtain the ʀᴇꜱɪɢɴᴀᴛɪᴏɴ Of The Prime Minister @RW_UNP , alongside that of President @GotabayaR ..
-
-#GoHomeRajapaksas 
-#GoHomeRanil 
-#GoHomeGota https://t.co/ZWTIsItRJ9
-
-```
-
-![image](twtr_data/1546899379226697728.photo.00.png)
-
----
-
-2022-07-12 22:18:26 by [Bee_Hi123](https://twitter.com/Bee_Hi123/status/1546899293339992064)
-
-0 videos, 1 photos
-
-```
-
-🔥🔥🔥🔥 #GoHomeGota https://t.co/WpwE90wa5w
-
-```
-
-![image](twtr_data/1546899293339992064.photo.00.jpg)
-
----
-
-2022-07-12 22:18:15 by [adopteeslk](https://twitter.com/adopteeslk/status/1546899250298044416)
-
-0 videos, 4 photos
-
-```
-
-Adorable 2 month old kittens up for free adoption at Borelasgamuwa. Boy (ginger) &amp; girl. Affectionate &amp; playful.
-
-Contact: Jayathilaka - 070 252 0791
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/hugoQ248GY
-
-```
-
-![image](twtr_data/1546899250298044416.photo.03.jpg)
-
-![image](twtr_data/1546899250298044416.photo.00.jpg)
-
-![image](twtr_data/1546899250298044416.photo.02.jpg)
-
-![image](twtr_data/1546899250298044416.photo.01.jpg)
-
----
-
-2022-07-12 22:17:59 by [Judeoff](https://twitter.com/Judeoff/status/1546899183004962816)
-
-0 videos, 4 photos
-
-```
-
-Superb 👏❤️ 🙏
-
-#GoHomeGota2022 #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/piFE3ajMqx
-
-```
-
-![image](twtr_data/1546899183004962816.photo.01.jpg)
-
-![image](twtr_data/1546899183004962816.photo.03.jpg)
-
-![image](twtr_data/1546899183004962816.photo.00.jpg)
-
-![image](twtr_data/1546899183004962816.photo.02.jpg)
-
----
-
-2022-07-12 22:17:52 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546899153498030080)
-
-0 videos, 1 photos
-
-```
-
-මේක බෞද්ධ රාජ්ජයක් නෙමෙයි යකෝ..අපිට අපරාධ කරන්න ඕනේ රාජ්ජයක්.
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/11iBkQZtb2
-
-```
-
-![image](twtr_data/1546899153498030080.photo.00.jpg)
 
 ---
