@@ -1,10 +1,76 @@
 # Social Media Photos
 
-*380 tweets as of 20220713-051539*
+*384 tweets as of 20220713-055628*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 05:38:27 by [AyshanAbdullah](https://twitter.com/AyshanAbdullah/status/1547010029584367617)
+
+0 videos, 1 photos
+
+```
+
+Gotabaya Rajapaksa is staying at the Hulhule Island Hotel, which close to the Velana International. Looks like he turned down the offer to stay and relax in a resort for two days and is in a hurry to catch a flight to Dubai.
+#LKA #SriLanka #GoHomeGota #SriLankaCrisis #Aragalaya https://t.co/YEyAh1vRS1
+
+```
+
+![image](twtr_data/1547010029584367617.photo.00.jpg)
+
+---
+
+2022-07-13 05:37:02 by [exfrotezter](https://twitter.com/exfrotezter/status/1547009670866296832)
+
+0 videos, 1 photos
+
+```
+
+Sources inside the Maldives state that @GotabayaR is still at the Velana airport waiting to board his @emirates flight to the UAE.
+
+Unconfirmed.
+#GotaFlees #SriLankaProtests #GoHomeGota https://t.co/Kv1Xal2PNn https://t.co/U0V65Vz9r7
+
+```
+
+![image](twtr_data/1547009670866296832.photo.00.jpg)
+
+---
+
+2022-07-13 05:31:03 by [Chukkiiiiiii](https://twitter.com/Chukkiiiiiii/status/1547008167275483136)
+
+0 videos, 1 photos
+
+```
+
+Remember that you are worser than a Karma @GotabayaR 
+And this is what we got. We have superb army with backbone, ya know. 😑
+#GoHomeGota #gojailrajapakshas #SriLankaProtests #SriLanka #GoHomeRajapakshas #lka https://t.co/mUcoA7lfil
+
+```
+
+![image](twtr_data/1547008167275483136.photo.00.jpg)
+
+---
+
+2022-07-13 05:16:24 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1547004478414622721)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka Cartoon by ChickeraGihan 
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/FEYuNi5xux #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #themorninglk https://t.co/CyaKxPq03x
+
+```
+
+![image](twtr_data/1547004478414622721.photo.01.jpg)
+
+![image](twtr_data/1547004478414622721.photo.00.jpg)
+
+---
 
 2022-07-13 05:08:31 by [cartoonlka](https://twitter.com/cartoonlka/status/1547002495049748480)
 
@@ -1673,66 +1739,5 @@ Sri Lanka president’s attempts to leave country fail, US visa appeal rejected:
 ```
 
 ![image](twtr_data/1546851695358922755.photo.00.jpg)
-
----
-
-2022-07-12 19:04:48 by [lahirusena](https://twitter.com/lahirusena/status/1546850565799391232)
-
-0 videos, 1 photos
-
-```
-
-@RealBRajapaksa First class One way is too cheap! #GoHomeGota https://t.co/WkrF0UnTb3
-
-```
-
-![image](twtr_data/1546850565799391232.photo.00.jpg)
-
----
-
-2022-07-12 18:58:52 by [suba_janan](https://twitter.com/suba_janan/status/1546849072568344576)
-
-1 videos, 0 photos
-
-```
-
-#lka #SriLanka #SLnews #News1st #President #GotabayaRajapaksa #CrisisLK #ProtestLK #Visa #USA #PowerCutLK #SriLankaCrisis #GoHomeGota #GotaResign #fitnesslove #fitness #gym https://t.co/su1urepzip
-
-```
-
-![image](twtr_data/1546849072568344576.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546849072568344576.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 18:52:01 by [jehanssam](https://twitter.com/jehanssam/status/1546847348998909952)
-
-0 videos, 1 photos
-
-```
-
-Let’s make a documentary that brings fear to all the corrupt politicians throughout the world @netflix 
-#GoHomeGota #EconomicCrisisLK #ProtestLK #DutchFarmersProtest https://t.co/8KpLtfDIBd
-
-```
-
-![image](twtr_data/1546847348998909952.photo.00.jpg)
-
----
-
-2022-07-12 18:47:01 by [KanishkaAbeysi1](https://twitter.com/KanishkaAbeysi1/status/1546846089222860801)
-
-0 videos, 1 photos
-
-```
-
-මන්දිරේ දැක බලා සාගිනි නිවා ගන්නා මහජනයා.
-
-#lka #GoHomeGota https://t.co/0kr72XAYsf
-
-```
-
-![image](twtr_data/1546846089222860801.photo.00.jpg)
 
 ---
