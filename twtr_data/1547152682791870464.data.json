@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/pcplustech/status/1547152682791870464",
+  "id": 1547152682791870464,
+  "user": "pcplustech",
+  "time_create_ut": 1657704918,
+  "text": "@UNHumanRights @unhrcpr #GoHomeGota #GoHomeRanil #SriLanka #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis https://t.co/EL3Jr2kLbd",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1547152536645533696/pu/vid/720x1088/arRXdaAbSSifbiys.mp4"
+  ],
+  "video_file_name": "twtr_data/1547152682791870464.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1547152682791870464.video.00.mp4.clip.00.png"
+  ]
+}
