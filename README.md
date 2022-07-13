@@ -1,10 +1,128 @@
 # Social Media Photos
 
-*412 tweets as of 20220713-083737*
+*419 tweets as of 20220713-092120*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 09:16:02 by [Shaanttey](https://twitter.com/Shaanttey/status/1547064783979282432)
+
+0 videos, 1 photos
+
+```
+
+ލަންކާގެ މަޝްހޫރު ނޫސްވެރިއެއް ކަމަށްވާ ޝިހާރު އަނީސްގެ ޓްވީޓެއް.
+@shiharaneez #SriLanka #SriLankaProtests #SendGotaBackToHome #GoHomeGota https://t.co/PTO34j91py
+
+```
+
+![image](twtr_data/1547064783979282432.photo.00.jpg)
+
+---
+
+2022-07-13 09:11:17 by [MarianneDavid24](https://twitter.com/MarianneDavid24/status/1547063591186010112)
+
+0 videos, 1 photos
+
+```
+
+පලා ගොස්‌ ඇත. 
+තවමත් resign වි නැත.
+
+#lka #SriLanka #GoHomeRajapaksas #GoHomeGota https://t.co/4kBP8LLdBv
+
+```
+
+![image](twtr_data/1547063591186010112.photo.00.jpg)
+
+---
+
+2022-07-13 09:10:22 by [Roshenchp](https://twitter.com/Roshenchp/status/1547063360994557952)
+
+0 videos, 2 photos
+
+```
+
+Hats off @flysrilankan 🇱🇰✈️
+Eeyaaa @airforcelk 🥱
+#SriLankaProtests #SriLanka #GoHomeGota #Shame #GotabayaRajapaksa 
+
+Dear #Maldives people, please stand with #SriLankan people to send SL corrupted #President. Say #GoHomeGota #Please https://t.co/0gXRYex8pr
+
+```
+
+![image](twtr_data/1547063360994557952.photo.01.jpg)
+
+![image](twtr_data/1547063360994557952.photo.00.jpg)
+
+---
+
+2022-07-13 09:08:24 by [_Luka_Ar](https://twitter.com/_Luka_Ar/status/1547062865525293056)
+
+1 videos, 0 photos
+
+```
+
+මිනිස්සුන්ට කිසිම හේතුවක් නැතුව ගහන්න පොලීසියට පුළුවන්ද මෙහෙම!!මුන් දැන් වෙනම ගේමකට යන්න හදන්නේ.. පැහැදිලිවම මිනිස්සුන්ව අවුස්සලා මෙච්චර කාලයක් සාමකාමීව ගෙනිච්ච අරගලේ විනාසකරලා ආයෙත් 88 89 වගේ බලෙන් හරි පත් කරලා අපේ කොල්ලො කෙල්ලොන්ගෙන් පලිගන්න..🤬
+
+#GoHomeGota #GoHomeRajapaksas https://t.co/ZVBZtZS0bk
+
+```
+
+![image](twtr_data/1547062865525293056.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1547062865525293056.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-13 08:53:58 by [imjeganG](https://twitter.com/imjeganG/status/1547059231098281985)
+
+0 videos, 1 photos
+
+```
+
+President Gotabaya Rajapaksa has left the country on a military jet and arrived in the capital of the Maldives, Male, at around 03:00 local time ( 22:00 GMT ) #Lka #SriLanka #GoHomeGota https://t.co/LVUBhGd7pS
+
+```
+
+![image](twtr_data/1547059231098281985.photo.00.jpg)
+
+---
+
+2022-07-13 08:47:23 by [lukshayanmuthu](https://twitter.com/lukshayanmuthu/status/1547057574813372416)
+
+0 videos, 3 photos
+
+```
+
+@youthforsjb ‘s 3rd community kitchen program in kegalle today ! #EconomicCrisisLK #SriLanka #EconomicCrisis #GoHomeRanil #GoHomeGota https://t.co/HHY3DTxTUC
+
+```
+
+![image](twtr_data/1547057574813372416.photo.01.jpg)
+
+![image](twtr_data/1547057574813372416.photo.02.jpg)
+
+![image](twtr_data/1547057574813372416.photo.00.jpg)
+
+---
+
+2022-07-13 08:41:00 by [ArjunNaveen27](https://twitter.com/ArjunNaveen27/status/1547055967837163520)
+
+0 videos, 1 photos
+
+```
+
+Below is the announcement issued by the Sri Lanka Air Force regarding the departure of the President 
+#GotaLeft #GotabayaRajapaksha
+#GoHomeGota #GotaResign https://t.co/PgfBQtDbag
+
+```
+
+![image](twtr_data/1547055967837163520.photo.00.jpg)
+
+---
 
 2022-07-13 08:36:22 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1547054801443205120)
 
@@ -1611,134 +1729,5 @@ Superb 👏❤️ 🙏
 ```
 
 ![image](twtr_data/1546899153498030080.photo.00.jpg)
-
----
-
-2022-07-12 22:16:16 by [sana09796326](https://twitter.com/sana09796326/status/1546898750706044928)
-
-0 videos, 1 photos
-
-```
-
-🔴 Racial Divide ?! 😐
-#SriLankaProtests #SriLankaCrisis #SRILanka #lka #GoHomeGota #ProtestLK https://t.co/tYailSb07m https://t.co/oBud7j9Tzf
-
-```
-
-![image](twtr_data/1546898750706044928.photo.00.jpg)
-
----
-
-2022-07-12 22:16:06 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546898706406215680)
-
-0 videos, 2 photos
-
-```
-
-අපිට අතීතයේ ඒවා වැඩක් නෑ.. අපිට ඕනේ රටම විනාශ කරන්න.අරගලයට ජය වේවා
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/7FLWEBhO2f
-
-```
-
-![image](twtr_data/1546898706406215680.photo.00.jpg)
-
-![image](twtr_data/1546898706406215680.photo.01.jpg)
-
----
-
-2022-07-12 22:15:03 by [adopteeslk](https://twitter.com/adopteeslk/status/1546898444966457344)
-
-0 videos, 3 photos
-
-```
-
-Adorable 4 month old boy up for free adoption at Wellampitiya. Affectionate &amp; playful. Love to cuddle. Vaccinated. Can deliver within Colombo.
-
-Contact: Vajira - 071 760 0562
-
-#SriLanka #GoHomeGota #GoHomeRajapaksas #lka #SLnews #adaderanasinhala #News1st #Colombo https://t.co/UZVufBjFrj
-
-```
-
-![image](twtr_data/1546898444966457344.photo.00.jpg)
-
-![image](twtr_data/1546898444966457344.photo.01.jpg)
-
-![image](twtr_data/1546898444966457344.photo.02.jpg)
-
----
-
-2022-07-12 22:14:37 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546898335419998208)
-
-0 videos, 2 photos
-
-```
-
-ඔයේ..අරගලයට ජය වේවා.කොහොමද අපේ කපා කොටා ගැනිල්ල
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/sUtlgOW2Dz
-
-```
-
-![image](twtr_data/1546898335419998208.photo.01.jpg)
-
-![image](twtr_data/1546898335419998208.photo.00.jpg)
-
----
-
-2022-07-12 22:11:52 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546897643288563714)
-
-1 videos, 0 photos
-
-```
-
-සුවද සබන් ඇග ගාලා හායි හායි.
-ජොකා ගලවන්න ඕනේ මෙහෙම මෙහෙම හායි හායි🤣🤣🤣
-අපේ අපරාධ අරගලයට ජය වේවා
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/akeuYjABIB
-
-```
-
-![image](twtr_data/1546897643288563714.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546897643288563714.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 21:54:24 by [AaqifAhamed](https://twitter.com/AaqifAhamed/status/1546893247003623424)
-
-0 videos, 4 photos
-
-```
-
-#GoHomeGota #අරගලයටජය https://t.co/p9sy6W5wwA
-
-```
-
-![image](twtr_data/1546893247003623424.photo.01.jpg)
-
-![image](twtr_data/1546893247003623424.photo.03.jpg)
-
-![image](twtr_data/1546893247003623424.photo.02.jpg)
-
-![image](twtr_data/1546893247003623424.photo.00.jpg)
-
----
-
-2022-07-12 21:43:41 by [RiyashaTweets](https://twitter.com/RiyashaTweets/status/1546890548253847553)
-
-0 videos, 1 photos
-
-```
-
-Tomorrow is the day...13th July...💪
-
-#GoHomeGota #GoHomeRanil #SriLanka #lka https://t.co/RHDw3bvfEF
-
-```
-
-![image](twtr_data/1546890548253847553.photo.00.jpg)
 
 ---
