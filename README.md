@@ -1,10 +1,96 @@
 # Social Media Photos
 
-*439 tweets as of 20220713-104021*
+*444 tweets as of 20220713-110014*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 10:57:48 by [SlSports5](https://twitter.com/SlSports5/status/1547090396156674048)
+
+0 videos, 1 photos
+
+```
+
+අරගලය අපිට ප්‍රශ්නයක් වුනේ නෑ - ලංකාව වෙනසක් ඉල්ලනවා / Pat Cummins #shorts 
+Link - https://t.co/ji6vEVglQR
+#gohomegota #srilanka #gota #slsports #slvsaus #galletest #2ndTest #chandi200 #prabath 
+For More Sports News - 
+https://t.co/OwxosnrEv6..
+https://t.co/4ojjEsPrvA... https://t.co/GDSe032L4B
+
+```
+
+![image](twtr_data/1547090396156674048.photo.00.jpg)
+
+---
+
+2022-07-13 10:52:34 by [soysa007](https://twitter.com/soysa007/status/1547089079119986688)
+
+0 videos, 1 photos
+
+```
+
+නාලා වරෙන් @NewsfirstSL @SirasaTVlk , අපි නොදන්න උඹලගේ Political Propaganda. 🖕🖕🤣  #lka #srilanka මිනිස්සුන්ට බොරු කරලා, අන්දලා බලපන්කෝ උබලටත් මොකද වෙන්නේ කියලා.  
+
+#SriLankaCrisis #SriLankaProtests #GoHomeGota https://t.co/vEwWpqcNkc
+
+```
+
+![image](twtr_data/1547089079119986688.photo.00.jpg)
+
+---
+
+2022-07-13 10:49:34 by [KalhanRan](https://twitter.com/KalhanRan/status/1547088323344076800)
+
+0 videos, 1 photos
+
+```
+
+While we wait for resignation , President Gotabaya  flew to Maldives on military jet !
+#LKA #SriLanka #ශ්‍රීලංකා #இலங்கை #SriLankaCrisis #SriLankaProtests #July13th #Aragalaya #Maldives #Male #GoHomeGota #GotaLeft 
+https://t.co/dXHW9LXHpc https://t.co/OhnaE0vrJh
+
+```
+
+![image](twtr_data/1547088323344076800.photo.00.jpg)
+
+---
+
+2022-07-13 10:46:39 by [RoshiniWijesin3](https://twitter.com/RoshiniWijesin3/status/1547087589207064576)
+
+1 videos, 0 photos
+
+```
+
+When I think about @GotabayaR resignation today.... 🇱🇰❤️ 
+#lka #GoHomeGota #SriLankaProtests https://t.co/PnWJeiMMLa
+
+```
+
+![image](twtr_data/1547087589207064576.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 10:45:10 by [exfrotezter](https://twitter.com/exfrotezter/status/1547087215628431360)
+
+1 videos, 0 photos
+
+```
+
+Time to bring out this prophetic banger! 
+
+'තුන් හෙළේ ගිනි අවුලා ඒ ගින්නේ අපි දැවෙනා
+ලක් මවගේ ඇස් වහලා ගෝඨා මාලේ ගියා'
+
+#GoHomeGota #SriLanka 
+https://t.co/dbYy3s2KAq
+
+```
+
+![image](twtr_data/1547087215628431360.video.00.mp4.clip.00.png)
+
+---
 
 2022-07-13 10:35:03 by [hatheek4u](https://twitter.com/hatheek4u/status/1547084670474416128)
 
@@ -1658,88 +1744,5 @@ Absolutely, should be grateful for what is causing this mess in about two years 
 ```
 
 ![image](twtr_data/1546928495095267329.photo.00.jpg)
-
----
-
-2022-07-13 00:13:29 by [lukshayanmuthu](https://twitter.com/lukshayanmuthu/status/1546928249896218624)
-
-1 videos, 0 photos
-
-```
-
-@milindarj I think @Abihabib was stressed after that interview coz she might got to know  how this empty vessel @GotabayaR going to create disaster to #SriLankan s . #GoHomeGota #GoHomeRanil #EconomicCrisisLK #srilanka https://t.co/M1LF6Nllyb
-
-```
-
-![image](twtr_data/1546928249896218624.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546928249896218624.video.00.mp4.clip.03.png)
-
-![image](twtr_data/1546928249896218624.video.00.mp4.clip.02.png)
-
-![image](twtr_data/1546928249896218624.video.00.mp4.clip.00.png)
-
----
-
-2022-07-13 00:13:12 by [ChirathPerera89](https://twitter.com/ChirathPerera89/status/1546928176445550592)
-
-1 videos, 0 photos
-
-```
-
-How can @MASumanthiran bring diaspora money when he getting this level of respect in diaspora?? Can someone answer? #SriLankaCrisis #SriLankaprotest #GoHomeGota #SriLankaEconomicCrisis https://t.co/TS4rIqjCWr
-
-```
-
-![image](twtr_data/1546928176445550592.video.00.mp4.clip.00.png)
-
----
-
-2022-07-13 00:12:55 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546928104613957632)
-
-0 videos, 1 photos
-
-```
-
-අපි හැදෙනවා 
-රට විනාශ කරනවා එක ඇත්තමයි..අපි කොහොම හරි ජනාධිපති මැදුරේ පඩි පෙළ කැඩුවා අයියෝ
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/HPmiGgIBxU
-
-```
-
-![image](twtr_data/1546928104613957632.photo.00.jpg)
-
----
-
-2022-07-13 00:11:04 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546927640006631425)
-
-0 videos, 1 photos
-
-```
-
-ඒ කාලේ අපි කොල්ලෝ ඉස්සුවේ නෑ අයියෝ.. දන්නේ නැතුව දාගෙන ගියා අයියෝ
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/WSjjfXRKU7
-
-```
-
-![image](twtr_data/1546927640006631425.photo.00.jpg)
-
----
-
-2022-07-13 00:10:06 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546927398372814848)
-
-0 videos, 1 photos
-
-```
-
-අපේ අපරාධ අරගලය නිසා රටම කිච උනා අයියෝ..ගෝටා අද ඉල්ලා අස්වෙන්නේ නැහැලු අයියෝ.. ආරක්ෂාව සපයන කම් අයියෝ.. අපිට ගහයිද මන්ද අයියෝ..
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/dNynb26umW
-
-```
-
-![image](twtr_data/1546927398372814848.photo.00.jpg)
 
 ---
