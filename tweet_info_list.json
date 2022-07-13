@@ -1,5 +1,573 @@
 [
   {
+    "tweet_url": "https://twitter.com/lelum_sasmitha/status/1547145974774394881",
+    "id": 1547145974774394881,
+    "user": "lelum_sasmitha",
+    "time_create_ut": 1657703319,
+    "text": "\u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0dad\u0dd4\u0dbd \u0d91\u0dad\u0dd9\u0d9a\u0dca \u0db8\u0dd9\u0dad\u0dd9\u0d9a\u0dca \u0db6\u0dd2\u0dc4\u0dd2\u0dc0\u0dd6 \u0dad\u0dd4\u0da0\u0dca\u0da0\u0dad\u0db8,\u0db6\u0dd2\u0dba\u0d9c\u0dd4\u0dbd\u0dd4\u0db8 \u0da2\u0db1\u0dcf\u0db0\u0dd2\u0db4\u0dad\u0dd2 \u0db1\u0db1\u0dca\u0daf\u0dc3\u0dda\u0db1 \u0d9c\u0ddd\u0da8\u0dcf\u0db7\u0dba\u0dba\u0dd2\ud83d\ude24\ud83d\ude21\n#EconomicCrisis \n#GoHomeGota \n#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/m8VBmEx0Vl",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiREGwaMAIKA5F.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547145974774394881.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547145974774394881.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/edamcena/status/1547145449093509120",
+    "id": 1547145449093509120,
+    "user": "edamcena",
+    "time_create_ut": 1657703194,
+    "text": "#Maldives #Gota #GoHomeGota #MohamedNasheed #SriLankaProtests #Male #LKA #SriLanka https://t.co/OAPyz1A8x7",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiPWVAUYAAxHSG.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547145449093509120.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547145449093509120.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/LuhansaUd/status/1547145281145556993",
+    "id": 1547145281145556993,
+    "user": "LuhansaUd",
+    "time_create_ut": 1657703154,
+    "text": "All the International fans in my acc..Pls Pray for my Motherland..\ud83d\ude2d\u2764\ufe0f\ud83c\uddf1\ud83c\uddf0\u2764\ufe0f\n#GoHomeGota \n#\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/RxTora7Yf9",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiQbtjaQAEo0bS.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547145281145556993.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547145281145556993.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/HameedArafath/status/1547145126518013952",
+    "id": 1547145126518013952,
+    "user": "HameedArafath",
+    "time_create_ut": 1657703117,
+    "text": "#gohomegota https://t.co/ktnpMHU1Gb",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547145105370681344/pu/vid/304x426/JGWDEJv412tJ0zmV.mp4"
+    ],
+    "video_file_name": "twtr_data/1547145126518013952.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547145126518013952.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547145126518013952.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547145126518013952.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Welikumbura/status/1547145127172247552",
+    "id": 1547145127172247552,
+    "user": "Welikumbura",
+    "time_create_ut": 1657703117,
+    "text": "\"THE MOB,\" according to some #InternationalMedia helping a dog caught in the teargas. For the media does not have that agenda, we invite you to show the world what is actually going on in our country.\n\n\ud83d\udcf9:@Lakshandissana \n\n#lka #SriLanka #GoHOmeGota #GoHomeRanil #SriLankaProtests https://t.co/CStBGKVCPZ",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547144358809329665/pu/vid/404x270/3z1vM69-n2n617pl.mp4"
+    ],
+    "video_file_name": "twtr_data/1547145127172247552.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547145127172247552.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547145127172247552.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547145127172247552.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/PrateekPratap5/status/1547144988735070209",
+    "id": 1547144988735070209,
+    "user": "PrateekPratap5",
+    "time_create_ut": 1657703084,
+    "text": "Sri Lanka National Television off air at the moment, after protesters entered the station #shrilanka #GoHomeGota https://t.co/UihsHYKh31",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547144914315554816/pu/vid/520x270/nciV4Bl5O4egaEgh.mp4"
+    ],
+    "video_file_name": "twtr_data/1547144988735070209.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547144988735070209.video.00.mp4.clip.00.png",
+      "twtr_data/1547144988735070209.video.00.mp4.clip.01.png",
+      "twtr_data/1547144988735070209.video.00.mp4.clip.02.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547144988735070209.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547144988735070209.video.00.mp4.clip.02.png",
+        "1547144988735070209.video.00.mp4.clip.00.png",
+        "1547144988735070209.video.00.mp4.clip.01.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Roshenchp/status/1547144924965240832",
+    "id": 1547144924965240832,
+    "user": "Roshenchp",
+    "time_create_ut": 1657703069,
+    "text": "@RW_UNP has ordered to impose curfew in Western province but why this army aims gun at peaceful people.\n@hrw @UNHumanRights @CNN @BBCBreaking @AlJazeera @WIONews \nPlease help #SriLanka \n#SriLankaProtests #SriLankaCrisis #GoHomeGota https://t.co/XuoalrMQmJ",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiQHCxaAAAj74W.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547144924965240832.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547144924965240832.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/67ApY7unC7JwfMs/status/1547144812779806725",
+    "id": 1547144812779806725,
+    "user": "67ApY7unC7JwfMs",
+    "time_create_ut": 1657703042,
+    "text": "#SriLankaProtests\n#Colombo \n#SriLanka \n#GoHomeGota \n#GoHomeRanil \n\u0ba8\u0bbe\u0ba9\u0bcd \u0b87\u0ba9\u0bcd\u0bb1\u0bc1  GotaGoGama \u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0ba9\u0bcd\u0bb1\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc7\u0ba9\u0bcd \u0b85\u0b99\u0bcd\u0b95\u0bc1  \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0bae\u0bbe\u0ba9\u0baa\u0bcd\u0baa\u0b9f\u0bc8 \u0b95\u0bcb\u0bb4\u0bc8\u0ba4\u0bcd\u0ba4\u0ba9\u0bae\u0bbe\u0b95 Helicopter \u0b87\u0bb2\u0bcd \u0b87\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1  \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bb0\u0bcd\u0b95\u0bb3\u0bc8 \u0ba4\u0bc1\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u0bc1\u0bb1\u0bbf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bb5\u0bbe\u0bb1\u0bc1 \u0ba4\u0bbe\u0bb4\u0bcd\u0bb5\u0bbe\u0b95  \u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bbf\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1 \u0b85\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0ba8\u0bbe\u0ba9\u0bcd \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4 \u0baa\u0bc1\u0b95\u0bc8\u0baa\u0bcd\u0baa\u0b9f\u0bae\u0bcd,\u0b95\u0bbe\u0ba3\u0bca\u0bb3\u0bbf https://t.co/8whgb7lSBr",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547144726729502720/pu/vid/1280x720/GC60EyQlPa7-Tfmy.mp4"
+    ],
+    "video_file_name": "twtr_data/1547144812779806725.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547144812779806725.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547144812779806725.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547144812779806725.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/mjtheorem/status/1547144721646354432",
+    "id": 1547144721646354432,
+    "user": "mjtheorem",
+    "time_create_ut": 1657703020,
+    "text": "Sri Lanka National TV goes off air after protesters enter station (Video)\n\nDetails: https://t.co/GiWXVVCqhr\n#GoHomeGota #GoHomeRanil #GoHomeRajapakshas https://t.co/AMMqNxgvOA",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiP7JjaIAAKCu9.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547144721646354432.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547144721646354432.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/RPiyathma/status/1547144476652539904",
+    "id": 1547144476652539904,
+    "user": "RPiyathma",
+    "time_create_ut": 1657702962,
+    "text": "@CNN @BBCWorld @AlJazeera @UNHumanRights @FoxNews @abcnews keep your eye on @SriLanka. These innocent people don't deserve this. They are protesting against the most corrupted regime in the world history. #GoHomeGota #GoHomeRanil https://t.co/EUU6aOrT9H https://t.co/eAz0LYnQ2y",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiPs6RXEAEB8U4.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547144476652539904.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547144476652539904.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Judeoff/status/1547144380246417408",
+    "id": 1547144380246417408,
+    "user": "Judeoff",
+    "time_create_ut": 1657702939,
+    "text": "Aragalaya protestors tending to an innocent street dog hit by brutal tear gas.\n\n#GoHomeGota2022 #Colombo  #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/912dXJ8Qjo",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547144153037152256/pu/vid/720x1280/DUTjansR1M1OADQ_.mp4"
+    ],
+    "video_file_name": "twtr_data/1547144380246417408.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547144380246417408.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547144380246417408.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547144380246417408.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Im_Mushfiq/status/1547144159685152769",
+    "id": 1547144159685152769,
+    "user": "Im_Mushfiq",
+    "time_create_ut": 1657702886,
+    "text": "#GoHomeGota https://t.co/ctHDOSnrGY",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiPaVsaQAIW1OZ.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547144159685152769.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547144159685152769.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Faleaderofheart/status/1547143587942391808",
+    "id": 1547143587942391808,
+    "user": "Faleaderofheart",
+    "time_create_ut": 1657702750,
+    "text": "Jayagamu. #GoHomeGota2022 #GoHomeGota #GoHomeRanil #GoHomeRajapakshas #EconomicCrisisLK https://t.co/NioAAHg5Qr",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547139760509964288/pu/vid/640x360/X1vEdV6swE3qzJ6M.mp4"
+    ],
+    "video_file_name": "twtr_data/1547143587942391808.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547143587942391808.video.00.mp4.clip.00.png",
+      "twtr_data/1547143587942391808.video.00.mp4.clip.01.png",
+      "twtr_data/1547143587942391808.video.00.mp4.clip.02.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547143587942391808.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547143587942391808.video.00.mp4.clip.01.png",
+        "1547143587942391808.video.00.mp4.clip.00.png",
+        "1547143587942391808.video.00.mp4.clip.02.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/MethuShavi1/status/1547143512600477697",
+    "id": 1547143512600477697,
+    "user": "MethuShavi1",
+    "time_create_ut": 1657702732,
+    "text": "Today #GoHomeGota https://t.co/tQJR5uuuZ2",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiO0fmagAAytqg.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547143512600477697.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547143512600477697.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/LloydFernando11/status/1547143487698505729",
+    "id": 1547143487698505729,
+    "user": "LloydFernando11",
+    "time_create_ut": 1657702726,
+    "text": "I can't believe @GotabayaR just did that!\n\n#SriLanka #lka #protestlk #GoHomeGota #SriLankaCrisis https://t.co/H24xfWEQyP",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547143456627326976/pu/vid/540x540/MAXmGSy0tbVxNEe6.mp4"
+    ],
+    "video_file_name": "twtr_data/1547143487698505729.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547143487698505729.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547143487698505729.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547143487698505729.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/lujeinmv/status/1547143172886708226",
+    "id": 1547143172886708226,
+    "user": "lujeinmv",
+    "time_create_ut": 1657702651,
+    "text": "Two fools who permitted @GotabayaR to enter the Maldives. #SriLanka #GoHomeGota https://t.co/QGrraoSqqA",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiOgZZVQAEPBMa.jpg",
+      "https://pbs.twimg.com/media/FXiOgv8VQAEcb94.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547143172886708226.photo.01.jpg",
+    "local_media": {
+      "photo": [
+        "1547143172886708226.photo.01.jpg",
+        "1547143172886708226.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/jiaerxon/status/1547143111738298368",
+    "id": 1547143111738298368,
+    "user": "jiaerxon",
+    "time_create_ut": 1657702637,
+    "text": "#GoHomeGota\nLmfao \ud83d\ude02 https://t.co/B60fbfPtTw https://t.co/r2GkfK20jy",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiOdbsaUAA3dGr.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547143111738298368.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547143111738298368.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/SanyaPerera/status/1547142915943591936",
+    "id": 1547142915943591936,
+    "user": "SanyaPerera",
+    "time_create_ut": 1657702590,
+    "text": "Protestors in Nugegoda defy curfew to reach protest in central Colombo, even as Prime Minister Wickremesinghe informed police to arrest those who behave in an unruly manner and seized lorries that they travelled in.\n\n#SriLankaProtests #GoHomeGota #Aragalaya https://t.co/HCScEbcBsM",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547142866342117377/pu/vid/720x1280/XXjCo80koe1Gth7R.mp4"
+    ],
+    "video_file_name": "twtr_data/1547142915943591936.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547142915943591936.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547142915943591936.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547142915943591936.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/5yndD/status/1547142831420149763",
+    "id": 1547142831420149763,
+    "user": "5yndD",
+    "time_create_ut": 1657702570,
+    "text": "Maldives is not Gotabaya's final destination - WION\n\n#5yndnewsdigital #5yndnews #news #newsupdates #SriLanka #SriLankaNews #LatestNews #protest  #GGG #GoHomeGota2022\n#aragalaya #aragalayatajaya #GoHomeGota22 #GoHomeGota #gotagogama #GotabhayaRajapaksa #RanilWickremesinghe https://t.co/CNgoruQp0T",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiONAdWQAAm4B-.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547142831420149763.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547142831420149763.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Welikumbura/status/1547141882412937217",
+    "id": 1547141882412937217,
+    "user": "Welikumbura",
+    "time_create_ut": 1657702343,
+    "text": "This is \"MOB\" as some international media describes treating an STF (government paramilitary group) soldier who was injured during the protest. They were the ones who fired tear gas on protesters.\n\n\ud83d\udcf9:@ChathurangaHapu \n\n#lka #SriLanka #GoHomeGota #GoHomeRanil #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba https://t.co/rt9RNJGFLq",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547141819636789248/pu/vid/1280x720/hbcgq8pgvY8a4C_y.mp4"
+    ],
+    "video_file_name": "twtr_data/1547141882412937217.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547141882412937217.video.00.mp4.clip.00.png",
+      "twtr_data/1547141882412937217.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547141882412937217.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547141882412937217.video.00.mp4.clip.01.png",
+        "1547141882412937217.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Kaaraimaindhen/status/1547141794752000000",
+    "id": 1547141794752000000,
+    "user": "Kaaraimaindhen",
+    "time_create_ut": 1657702323,
+    "text": "#WorldNews \nAs a Tamil, I request world countries not to give shelter to Gotafamily, as they are war criminals who carried out world\u2019s worst genocide on Tamils, whofoughtforequality. Gota declared No war zone, made Tamils move there&amp; bombed continuously,also hospitals #GoHomeGota https://t.co/1TAR6sEiPE",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiMC_WaAAAvDMT.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547141794752000000.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547141794752000000.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/udeshika_goda/status/1547141421605367808",
+    "id": 1547141421605367808,
+    "user": "udeshika_goda",
+    "time_create_ut": 1657702234,
+    "text": "The struggle of love \u2764\ufe0f\n#GoHomeGota #GoHomeRanil #GoHomeRajapakshas #SriLankaProtests #NDTV https://t.co/zZBKUAJDWB",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547141388894093315/pu/vid/360x640/nkrlh9hfQuZwGZfH.mp4"
+    ],
+    "video_file_name": "twtr_data/1547141421605367808.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547141421605367808.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547141421605367808.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547141421605367808.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/akakawwa/status/1547141398570209280",
+    "id": 1547141398570209280,
+    "user": "akakawwa",
+    "time_create_ut": 1657702228,
+    "text": "Simple as that \ud83d\udc80\n#GoHomeGota #GoHomeRanil https://t.co/jl5Syb9hyC",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547141087843627008/pu/vid/336x270/SLrF-yja_tky4ij7.mp4"
+    ],
+    "video_file_name": "twtr_data/1547141398570209280.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547141398570209280.video.00.mp4.clip.00.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547141398570209280.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547141398570209280.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/Judeoff/status/1547141132383297536",
+    "id": 1547141132383297536,
+    "user": "Judeoff",
+    "time_create_ut": 1657702165,
+    "text": "This is humanity \u2764\ufe0f \n\n#GoHomeGota2022 #Colombo  #\u0d85\u0dbb\u0d9c\u0dbd\u0dba\u0da7\u0da2\u0dba  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/72nBmhAc8o",
+    "photo_url_list": [],
+    "video_url_list": [
+      "https://video.twimg.com/ext_tw_video/1547140963000549376/pu/vid/480x270/YKkZyovlJBl53pyf.mp4"
+    ],
+    "video_file_name": "twtr_data/1547141132383297536.video.00.mp4",
+    "video_clip_file_list": [
+      "twtr_data/1547141132383297536.video.00.mp4.clip.00.png",
+      "twtr_data/1547141132383297536.video.00.mp4.clip.01.png"
+    ],
+    "local_media": {
+      "photo": [],
+      "video": [
+        "1547141132383297536.video.00.mp4"
+      ],
+      "video_clip": [
+        "1547141132383297536.video.00.mp4.clip.01.png",
+        "1547141132383297536.video.00.mp4.clip.00.png"
+      ]
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/HansanaC/status/1547141052200779776",
+    "id": 1547141052200779776,
+    "user": "HansanaC",
+    "time_create_ut": 1657702145,
+    "text": "President announced that he will be resigning due to the resistance from the public. See what he has done now! It\u2019s not their future, it\u2019s our future !!! Depressed \ud83d\ude2d \n#GoHomeGota #GoHomeRanil #GoHomeGota2022 #SriLanka #SriLankaProtests #SriLankaCrisis #lka https://t.co/kWA7P7eBLL",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiMlT3akAAE0bM.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547141052200779776.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547141052200779776.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
+    "tweet_url": "https://twitter.com/GonawalaJS/status/1547140999843000325",
+    "id": 1547140999843000325,
+    "user": "GonawalaJS",
+    "time_create_ut": 1657702133,
+    "text": "Protesters enter the Srilanka Television Corporation\n\nSri Lanka\u2019s national television channel, Sri Lanka R\u016bpav\u0101hin\u012b Corporation (SLRC) has suspended its broadcast.\n\n#SriLankaProtests \n#SriLankaCrisis #GoHomeGota #srilankaprotest #protest #GotaGoHome #SriLankaCrisis https://t.co/FM2OMzqb1m",
+    "photo_url_list": [
+      "https://pbs.twimg.com/media/FXiMdOIaMAAm7Ud.jpg"
+    ],
+    "video_url_list": [],
+    "photo_file_name": "twtr_data/1547140999843000325.photo.00.jpg",
+    "local_media": {
+      "photo": [
+        "1547140999843000325.photo.00.jpg"
+      ],
+      "video": [],
+      "video_clip": []
+    }
+  },
+  {
     "tweet_url": "https://twitter.com/ZyedAfrin/status/1547140787900542976",
     "id": 1547140787900542976,
     "user": "ZyedAfrin",
@@ -126,10 +694,6 @@
       "https://video.twimg.com/ext_tw_video/1547137290685784064/pu/vid/320x320/Gt-YNv1BVI_zLAY1.mp4"
     ],
     "video_file_name": "twtr_data/1547139880760721408.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1547139880760721408.video.00.mp4.clip.00.png",
-      "twtr_data/1547139880760721408.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -213,11 +777,6 @@
       "https://video.twimg.com/ext_tw_video/1547138503191953408/pu/vid/848x480/SF5TP22is1Urv7kq.mp4"
     ],
     "video_file_name": "twtr_data/1547138713154572288.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1547138713154572288.video.00.mp4.clip.00.png",
-      "twtr_data/1547138713154572288.video.00.mp4.clip.01.png",
-      "twtr_data/1547138713154572288.video.00.mp4.clip.02.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [
@@ -262,10 +821,6 @@
       "https://video.twimg.com/ext_tw_video/1547137290685784064/pu/vid/320x320/Gt-YNv1BVI_zLAY1.mp4"
     ],
     "video_file_name": "twtr_data/1547137341751406592.video.00.mp4",
-    "video_clip_file_list": [
-      "twtr_data/1547137341751406592.video.00.mp4.clip.00.png",
-      "twtr_data/1547137341751406592.video.00.mp4.clip.01.png"
-    ],
     "local_media": {
       "photo": [],
       "video": [

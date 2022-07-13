@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/HameedArafath/status/1547145126518013952",
+  "id": 1547145126518013952,
+  "user": "HameedArafath",
+  "time_create_ut": 1657703117,
+  "text": "#gohomegota https://t.co/ktnpMHU1Gb",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1547145105370681344/pu/vid/304x426/JGWDEJv412tJ0zmV.mp4"
+  ],
+  "video_file_name": "twtr_data/1547145126518013952.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1547145126518013952.video.00.mp4.clip.00.png"
+  ]
+}

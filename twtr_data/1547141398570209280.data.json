@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/akakawwa/status/1547141398570209280",
+  "id": 1547141398570209280,
+  "user": "akakawwa",
+  "time_create_ut": 1657702228,
+  "text": "Simple as that \ud83d\udc80\n#GoHomeGota #GoHomeRanil https://t.co/jl5Syb9hyC",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1547141087843627008/pu/vid/336x270/SLrF-yja_tky4ij7.mp4"
+  ],
+  "video_file_name": "twtr_data/1547141398570209280.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1547141398570209280.video.00.mp4.clip.00.png"
+  ]
+}
