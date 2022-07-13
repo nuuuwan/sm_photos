@@ -1,10 +1,115 @@
 # Social Media Photos
 
-*432 tweets as of 20220713-100903*
+*438 tweets as of 20220713-102640*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 10:25:54 by [PrabodaYatagama](https://twitter.com/PrabodaYatagama/status/1547082365817610240)
+
+1 videos, 0 photos
+
+```
+
+ඒවායෙන් මිදී පලා යන කෙනෙක් නෙමෙයි කියන්නේ 😂😅
+#lka #SriLankaCrisis #GoHomeGota #GoHomeRajapaksas https://t.co/DoCphqTShP
+
+```
+
+![image](twtr_data/1547082365817610240.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1547082365817610240.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 10:15:12 by [LochanaWeerakk1](https://twitter.com/LochanaWeerakk1/status/1547079675067105282)
+
+0 videos, 1 photos
+
+```
+
+69 Shades of #gota
+.
+#lka #cmb #GoHomeGota #GoHomeRajapaksas https://t.co/gb9Hohqpum
+
+```
+
+![image](twtr_data/1547079675067105282.photo.00.jpg)
+
+---
+
+2022-07-13 10:15:02 by [imSVithu02](https://twitter.com/imSVithu02/status/1547079634604670976)
+
+0 videos, 1 photos
+
+```
+
+Seen few memes #Trending on social media since #SRILanka President @GotabayaR fled the country and arrived in #Maldives 
+
+Creativity at it's best 🤣 
+
+@munza14 chk thz out 😆 
+
+#SriLankaProtests #SriLankaCrisis #SriLankaEconomicCrisis #SLnews #NewsAlert #GoHomeGota #India https://t.co/Qwyw1dpWUC
+
+```
+
+![image](twtr_data/1547079634604670976.photo.00.jpg)
+
+---
+
+2022-07-13 10:13:41 by [KPDMadhuka](https://twitter.com/KPDMadhuka/status/1547079293922320385)
+
+0 videos, 1 photos
+
+```
+
+We won one step! ❤️🇱🇰 #SriLanka 
+Bye 👋, hashtags:
+#GoHomeGota #GoHomeGota2022 https://t.co/K4LmmPLg1q
+
+```
+
+![image](twtr_data/1547079293922320385.photo.00.jpg)
+
+---
+
+2022-07-13 10:12:42 by [DeeptiSachdeva_](https://twitter.com/DeeptiSachdeva_/status/1547079045808295936)
+
+1 videos, 0 photos
+
+```
+
+Video emerges of Sri Lankan President Gotabaya leaving the Male airport earlier today
+
+#SriLanka #SriLankaProtests #GotabayaRajapaksa #GoHomeGota #Maldives #BreakingNews https://t.co/c497Z6yBjs
+
+```
+
+![image](twtr_data/1547079045808295936.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1547079045808295936.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 10:12:01 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1547078875699609600)
+
+0 videos, 2 photos
+
+```
+
+Political Cartoons of Sri Lanka . FT_SriLanka cartoon by Wasantha Siriwardena
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GotaFlees #Maldives https://t.co/55GA1RIA1j #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #CO https://t.co/nxU7zsa9A5
+
+```
+
+![image](twtr_data/1547078875699609600.photo.00.jpg)
+
+![image](twtr_data/1547078875699609600.photo.01.jpg)
+
+---
 
 2022-07-13 10:04:02 by [exfrotezter](https://twitter.com/exfrotezter/status/1547076865399324672)
 
@@ -1629,105 +1734,5 @@ Stay strong Sri Lanka. Truth will prevail. Together United... 🙏
 ```
 
 ![image](twtr_data/1546927156646879233.photo.00.jpg)
-
----
-
-2022-07-13 00:00:30 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546924979886772224)
-
-1 videos, 0 photos
-
-```
-
-අපි අපරාධ කරන අරගල කාරයෝ කියලා මුළු ලෝකෙම දන්නවා අයියෝ
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/RfljqD50pW
-
-```
-
-![image](twtr_data/1546924979886772224.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546924979886772224.video.00.mp4.clip.01.png)
-
----
-
-2022-07-13 00:00:07 by [NMP_Tweets](https://twitter.com/NMP_Tweets/status/1546924885909405696)
-
-0 videos, 1 photos
-
-```
-
-It’s July 13 2022 🇱🇰
-
-#GoHomeGota #SriLanka https://t.co/zSdxQGyAox
-
-```
-
-![image](twtr_data/1546924885909405696.photo.00.jpg)
-
----
-
-2022-07-12 23:49:23 by [lasankaOnIine](https://twitter.com/lasankaOnIine/status/1546922184584486914)
-
-1 videos, 0 photos
-
-```
-
-මම මේක හරී කියන්නෑ ඒත් මේවා ලොකුවට වෙයි ඉස්සරහට. දෙපැත්තම තේරුම් ගන්න ඕන එවුන්ට ඕනත් මේක කියලා. අපි මරාගන්න එක තමයි එයාලට ඕන. 
-#GoHomeGota https://t.co/qrCAv9wAaD https://t.co/GjKGLZkZwy
-
-```
-
-![image](twtr_data/1546922184584486914.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546922184584486914.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 23:38:12 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1546919370277920768)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GoHomeRajapaksas https://t.co/S8ihFx3BBO #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස # https://t.co/s0RMSBfEJA
-
-```
-
-![image](twtr_data/1546919370277920768.photo.00.jpg)
-
-![image](twtr_data/1546919370277920768.photo.01.jpg)
-
----
-
-2022-07-12 23:36:35 by [AUD1SL](https://twitter.com/AUD1SL/status/1546918963145166848)
-
-0 videos, 1 photos
-
-```
-
-Resign already.
-#GoHomeGota https://t.co/IIpgZz2mqk
-
-```
-
-![image](twtr_data/1546918963145166848.photo.00.jpg)
-
----
-
-2022-07-12 23:31:02 by [cartoonlka](https://twitter.com/cartoonlka/status/1546917566848716800)
-
-0 videos, 1 photos
-
-```
-
-Cartoon by @NamalAmarasing 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GoHomeRajapaksas https://t.co/knd4rRvxBx
-
-```
-
-![image](twtr_data/1546917566848716800.photo.00.jpg)
 
 ---
