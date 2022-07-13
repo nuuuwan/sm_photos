@@ -1,10 +1,245 @@
 # Social Media Photos
 
-*563 tweets as of 20220713-140216*
+*577 tweets as of 20220713-141823*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 14:18:02 by [ZyedAfrin](https://twitter.com/ZyedAfrin/status/1547140787900542976)
+
+0 videos, 1 photos
+
+```
+
+Vasantham and ITN also down.
+
+#lka #Aragalaya #SriLanka #SriLankaProtests #SriLankaCrisis #GoHomeGota https://t.co/8mc8zJ2UTA
+
+```
+
+![image](twtr_data/1547140787900542976.photo.00.jpg)
+
+---
+
+2022-07-13 14:17:59 by [YourAnonKernal](https://twitter.com/YourAnonKernal/status/1547140774323638272)
+
+0 videos, 1 photos
+
+```
+
+This is how a man named"Ranli" tried to become a president in Sri Lanka 🇱🇰, Weapons were drawn to the Sri Lankan people! 
+
+#lka #SriLanka #GoHomeGota #GoHomeRanil #SriLankaCrisis #CrisisLK #අරගලයටජය https://t.co/ggETxZnwyi
+
+```
+
+![image](twtr_data/1547140774323638272.photo.00.jpg)
+
+---
+
+2022-07-13 14:17:30 by [SmileyBird5](https://twitter.com/SmileyBird5/status/1547140649669263361)
+
+0 videos, 1 photos
+
+```
+
+#SriLankaProtests #SriLanka #GoHomeGota https://t.co/qlLdQVC7ms
+
+```
+
+![image](twtr_data/1547140649669263361.photo.00.jpg)
+
+---
+
+2022-07-13 14:16:41 by [Rimash_shan](https://twitter.com/Rimash_shan/status/1547140444319989760)
+
+0 videos, 2 photos
+
+```
+
+BREAKING 🇲🇻 : Protest at Maldives President's House urging to send the Sri Lankan President back to Sri Lanka. 
+
+#Maldives #SriLankaProtests #අරගලයටජය #GoHomeGota https://t.co/RYapGinQ2R https://t.co/HLBehhhHKL
+
+```
+
+![image](twtr_data/1547140444319989760.photo.01.jpg)
+
+![image](twtr_data/1547140444319989760.photo.00.jpg)
+
+---
+
+2022-07-13 14:16:30 by [imSVithu02](https://twitter.com/imSVithu02/status/1547140398447218689)
+
+0 videos, 1 photos
+
+```
+
+#SriLanka TV Channel ITN has stopped its transmission. 
+
+#Lka #Aragalaya #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #GoHomeGota #India #Maldives #BBC #CNN https://t.co/vnQgZ7bAiy
+
+```
+
+![image](twtr_data/1547140398447218689.photo.00.jpg)
+
+---
+
+2022-07-13 14:15:04 by [ZyedAfrin](https://twitter.com/ZyedAfrin/status/1547140041096409088)
+
+0 videos, 1 photos
+
+```
+
+Rupavahini is back to normal.
+
+#lka #SriLanka #SriLankaProtests #SriLankaCrisis #GoHomeGota #GoHomeRanil https://t.co/KNUkm4J4R4
+
+```
+
+![image](twtr_data/1547140041096409088.photo.00.jpg)
+
+---
+
+2022-07-13 14:14:26 by [middleeasttime](https://twitter.com/middleeasttime/status/1547139880760721408)
+
+1 videos, 0 photos
+
+```
+
+BREAKING 🇱🇰 : Protestors storm the Sri Lankan State Media 'Rupavahini' 
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #Colombo https://t.co/arne5cYItM
+
+```
+
+![image](twtr_data/1547139880760721408.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1547139880760721408.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 14:13:21 by [Jeongincutiefox](https://twitter.com/Jeongincutiefox/status/1547139606566428674)
+
+0 videos, 1 photos
+
+```
+
+Fighting and take care everyone!  May god bless you and be safe . Thank you for fighting for all of the Sri Lankans' future
+#SriLankaProtests #GoHomeGota #GoHomeRanil #අරගලයටජය 🇱🇰❤ https://t.co/sYcLjHWVB6
+
+```
+
+![image](twtr_data/1547139606566428674.photo.00.jpg)
+
+---
+
+2022-07-13 14:12:49 by [MaatramSL](https://twitter.com/MaatramSL/status/1547139471501672448)
+
+0 videos, 1 photos
+
+```
+
+@NewsfirstSL போராட்டக்காரர்கள் அரச ஊடகமான தேசிய ரூபவாஹினி கூட்டுத்தாபனத்திற்குள் நுழைந்ததை அடுத்து ரூபவாஹினி தொலைக்காட்சி சேவை தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக @itnnewslk குறிப்பிட்டுள்ளது.
+
+#lka #SriLanka #GoHomeGota https://t.co/LuKLJU5oCJ
+
+```
+
+![image](twtr_data/1547139471501672448.photo.00.jpg)
+
+---
+
+2022-07-13 14:09:59 by [Master2005A](https://twitter.com/Master2005A/status/1547138761477488640)
+
+0 videos, 3 photos
+
+```
+
+The boys are coming ❤️
+
+#GoHomeGota2022 #Colombo  #අරගලයටජය  #GoHomeGota #SriLanka #SriLankaProtests https://t.co/O4cV3ATMu1
+
+```
+
+![image](twtr_data/1547138761477488640.photo.01.jpg)
+
+![image](twtr_data/1547138761477488640.photo.02.jpg)
+
+![image](twtr_data/1547138761477488640.photo.00.jpg)
+
+---
+
+2022-07-13 14:09:48 by [crewforshoots](https://twitter.com/crewforshoots/status/1547138713154572288)
+
+1 videos, 0 photos
+
+```
+
+@RW_UNP what are you doing? All the international media watching this stunt and you expect them to recognize you and help? @saliyapieris @USEmbSL @UN @EU_in_Sri_Lanka #GoHomeRanil #GoHomeGota #EconomicCrisisLK #SriLanka #SriLankaProtests https://t.co/FgqIKrQWun
+
+```
+
+![image](twtr_data/1547138713154572288.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1547138713154572288.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1547138713154572288.video.00.mp4.clip.02.png)
+
+---
+
+2022-07-13 14:07:11 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1547138053726093312)
+
+0 videos, 2 photos
+
+```
+
+BREAKING 🇱🇰 : Sri Lankan State Media Suspends it's Live broadcast.
+
+♦️The Sri Lanka Rupavahini Corporation (SLRC) has suspended their live and recorded telecasts as the corporation premises is being surrounded by protesters.
+
+#SriLankaProtests  #අරගලයටජය #GoHomeGota #Colombo https://t.co/HwxLesMb6a
+
+```
+
+![image](twtr_data/1547138053726093312.photo.01.jpg)
+
+![image](twtr_data/1547138053726093312.photo.00.jpg)
+
+---
+
+2022-07-13 14:04:21 by [realzaidzayn](https://twitter.com/realzaidzayn/status/1547137341751406592)
+
+1 videos, 0 photos
+
+```
+
+BREAKING 🇱🇰 : Protestors storm the Sri Lankan State Media 'Rupavahini' 
+
+#SriLankaProtests #අරගලයටජය #GoHomeGota #Colombo https://t.co/pM1S6wVgOP
+
+```
+
+![image](twtr_data/1547137341751406592.video.00.mp4.clip.00.png)
+
+![image](twtr_data/1547137341751406592.video.00.mp4.clip.01.png)
+
+---
+
+2022-07-13 14:03:05 by [ThuwanRamzeen](https://twitter.com/ThuwanRamzeen/status/1547137025010274304)
+
+0 videos, 1 photos
+
+```
+
+Well.. This is not going to end well.. #GoHomeGota   #gohomeranil https://t.co/pJehcOAtpu
+
+```
+
+![image](twtr_data/1547137025010274304.photo.00.jpg)
+
+---
 
 2022-07-13 14:01:48 by [Welikumbura](https://twitter.com/Welikumbura/status/1547136700455219200)
 
@@ -1456,232 +1691,5 @@ The Sri Lanka Army comes from helicopters and points guns at the innocent people
 ```
 
 ![image](twtr_data/1547115012439044096.photo.00.jpg)
-
----
-
-2022-07-13 12:35:35 by [AmeeshaSoori](https://twitter.com/AmeeshaSoori/status/1547115002363908097)
-
-0 videos, 1 photos
-
-```
-
-Fuck off!🖕💔
-
-#GoHomeGota #SriLankaprotest #srilankancrisis #HumanRights https://t.co/YgyvoAAzkH
-
-```
-
-![image](twtr_data/1547115002363908097.photo.00.jpg)
-
----
-
-2022-07-13 12:32:37 by [heavybstyles](https://twitter.com/heavybstyles/status/1547114257174642688)
-
-0 videos, 1 photos
-
-```
-
-RT @realzaidzayn: BREAKING 🇲🇻 : Protest at Maldives President's House urging to send the Sri Lankan President back to Sri Lanka. 
-
-#Maldives #SriLankaProtests #අරගලයටජය #GoHomeGota https://t.co/XQGdGogO51
-
-```
-
-![image](twtr_data/1547114257174642688.photo.00.jpg)
-
----
-
-2022-07-13 12:32:35 by [CeylonFind](https://twitter.com/CeylonFind/status/1547114249428037632)
-
-1 videos, 0 photos
-
-```
-
-#SriLanka #horu #THIEF #DearNothing #army #PoliticsLive #seuside #GoHomeGota #GoHomeRajapaksas https://t.co/GUGrbHEMYX
-
-```
-
-![image](twtr_data/1547114249428037632.video.00.mp4.clip.00.png)
-
----
-
-2022-07-13 12:31:51 by [nethminadeesha6](https://twitter.com/nethminadeesha6/status/1547114065129979904)
-
-0 videos, 1 photos
-
-```
-
-#SriLanka #GoHomeGota https://t.co/XoD1ZJXtw2
-
-```
-
-![image](twtr_data/1547114065129979904.photo.00.png)
-
----
-
-2022-07-13 12:27:04 by [abbaszahid24](https://twitter.com/abbaszahid24/status/1547112859926425600)
-
-1 videos, 0 photos
-
-```
-
-#WATCH : #SLAF helicopter flying near the protest site at #Galle Face, #Colombo.
-
-#SriLanka #GoHomeGota # https://t.co/ZCFYkqcSv6
-
-```
-
-![image](twtr_data/1547112859926425600.video.00.mp4.clip.00.png)
-
----
-
-2022-07-13 12:24:05 by [varnasuthan1104](https://twitter.com/varnasuthan1104/status/1547112108906913792)
-
-1 videos, 0 photos
-
-```
-
-Fighter helicopters near galle face #galleface #lka #srilanka #gohomegota #protest #slnews https://t.co/V4fQ0pA5R0
-
-```
-
-![image](twtr_data/1547112108906913792.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1547112108906913792.video.00.mp4.clip.00.png)
-
----
-
-2022-07-13 12:23:02 by [CeylonFind](https://twitter.com/CeylonFind/status/1547111844833558528)
-
-0 videos, 1 photos
-
-```
-
-Sri Lankan politicians with no backbone 😂😂
-
-#Competition #PoliticsLive #SriLanka #GoHomeGota #GoHomeRajapakshas #USA #twitter #ProudBoys #DearNothing #fkmt #military #dailymail #india #thenewyurktime https://t.co/lkrNllCrv9
-
-```
-
-![image](twtr_data/1547111844833558528.photo.00.jpg)
-
----
-
-2022-07-13 12:21:00 by [danieljoe88102](https://twitter.com/danieljoe88102/status/1547111335346860040)
-
-0 videos, 1 photos
-
-```
-
-Welocme the incumbent president his excellency honarable Mr. Wickramasingha. #EconomicCrisisLK #CrisisLK #GoHomeGota2022 #GoHomeGota https://t.co/IwF927WgVx
-
-```
-
-![image](twtr_data/1547111335346860040.photo.00.jpg)
-
----
-
-2022-07-13 12:19:01 by [nameis_asri](https://twitter.com/nameis_asri/status/1547110833519468544)
-
-0 videos, 4 photos
-
-```
-
-Gotabaya right now in Maldives 😁
-#gohomegota #lka #srilanka #SriLankanProtests #SriLankaprotest #GotaGoGama #GoToHellRajapaksas #gotojailrajapaksas #Maldives #GoHomeGota https://t.co/TL1K4TbOYb
-
-```
-
-![image](twtr_data/1547110833519468544.photo.01.jpg)
-
-![image](twtr_data/1547110833519468544.photo.00.jpg)
-
-![image](twtr_data/1547110833519468544.photo.02.jpg)
-
-![image](twtr_data/1547110833519468544.photo.03.jpg)
-
----
-
-2022-07-13 12:18:01 by [EjazzJazz](https://twitter.com/EjazzJazz/status/1547110583375314944)
-
-0 videos, 1 photos
-
-```
-
-Fate of our President #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRajapakshas #DirtyPolitic #Worldnews #FuelShortage #PassportOffice #SLnews #bbcnews https://t.co/RDDE3DlyLk
-
-```
-
-![image](twtr_data/1547110583375314944.photo.00.jpg)
-
----
-
-2022-07-13 12:16:56 by [dillovesred](https://twitter.com/dillovesred/status/1547110311018147840)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRanil #GoHomeRajapaksas #SriLanka #SriLankaProtests https://t.co/zvnc5tXFO3
-
-```
-
-![image](twtr_data/1547110311018147840.photo.00.jpg)
-
----
-
-2022-07-13 12:14:56 by [vikalpavoices](https://twitter.com/vikalpavoices/status/1547109806951043072)
-
-0 videos, 4 photos
-
-```
-
-කඳුලු ගෑස් ප්‍රහාරයන් නොතකා විරෝධතාකරුවන් අගමැති කාර්යාලය ඉදිරිපිට #GoHomeGota  #lka https://t.co/wTqhtVp16i
-
-```
-
-![image](twtr_data/1547109806951043072.photo.00.jpg)
-
-![image](twtr_data/1547109806951043072.photo.03.jpg)
-
-![image](twtr_data/1547109806951043072.photo.01.jpg)
-
-![image](twtr_data/1547109806951043072.photo.02.jpg)
-
----
-
-2022-07-13 12:10:36 by [vadabaridaasa](https://twitter.com/vadabaridaasa/status/1547108717019250689)
-
-0 videos, 2 photos
-
-```
-
-Political Cartoons of Sri Lanka Cartoon by Nikshazz 
-
-#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GotaFlees #Maldives https://t.co/95xfEcNZow #lka #lk #srilanka #slnews #adaderanasinhala #adaderanasinhala #COVID19LK #COVID19SL #වැඩබැරිදා_ස #the https://t.co/ykY5JcTXBz
-
-```
-
-![image](twtr_data/1547108717019250689.photo.01.jpg)
-
-![image](twtr_data/1547108717019250689.photo.00.jpg)
-
----
-
-2022-07-13 12:08:50 by [Doc_Inesh](https://twitter.com/Doc_Inesh/status/1547108270069821440)
-
-0 videos, 3 photos
-
-```
-
-A srilanka Army Helicopter has been circling around GGG for the last 10 minutes. Any clue why? #Aragalaya #GoHomeGota @roelraymond @AzzamAmeen @AthaudaDasuni https://t.co/ZDkxfKtu7u
-
-```
-
-![image](twtr_data/1547108270069821440.photo.01.jpg)
-
-![image](twtr_data/1547108270069821440.photo.02.jpg)
-
-![image](twtr_data/1547108270069821440.photo.00.jpg)
 
 ---
