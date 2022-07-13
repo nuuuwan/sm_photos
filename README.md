@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*444 tweets as of 20220713-110014*
+*446 tweets as of 20220713-111552*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 11:01:49 by [romato_17](https://twitter.com/romato_17/status/1547091405469757440)
+
+0 videos, 1 photos
+
+```
+
+Saw a #SriLanka flag on #WWERAW this Monday #GoHomeGota #WWE #USA https://t.co/ZLpT0wCrTL
+
+```
+
+![image](twtr_data/1547091405469757440.photo.00.jpg)
+
+---
+
+2022-07-13 11:00:10 by [Towcett](https://twitter.com/Towcett/status/1547090992821858304)
+
+0 videos, 1 photos
+
+```
+
+Police fire tear gas &amp; use water canons to disperse protestors near Prime Minister's office in Colombo. 
+
+ #SriLankaProtests #Colombo #GoHomeGota #EconomicCrisisLK https://t.co/3xnWHkSQUU
+
+```
+
+![image](twtr_data/1547090992821858304.photo.00.jpg)
+
+---
 
 2022-07-13 10:57:48 by [SlSports5](https://twitter.com/SlSports5/status/1547090396156674048)
 
@@ -1712,37 +1742,5 @@ Absolutely, should be grateful for what is causing this mess in about two years 
 ```
 
 ![image](twtr_data/1546929003235246080.photo.00.jpg)
-
----
-
-2022-07-13 00:15:38 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546928790059659267)
-
-0 videos, 1 photos
-
-```
-
-මේවා මතක් වෙද්දී බය හිතෙනවා අයියෝ.
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/4Q8clYeDoy
-
-```
-
-![image](twtr_data/1546928790059659267.photo.00.jpg)
-
----
-
-2022-07-13 00:14:28 by [Unknown_Lankan_](https://twitter.com/Unknown_Lankan_/status/1546928495095267329)
-
-0 videos, 1 photos
-
-```
-
-ගෝටා හොදයි අයියෝ.. අපි මේ පිස්සෝ වගේ වැඩ කරන්නේ අයියෝ
-
-#SriLankaProtests #අරගලයටජය #GoHomeGota #GoHomeGota2022 #GoHomeRanil https://t.co/8ysqj1jrty
-
-```
-
-![image](twtr_data/1546928495095267329.photo.00.jpg)
 
 ---
