@@ -1,10 +1,40 @@
 # Social Media Photos
 
-*384 tweets as of 20220713-055628*
+*386 tweets as of 20220713-063541*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 06:24:16 by [Akilaweera3](https://twitter.com/Akilaweera3/status/1547021557834592257)
+
+0 videos, 1 photos
+
+```
+
+No more perfect time to share this again. Thanks @MohamedNasheed, @ibusolih, and all the other lovely people involved for making this Rajapaksa wet dream come true. You will be remembered (by us, not by them).
+#GoHomeGota #GoHomeRajapaksas #PoliticalCrisisLK https://t.co/3uUAYAqYBY
+
+```
+
+![image](twtr_data/1547021557834592257.photo.00.jpg)
+
+---
+
+2022-07-13 06:14:12 by [DilsharaHA](https://twitter.com/DilsharaHA/status/1547019024734687233)
+
+0 videos, 1 photos
+
+```
+
+When the whole country is fighting to catch this criminal, its again the Tri Forces who betrayed the whole nation and flew him to Maldives 🤬
+#GoHomeGota #SriLankaEconomicCrisis https://t.co/3LYmtOeU6F
+
+```
+
+![image](twtr_data/1547019024734687233.photo.00.jpg)
+
+---
 
 2022-07-13 05:38:27 by [AyshanAbdullah](https://twitter.com/AyshanAbdullah/status/1547010029584367617)
 
@@ -1707,37 +1737,5 @@ Sri Lanka president’s attempts to leave country fail, US visa appeal rejected:
 ```
 
 ![image](twtr_data/1546852814936125440.photo.00.jpg)
-
----
-
-2022-07-12 19:10:12 by [ananthsinnathu1](https://twitter.com/ananthsinnathu1/status/1546851922119999491)
-
-1 videos, 0 photos
-
-```
-
-#மட்டக்களப்பில் எரிபொருள் இன்மை ஆற்றினை கடக்க பாதையினை கயிறுடன் இணைத்து கடக்கும் மக்கள்
-
-  #tamilgenocide #Eelam #SriLankaEconomicCrisis  #tamilNews #tamileelam #tamil #SLnews #lka #LK #NTK #GoHomeGota #vizhi #விழி https://t.co/poKO03hfXB
-
-```
-
-![image](twtr_data/1546851922119999491.video.00.mp4.clip.01.png)
-
-![image](twtr_data/1546851922119999491.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 19:09:17 by [toysoldier92](https://twitter.com/toysoldier92/status/1546851695358922755)
-
-0 videos, 1 photos
-
-```
-
-@CNN cannot be more out of touch than this from ground level..  just googled "former central bank governer" ? and asked the guy who had most articles about him on the show? #GoHomeGota https://t.co/juGKYqYPCc
-
-```
-
-![image](twtr_data/1546851695358922755.photo.00.jpg)
 
 ---
