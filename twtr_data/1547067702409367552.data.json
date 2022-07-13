@@ -8,8 +8,5 @@
   "video_url_list": [
     "https://video.twimg.com/ext_tw_video/1547067661410000901/pu/vid/422x266/HkOFFccopR_lqUb3.mp4"
   ],
-  "video_file_name": "twtr_data/1547067702409367552.video.00.mp4",
-  "video_clip_file_list": [
-    "twtr_data/1547067702409367552.video.00.mp4.clip.00.png"
-  ]
+  "video_file_name": "twtr_data/1547067702409367552.video.00.mp4"
 }

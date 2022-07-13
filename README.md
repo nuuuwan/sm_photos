@@ -1,10 +1,100 @@
 # Social Media Photos
 
-*427 tweets as of 20220713-094939*
+*432 tweets as of 20220713-100903*
 
 ![animation](text_collage_image.animation.gif)
 
 ## 100 latest tweets
+
+2022-07-13 10:04:02 by [exfrotezter](https://twitter.com/exfrotezter/status/1547076865399324672)
+
+1 videos, 0 photos
+
+```
+
+This is the best of the lot…
+
+‘I am someone who will face problems and solve them. I don’t have the habit of running away from..😭🤣🤣 I can’t.
+
+This is the myth of gota that was created to fool millions of Lankans. Also where is @irajonline?
+
+#GoHomeGota #SriLanka #runnerවිරුවා https://t.co/r65GptUwrm
+
+```
+
+![image](twtr_data/1547076865399324672.video.00.mp4.clip.02.png)
+
+![image](twtr_data/1547076865399324672.video.00.mp4.clip.03.png)
+
+![image](twtr_data/1547076865399324672.video.00.mp4.clip.04.png)
+
+![image](twtr_data/1547076865399324672.video.00.mp4.clip.01.png)
+
+![image](twtr_data/1547076865399324672.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 10:00:47 by [iamursulab](https://twitter.com/iamursulab/status/1547076047505686528)
+
+1 videos, 0 photos
+
+```
+
+Best ‘Gnanakka’ video ever! #GoHomeGota https://t.co/SqiaRENgjM
+
+```
+
+![image](twtr_data/1547076047505686528.video.00.mp4.clip.00.png)
+
+---
+
+2022-07-13 09:59:54 by [LochanaWeerakk1](https://twitter.com/LochanaWeerakk1/status/1547075824700243969)
+
+0 videos, 1 photos
+
+```
+
+@GotabayaR wins election 6,900,000 votes ;
+
+Also him in his head : 💁🏽‍♀️
+
+#lka #cmb #GoHomeGota #GoHomeRajapaksas https://t.co/U1fmuVW0Vh
+
+```
+
+![image](twtr_data/1547075824700243969.photo.00.jpg)
+
+---
+
+2022-07-13 09:57:18 by [cartoonlka](https://twitter.com/cartoonlka/status/1547075168115347462)
+
+0 videos, 1 photos
+
+```
+
+. @FT_SriLanka cartoon by Wasantha Siriwardena
+
+#lka #SriLanka #EconomicCrisisLK #SriLankaCrisis #SriLankaProtests #GoHomeGota #GotaFlees #Maldives https://t.co/f2zWYepaD5
+
+```
+
+![image](twtr_data/1547075168115347462.photo.00.jpg)
+
+---
+
+2022-07-13 09:50:44 by [ShuaibMaldives](https://twitter.com/ShuaibMaldives/status/1547073516897312769)
+
+0 videos, 1 photos
+
+```
+
+@MDPSecretariat @MohamedNasheed @ibusolih will be a huge liabilities of #Maldives #SriLanka #relationship they hurt the hearts of our brotherhood #SriLankaProtests #SriLankaCrisis #GoHomeGota We the people of Maldives are with the people of Srilanka @SriLankaTweet @MDVinSriLanka https://t.co/LwfdVlHPyG
+
+```
+
+![image](twtr_data/1547073516897312769.photo.00.jpg)
+
+---
 
 2022-07-13 09:47:26 by [exfrotezter](https://twitter.com/exfrotezter/status/1547072686329049088)
 
@@ -1639,84 +1729,5 @@ Cartoon by @NamalAmarasing
 ```
 
 ![image](twtr_data/1546917566848716800.photo.00.jpg)
-
----
-
-2022-07-12 23:30:08 by [fradicioni](https://twitter.com/fradicioni/status/1546917339681411072)
-
-1 videos, 0 photos
-
-```
-
-L’occupazione dei palazzi del potere di Colombo funziona così. Ovunque cartelli in singalese e tamil: “Tutto questo ha una storia ed è stato pagato con le nostre tasse. Bisogna proteggerlo”. Tranne qualche raro graffito sui muri #GoHomeGota, non c’è alcun segno di vandalismo. https://t.co/r5fRw9KKhk
-
-```
-
-![image](twtr_data/1546917339681411072.video.00.mp4.clip.00.png)
-
----
-
-2022-07-12 23:24:30 by [Welikumbura](https://twitter.com/Welikumbura/status/1546915919968223232)
-
-0 videos, 1 photos
-
-```
-
-.@GotabayaR keep making wrong decisions &amp; slowly working towards an end similar to Mu'ammar Al-Qadhdhāfī.
-
-#lka #SriLankaProtests #SriLankaCrisis #GoHomeGota #GoHomeRanil #අරගලයටජය https://t.co/XCGiZTwAzK
-
-```
-
-![image](twtr_data/1546915919968223232.photo.00.jpg)
-
----
-
-2022-07-12 22:44:45 by [jessiefer](https://twitter.com/jessiefer/status/1546905916120805377)
-
-1 videos, 0 photos
-
-```
-
-The Tamil Sinhala multilingual representation we love and live to see in our chants! ✊🏿
-
-#GoHomeGota #GoHomeRanil
-#protestslk https://t.co/nY9fb0AZHf
-
-```
-
-![image](twtr_data/1546905916120805377.video.00.mp4.clip.00.png)
-
-![image](twtr_data/1546905916120805377.video.00.mp4.clip.01.png)
-
----
-
-2022-07-12 22:43:37 by [tamil_butterfly](https://twitter.com/tamil_butterfly/status/1546905630199652352)
-
-0 videos, 1 photos
-
-```
-
-There is no limit to their jokes 🤪🤪
-
-#GoHomeGota #lka #GoHomeRanil #අරගලයටජය #BRAKINGNEWS #SriLankaCrisis #SriLankaProtests #SriLankaEconomicCrisis #SriLankaToday #SrilankaNews #news #LocalNews #Trending   #LatestNews  #lka #viral  #politics  #memes #tv  #sports #business https://t.co/kjgFWZkpeO
-
-```
-
-![image](twtr_data/1546905630199652352.photo.00.jpg)
-
----
-
-2022-07-12 22:42:43 by [dillovesred](https://twitter.com/dillovesred/status/1546905406160527360)
-
-0 videos, 1 photos
-
-```
-
-#GoHomeGota #GoHomeRanil #aragalayatajaya #SriLankaProtests https://t.co/ucZJwtCLQf
-
-```
-
-![image](twtr_data/1546905406160527360.photo.00.jpg)
 
 ---

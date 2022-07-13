@@ -1,0 +1,15 @@
+{
+  "tweet_url": "https://twitter.com/iamursulab/status/1547076047505686528",
+  "id": 1547076047505686528,
+  "user": "iamursulab",
+  "time_create_ut": 1657686647,
+  "text": "Best \u2018Gnanakka\u2019 video ever! #GoHomeGota https://t.co/SqiaRENgjM",
+  "photo_url_list": [],
+  "video_url_list": [
+    "https://video.twimg.com/ext_tw_video/1547074772944707584/pu/vid/480x852/501bC3nJZNYxcYyM.mp4"
+  ],
+  "video_file_name": "twtr_data/1547076047505686528.video.00.mp4",
+  "video_clip_file_list": [
+    "twtr_data/1547076047505686528.video.00.mp4.clip.00.png"
+  ]
+}
